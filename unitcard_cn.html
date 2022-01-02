@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="/aowp/Data/style.css">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+
+<body>
+    <div class="unit_card">
+
+        <div class="unit_image_holder">
+            <video width="400" autoplay muted loop id="vid">
+                <source src="" type="video/mp4">
+            </video>
+            <p class="unit_description" id="description">单位描述</p>
+            <div style="width: 100%">
+                <p class="unit_name" id="unitstring">单位描述</p>
+            </div>
+            <div style="position: absolute; top: 18px; height: 20px; width: 252px;">
+
+                <p class="unit_prod" id="productioncost">基地花费</p>
+            </div>
+            <img class="unit_image" id="uniticon" src="" style="position: absolute; left:-35px; top: -35px; background-color:rgba(105, 255, 255, 0.4);;  padding: 2px" width="60">
+
+            <div style="position: absolute; top: 42px; height: 20px; width: 133px;">
+
+                <p class="unit_prod" id="tier">阶级</p>
+            </div>
+            <div class="unit_stat_icon" style="position: absolute; top: 10px; left:370px; height: 35px; width: 30px;"> <img class="unit_stat_icon" src="/aowp/Icons/Text/xp.png">
+                <span class=" tooltiptext" id="levelup">Level Up Info goes here</span>
+            </div>
+        </div>
+        <div class="unit_ability_holder" id="unitabholder" style=" float: left;">
+            <div class="unit_stats">
+                <p style="font-size: 18px;position: relative;top:-8px; float: left; left:10%" id="hp"> hp </p>
+                <div class="unit_stat_icon"> <img class="unit_stat_icon" src="/aowp/Icons/Text/hp.png " width="25 " height="25 ">
+                    <span class="tooltiptext">生命值 <br><span style="font-size: 14px; color:grey">生命值代表单位被击败前可以承受的伤害量。</span> </span>
+                </div>
+                <p style="font-size: 18px;position: relative;top:-8px; float: left; left:10%" id="armor"> armor </p>
+                <div class="unit_stat_icon"> <img class="unit_stat_icon" src="/aowp/Icons/Text/armor.png " width="25 " height="25 ">
+                    <span class="tooltiptext">护甲 <br><span style="font-size: 14px; color:grey">护甲可以减少单位受到的伤害。灵能攻击能够无视所有护甲。</span> </span>
+                </div>
+                <p style="font-size: 18px;position: relative;top:-8px; float: left; left:10%" id="shield"> shield </p>
+                <div class="unit_stat_icon"> <img class="unit_stat_icon" src="/aowp/Icons/Text/shield.png" width="25 " height="25 ">
+                    <span class="tooltiptext">护盾 <br><span style="font-size: 14px; color:grey">护盾可以减少单位受到的伤害。近战攻击能够无视所有护盾。</span></span>
+                </div>
+                <p style="font-size: 18px;position: relative;top:-8px; float: left; left:10%" id="mp"> 联机 </p>
+                <div class="unit_stat_icon"> <img class="unit_stat_icon" src="/aowp/Icons/Text/mp.png" width="25 " height="25 ">
+                    <span class="tooltiptext">移动点数 <br><span style="font-size: 14px; color:grey">移动点数代表单位在世界地图和战斗中一回合可以移动的距离。</span></span>
+                </div>
+
+            </div>
+            <div class="unit_types" id="unitstat">
+            </div>
+        </div>
+
+    </div>
+</body>
+
+</html>
