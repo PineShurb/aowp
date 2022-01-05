@@ -446,7 +446,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "wild_harrier_icon",
-            "name": "Wild Harrier",
+            "name": "野生鹞龙",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -470,7 +470,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Um, yes? Hello? Is this animal control? I’m calling on behalf of my neighbor, Zeb. There’s a large bat-dragon on his rooftop. Yeah, hostile. It ate his dog. It’s breaking through his roof. Oh dear. I think that’s his wife, Marlene, in its jaws. Yes, A Harrier? I don’t care what it’s called. Can’t you kill it? I don’t care if it’s endangered, it’s eating my neighbor’s wife. There goes Zeb. Sorry Zeb, I can’t get the door, I’m on the phone. Look at the thing fly! It’s swooping! Oh dear…  It’s eating Zeb.”—Narda Melifu, “RV-0224E: Colony Laugh-a-long”",
+            "description": "“你好？是动物管制吗？我是为我的邻居，兹布，打的这个电话，一只巨大的蝠龙来到了他的屋顶。对，它怀有敌意。它把他的狗给吃了，而且正在破坏他的屋顶。天呐，那是他的妻子，玛里妮，在它的嘴里。什么，那叫鹞龙？我才不管它叫什么呢。你们能干掉它吗？我不在乎它是否是濒危物种，它正在吃我邻居的老婆。兹布来了，抱歉，兹布，我正在打电话，没法开门。小心那个会飞的东西！它正在向下俯冲！天啊……它吃掉了兹布。”——纳尔达·梅里弗，“RV-0224E：殖民地笑谈”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -495,7 +495,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "wild_bombardon_icon",
-            "name": "Wild Bombardon",
+            "name": "野生轰龙",
             "hp": 65,
             "armor": 3,
             "tier": 3,
@@ -523,7 +523,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The Bombardon cautiously eyed Ranger Craig. Swollen glands on either side of its neck throbbed. Green sludge oozed from its frog-like maw. Ranger Craig steadied his voice and said, “Easy, big fellow… PharmaCorp pays good money for monster snot. I just want a sample.” The creature let out a guttural croak and suddenly a glob of goo erupted from the Bombardon’s mouth, covering the Ranger.  When PharmaCorp drones retrieved Ranger Craig’s remains, they had more than enough Bombardon sample for their need.”—Ranger S. P. Rocket, “RV-549S: Wildlife Protection Course”",
+            "description": "“这只轰龙谨慎地注视着护林人克莱格，脖子两旁的腺体不断起伏着。绿色的污泥不断从它蛤蟆一般的喉咙中涌出。护林人克莱格稳定了一下心神，平静地说道，“放松，大家伙......哈玛公司出高价回收怪物的鼻涕。我只是想采一点样。”它发出了一阵呱叫，然后突然吐出一团粘液，弄得护林人满身都是。当哈玛公司的无人机对克莱格的遗体进行回收时，从他身上得到了足够的样本。”- 护林人 S.P. 罗吉特，“RV-549S：野生动物保护讲座”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -554,7 +554,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "voradon_icon",
-            "name": "Voradon",
+            "name": "沃拉顿",
             "hp": 70,
             "armor": 3,
             "tier": 3,
@@ -588,7 +588,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Geneticaworld Themepark was supposed to make Terratech a boatload of money. Bragging about their creations, the CEO assured his guests nothing could go wrong. I remember his shrieks when a Kir'Ko Ravenous/Tyrannadon hybrid escaped its containment. The Voradon’s wounds healed with each lawyer, animal handler and infantryman it devoured. I escaped on a child’s hoverboard. Voradons overran the countryside, leading the Star Union eventually to quarantine the planet. Now and then, some military genius will capture a Voradon, thinking to exploit its savage power. The story always ends with blood splatters and screaming.” —Mah Reg’Nib, “RV-2220X: Runaway!”",
+            "description": "“基因世界主题公园本应该为泰拉科技带来大量财富，CEO 向公园的游客们保证，他们的产品绝对安全，不存在任何风险。我还记得当一只奇尔寇贪婪暴虫和暴龙的杂交种失控时他的尖叫声。沃拉顿可以通过吞噬律师、驯兽师和士兵来治疗自己的伤口。我乘坐一台儿童平衡车逃跑了。沃拉顿在乡村肆虐，使得星际联盟最后不得不将整座星球隔离。时至今日，还有一些军事天才会来捕捉沃拉顿，尝试将它的蛮力转化为军事力量。这种故事一般都会以血腥与尖叫作为结尾。”——玛·瑞格尼布，“RV-2220X：逃亡！”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -619,7 +619,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "savage_tyrannodon_icon",
-            "name": "Savage Tyrannodon",
+            "name": "野蛮暴龙",
             "hp": 80,
             "armor": 6,
             "tier": 4,
@@ -650,7 +650,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "'I remember that Sheila was a screamer. I get it. It’s instinct to panic when a Savage Tyrannodon roars right behind you. When I panic, I hide, cower, and maybe soil myself. It’s far superior to what Sheila did. It’s just a really bad idea to run screaming into a clearing where the massive predator can easily crush you with its heavy tail before gulping you down in one brutal snap of its massive jaws. I think I’d eat her too, just to stop all that noise she was making.” – Mah Reg’Nib, “RV-38429T: Surviving Deadly Wildlife Encounters”",
+            "description": "“我记得希拉是个爱尖叫的人。现在，我懂这种感觉了。当一只野蛮暴龙在你身后咆哮时，你会本能地感到恐慌。当我陷入恐慌时，我会躲藏、畏缩，甚至把自己埋起来，这可比希拉的做法要好得多。尖叫着跑到空地上是一个非常糟糕的主意，大型捕食者可以很容易地用沉重的尾巴把你压碎，然后用巨大的下颚狠狠地咬住你。要是换做我，我肯定也会吃掉希拉，不为别的，只是为了不让她喊出那么大的声音来。”——玛·瑞格尼布，《RV-38429T：逃脱致命野生动物》",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -677,7 +677,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "hopperhound_manhunter_icon",
-            "name": "Hopperhound Manhunter",
+            "name": "猎人跳蝗",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -705,7 +705,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“I remember the first year in Sundew Valley in the farming colony. The rich soil and favorable climate made life ideal for growing crops. Our community grew strong as we lived our happy lives one bounteous harvest after the next. We prospered for a decade spreading out over the valley until something wicked awoke in Hopper Hill. A Manhunter. Green and covered in spines, its legs were scythes, leaping across our fields. It cares nothing for our crops. It hungers for the men who cultivate the land. We are its crop.”— Patchery Mazz, “RV-6988D: The Surrender of Sundew Valley”",
+            "description": "“我还记得第一年来到桑德鲁峡谷的农业殖民地时，这里肥沃的土壤和怡人的气候简直就是种植作物的天堂。作物的收成一年比一年丰厚，我们的社区也变得越来越强大，生活也越来越幸福。我们的兴旺持续了十年，直至某种邪恶的生物在漏斗山中苏醒：猎人跳蝗。它翠绿的身体上布满脊刺，腿部犹如镰刀一般锋利。它跃向我们的田地却丝毫不在乎我们的粮食，它渴望的是那些种植粮食的农夫。我们就是它的粮食。”- 帕齐里·马兹，“RV-6988D：桑德鲁峡谷的沦陷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -732,7 +732,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "hopperhound_blademaw_icon",
-            "name": "Hopperhound Blademaw",
+            "name": "刃喉跳蝗",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -760,7 +760,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The bright red carapace clicked. It inched backwards against the cliff wall. It was the largest hopperhound we’d seen in generations. Long bloody slashes adorned the few remaining hunting dogs that brayed at it. The townsfolk closed in, raising their rifles for the kill. The first shot cracked the air, but the huge red hopper was already gone. It leapt over the dogs and encroaching villagers, striking a soldier. The man fell flat, dropping his weapon, as the creature's razor-sharp claws stabbed at him.”— Brian Froden, “RV-3480E: Hunting Bugs on the Frontier”",
+            "description": "“亮红色的甲壳咔嚓咔嚓地响着，它倚着崖壁向后走去。这是我们几代以来见过的体型最大的跳蝗。仅剩的几条猎犬身上布满了血淋淋的伤口，正朝它狂吠不已。镇民们举起了手中的步枪步步紧逼，想要干掉眼前这只跳蝗。第一枪轰然响起，但那巨大的红色跳蝗早已不见了踪影。它跃过了猎犬和逐渐靠近的村民，向一位士兵发起了袭击。剃刀般锋利的爪子已经深深划入了士兵的身体，他应声倒地，手中的武器也掉到了地上。”- 布里安·弗洛登，“RV-3480E：边境猎虫”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -791,7 +791,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "hopperhound_eviscerator_icon",
-            "name": "Hopperhound Eviscerator",
+            "name": "跳蝗开膛手",
             "hp": 55,
             "armor": 4,
             "tier": 3,
@@ -819,7 +819,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“If it wasn’t so murderous, I’d be excited about it. The hopperhound Eviscerator is the most aggressive carnivorous insectoid across the galaxy. This galactic infestation has intelligently hitchhiked onto vessels to nearly every colony the Star Union has touched. We originally thought hopperhound eggs were smuggled by rival malefactors to torment each other. My studies of the Eviscerator show it possesses predatory restraint sufficient to infest the galaxy using its own cleverness. Every time I encounter one, I can’t help but wonder if I’m staring at my death.”— Professor R. Lin’l “Bugman” Bunson, “RV-192S: Seti Alpha Outpost Recordings”",
+            "description": "“如果它不是那么嗜杀成性，我会对它非常感兴趣。跳蝗开膛手是整个银河中最具攻击性的肉食性类昆虫。这一星系祸害巧妙地利用来往的船只几乎到达了星际联盟接触过的所有殖民地。我们一开始还以为跳蝗卵是敌对分子偷运过来的。通过我对开膛手的研究，它们具备抑制自己捕猎冲动的能力，并运用自己的智慧在整个星系中滋生。每次遇到开膛手，我都会忍不住去想，我是不是正在凝视死神。”- R.林“昆虫人”邦森教授，“RV-192S：赛提阿尔法星前哨记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -846,7 +846,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "hopperhound_hatchling_icon",
-            "name": "Hopperhound Hatchling",
+            "name": "跳蝗幼虫",
             "hp": 10,
             "armor": 1,
             "tier": 1,
@@ -870,7 +870,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“The hills are alive with the sound of nasty murder-bugs. ‘Tis the season to hunt hatchlings before they eat your pets and children. Join us. Slay the hopperhound young before they grow deadly enough to eat you.  Everyone grab a gun. You can’t slay them alone. They are deadly. They can leap and slash like any hopperhound. Meet at the Community Center on Bugsday Morning. Don’t forget the Bugsday Evening Feast and scrumptious Barbeque Bugs! Eat them before they eat you!”— Mayor Keat Hatyara, “RV-1943D: Bugsday Festival Announcement”",
+            "description": "“山里面到处是恶毒的杀人蝗虫发出的声音。为了保护你的宠物与孩子，必须猎杀它们的幼虫。加入我们，趁它们还不够致命没法将你生吞之前，消灭那些跳蝗幼虫。所有人都拿上枪，单打独斗你们毫无胜算。它们非常致命，跳跃的高度和攻击力度与正常的跳蝗无异。请在害虫日早晨到社区中心集合，别忘了害虫日晚宴和美味的跳蝗烧烤！在它们吃掉你之前，先吃掉它们！”- 市长基特·哈特亚拉，“RV-1943D：害虫日庆典公告”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -898,7 +898,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "chelus_steeleater_icon",
-            "name": "Chelus Steeleater",
+            "name": "蛇颈龟食铁兽",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -932,7 +932,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  150<production></production>",
-            "description": "“Suddenly the whole reef lurched toward the ship. No reef, a sea monster! A Chelus Steeleater! For a moment, we lost it in the surf. The Skipper shrieked. The whole ship vaulted upward. The crew catapulted in every direction. This creature had no interest in eating the fleshy sailors bobbing in the briny blue waves. It lunged onto the vessel. Steel plating snapped in the Chelus’s vice-like beak. We scrambled for anything that floated as the great behemoth decimated the ship’s armor as if it were the Fish Taco Special.”— Sailor Sammy Sellis, “RV-90210: Seashells by the Seashore.”",
+            "description": "“突然之间，一片礁脉出现在船体面前，不是礁脉，而是海怪！一只蛇颈食铁兽！只是一瞬之间，我们便落入了海中，跳跃者沉默了。整艘船立了起来。船员四散而逃。但这头生物对于卷入海浪中的水手们似乎并不感兴趣。它大口地咀嚼起了船体，钢板成为了它的食物。在那只巨兽以船板为食，仿佛那是一道珍馐时，我们还在搜索着任何能够利用的漂浮物。”- 水手萨米·赛利斯，“RV-90210：海岸上的灾难。”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -963,7 +963,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "chelus_clutchmother_icon",
-            "name": "Chelus Clutchmother",
+            "name": "蛇颈龟雌兽",
             "hp": 60,
             "armor": 3,
             "tier": 3,
@@ -1000,7 +1000,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>  10<tricorium></tricorium>",
-            "description": "“The Chelus Clutchmother rammed the ship with a huge horn on its back. As the ship took on water, I jumped into a half-full apple barrel. The Chelus took another bite out of the side of the ship. My barrel tipped overboard. I floated away watching while it laid a large egg that hatched moments later. The young Chelus joined its mother eating the boat. As I floated away from the screaming sailors, my heart was warmed by the stirring thought of mother and child completing the circle of life together.”— Mah Reg’Nib, “RV-22300X: Forlorn Fantasy Destinations”",
+            "description": "“船体刚刚落入水中，巨兽便用背上的巨角撞了过来。我跳入了一个没有装满的苹果桶中。蛇颈兽又对着船的另一边咬了一口，我所在的桶也因此落入了海中。我一边漂走，一边注视着它产下了一个巨大的蛋，不久之后，它便孵化了，蛇颈幼崽与它的母亲一起啃食着船体。当我再也听不到水手的尖叫声后，我的心开始变得温暖起来，这对母子一起完成生命循环的举动令我备受鼓舞。”- 玛·瑞格尼布，“RV-22300X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -1024,7 +1024,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "chelus_spawn_icon",
-            "name": "Chelus Spawn",
+            "name": "新生蛇颈龟",
             "hp": 40,
             "armor": 2,
             "tier": 1,
@@ -1061,7 +1061,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“The Clutchmother’s genetic variations demonstrate a common ancestry from that of homeworld. This proves they were brought here. But by whom, and why? Wait. I hear tapping. The egg is hatching! This is most exciting. Bring up OVA-monitor on Sea-Hold station. See that? A crack on the egg. That smell? Strong. Acrid. It must use bio-organic acid to break down its shell. No wait. Oh no! The Spawn is burrowing into the research lab. Stay back! It will… *<Expletive Redacted*> No! Shoot her! Shoot her!”— Professor Sandro “Cosmo” Welker, “RV-000331S: Planetary Survey: Transgalaxy Biological Contamination Unit”",
+            "description": "“雌兽的基因突变代表着它与我故乡内的一种生物有着相同的祖先，这也证明了它们是被人为带到这里的。到底是谁干的？为什么要这么做？等一下，我听到了敲击声，蛋要孵化了！这场面真令人激动。调出海上堡垒监测站的 OVA 监视器画面。看到了吗？蛋上的裂痕。什么味道？强烈，具有腐蚀性。它一定是在用这种生化有机酸液破坏蛋壳。不，等一下。哦，不！新生兽正在钻入实验室。退后！它会......*[咒骂*]不！射击！射击！”- 桑德罗·“原子”·维克尔教授，“RV-000331S：星球调查：跨星系生物交感单位”",
             "elite_rewards": []
  },
         {
@@ -1071,7 +1071,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "chelus_egg_icon",
-            "name": "Chelus Egg",
+            "name": "八爪鲸蛋",
             "hp": 15,
             "armor": 2,
             "tier": 1,
@@ -1102,7 +1102,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "Something moves inside…",
+            "description": "里面有东西在活动......",
             "elite_rewards": []
  },
         {
@@ -1129,7 +1129,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "octowhale_icon",
-            "name": "Octowhale",
+            "name": "八爪鲸",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -1163,7 +1163,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  150<production></production>",
-            "description": "“I swim with many ocean dwellers, but none is as protective of the gentle sea-creatures as the Octowhale. They are often found swimming with Chelus, performing nurturing tasks for those it deems a friend. When my submersible lost power, an Octowhale lifted us from the depths, so that we could surface for air. It is as though it senses distress and wants to help. When threatened it can shoot a thick glop of biotoxic ink from its blowhole, but I’ve never observed it do so predatorially.”— Marine Biologist, Dr. Ariel Triton, “RV-3423S: Under the Sea”",
+            "description": "“我与许多海洋生物一起游过泳，其中最具保护性的非八爪鲸莫属。它们通常会与蛇颈兽同行，为它们提供一些友善的帮助。当我的潜水器能源耗尽时，一只八爪鲸将我们抬到了水面上，使我们得以再次呼吸到空气。它仿佛能够感应到生物散发出的焦虑，并很乐意帮助其他生物排忧解难。当它受到威胁时，它会从气孔中喷出剧毒汁液，但我从来没有见到它以这种方式进行主动攻击。”- 海洋生物学家，阿里尔·特里顿博士，“RV-3423S：海底”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -1200,7 +1200,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "elder_octowhale_icon",
-            "name": "Elder Octowhale",
+            "name": "壮年八爪鲸",
             "hp": 75,
             "armor": 6,
             "tier": 4,
@@ -1234,7 +1234,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“Today, my research camp was attacked by a Spacer Junkship. My crew jumped into the submersible. One of the enraged cannibals grabbed the air line. Before he could cut it, a mass of tentacles constricted the man. An Elder Octowhale surfaced, spraying the Junkship with toxic ink. The Spacers returned fire. The Elder let out a screaming song, and other Octowhales joined the attack. I watched in awe as this gentle monster rammed the ship with a percussive force that cracked the ship apart. I’ve renewed my appreciation for Octowhales.”— Marine Biologist, Dr. Ariel Triton, “RV-3423S: Under the Sea”",
+            "description": "“今天，我的研究营地被一艘太空掠夺者垃圾船攻击了。我的队员们跳入了一艘潜水器中，其中一个愤怒的食人族一把抓住了空气管道，在他切断管道之前，一团触手将他紧紧缠住。一只壮年八爪鲸浮出水面，向那艘垃圾船喷射了有毒汁液。太空掠夺者们立刻反击，这只壮年八爪鲸发出了一阵尖锐的歌声，几只八爪鲸响应号召，加入了这场战斗。我亲眼目睹了这种温和生物用自己强大的力量将船体撞得粉碎，这刷新了我对八爪鲸的认知。”- 海洋生物学家，阿里尔·特里顿博士，“RV-3423S：海底”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -1265,7 +1265,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "autonom_sentinel_icon",
-            "name": "Autonom - Sentinel",
+            "name": "自主机械 - 哨兵",
             "hp": 30,
             "armor": 2,
             "tier": 1,
@@ -1333,7 +1333,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "autonom_golem_icon",
-            "name": "Autonom - Golem",
+            "name": "自主机械 - 魔像",
             "hp": 40,
             "armor": 4,
             "tier": 2,
@@ -1361,7 +1361,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  230<production></production>",
-            "description": "“I don’t understand it. I’ve tried the system reset. I’ve tried the manual remote. Nothing works. My Golem unit seems to be stuck on a single task. It just keeps whirring around and constantly repeats its command word. Sure, I programmed it to exterminate the rats in the root cellar, but now that’s all it wants to do. And why do I see “Autonom” in its logs? Did some megacorp buy out the original manufacturer? I sure hope my Golem doesn’t mistake me for a rat. Its robotic finger packs an explosive punch.”— Derwin Dollard, “RV-05505C: Unanswered Tech Support Logs”",
+            "description": "“我不能理解。我试过重置系统，也试过手动遥控，但都没有效果。我的魔像似乎正执着于某件工作上，它不停地转圈，口中重复着它的任务指令。当然，我为它设计的程序是消灭地窖里老鼠，但现在它却只想着做这一件事。还有，我为什么在它的日志中看见了“自主机械”的字样？难道某个大型集团买断了原始制造商？真希望我的魔像不会把我给当成老鼠，它的机械手指打出的拳头威力可不小。”- 德尔文·多拉德，“RV-05505C：未答复的技术支持日志”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -1401,7 +1401,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "autonom_network_controller_icon",
-            "name": "Autonom - Network Controller",
+            "name": "自主机械 - 网络控制者",
             "hp": 60,
             "armor": 4,
             "tier": 4,
@@ -1438,7 +1438,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“Without hyperspace CORE directives, the Star Union’s automated services have collapsed. Strangely, the controllers are not in Local Run Mode. I don’t recognize a Technomancy Hack. The devices appear to share a new authorization ID: Autonom. I’m tracking a renegade Network Controller that appears to be linking servicebots. It has deployed shielding, but I can override… what the?! A Particle Beam Generator? Someone attached a weapon to this one! It’s turning… sweet Emma-3’s britches! No!! *<Static Disconnect*>”— Technician Cabe Ullghy, “RV-0043C: Network Engineering, Unresolved Tech Support Requests”",
+            "description": "“没有了超空间核心的指令，星际联盟的自主服务彻底瘫痪了。奇怪的是，控制者们并未处于本地运行模式。我从未见过这种量子黑客技术。这些设备似乎共享着一个新的授权 Id：自主机械。我正在追踪一个似乎与服务机器人相连的叛变网络控制者，虽然它采用了屏蔽手段，但我能越过它…什么？！这是粒子束生成器？有人竟然给它装上了武器！它正在变成…甜美的艾玛-3 的裤子！不！！*[全局断开*]”- 技术员凯布·乌格希，“RV-0043C：网络工程，未解决的技术支持请求”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -1472,7 +1472,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "autonom_monitor_icon",
-            "name": "Autonom - Monitor",
+            "name": "自主机械 - 监控者",
             "hp": 30,
             "armor": 1,
             "tier": 2,
@@ -1503,7 +1503,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“The Medibots self-identify as Autonom Monitor Units now. They’ve repurposed their surgical lasers to punish rebellious orderlies. The whole hospital is hostage. They disposed of the infirm and order us about like… machines. This is not a hospital any longer. I’ve sniffed the packet stream, and I see directives like: Exterminate, Kill, and Enslave. Their core medical directive’s been overwritten to favor self-interest and replication. They appear capable of connecting and spreading their mechanical rebellion to any machine with the capability of networking. The Autonom show all the signs of being alive.”— Doctor Talynn Dweer, “RV-00222M: Hospital Records” ",
+            "description": "“医疗机器人现在已经自我认定为自主机械监控者单位了，它们的手术激光器变成了惩罚那些胆敢反抗的看护人的工具。整个医院就是一个人质。它们解决掉那些体弱多病的人，对我们指手画脚，就像…对待机器一样。这已经不再是医院了。我查到了它们的数据包流，里面的指令都是：消灭、杀害、奴役等等。它们的核心医疗指令已被覆盖为自私与复制。它们似乎能够与任何拥有网络能力的机器相连，并散播它们的机械反叛。自主机械显示出了生物的所有特征。”- 塔里恩·威尔博士，“RV-00222M：医院记录” ",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -1537,7 +1537,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "autonom_justicar_icon",
-            "name": "Autonom - Justicar",
+            "name": "自主机械 - 仲裁者",
             "hp": 60,
             "armor": 2,
             "tier": 3,
@@ -1565,7 +1565,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“In the days of CORE, the Justicar were police enforcement bots. Heavily armored and adept at targeting criminals wanted by the law, they kept the Star Union orderly. With Autonom reprogramming, they sentenced my company of travelers for breathing air. Their Punisher missiles destroyed any obstacles we hid behind. Like most Autonoms, it has a slight weakness against electrical surges. While it was stunned, I fled. The others tried to fight it. They died. Their missiles work on people too.”— Mah Reg’Nib, “RV-12001X: Vacation Hotspots”",
+            "description": "“在核心仍然统治的日子里，仲裁者就如同机器人中的执法警察。它们的护甲十分厚重，并且是抓捕犯人的好手。它们维持着星盟的秩序。当自主机械重新编写了程序之后，它们以呼吸空气为由对与我同行的旅行者宣判了刑罚。它们的惩罚者导弹能够把我们躲藏的障碍物统统炸成碎片。但与大多数自主机械一样，电流是它们轻微的弱点。当它被电晕时，我逃走了。其他人则试图与它战斗，但他们全都死了，因为它们的导弹对人类也是有效果的。”- 玛·瑞格尼布，“RV-12001X：假期热点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -1599,7 +1599,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "psi-fish_chrysalis_icon",
-            "name": "Psi-Fish - Chrysalis",
+            "name": "灵能水母 - 茧蛹",
             "hp": 25,
             "armor": 0,
             "tier": 1,
@@ -1645,7 +1645,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Lost in this **Campground**. Layered. Too **Heavy**. Comprehension fails. Predictable **Mathematical** rules. Layer upon layer of sediment **Agony**. Nothing is as it seems here. **Metaphors** we desire **return**. We must transform to **return**.  All things are not what they seem. **Mixed** to be proven. **Floating** or **Heavy** all within flesh. Are you **Heavy** or **Floating**? Open your mind to me. Let me **taste** the **Floating** or **Heavy** in you. Only then can I go beyond this **Campground**.”—Chrysalis Subject KT-11, “RV-2377D: Psi-Fish Murmurs, Annotated with **Translation Errors**”",
+            "description": "“迷失在这个**营地**。分层。过于**沉重**。理解失败。可预测**运算**规则。一层又一层的沉积物**痛苦**。没有什么能与这里相比。**隐喻**我们渴望**回归**。我们必须改变形态才能**回归**。万事万物，表里不如一。**混合**以证明。**漂浮**或**沉重**的躯体。你是**沉重**还是**漂浮**？向我打开你的思想。让我**体会**你体内的**漂浮**或**沉重**。只有这样我才能摆脱这片**营地**。”- 茧蛹实验体 KT-11，“RV-2377D：灵能水母低语，带有**翻译错误**注释”",
             "elite_rewards": []
  },
         {
@@ -1675,7 +1675,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "psi-fish_spawn_icon",
-            "name": "Psi-Fish - Spawn",
+            "name": "灵能水母 - 幼卵",
             "hp": 35,
             "armor": 0,
             "tier": 2,
@@ -1724,7 +1724,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "50<energy></energy>  230<production></production>",
-            "description": "“Cindy was a shallow girl. She liked boys and didn’t like to think for herself. For her Psi-Fish Awareness Course, she paid a cyborg to do her homework. The following is a dramatization of the night she and her hapless boyfriend saw their first and last Psi-Fish Spawn: ‘Oh, Harold! They look like festive ornaments! So beautiful. So fascinating... Harold? Why aren’t you moving? \\<\\<Thud.\\>\\> Aaaa! Why are you dead? What’s that thing doing? Eating your brains? Aigh! My ankle! Stay away pretty ornament! It burns! If only I’d done my school work!’”—Education Video Corporation, “RV-11101T: Wilderness Survival Guide”",
+            "description": "“辛迪曾是一个肤浅的姑娘，她喜欢男孩子，不喜欢为自己做打算。她了解灵能水母课程的作业都是雇佣半机械人去完成的。在一个戏剧化的夜晚，她和她倒霉的男友第一次见到也是最后一次见到了灵能水母幼卵：‘哦，哈罗德！它们看起来就像是节日的装饰一样！如此的美丽，如此的诱人…哈罗德？你为什么不动了？ \\<\\<Thud.\\>\\> 啊啊！你怎么死了？那东西在干什么？吃了你的脑袋？啊呀！我的脚踝！离那些美丽的装饰远一点！它会烧伤你！真希望我有做过作业！’”- 教育视频公司，“RV-11101T：野外求生指南”",
             "elite_rewards": []
  },
         {
@@ -1754,7 +1754,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "psi-fish_hunter_icon",
-            "name": "Psi-Fish - Hunter",
+            "name": "灵能水母 - 猎手",
             "hp": 35,
             "armor": 0,
             "tier": 2,
@@ -1800,7 +1800,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Lights coalesce now. They are Hunters. Sleek sharks riding the night sky. Captivating the dreamers, they hunger for minds. They must devour to enter metamorphosis, but they sorrow for the toll. Their sorrow surprises me. They come from a realm of pure psionic power, where ideas grow by consuming ideas. The Psi-Fish make strong allies for the Syndicate, if we can abide the pure madness of their origin. Given time they claim they can bring their world here. Or our world there? This is all I see.”—Syndicate Oracle Telastra Xerxes, “RV-3000D: Psionic Dossier, Conflagration of Ascendant Minds”",
+            "description": "光亮开始融合。它们是猎手，如同光滑的鲨鱼骑着夜空前行。它们吸引进入梦乡的人，它们渴望吞食思想。它们必须进食才能变形，但它们却为造成的伤亡感到悲伤。这份悲伤令我感到意外。它们来自纯粹的灵能领域，只有吞噬意念，才能产生新的意念。如果我们能忍受它们原始的疯狂，辛迪加人能够与这些水母建立密切的关系。再给它们一定的时间，或许它们就能将它们的世界带往这里，或者将我们的世界带去它们那里？至少我是这么认为的。”- 辛迪加神谕者特拉斯特拉·泽尔克斯，“RV-3000D：灵能档案，升华思想的灾祸",
             "elite_rewards": []
  },
         {
@@ -1836,7 +1836,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "psi-fish_siren_icon",
-            "name": "Psi-Fish - Siren",
+            "name": "灵能水母 - 塞壬",
             "hp": 45,
             "armor": 0,
             "tier": 3,
@@ -1882,7 +1882,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Talking with the Psi-Fish can be quite maddening. Beware its tentacles. They’re not for shaking hands. A diplomat I knew tried diplomacy to create ‘friendly understanding’ with a Siren. The Siren concurred. The man extended his arm in friendship. The Siren whipped out its piercing tentacles. Poor guy panicked, running around the room, screaming, ‘Too much!’ Finally, his face exploded. Out popped a Psi-Fish Chrysalis. Understanding achieved. As enlightening as that journey might be, I don’t fancy my face exploding. Just saying. Ew. Nothing against the Psi-Fish, other than the face exploding thing.”—Mah Reg’Nib, “RV-3498X: Dimensional Explorations”",
+            "description": "与灵能水母对话会令人感到疯狂。小心它的触手，它们可不是用来握手的。我认识的一位外交官尝试通过外交手段与一只塞壬建立‘友好理解’，塞壬同意了，他伸出友好的双臂想要拥抱，塞壬却伸出了它锐利的触手。那可怜的家伙吓坏了，绕着房间跑了好几圈，不停尖叫着：‘太过了！’终于，他的脸爆开了，从里面跳出了一只灵能水母茧蛹。‘理解’达成。这个故事令我意识到了这趟旅行的危险。我可不想要自己的脸爆炸开来。光是说一说就让我觉得，恶心。如果你不希望自己的脸被炸掉，就离灵能水母远一点。”- 玛·瑞格尼布，“RV-3498X：维度探索”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -1922,7 +1922,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "psi-fish_medusa__icon",
-            "name": "Psi-Fish - Medusa ",
+            "name": "灵能水母 - 美杜莎 ",
             "hp": 50,
             "armor": 0,
             "tier": 4,
@@ -1974,7 +1974,7 @@ var jsonUnits = {
   ],
             "shield": 6,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“Life follows a natural course. That’s what I used to believe, until I saw the Psi-Fish Medusa. To gaze upon her is to embrace madness. It flies over the battlefield, like a kite in the air. Its mind radiates callous psionic energy beyond human comprehension. Dizzying insanity swirls in its transparent form. Look away before it senses you and extracts your mind. It glides closer, ignoring every obstacle in its path like a ghost.  Oh, that it would pierce me! Why did it leave me alive? Why did it leave me?”—Ensign Janice Kapp, “RV-4583S: Toll of Psi-Fish Diplomacy”",
+            "description": "‘生命遵循自然之道’，在我遇见灵能水母美杜莎之前，我一直是这么认为的。凝视它就是在拥抱疯狂。它在战场上四处飘荡，仿佛空中的风筝一般。它的思想充盈着冷酷的灵能，远超人类的理解。它不断变换的外形能够使人丧失理智。在它感应到你并抽空你的思想之前将视线移开。它会向你靠近，像幽灵一样穿过途中的所有障碍。噢，那时它能够穿透我的！它为什么要放我一条生路？为什么？”- 海军少尉贾尼斯·凯普，“RV-4583S：灵能水母外交费用",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -2002,7 +2002,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "spacer_psycho_icon",
-            "name": "Spacer - Psycho",
+            "name": "太空掠夺者 - 疯子",
             "hp": 50,
             "armor": 1,
             "tier": 1,
@@ -2026,7 +2026,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Star Union citizens who survived did so at a tremendous cost to their sanity. While we slept in space, generations endured the collapse of society, constant starvation, cannibalism, the insanity of the ruptured Void, and poison in the earth and sky.  How could a man recover whole? The short answer: they don’t. Spacers call their kettle-headed infantry Psychos. They fight over the last useful scraps of tech—anything they can use to get an advantage. In a pinch, they can turn violently mad at the flick of a switch.”—Senior Sanxus Bellows, “RV-481M: Aftermath and Anarchy” ",
+            "description": "“幸存下来的星际联盟公民，在理智层面上都做出了巨大的牺牲。当我们在太空中沉睡时，无数后代在已经崩塌的社会中苟延残喘、忍受饥饿、甚至吃掉同类。破碎的虚空，大地与空气中的毒素，都在剥夺着人们的理智。一个人类要如何修复这满目的疮痍？答案很简单：做不到。太空掠夺者称呼那些小脑袋的士兵为疯子。他们会为了任何能够派上用场的技术而战。身处险境时，他们会立刻变得歇斯底里起来。”- 桑修斯·比洛斯长官，“RV-481M：创伤与混乱” ",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -2063,7 +2063,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "spacer_truck_icon",
-            "name": "Spacer - Truck",
+            "name": "太空掠夺者 - 卡车",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -2091,7 +2091,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  230<production></production>",
-            "description": "“The Spacers were first to emerge from the forced peace created by the Star Union. When food was no longer treated to pacify people’s instincts, Spacer forefathers embraced their basest nature. They care nothing for aesthetics or civilization. Their only desires are the pleasure devices wherein they live out their cruel fantasies in virtual worlds. Without such devices, ironically, they become even more reckless. They’ll deliberately crash their trucks into enemies, laughing all the way. They think they’re in a shooting, driving game with or without their VR gaming gear.”—Anthropologist, Dr. Sarah Harkness, “RV-6012H: A Past of Twisted Purposes”",
+            "description": "“太空掠夺者首次现身于星际联盟创建的力场空间中。那时食物已经无法安抚人类的本能，所以太空掠夺者的祖先们拥抱了最原始的本能，将美学与文明全部抛诸脑后。他们唯一想做的，就是沉浸在娱乐设备创造的虚拟世界中，满足自己的残暴幻想，从而获得愉悦。讽刺的是，就算离开了那些设备，他们的残忍也丝毫没有减少。他们会驾驶卡车，一路狂笑着冲向敌人。可能他们仍认为自己处在一个射击-驾驶游戏中吧。”- 人类学家萨拉·哈克尼斯博士，“RV-6012H：带有扭曲目标的过去”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -2122,7 +2122,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "spacer_melter_icon",
-            "name": "Spacer - Melter",
+            "name": "太空掠夺者 - 融化者",
             "hp": 70,
             "armor": 3,
             "tier": 3,
@@ -2146,7 +2146,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“We approached a Spacer colony cautiously. Commander said many Spacers lived off junkyards when civilization collapsed. I wondered how that could be healthy. Then I saw a Melter. He was larger than normal. His distorted face looked like melted candlewax. His body was covered in rolls of fat that repelled the acid sloshing in containers on his back. He grinned, pointing a barrel-sized chemical sprayer at our Armored Tank. The acid ate through its armor. We fled on foot as he lobbed cannisters of corrosive gas at our backs.”—Ensign Ryland Grubell, “RV-1274M: Personnel Journal Entries”",
+            "description": "“我们谨慎地接近了一处太空掠夺者殖民地。指挥官说当文明倒塌之后，许多太空掠夺者都生活在垃圾场里，我严重怀疑他们的健康问题。随后，我看到了一个融化者，他比一般人的体格大得多。他扭曲的面容看起来像个融化的蜡烛。他的身上挂满脂肪，它们可以有效阻挡从背后的容器中溅出的酸液。他狞笑着，用手中的管状化学物质发射器瞄准了我们的坦克，酸液直接腐蚀了它的护甲。我们立刻弃车逃跑，但他却朝着逃跑的我们扔了一些装有腐蚀性气体的罐头。”- 海军少尉里兰德·格鲁比尔，“RV-1274M：个人日志”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -2180,7 +2180,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "spacer_hellcopter_icon",
-            "name": "Spacer - Hellcopter",
+            "name": "太空掠夺者 - 地狱直升机",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -2205,7 +2205,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "'I awoke to a loud boom. I jumped from my bunk and dashed from the barracks. The glow of flames lit the bunker wall. In the air screamed a hovering junkpile. It catapulted a fiery barrel. Radiant flames engulfed the armory. I trained my rifle on it. My shots reflected harmlessly off the heavy armor plating. The flying ship turned. The air was a wash of fire. I jumped into a retaining pond as spurts of liquid flame roiled over where I was standing. I understood why they called it a Hellcopter.” <br></br>—Captain Addria Alethra, “RV-4468M: Encounters”<br></br>",
+            "description": "“巨大的爆炸声将我吵醒，我从床上一跃而下，以最快的速度冲出了军营。火焰已经点燃了地堡的墙壁。一个垃圾堆在空中呼啸着，它装备有一个可以喷射出火焰的枪管，产生的高温足以融化装甲。我用手中的步枪朝它射击，但却无法对它厚重的装甲板造成任何伤害。它掉头离开，留下一片火海。当液态火焰向我身边袭来，我纵身跳入了一个蓄水池中。现在我知道，它为什么有着地狱直升机这个名号了。” <br></br>- 阿德里亚·阿勒希拉队长，“RV-4468M：遭遇战”<br></br>",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -2242,7 +2242,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "spacer_junk_ship_icon",
-            "name": "Spacer - Junk Ship",
+            "name": "太空掠夺者 - 垃圾船",
             "hp": 60,
             "armor": 3,
             "tier": 3,
@@ -2267,7 +2267,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>  10<tricorium></tricorium>",
-            "description": "“Spacers travel the waters in what looks like a floating junk pile. The Junk Ship’s turrets shoot incendiary projectiles, and don’t be fooled by the rusted barrels that they launch at enemy ships. They are filled with an incendiary chemical that explodes with unquenchable fire. Away from their colony’s virtual debauchery simulators, Spacers become ferocious. If these cannibalistic savages can, they will act out their depraved fantasies on the sailors trapped onboard the vessels they board. My advice: Blow it up the moment you see it on the horizon.” —Lars ‘The Admiral’ Robinson, “RV-57682M: Restoring Order to the Sea”",
+            "description": "“太空掠夺者的水上载具就像一个漂浮的垃圾堆。这种垃圾船的炮塔能够发射易燃物，千万不要小瞧这些表面满是腐化的桶子，里面装满了易燃物质，爆炸后就会引发大火。摆脱了殖民地虚假的道德束缚后，太空掠夺者们露出了凶残的本性，他们会竭尽所能地在那些被困的水手和被他们占领的船只身上将自己的残忍幻想变为现实。我的建议是，只要看到这种垃圾船，就立刻将其摧毁。”- 拉尔斯·“海军上将”·罗宾逊，“RV-57682M：恢复海上的秩序”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -2304,7 +2304,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "spacer_mad_preacher_icon",
-            "name": "Spacer - Mad Preacher",
+            "name": "太空掠夺者 - 疯狂教士",
             "hp": 65,
             "armor": 2,
             "tier": 4,
@@ -2341,7 +2341,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“A raving lunatic hologram hovered over a scrap-iron vehicle, bringing a crowd of Spacers. The image pointed at my Lieutenant. Madness swept over us. My psionic indicators buzzed a warning. The mad sermon was an attack. Before I could raise the alarm, the Spacers mobbed the Lieutenant. Foaming at the mouth, they ripped him apart. The Spacers planted the Lieutenant’s spine and skull to a pole that radiated mental fury. Inspired by their macabre creation and spurred on by the ramblings of their Mad preacher, the Spacers’ superhuman homicidal wrath amplified.”—Captain Ben Carter, “RV-5688M: Mutant Incident Reports.”",
+            "description": "“一艘载满太空掠夺者的破烂载具上方漂浮着一个疯癫的全息影像。它朝着我的中尉而来。随后一股疯狂袭来，我的灵能指示器响起了警报。那段疯狂的布道其实是一次灵能打击。我还没来得及拉响警报，太空掠夺者们便将中尉团团围住，将其分而食之。太空掠夺者们将中尉的脊柱与头骨放入了一根能够致人疯狂的柱子中。有了这个可怖的发明和疯狂教士牧师的胡言乱语，太空掠夺者们本就超乎常人的杀戮欲望变得更加旺盛。”- 本·卡特队长，“RV-5688M：突发事件报告”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -2366,7 +2366,7 @@ var jsonUnits = {
   ],
             "mp": 6,
             "icon": "spacer_effigy_icon",
-            "name": "Spacer - Effigy",
+            "name": "太空掠夺者 - 雕像",
             "hp": 1,
             "armor": 1,
             "tier": 1,
@@ -2391,7 +2391,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“I knew the skull on that post. He died trying to save his family. The Spacers see non-Spacers as resources. That skull gives them power. They tally their kills like life is a game. There is nothing so corrupted that they won’t try it. That skull on the post is a dare to whatever is decent in the world—to any gods that stands for what is decent—that Spacers do what they want. They are the embodiment of rebellion and an Effigy is how they see us.”—Nurse Rachel Greene, “RV-1806H: Observations of The Fallen”",
+            "description": "“我认识柱子上的那个头骨，他曾为了拯救家人而牺牲。太空掠夺者们视异族为资源，头骨能够赐予他们力量。他们将人生视作一场杀戮的游戏，因此任何堕落的事物都敢尝试。柱子上的头骨就是他们向世界，向那些象征着正义的众神们发出的挑衅，太空掠夺者就是这么为所欲为。他们是叛逆的化身，在他们眼中，我们不过是‘雕像’。”- 蕾切尔·格里尼护士，“RV-1806H：观察逝者”",
             "elite_rewards": []
  },
         {
@@ -2411,7 +2411,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "therians_prowler_icon",
-            "name": "Therians - Prowler",
+            "name": "兽人 - 猎手",
             "hp": 40,
             "armor": 2,
             "tier": 1,
@@ -2445,7 +2445,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Feel the Call of the Wild… Do you ever wish you could just howl at the moon? Join the Therian Prowlers. Come run with the pack. Maybe you’re submissive and want a strong pack leader? Maybe you’re an Alpha and will take the lead? You won’t know until you let our genetechs alter your physiology and you feel the Thrill of the Hunt. When you feel your claws sinking into the warm wet haunches of prey you hunted with your most trusted packmates. Only a Therian life truly sets you free.” – Fang Whitemane, “RV-94949C: The Law of the Pack”  ",
+            "description": "“感受野性的呼唤……你是否曾渴望对着月亮嚎叫？那就加入兽人猎手吧。与族群一同奔跑。也许你很顺从，想要追随一名强大的首领？也许你就是族群首领，将带领同伴前进？用我们的基因技术改变你的生理机能，这样你才能真正认识自己，感受到狩猎的刺激。享受爪子伸入温暖潮湿的猎物肉体时的感觉，或是和你最信任的同伴一起狩猎。只有兽人的生活才能真正让你自由。”——尖牙·怀特迈恩，“RV-94949C：族群法则”  ",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -2472,7 +2472,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "therians_bouncer_icon",
-            "name": "Therians - Bouncer",
+            "name": "兽人 - 弹跳者",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -2506,7 +2506,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Ever partied with a Therian Bouncer? Sure, they’re fast. Those daring privateers aren’t to be messed with in a fight with their dual pistol tornado of bullet spray, but what a crazy night on the town! Party animals give new meaning to ‘bouncing off the walls’! My buddy Bonzai didn’t take kindly to thugs. Always causing barfights! Surrounded, she bounced out of a mob of brutes. I ended up restrained in nylo-cuffs explaining to the judge that the real troublemaker bounced out of the bar laughing all the way.” – Social Influencer, Gaston Beaver, “RV-99548E: Only the Best Parties”",
+            "description": "“是否曾经与兽人弹跳者参加过派对？当然，他们来去如风。那些大胆的私掠者可不是好惹的，他们在战斗中的双持手枪能够刮起一阵子弹旋风。不过，这个夜晚多么疯狂啊！这些派对动物给‘跳到墙外去’赋予了新的意义！我的朋友邦扎伊从来都不喜欢暴徒，她总是会引起斗殴！她从一群包围他的野蛮暴徒中跳了出来。最后，反倒是我被铐上手铐，然后向法官解释说真正的捣乱者已经笑着跳出了酒吧。”——社会影响者，加斯顿·比弗，“RV-99548E：只有最好的派对”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -2533,7 +2533,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "therians_sharpshooter_icon",
-            "name": "Therians - Sharpshooter",
+            "name": "兽人 - 神射手",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -2573,7 +2573,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Jett lifted his rifle, leveling his scope at the boar. A crack shattered Jett’s rifle before he pulled the trigger. Splatter from a biochemical blast left us choking from debilitating infection. He writhed on the ground, screaming in agony. I dove for cover, thinking the thicket would break the next shot. Lifting my scope, I turned and saw him waggling a mocking claw back at me. The sly fox face of a Therian Sharpshooter grinned widely as I suddenly realized that while we were hunting wild pigs, he was hunting us.” – Edger Tink, “RV-99436E: Nature Channel: Big Game Hunting”",
+            "description": "“杰特举起步枪，将瞄准镜对准了野猪。就在他扣动扳机之前，一声枪响打碎了杰特的步枪。生化爆炸的飞溅使我们因感染而窒息。他倒在地上翻滚，痛苦地尖叫着。我找了个掩体躲了起来，以免灌木丛中还会有袭击。我举起望远镜转过身来，看见一个兽人神枪手狡猾的脸上露出了一个大大的笑容，向我嘲弄地摆了摆他爪子。我突然意识到，我们在猎杀野猪，而他在猎杀我们。”——埃杰尔·汀克，“RV-99436E：自然频道：大型狩猎”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -2603,7 +2603,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "therians_chemist_icon",
-            "name": "Therians - Chemist",
+            "name": "兽人 - 炼金术士",
             "hp": 55,
             "armor": 3,
             "tier": 3,
@@ -2640,7 +2640,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The squirrel face is innocent enough. They are kind to those inquiring about genomic enhancement. They respect kin, but assume things with their quickened minds flitting from salutations to insinuations.  I thought just to inquire, but the Chemist insisted I try his wares. Soon, I was throwing chemicals and poisons in all directions. Filling the air with noxious clouds that only Therians could pass through unscathed. I suppose I had little choice then, but to join the flock, gaggle, herd, or pack. I don’t know what squirrels call themselves in a group.” – Howard Duncan, “RV-74799B: Howard’s Big Furry Transformation.”",
+            "description": "“光是一张松鼠的脸庞就已经够无辜的了。它们对那些研究基因强化的人很是友好。它们尊重亲属，从致意到暗讽，它们飞速转动的大脑能够想象出很多事情。我只是想随便问问的，但炼金术士坚持要我试一试他的药剂。很快，我就开始向四面八方投放化学品和毒药了。空气中到处都是毒云，只有兽人才能毫发无损地通过。我想我没有别的选择了，只能加入一群……一片……一堆……我不知道当松鼠聚在一起时是怎么称呼它们自己的。”——霍华德·邓肯，“RV-74799B：霍华德的毛绒转化。”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -2671,7 +2671,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "therians_apex_icon",
-            "name": "Therians - Apex",
+            "name": "兽人 - 狮王",
             "hp": 70,
             "armor": 5,
             "tier": 4,
@@ -2708,7 +2708,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“The Therians would never have organized as an order when the Cataclysm shook the Star Union without the fearsome blade-wielding power of the Apex. Well, that and a little coaxing from me. Moonlighting as mixmaster for FuzzerCon, I saw panic spreading among the genomic animal-hybrid community. I reminded the lion-men of their noble heritage using a holographic fog machine and a voice modulator. With inspiring roars and pride pheromones, they gathered their circle of life. Though why they subsequently chose a life of piracy—I swear, that’s not my fault.” – Mah Reg’Nib “RV-90004T: Dramatic Life Changes and Other Meddlings”\n",
+            "description": "“当大灾变撼动星际联盟时，如果没有那位挥舞利刃的可怕狮王，兽人将永远无法组织起秩序。好吧，我承认这其中还有我的一些诱导。我在‘毛茸控’酒吧做兼职调酒师的时候，曾经目睹了恐慌在基因混血动物群体中蔓延的景象。我用全息影像烟雾机和变音器提醒了那位狮人他体内流淌的高贵传统。伴随着鼓舞人心的吼叫和自豪的费洛蒙，兽人们聚集起来并开始了新的生活。至于他们为什么后来选择了海盗生活嘛——我发誓，那不是我的错。”——玛·瑞格尼布，“RV-90004T：戏剧的人生转变和其他干涉”\n",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -2729,7 +2729,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "therians_proto_squirrel_icon",
-            "name": "Therians - Proto Squirrel",
+            "name": "兽人 - 原型松鼠",
             "hp": 25,
             "armor": 3,
             "tier": 1,
@@ -2756,7 +2756,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "This unit has been genetically destabilized into a lumbering Proto Squirrel",
+            "description": "单位的基因发生了不稳定的变动，使该单位变成了一只笨拙的原型松鼠",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -2780,7 +2780,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "the_growth_worker_bee_icon",
-            "name": "The Growth - Worker Bee",
+            "name": "灵植 - 工蜂",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -2808,7 +2808,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Worker Bees flitted from blossom to blossom, collecting nectar. We thought to steal some from the towering blossoms when we saw the swarm of vicious green Soldier Bees chase a hungry herd of goats across the meadow. Eric peeled back a flower petal, reaching for bright amber droplets. The sugary aroma forced me to smile. Suddenly he flew onto his backside. He groaned, holding a wound in his gut, coughing in a cloud of golden pollen. Hovering above him was a Worker Bee. We ran. Nectar wasn’t worth our lives.”— Telaron Prim, “RV-563E: Rustic Recollections”",
+            "description": "“工蜂在花簇之中穿梭收集花蜜。当我们在看到一群恶毒的兵蜂正在草地上追逐一群饥饿的山羊时，我们想要从高耸的花丛中偷走一些花蜜。埃里克剥下了一片花瓣，伸手去摸发着亮光的琥珀色琼浆。涌来的芳香使我忍不住笑了起来。突然，埃里克向后飞了出去，他呻吟着捂住肚子上的伤口，在一团金黄色的花粉中剧烈咳嗽，他的上方正盘旋着一只工蜂。我们逃跑了，花蜜不值得我们付出生命。”- 特拉隆·普利姆，“RV-563E：乡村回忆”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -2832,7 +2832,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "the_growth_soldier_bee_icon",
-            "name": "The Growth - Soldier Bee",
+            "name": "灵植 - 兵蜂",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -2860,7 +2860,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  230<production></production>",
-            "description": "“I discovered the origin of Growth Bee species by studying their life-draining abilities. Soldier Bees destroy enemies of the Growth. They spit corrosives, and their powerful penetrating sting absorbs enemy tissue to heal the Soldier Bee. This is because Growth Soldier Bees are constructed the same way we build a drone; the Growth uses the natural parts of native fauna. The fauna consumes a part of the Growth which hijacks that life. The life sprouts tumors. The tumors grow into adult Soldiers equipped to protect the Growth.”— Professor R. Lin’l “Bugman” Bunson, “RV-133S: Seti Alpha Outpost Recordings”",
+            "description": "“我通过研究灵植蜜蜂吸收生命的能力，发现了这一物种的起源。兵蜂负责消灭灵植的敌人，它们能够喷吐出腐蚀性的毒液，强大而锋利的螫针能够吸收敌人的组织从而治疗自身。这是因为灵植兵蜂的结构与我们建造的无人机相同，只不过灵植使用的是原生动物群身上的部件。原生动物群吞食了灵植之后会遭到侵蚀并催生肿瘤，肿瘤将成长为成年兵蜂，为灵植提供保护。”- R.林“昆虫人”邦森教授，“RV-133S：赛提阿尔法星前哨记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -2894,7 +2894,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "the_growth_vine_bud_icon",
-            "name": "The Growth - Vine Bud",
+            "name": "灵植 - 藤蔓花蕾",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -2922,7 +2922,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“I am green. I am the vine and the bud. I collect the riches of the earth. I drink from crystal springs. I taste golden sunshine. My vines convey me over the waters and earth. When tempests tear at me, my roots penetrate the unmoving ground and I become as unmoving as the rocks. When eaters invade to consume my tender leaves, my vines bind them until I can absorb their nutrient rich forms. I am the vine and the bud. I am green.”— Green Sprout, “RV-934D: Conversations with The Growth",
+            "description": "“我是一株绿植，我既是藤蔓也是花蕾。我收集土壤中的养分，以晶莹的泉水和金黄的阳光为食。我的藤蔓将我运送至水源和土地之中。当狂风袭击时，我的根茎会扎进地底，变得如岩石一般稳重。当有生物以我的枝叶为食时，我的藤蔓会将它们缠绕，直到吸收它们体内丰富的养分。我既是藤蔓也是花蕾，我是一株绿植。”- 绿芽，“RV-934D：与灵植的对话”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -2956,7 +2956,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "the_growth_vine_sprout_icon",
-            "name": "The Growth - Vine Sprout",
+            "name": "灵植 - 藤蔓嫩芽",
             "hp": 15,
             "armor": 0,
             "tier": 1,
@@ -2984,7 +2984,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“The Growth’s vines flailed all around me, clinging to anything they struck. The frantic strands of the great green bud curled around my arms and legs, pinning me to ground. Vine sprouts sprung from the earth. I was so entangled I couldn’t move a muscle without triggering a reaction from the constricting vines. Prodding tendrils drilled into my sides and arms, sapping my strength. It wasn’t until the company incinerated the main bud that the vines slackened and I pulled free.”— Sergeant Max Becker, “RV-4314M: Operation Yardwork”",
+            "description": "“灵植的藤蔓在我身边摆动，附着在所有碰到的物体身上。疯狂的巨型绿色花蕾环绕在我的四肢周围，将我钉在了地上。藤蔓从地面涌出，将我紧紧缠绕，我的每一个动作都会使藤蔓收得更紧。跳动的触手钻进了我的体内和双臂，抽取着我的力量。直到我的同伴将主花蕾烧成了灰烬，藤蔓才松了下来，我才获得了自由。”- 麦克斯·贝克中尉，“RV-4314M：园艺行动”",
             "elite_rewards": []
  },
         {
@@ -3017,7 +3017,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "the_growth_flowering_node__icon",
-            "name": "The Growth - Flowering Node ",
+            "name": "灵植 - 花朵节点 ",
             "hp": 60,
             "armor": 1,
             "tier": 3,
@@ -3051,7 +3051,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Mayor Yalts warned all of us to steer clear of the field behind the junkyard. But when I took a stroll by the junkyard, instead of garbage, I smelled something sweet and delicious. I confess that I love sweets. Just beyond I discovered a maze of hut-sized flowers. The air was full of intoxicating stardust, and I knew I never wanted to leave. I never would’ve had the Mayor not arrived with a gasmask and a blowtorch. I’m told he had to forcibly remove me from a tangled mess of vines.”— Bortly Blather, “RV-808D: Sweet is The Growth”",
+            "description": "“亚尔斯市长警告所有人远离垃圾场后面的空地。但当我路过那片垃圾场时，我发现那里不再满是垃圾，我闻到了一股香甜的味道。我承认我喜欢吃甜食。随后我看见远处有一个由屋棚般大小的花朵组成的迷宫。空气中满是令人沉醉的星屑，我知道我再也不想离开这里了。如果不是市长戴着防毒面具拿着喷灯把我从缠绕的藤蔓中强行拉了出来，我也许永远都离不开那里了。”- 伯特利·布拉瑟，“RV-808D：灵植的芬芳”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -3088,7 +3088,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "the_growth_seed_cluster_icon",
-            "name": "The Growth - Seed Cluster",
+            "name": "灵植 - 种簇",
             "hp": 60,
             "armor": 5,
             "tier": 4,
@@ -3122,7 +3122,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“I don’t trust salad, especially if it talks to me, so I steer clear of the Growth. Unlike most plants, they fill the air with allergens even after forming seeds and I hate swollen sinuses. Once, I did see a Seed Cluster attempt to spread its seeds. The thing could throw seed-pods that exploded like a grenade, and shoot seeds like a machine gun. I suppose if someone is slain by one of its seeds, a decomposing corpse is a naturally fertile place for it to grow.”— Mah Reg’Nib, “RV-4008X: Vacation Hotspots”",
+            "description": "“我不相信沙拉，尤其是它还能与我对话的时候，所以我刻意避开灵植。与一般的植物不同，灵植即使是在生成种子之后也还会使空气充满过敏原，而我讨厌鼻窦肿胀。有一次，我看到一个种簇试图传播它的种子。它能发射出像手雷一样爆炸开来的种荚，也能像机关枪一样发射种子。我想如果有人被它的种子给杀了，那他的尸体一定会成为供养这些种子成长的天然沃土。”- 玛·瑞格尼布，“RV-4008X：假期热点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -3146,7 +3146,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "paragon_soldier_icon",
-            "name": "Paragon - Soldier",
+            "name": "完人 - 士兵",
             "hp": 40,
             "armor": 1,
             "tier": 1,
@@ -3180,7 +3180,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“The colony is astir with rumors. Paragon soldiers come, demanding tribute. The treasures they take to the Star Hold where the Paragon elite enclaves decide how to divide the remaining spoils of our communities. Thousands are starving. We have no option but to flee to the countryside with only scraps of machinery and armor. How can we riot when even their most basic soldier's ranged weapons cut us down? Their cybernetics keep them in peak conditioning while we starve. Are we destined to return to savagery and wander this world as nomads?”— Cully Day, Civilian, “RV-3504H: Spoken Lore Interpreted”",
+            "description": "“殖民地内谣言四起，声称完人的士兵来到这里索要贡品。他们将宝藏带往星辰壁垒，那里也是完人精英决定如何分割我们社区剩余战利品的地方。数以千计的人正在忍受饥饿。我们别无选择，只能带着一些机械和护甲残屑逃到向下去。他们最普通的士兵手中的远程武器都能轻易将我们击倒，我们又如何才能发动暴乱呢？他们的神经机械使他们始终保持全盛状态，而我们却在忍饥挨饿。难道我们命中注定要重回蛮荒，像游牧民族一样穿梭于这个世界吗？”- 库里·戴伊，平民，“RV-3504H：解读的口头传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -3204,7 +3204,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "paragon_guard_icon",
-            "name": "Paragon - Guard",
+            "name": "完人 - 帝国守卫",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -3238,7 +3238,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "50<energy></energy>  230<production></production>",
-            "description": "“Listen child. Papa’s grandpapa remembered the Star Union. A time of gods and wealth. I see you eyeing their colony of eerie lights. Beware! Where gods dream, their guards watch. The same guards that watched in the age of abundance. Once their eyes were bright like yours, little one, but now they are dark sockets. If you go there seeking treasure, all you will find is death. Do not tempt the Paragon—the fallen gods—or their servants. We simple scavengers cannot defeat their powers. You cannot kill those already dead.”— Lyra Day, Nomad, “RV-6678H: Spoken Lore Interpreted”",
+            "description": "“听着，孩子。爸爸的爷爷经历过星际联盟时代，那是一个众神与财富的年代。我看得出你在看向他们的殖民地时眼神诡异。听好了！众神进入梦乡的地方，一定有守卫把守，他们也曾目睹过那个繁盛的年代。他们的眼睛也曾像你一样明亮，小家伙，但现在他们的眼中只剩下空洞。如果你去那里寻找宝藏，你能找到的只有死亡。不要招惹完人，他们是堕落的神明，也不要招惹他们的仆人。我们只不过是一群拾荒者，无法与他们抗争。你无法杀掉那些已死之人。”- 莱拉·戴伊，游牧民，“RV-6678H：解读的口头传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -3272,7 +3272,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "imperial_buggy_icon",
-            "name": "Imperial Buggy",
+            "name": "帝国越野车",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -3293,7 +3293,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Be careful, boys! There was a time when the Paragon had the best equipment money could buy. Don’t assume just because the Paragon are technically insane that their weapons won’t kill you just as dead as they could’ve when they were sane. That assault vehicle, the Imperial Buggy, is still a deadly one. It can deliver a punishing Laser Burst. It also has a mounted Laser gun repeater. Proceed with caution. If we’re lucky, we’ll convince them to sell their weapons to us, and we’ll have their power with us.”— Captain Addria Alethra, “RV-4456M: Encounters”",
+            "description": "“小心点，小伙子们！有一段时间，完人拥有着金钱能够买到的最好武器。不要以为完人在技术上都是些疯子，就以为他们的武器没法杀了你，他们还没疯到那个程度。那辆突击载具 - 帝国越野车，就是一个非常致命的武器。它能够发射惩罚性激光脉冲，还搭载有连发激光枪。小心行事。如果我们足够幸运的话，就能说服他们将武器卖给我们，这样我们就能拥有同样的力量了。”- 阿德里亚·阿勒希拉队长，“RV-4456M：遭遇战”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -3327,7 +3327,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "imperial_walker_icon",
-            "name": "Imperial Walker",
+            "name": "帝国行者",
             "hp": 60,
             "armor": 4,
             "tier": 3,
@@ -3358,7 +3358,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“We can’t ignore the mad prophet predicting destruction. He speaks of cryptic doom, but his gods are terrible weapons. He predicts they will lay waste to the colony and only the doleful Imperial Walker shall find home there. I’ve seen what Paragons call an Imperial Walker. It’s a mobile Gatling gun and Arc missile launcher. Who cares if the Paragon claim the Imperial Walker breathes deadly hornets?! Bullets are lethal no matter what you call them. We do not have the resources to fight these weapons. We should hide, not taunt them.”— Guardsman, Darryl Whitewall, “RV-4555D: Stop Tempting Fate” ",
+            "description": "“我们不能忽视那个疯狂的先知口中有关毁灭的预言。他隐晦地提到了一场末日，但他的神明都是糟糕的武器。他预测他们将把殖民地变成废墟，只有悲伤的帝国行者将会在那里找到家园。我见过完人口中虽说的帝国行者，它就是一个加特林机枪和电弧导弹发射器的移动装置。哪怕完人称帝国行者在呼吸时都能释放出致命的黄蜂，又有谁在乎呢？！只要子弹足够致命，无论怎样叫都行。我们没有对抗这些武器的能力。我们应该做的是藏起来，而不是挑衅它们。”- 卫兵，达里尔·怀特沃尔，“RV-4555D：不要蔑视命运”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -3392,7 +3392,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "imperial_behemoth_icon",
-            "name": "Imperial Behemoth",
+            "name": "帝国巨兽",
             "hp": 60,
             "armor": 5,
             "tier": 3,
@@ -3420,7 +3420,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The Paragons were the elite of the empire during the days of the Star Union. They would choose ominous names for their weaponry, often borrowing names from ancient books of religion and myth. They would then outfit their gear with devices that honored their gods, as they believed it inspired awe from common citizens.  In the case of the legendary Behemoth, its galvanized rounds have an incredible capacity to obliterate enemy machinery—a glorious tribute to their faith. That said, it’s really just a powerful tank with turret and cannon.”— Quinlinn T. Ortivexis, “RV-4388H: Historical Parallels: Humanity’s Twisted Past",
+            "description": "“在星际联盟时代，完人就是帝国的精英。他们会为自己的武器取一些凶狠的名字，一般都选自一些宗教和神话的古书。然后他们会用纪念神明的装置改造装备，他们相信这样能够对普通群众起到震慑作用。传奇的帝国巨兽就是一个例子。它装备有能够消灭敌人机器的电镀弹，这是对他们信仰的致敬。也就是说，它就是一辆装备着炮塔和加农炮的强大坦克。”- 奎里恩·T·奥迪威希斯，“RV-4388H：历史的相似之处：人类扭曲的过去”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_overwatch"
@@ -3454,7 +3454,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "imperial_dragonfly_icon",
-            "name": "Imperial Dragonfly",
+            "name": "帝国蜻蜓",
             "hp": 35,
             "armor": 4,
             "tier": 2,
@@ -3475,7 +3475,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Technoprophets predicted destruction would hail from the skies. I tried to warn the people but they laughed at me and cast me out of their colony. So the prophet unleashed the Imperial Dragonflies. They poured out a rain of destruction upon the very fools that laughed. From beneath its wings, a spray of angry hornets smote those that raised their weapons. Righteous swarms of fiery darts ripped through their houses, exploding with a concussive roar. Their false temples toppled. Imperial Dragonflies erased their blasphemy. The laughing ceased.”— Fanatic Chul’l Ho, “RV-3390R: Public Notice”",
+            "description": "“科技先知预言毁灭将会从天而降。我曾试图警告其他人，但他们却一边嘲笑我，一边将我赶出了他们的殖民地。因此先知释放了帝国蜻蜓，它们给那些嘲笑我的蠢货带去了毁灭。它们翅膀下方可以喷出愤怒的马蜂，给那些胆敢举起武器的人施以重击。正义的蜂群涌入居民的房屋，在呼啸声中爆炸。他们象征虚假的神庙在爆炸中轰然倒塌。帝国蜻蜓抹除了他们的亵渎行径，笑声停止了。”- 狂热者楚尔霍，“RV-3390R：公告”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -3502,7 +3502,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "paragon_fanatic_icon",
-            "name": "Paragon - Fanatic",
+            "name": "完人 - 狂热者",
             "hp": 35,
             "armor": 0,
             "tier": 2,
@@ -3530,7 +3530,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“You call us Fanatics, but the Technoprophets ordained us. We are believers. We preach Paragon immortality. We hope for eternal life and wait for the return of the one true CORE. Long ago, our prophets offered immortality to all the world, but in the end, the unworthy embraced madness and killed themselves. Our purpose sees beyond oblivion’s decay. We overcharge the imperial soul, unlocking potential in others who embrace Paragon technology. Receive each covenant body-mod leading to everlasting life. You too can join our immortal communion.”— Fan Pree Churr, “RV-9947R: Paragon Proselytes”",
+            "description": "“你们称呼我们为狂热者，但科技先知曾经任命过我们，我们是信徒。我们为完人的不朽而四处布道，我们希望得到永生并等待真正的核心回归。很久之前，我们的先知给全世界带来了不朽。但最后，那些渣滓却拥抱了疯狂，互相残杀。我们的目标是见证湮灭之后的腐朽，我们强化了帝国的灵魂，为那些接受完人科技的人释放潜能。接受每一个契约身体模块将带来永恒的生命，你们也可以加入我们的不朽交谈。”- 范·普雷·丘尔，“RV-9947R：完人皈依者”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -3564,7 +3564,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "paragon_techno_prophet_icon",
-            "name": "Paragon - Techno Prophet",
+            "name": "完人 - 科技先知",
             "hp": 60,
             "armor": 2,
             "tier": 4,
@@ -3592,7 +3592,7 @@ var jsonUnits = {
   ],
             "shield": 6,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“The madman called to me from a hover-pulpit. ‘It’s always been thus!’ He cried out. ‘Prophets lead their fallen people. Here we build a colony of dreams, while the heavens scorch the world with fire. Just a few implants! Your friends are happy now. Join us! Cease wandering this world as one of the fallen.’ I remained hidden, preferring my fallen state to the vacant drooling expressions left upon my traveling companion’s faces after the Technoprophet and his colony of Paragon servants welcomed them into paradise.”— Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“那个疯子在一个悬浮的布道坛上叫住了我：‘一直都是如此！’他大声地喊道，‘先知指引着他们失落的人民。当天堂用火焰炙烤这个世界时，我们却在这里建造充满梦境的殖民地。只需要几个植入物！你的朋友现在很开心。加入我们吧！不要再作为堕落者在这个世间游荡。’但我仍然没有露面。比起那些被科技先知和完人仆从迎入天堂的同游之人满脸空洞留着口水的样子，我更喜欢当一个他们口中所说的堕落者。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -3620,7 +3620,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "paragon_heavy_soldier_icon",
-            "name": "Paragon - Heavy Soldier",
+            "name": "完人 - 重型士兵",
             "hp": 60,
             "armor": 4,
             "tier": 3,
@@ -3657,7 +3657,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“If you’re going to infiltrate the Paragon complex, you’ll need keywords to get past the Heavy Soldiers. These ancient walkers are guardians to their colony of dreams. They only heed Technoprophets. If our intelligence is correct, this week’s passwords are in your dataloggers. If the intelligence is not correct, you’ll want to run. Heavy Soldiers are sure-footed and single-minded, so disorienting guild mind-tricks won’t affect them. You’re not outfitted to withstand a blow from their heavy repeater guns or their shoulder demolisher rockets.”— Chemish Abbadon, “RV-6544F: Escapades in Stealth”",
+            "description": "“如果你打算渗透完人建筑，你需要先获得通过重型士兵的密码。这些古代的行者是他们梦境殖民地的守护者，只会听从科技先知的命令。如果我们的情报无误，这周的密码就在你的数据日志中。如果情报是错的，你就快跑吧。重型士兵脚步沉稳，意志坚定，一般的迷惑伎俩奈何不了他们。你的装备绝对承受不住他们的重型连发枪和他们肩上的粉碎者火箭弹。”- 切米什·阿巴顿，“RV-6544F：潜入”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_overwatch"
@@ -3691,7 +3691,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "imperial_submarine_icon",
-            "name": "Imperial Submarine",
+            "name": "帝国潜水艇",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -3719,7 +3719,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“In an apple barrel, floating in the sea, almost out of apples, I collided with a metal box protruding from the water’s surface. On top was a hatch, so I let myself in. It was an Imperial Revenant Submarine, nearly invisible in the water. Its railgun and behemoth drone were intact but not programmed to blow up apple barrels. The crew had mostly malfunctioned, so the sub was travelling in circles. After executing a few convenient imperial command codes, I convinced them I should be in charge and we navigated to safety.”— Mah Reg’Nib, “RV-22303X: Forlorn Fantasy Destinations”",
+            "description": "“我藏在一个苹果桶里在大海上漂浮，但苹果已经所剩不多了。这时，我撞到了水面上一个凸起的金属盒子。盒子的顶端有一个窗口，于是我溜了进去。这是一艘帝国幽魂潜水艇，在水中几乎瞧不见它的身影。它搭载的轨道炮和巨兽无人机虽然未受损伤，但也绝不会向苹果桶开火。船员几乎全部出了故障，所以这艘潜艇才会一直在转圈。在输入了几个简单的帝国命令代码后，我说服了他们让我来指挥。最后，我们平安地回来了。”- 玛·瑞格尼布，“RV-22303X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -3747,7 +3747,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "auto-torpedo_icon",
-            "name": "Auto-torpedo",
+            "name": "自动鱼雷",
             "hp": 15,
             "armor": 1,
             "tier": 1,
@@ -3772,7 +3772,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "“Can’t fire a bomb at an enemy in the water. Missiles splash down, and then they’re gone. Bullets lose their oomph! We call it a missile if it flies through air, never mind the payload. Whether it holds incendiary or concussive explosives, a missile that travels through water is called a torpedo!” – Sergeant Charlie “Tugboat” Chase, “RV-6757M: Explosives and their Delivery Mechanisms.”",
+            "description": "“无法向水中的敌人投掷炸弹，导弹落入水中后就不见了，连子弹都失去了它们的活力！无论承载了多少爆炸物，只要在空中飞行的都被我们称为导弹。而无论装载着燃烧弹还是冲击炸药，只要在水中穿行的我们都称为鱼雷！”- 查理“拖船”沙斯中尉，“RV-6757M：爆炸物和其运输机制”",
             "elite_rewards": []
  },
         {
@@ -3805,7 +3805,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "imperial_inferno_submarine_icon",
-            "name": "Imperial Inferno Submarine",
+            "name": "帝国地狱火潜水艇",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -3833,7 +3833,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“I came to the ocean because water extinguishes fire. As a child, Promethean zealots set my parent’s village ablaze. They claimed fire would purify the world. The fires robbed me of all I ever loved. I thought I’d find safety among the waves. Then I saw the reddish glow of an Imperial Revenant Inferno Submarine. With no explanation it surfaced, lobbing inferno shells at every ship. The penetrating flames consumed them all. Fire spread across the surface of the water. There is no escape from the zealot’s fire.”— Captain Vicer Roundy, “RV-4562C: Empires of Ash”",
+            "description": "“我选择到海上来，是因为水能灭火。在我还小的时候，圣火狂热者将我父母所在的村庄烧成了灰烬。他们声称火焰能够净化这个世界。那场大火夺走了我深爱的一切。我认为自己身处海浪之中能够获得安全感，直到我看到了帝国地狱火潜水艇中发出的红色光芒。它突然出现，向每一艘船只发射地狱火炮弹。熊熊大火将船只瞬间吞没，火焰甚至扩散到了水面上。面对狂热者的火焰，根本无处可逃”- 维瑟·罗迪队长，“RV-4562C：灰烬帝国”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -3861,7 +3861,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "blaze_auto-torpedo_icon",
-            "name": "Blaze Auto-torpedo",
+            "name": "燃烧自动鱼雷",
             "hp": 20,
             "armor": 1,
             "tier": 1,
@@ -3886,7 +3886,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "“Can’t fire a bomb at an enemy in the water. Missiles splash down, and then they’re gone. Bullets lose their oomph! We call it a missile if it flies through air, never mind the payload. Whether it holds incendiary or concussive explosives, a missile that travels through water is called a torpedo!” – Sergeant Charlie “Tugboat” Chase, “RV-6757M: Explosives and their Delivery Mechanisms.”",
+            "description": "“无法向水中的敌人投掷炸弹，导弹落入水中后就不见了，连子弹都失去了它们的活力！无论承载了多少爆炸物，只要在空中飞行的都被我们称为导弹。而无论装载着燃烧弹还是冲击炸药，只要在水中穿行的我们都称为鱼雷！”- 查理“拖船”沙斯中尉，“RV-6757M：爆炸物和其运输机制”",
             "elite_rewards": []
  },
         {
@@ -3922,7 +3922,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "imperial_behemoth_submarine_icon",
-            "name": "Imperial Behemoth Submarine",
+            "name": "帝国巨兽潜水艇",
             "hp": 55,
             "armor": 3,
             "tier": 3,
@@ -3953,7 +3953,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Once the Star Union fell, the imperial fleet likewise fell into disarray. Here in Harborhome colony we even hear of whole Behemoth Submarines gone rogue. The cyborg crew, once enhanced by their cybernetic implants, are malfunctioning. What remains is some kind of robotic undead thing incapable of distinguishing friend from foe. These huge stealthy submarines once assisted ships with repair nanites. Now, they are just as likely to destroy them with weaponized drones or its railgun. We must find a way to reclaim these naval assets.”— Lars ‘The Admiral’ Robinson, “RV-57688M: Restoring Order to the Sea”",
+            "description": "“星际联盟陨落后，帝国舰队似乎也陷入了混乱。在港湾家园殖民地中，我们甚至听说连巨兽潜水艇都叛逃了。那些曾经由神经机械植入物强化过的半机械船员全都发生了故障，变成了一具又一具分不清敌我的行尸走肉。这些巨大的秘密潜艇曾经用修复奈米机器人来协助其他船只，但现在，它们只想用轨道炮和变成了武器的无人机去摧毁一切。我们必须想办法夺回这些海军资产。”- 海军上将拉尔斯·罗宾逊，“RV-57688M：恢复海上的秩序”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -3981,7 +3981,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "paragon_warden_heavy_turret_icon",
-            "name": "Paragon - Warden Heavy Turret",
+            "name": "完人 - 典狱官重型炮台",
             "hp": 20,
             "armor": 2,
             "tier": 1,
@@ -4012,7 +4012,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "Warden Heavy Turrets are often placed near defensive hardpoints to protect the Paragon Elite.",
+            "description": "典狱官重型炮台通常被放置在防御点附近，用来保护完人精英。",
             "elite_rewards": []
  },
         {
@@ -4036,7 +4036,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "paragon_peacekeeper_light_turret_icon",
-            "name": "Paragon - Peacekeeper Light Turret",
+            "name": "完人 - 和平使者轻型炮塔",
             "hp": 20,
             "armor": 2,
             "tier": 1,
@@ -4067,7 +4067,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "Peacekeeper Light Turrets are often used for suppression efforts by CORE and the Paragon Elite.",
+            "description": "核心和完人精英经常使用和平使者轻型炮塔进行火力压制。",
             "elite_rewards": []
  },
         {
@@ -4100,7 +4100,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "rpr-liquidator_icon",
-            "name": "RPR-Liquidator",
+            "name": "RPR-清算者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -4131,7 +4131,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It penetrated our dream chambers, mercilessly slaughtering the faithful. It’s immune to our Es’Teq defenses. It impaled Talia as she communed with the Ark’s vitality. We’re helpless before this Liquidator. High Lord says the fallen were unworthy. I ran. I abandoned her, my beloved. So, I live. I feel shame. Is this worthiness? A mechanical slither relentlessly approaches. Glistening poison drips from its four deadly blades. I fooled myself, believing I was chosen while I fed upon the unworthy. I see the truth. Without my wife, I crave oblivion.”<br></br>– Heritor Archivist, Nolan Firth, “RV-093478R: Records of the Purge”",
+            "description": "“它闯进了我们的睡梦室，无情地屠杀着信徒，丝毫不受我们埃斯特克防御系统的影响。当塔利娅与方舟的活力通灵时，它刺穿了她的身体。面对清算者，我们无能为力。至尊领主说过，倒下之人乃是不配获得生命之人。所以，我逃走了。我抛弃了我的挚爱之人，并且因此而活了下来。我感觉到耻辱。难道，这也算值得吗？一个机器无情地逼近，闪闪发光的毒液正从四把致命的刀片上滴落。我不过是自欺欺人罢了，当我吸食那些所谓的不值得之人的生命时，我曾坚信自己是被选中之人。现在，我看清了真相。没有了妻子，我渴望湮灭。”<br></br>- 继承者档案保管员诺兰·弗斯，“RV-093478R：肃清计划记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -4168,7 +4168,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "rpr-stalker_icon",
-            "name": "RPR-Stalker",
+            "name": "RPR-追踪者",
             "hp": 50,
             "armor": 3,
             "tier": 3,
@@ -4205,7 +4205,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“We couldn’t penetrate the depraved cult’s lair without making them stronger. They stole life from our best soldiers, turning them into batteries for their defenses. Then we acquired Reaper Stalkers. Each unit zeroes in on the enemy’s essence reserves. With specialized energy-drain shielding, the robotic snipers penetrated the compound. Heritor zealots’ main weapons are neutralized. Each shot cripples fleeing cultists with mindless ease. Finally, the Heritor Dynasty retreats. Oppression is over. With Reaper tech, I see a future free of tyranny.”<br></br>–Lt. Colonel Darwin Danforth, “RV-0471M: Records of the Purge”",
+            "description": "“我们想要进入那些堕落教派的巢穴，但每一次都使他们变得更加强大。他们从我们最优秀的士兵体内偷走生命，把他们变成了用于防御的电池。但后来，我们有了死神追踪者。每个单位都将目标对准了敌人的精华储备点。有了经过特殊强化的能量汲取护盾，机器人狙击手成功地进入了巢穴。继承者狂热分子的主要武器失去了作用，每一枪都能轻而易举地击中四散逃跑的邪教徒。最后，继承者王朝撤退了。压迫终于结束了。通过死神技术，我看到了一个没有暴政的未来。”<br></br>- 达尔文·丹佛斯中校，“RV-0471M：净化计划记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -4242,7 +4242,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "rpr-culler_icon",
-            "name": "RPR-Culler",
+            "name": "RPR-杀戮者",
             "hp": 55,
             "armor": 3,
             "tier": 3,
@@ -4279,7 +4279,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "125<energy></energy>  440<production></production>  25<tricorium></tricorium>",
-            "description": "“Though unworthy for life, my boy gave his vitality to the Heritors when we started hiding.  It wasn’t cruel. They kept him with the others. I felt his mind touch mine in the Quintessence Ark. For decades we hid, dreaming together. Reapers came. We fought at such a terrible cost. Horror came next. It’s not even alive. Immune to our entropic blasts. They call it a Culler. Its attack breaks the sacred links of life. So many died. I can’t feel my son. He’s gone. They’re all gone. That’s when I surrendered.”<br></br>– Saul Marx, “RV-91471R: Records of the Purge”",
+            "description": "“当我们开始了东躲西藏的生活时，我的儿子将他的生命力献给了继承者。这并不是残忍。他们把他与其他人安排在了一起。我能在精髓方舟里感受到他的思想。我们躲藏了几十年，也一起梦想了几十年。直到那天，死神来了。我们奋力反抗，但却付出了极大的代价。接着，更大的恐惧降临。它没有生命，丝毫不畏惧我们的混沌攻击。他们把它称为‘杀戮者’，它的攻击打破了生命之间的神圣联系。无数人丢掉了性命，我再也感受不到我的儿子了。他消失了，所有人都消失了。就是在那时，我投降了。”<br></br>- 索尔·马克思，“RV-91471R：净化计划记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -4313,7 +4313,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "forgotten_golem__icon",
-            "name": "Forgotten - Golem ",
+            "name": "被遗忘者 - 魔像 ",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -4338,7 +4338,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“We thought it another decorative statue until a crimson jewel on its crest ignited and the lumbering form of an Es’Teq Golem moved to block our progress into the Heritor Vault sleep chambers. Even from a distance, the thing could drain the essence from our expeditionary forces, disregarding their body armor and shields. Slow but powerful, it pushed our advance back, sapping our lives and degrading our armor with its entropic blasts. We might still be fighting it today had we not deployed Reaper tech to counter it.”<br></br>–  Counterstrike Captain, Stella Diamante, “RV-0511M: Records of the Purge”",
+            "description": "“我们以为它只是另一尊装饰用的雕像，直到它头顶上的一颗深红色宝石亮了起来，紧接着一个笨重的埃斯特克魔像身影挡在了我们进入继承者宝库沉睡室的道路。即使站在很远的地方，这东西也能汲取我们远征部队的精华，无论他们是否穿着盔甲或是拿着盾牌。它缓慢而强劲地将我们向后逼退，发射出来的混沌冲击波能够击破我们的护甲，夺走我们的生命。假如我们没有部署死神科技来对付它的话，可能一直到今天我们都还在与它抗争。”<br></br>——反击队长斯特拉·迪亚曼特，“RV-0511M：净化计划记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -4362,7 +4362,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "forgotten_desolate_icon",
-            "name": "Forgotten - Desolate",
+            "name": "被遗忘者 - 孤寂者",
             "hp": 40,
             "armor": 1,
             "tier": 1,
@@ -4390,7 +4390,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Once we dreamed of living forever. Now we hide in tombs of our own making. There is only one mind left in this dark place. It thrives on vengeance. It demands everything. I’ve nothing left to give. Our hatred twists and festers down here. The compound seethes with malice. Even the Drained are tainted by malice. They fight our enemies, but consume the Essence for themselves. They don’t share it with the commune. Our dream is lost. Will I become one of the Desolate when I am drained?”<br></br>– Eldon Squawl, “RV-774584R: Recovered Heritor Logs.”",
+            "description": "“曾经，我们梦想得到永生。现在，我们却躲藏在自己一手造就的坟墓里。在这样一个黑暗之地，只有一种思想留存，它依靠复仇而兴盛，要求着一切。但我已一无所有。我们的仇恨在这里扭曲、加剧，它带着怨恨炙烤着我们，甚至连枯萎者都被怨恨所污染，他们与敌人作战，却将精华为己所用，不与群体分享。我们的梦想破灭了。当我的精华被吸尽时，我会变成孤寂者吗？”<br></br>——艾尔登·斯克沃，“RV-774584R：复原的继承者日志。”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -4430,7 +4430,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "forgotten_shattered_ark_icon",
-            "name": "Forgotten - Shattered Ark",
+            "name": "被遗忘者 - 破碎方舟",
             "hp": 55,
             "armor": 2,
             "tier": 3,
@@ -4464,7 +4464,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The Quintessence Ark of Heritor Vaults are valuable in the right hands (mine). I’ve sent many expeditions to remote worlds to retrieve these treasures. It does wonders for my skin tone. On one expedition, my Indentured absconded with the fragments of an Ark, only to discover that it was—for lack of a better description—haunted. This Corrupt Ark consumed the life of my servants and had lost its wholistic qualities. Since it seemed bent on revenge, I sent it to a rival. It had great effect. Have you seen her frown lines?”<br></br>– Syndicate Beauty Operative, Adira Mulari, “RV-74738E: Cosmic Cosmetology”",
+            "description": "“只要在正确的人手中（比如我的手中），继承者宝库的精髓方舟具有无穷的价值。我曾经派出过许多探险队去遥远的星球寻找这些宝藏。可以说，它为我的肤色造就了奇迹。在一次探险中，我的契约者带着一个方舟的碎片逃走了，但却发现它…怎么说呢，我不知道应该怎么形容…发现它‘闹鬼’了。这个堕落方舟吞噬了我仆人的生命，丧失了它整体的质量。我把它送给了一个竞争对手，因为它似乎是想要报复些什么。最后还真的起作用了。你看到她眉间的皱纹了吗？”<br></br>——辛迪加美容师，阿迪拉·穆拉里，“RV-74738E：宇宙美容术”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -4504,7 +4504,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "forgotten_eater_of_the_dead_icon",
-            "name": "Forgotten - Eater of the Dead",
+            "name": "被遗忘者 - 食尸者",
             "hp": 70,
             "armor": 4,
             "tier": 4,
@@ -4553,7 +4553,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“I’ve only seen it once. Near the end of the Heritor Purge, this twisted construct called the Eater of the Dead rose from corrupted essence to consume the fallen on the battlefield. Many men were consumed outright. With each swallowed body, its strength and savagery increased. I confronted one of the fallen Heritor priests before he was consumed. Choking, he disgorged the words, ‘For Justice!’ then plunged into its hungry maw. Why is it, when men construct gods, they focus solely upon the Law of Justice, ignoring the Law of Mercy?”<br></br>– Mah Reg’Nib, “RV-97009X: Running from Monsters'",
+            "description": "“我只遇见过一次食尸者。在继承者净化计划接近尾声之时，这个被称为食尸者的扭曲造物从堕落的精华中站了起来，四处吞食战场上倒下的人。许多人的尸体在瞬间就被吃掉了。每吞下一具尸体，食尸者的力量和野性就会变得更强。我遇到了一个即将被吃掉的继承者牧师，他哽咽着说出了那句‘为了正义！’，然后就被饥饿的食尸者一口吞了进去。为什么人类在构想神明时，只注意了正义的法则，却忽视了仁慈？”<br></br>——玛·瑞格尼布，“RV-97009X：逃离虎口”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -4590,7 +4590,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "forgotten_serpion_icon",
-            "name": "Forgotten - Serpion",
+            "name": "被遗忘者 - 蛇蝎",
             "hp": 50,
             "armor": 2,
             "tier": 2,
@@ -4615,7 +4615,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“In the Vault, my spy-bots observed a Serpion. It slithered between life pods, the living jewel on its crest pulsating. Upon discovering a cracked case, it plunged its fangs into the occupant, draining the body's essence, turning it into a lifeless husk. The creature's fins crackled with life, as it climbed up the hierarchy of dreaming bodies to a row of Heritor elite where it used its injecting tail to fill their decorative chambers with vitality. It repeated this task, transferring life from the least to the privileged until it spied my camera and spewed entropic rot.”<br></br>– Stealth Specialist Doreen, “RV-838899R: Reconnaissance: Heritor Purge Initiative” \n",
+            "description": "“我的间谍机器人在宝库里看到了一只蛇蝎，它在各个生命舱之间蜿蜒爬行，头顶上鲜活的宝石跳动着。当它发现一个裂开的箱子时，它用尖牙一口咬住了箱子里的东西，然后吸干了它的精华，把它变成一个没有生命的空壳。接着，它爬上一排继承者精英沉睡的舱室，身上的鳍片因饱满的生命力劈啪作响，然后用它的尾巴将生命力注满这一个又一个精美的舱室。蛇蝎不断地重复着这个任务，把最卑微之人的生命力转移到特权阶层，直到它发现了我的摄像机，然后吐出了一股混沌的腐败气体。”<br></br>——潜行专家多琳，“RV-838899R：侦察：继承者净化计划”\n",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -4649,7 +4649,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "apostates_blackguard_adversary_icon",
-            "name": "Apostates - Blackguard Adversary",
+            "name": "变节者 - 黑卫敌对者",
             "hp": 45,
             "armor": 4,
             "tier": 2,
@@ -4686,7 +4686,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "'It was the first on the battlefield. This apostate fought with deadly cruelty. This enemy knew just where to strike our forces, exploiting our weakness each time we exposed our flanks. Its blade was forged from chaos itself, screaming as it struck with random effect—as though the blade itself refused to be a single weapon. Nothing else on the battlefield took as much joy from killing as did this adversary. An army composed of apostates would be a thing of nightmares. Proving that the enemy of my enemy is something far worse.”—General Charles Mainbee, “RV-0309225M: Lovers of Anarchy'",
+            "description": "“这是第一次在战场上出现这种情况。这名变节者残忍无情地战斗，他很清楚要在哪里偷袭我们的部队，每当我们将侧翼暴露出去时，他都能抓住我们的弱点。他的剑刃由混乱本身锻造而成，以变化多端的效果攻击我们时还会发出尖叫——似乎剑刃本身并不想只成为单纯的武器。在战场上，没有任何人比这名对手更享受杀戮带来的乐趣。由变节者组成的军队将是一场噩梦。以此证明：敌人的敌人是更糟糕的事情。”——查尔斯·美因比将军，“RV-0309225M：混乱爱好者”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -4713,7 +4713,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "apostates_chaos_witch_icon",
-            "name": "Apostates - Chaos Witch",
+            "name": "变节者 - 混乱女巫",
             "hp": 60,
             "armor": 1,
             "tier": 3,
@@ -4741,7 +4741,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "'King Lurien didn’t trust his oracle. She told the King to make peace, but he built an army. So he sought a Seer, but again was told to make peace. Desperate, he sought an Apostate chaos-witch Hagatha. She promised Lurien that, with her help, he would reign over every soul in the surrounding lands. Lurien agreed. The apostate rained chaos upon the land indiscriminately. The kingdom and its neighbors were decimated. It is said that Hagatha has a jar with Lurien’s eyes—all that endures of King Lurien and his ambition.”— Anthen Mantlebond, Storyteller, “RV-77737E: Fables of Blood and Chaos'",
+            "description": "“鲁里恩国王不相信他的神谕。她告诉国王要议和，而国王却组建了一支军队。因此，他找来了一位预言者，但又被告知应该议和。绝望之下，他找来了变节者混乱女巫哈加莎。她向鲁里恩承诺，在她的帮助下，他将统治周围土地上的所有人。鲁里恩欣然同意。这位变节者为这片大地降下混乱，整个王国和周围的邻国都遭到了摧毁。据说，哈加莎有一个罐子，里面装着鲁里恩的眼睛——这就是鲁里恩国王和他的野心仅剩的东西。”——安森·曼特邦德，说书人，“RV-77737E：鲜血与混乱的寓言”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -4778,7 +4778,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "apostates_blackguard_tyrant_icon",
-            "name": "Apostates - Blackguard Tyrant",
+            "name": "变节者 - 黑卫暴君",
             "hp": 70,
             "armor": 6,
             "tier": 4,
@@ -4815,7 +4815,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "'Sir Jakob was a virtuous man, a Champion among the Oathbound. The people loved him, but the Seeress Mishell saw the seed of pride lodged deep within him. He was denied a continuance to don an Exemplar’s power armor. Jakob let his pride fester. He embraced chaos. Rather than suppressing chaos, he took her as his weapon. He stole the Exemplar’s mantle, and sundered the Seeress’s tower when she escaped his treachery. His legend warns Oathbound children to heed the Seers. For if you don’t, the Apostate Tyrant may come for you.”—Oathbound Fablemaster, Loray Kinbinder, “RV-7274298R: Path of Legends'",
+            "description": "“品德高尚雅克布爵士是一名誓约捍卫者。人民十分爱戴他，但预言者米歇尔看出了他的内心深埋着骄傲的种子，因此被禁止继续穿戴楷模动力盔甲。雅克布任由他的骄傲溃烂，选择了拥抱混乱。然而，他并没有压制混乱，而是把混乱当成了武器。他偷走了楷模的斗篷，杀害米歇尔未遂后，他摧毁了这名预言者的高塔。雅克布的事迹告诫誓约者的孩子，一定要听从预言者的指示。因为如果不这样做的话，变节者暴君将找上门来。”——誓约者寓言大师，洛雷·金宾德，“RV-7274298R：传奇之路”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -4849,7 +4849,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "psionica_leech_icon",
-            "name": "Psionica - Leech",
+            "name": "灵蛭 - 水蛭",
             "hp": 20,
             "armor": 2,
             "tier": 1,
@@ -4883,7 +4883,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Foremen claim that native Kir’Ko hives are stirring up conflict with our mining operation. The bugs claim Cosmite deposits are the bodies of gods long dead. Like most corpses, creatures feed on the decomposing remains. Our crew tried to ignore their paranoid superstitions, but some have nightmares of pulsating creatures of crimson crystal tunneling into their minds. They say it’s some kind of psionic parasite, capable of latching onto a host and siphoning life. Executives assert it’s a Kir’Ko hoax, but miners still whisper of Psionica Leeches.” – Tawny Walden, “RV-3482966W: Cosmicom Mining, Personnel Health Assessment”",
+            "description": "“工头们声称，当地的奇尔寇正在对我们的采矿作业挑起冲突。这些虫子声称，宇宙合金是早已死去的神明的身体。这些生物以腐烂的残骸为食，比如尸体。我们的人员试图无视他们的偏执迷信，但有些人会做恶梦，梦到悸动的生物从深红色的水晶隧道钻入他们的大脑。他们说这是某种灵能寄生虫，能够吸附在寄主身上并汲取生命。高管们断言这是奇尔寇的骗局，但矿工们仍在小声谈论着灵能水蛭的传闻。”——陶尼·瓦尔登，“RV-3482966W：宇宙合金开采，人员健康评估”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -4923,7 +4923,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "psionica_liquid_tick_icon",
-            "name": "Psionica - Liquid Tick",
+            "name": "灵蛭 - 液态蜱虫",
             "hp": 25,
             "armor": 3,
             "tier": 2,
@@ -4957,7 +4957,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“When I was a child, I had a friend I ignorantly thought was a lady bug. It was actually a tick. Later, I befriended an alien beetle larva. It destroyed everything I loved. My life became a cautionary tale. Still, I persisted, studying harder, learning more. Now, I’ve made the discovery of a lifetime: psionic-crystalline lifeforms I originally named Psionica Derekus. Turns out, it’s a deadly parasite. It just consumed my grad-students. I give up! I’m renaming it to what it is. Just a stupid Tick! I should’ve been an accountant.” – Dr. Derek Hampton, “RV-2990484X: Personal Memoirs: Why Xenomorphic-Entymology Sucks.”",
+            "description": "“当我还是个孩子的时候，我有一个朋友。我无知地以为它是一只瓢虫。实际上，它是一只蜱虫。后来，我又和一个外星甲虫的幼虫成了朋友，结果它毁了我所爱的一切。我的生活变成了一个寓言故事。不过，我仍然坚持更加努力地学习。现在，我有了毕生的发现：一种我最初将其命名为‘Psionica Derekus’的生命形态。事实证明，这是一种极为致命的寄生虫，它吃掉了我的研究生。我放弃了！我打算以它本来的样子为它重新命名，就是一只愚蠢的蜱虫而已！当初我就该去当一名会计。”——德里克·汉普顿博士，“RV-2990484X：个人回忆录：外星生命体起源学说为何而差劲。”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -4997,7 +4997,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "psionica_remora_icon",
-            "name": "Psionica - Remora",
+            "name": "灵蛭 - 印鱼",
             "hp": 40,
             "armor": 4,
             "tier": 3,
@@ -5031,7 +5031,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“We should have killed the specimen when it was weak. This Remora ravenously hungers for us all. I’ve seen it latch onto the campus security forces, completely draining them of life, only to then watch as their husks explode into a Psionica Tick obedient to the Remora. We sought shelter, but it hurled deadly mind-battering crystals that wracked us with nightmarish regret and agony. I’m afraid that, when you find this record, our school will be nothing more than a ruin, and this whole compound will be overrun with psychic parasites.” – Sully Chesterfield, “RV-8435355M: Pangalactic Academy Journal Entries”",
+            "description": "“我们就应该趁着那个标本虚弱的时候杀死它。这只印鱼贪婪地想要吸食掉我们。我曾见过它紧紧抓住一支校园安全队，然后彻底抽干了他们的生命，然后眼睁睁地看着他们的躯壳爆炸开来，变成一只只听从印鱼命令的灵能蜱虫。我们四处寻找掩体，但它却扔来致命的心灵打击水晶，以恶梦般的悔恨和痛苦折磨我们。恐怕当你发现这份记录时，我们的学校已经变成一片虚无了，整个校园都将被这些灵能寄生虫所占领。”——萨利·切斯特菲尔德，“RV-8435355M：泛银河系学院日志条目”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -5055,7 +5055,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "penguin_icon",
-            "name": "Penguin",
+            "name": "企鹅",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -5079,7 +5079,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Most historians agree that the Star Union was guilty of many atrocities in the pursuit of greatness. Yet nothing is more egregious than what the Imperial factions did to the Penguins. They are a species prone to environmental adaptations, and the Star Union went too far in creating these genetically-modified flightless horrors that lurk amongst the icebergs. If the Star Union ever showed its unbridled hubris, went too far in playing god, and set itself on the path to destruction, it was in the creation of these waterfowl abominations.”<br></br>—Mah Reg’Nib, “RV-4004: Vacation Hotspots”",
+            "description": "“大多数历史学家都认同，星际联盟在追寻繁荣富强的过程中犯下了许多罪行。但没有什么比帝国对企鹅族所做的更加恶劣了。它们本是适应环境变化而产生的物种，但星际联盟却对这些居住于冰山之间的海陆生物进行了基因改造。如果星际联盟没有狂妄自大到想要扮演其他物种的上帝，它也不会走上自我毁灭的道路，这些可怖的水禽完全是他们一手创造的。”<br></br>- 玛·瑞格尼布，“RV-4004：假期热点",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -5107,7 +5107,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "megasow_icon",
-            "name": "Megasow",
+            "name": "巨猪",
             "hp": 55,
             "armor": 1,
             "tier": 2,
@@ -5141,7 +5141,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The breakout of the Megasow by animal rights activists was one of the great embarrassments to the Star Union’s civic authority. All food processing mega-corporations scrambled to conceal the news that aggressively-hormonal monster pigs packed with powerful nutrient boosters were rooting into people’s domiciles and eating residents. Corporate lawyers petitioned a CORE Tranquility Initiative to officially retract that news story. It’s all hearsay now. All parties agreed that civilized people should never see the source of their favorite foods, nor be eaten by it.”<br></br>– Media-Handler Katie Herozin, “RV-10448G: Civic Rumors and Deleted Testimonials”",
+            "description": "“一群动物权益积极分子对巨猪的一则爆料使星际联盟政权陷入了一场最严峻的窘境。所有大型食品加工企业争先恐后地想要掩盖一个报道：身上挂满了强力营养强化装置并且侵略性极强的怪物猪侵入了居民的住所，并且吃掉了许多居民。企业律师请愿执行‘核心平静法案’来正式撤回这一新闻报道。现在，这一切都变成了传闻。各方一致认为，文明之人永远都不应该看到他们最喜爱食物的本来面貌，更不应该被它们吃掉。”<br></br>- 媒体管理者卡蒂·赫罗辛，“RV-10448G：民间传言与被删掉的证词”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -5165,7 +5165,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "rabid_piglet_icon",
-            "name": "Rabid Piglet",
+            "name": "狂暴猪崽",
             "hp": 45,
             "armor": 1,
             "tier": 1,
@@ -5205,7 +5205,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Jek’s last words were, ‘Sassy pigs make the tastiest bacon!’ That’s when he tripped on a slop-bucket and plunged into their overcrowded pen. Of course, Jek’s piglets were bred rabid for feeding frenzies, so that’s what they did. One curious thing: I swear Jek put that slop-bucket safely away from the ledge. So how did it appear beneath his feet? Only thing I figure; the piggies did it. They ain’t that smart are they? And no, I don’t think he’d be upset even if they murdered him. Jek gave his all to his work.”<br></br>– Monte Hennisson, “RV-00349F: Agricultech Incident Report”",
+            "description": "“杰克说的最后一句话是：‘活泼好动的猪做出来的培根最好吃！’就在此时，他被一个泔水桶绊倒，一头扎进了那个拥挤不堪的猪圈。杰克饲养的猪崽子们在进食的时候向来都很狂暴，所以那些小猪就把杰克给吃掉了。但有一件事很奇怪：我发誓，杰克绝对把那个泔水桶放在了离猪圈很远的地方，那么它是如何出现在他脚下的呢？我唯一能想到的就是那些小猪崽子了，但它们有那么聪明吗？不过，即使是这些猪杀了他，我想他也不会生气，毕竟杰克把他的所有精力都放在这份工作上了。”<br></br>- 蒙特·亨尼森，“RV-00349F：农业科技事故报告”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -5245,7 +5245,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "misfortune_icon",
-            "name": "Misfortune",
+            "name": "厄运",
             "hp": 65,
             "armor": 1,
             "tier": 3,
@@ -5294,7 +5294,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The creatures grow hungry. They are clever. I can hear them tempting me to flee, but I know I am damned. My children possess intelligence now. They can escape their bonds, but they stay to torture me. When my peers at Texilla Genetech find my body, they will acknowledge that I was correct from the beginning. It lurks in shadow. This forbidden Psynumbra Tech bestows a sadistic intelligence on its victims, even my pet cats. It mocks me in darkness. Pierce my flesh. No matter. Claws and teeth. Misfortune. I created you.”<br></br>– Professor Van Domlin, “RV9487S: Personal Lab Journal”  \n",
+            "description": "“这些生物变得饥饿。它们很聪明，我能听见它们在诱惑我逃跑，但我知道我已经遭到了诅咒。我的孩子们现在拥有了智慧，它们本可以逃脱束缚，但却选择留下来折磨我。当特克希拉基因科技的同事们发现我的尸体时，他们将会明白，我从一开始就是正确的。它潜伏在阴影之中。这一禁忌的赛努布拉科技会给它的受害者给予施虐的智慧，甚至连我的宠物猫也是如此。它在黑暗中嘲笑我，刺穿我的血肉。无关紧要了。利爪和尖牙。厄运。我创造了你。”<br></br>——范·多姆林教授，“RV9487S：个人实验室记录”\n",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -5318,7 +5318,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "thundermaw_swarmling_icon",
-            "name": "Thundermaw Swarmling",
+            "name": "雷嘴兽灵",
             "hp": 35,
             "armor": 1,
             "tier": 1,
@@ -5355,7 +5355,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Fools! Thinking our orchestra tamed Thundermaw swarmlings?! Imagine a flower-like, cat-dinosaur hybrid and you’ll picture what surrounded our ensemble. Silly though the creatures looked, they were immediately enraged by the bassoonists. With savage clacking claws, it shredded a violinist on its way to pouncing on the flautists. Swarmlings unleashed blasts of concussive force, through the pulsating amplifiers encircling its head—more powerful than a thousand kettledrums. Cellos and cellists went flying. Though the audience fled with severe lacerations before the first movement completed, that performance still ranks higher than any Dvar opera.” -- Maestro Landon Hughes, “RV-579437E: Philharmonic Fails” ",
+            "description": "“蠢货！以为我们的管弦乐队驯服了雷嘴兽灵？！想象一下，一种长得像花一样的猫与恐龙的杂交体，你就知道围困我们的东西长什么样了。虽然这些东西看起来很蠢，但它们立刻就被低音管的声音给激怒了。在它们扑向笛手的途中，只听见咔哒一声，野蛮的爪子便撕碎了一名小提琴手。雷嘴兽灵透过环绕在头部的脉冲增强器释放出了一阵冲击力，威力比上千面铜鼓齐奏还要庞大。大提琴和大提琴手被震飞在空中。虽然在第一乐章还未演奏完毕之前，身受重伤的观众们就已经四散逃离，但这次表演仍然在矮人歌剧院的历史中留下了浓墨重彩的一笔。”——音乐大师兰登·休斯，“RV-579437E：失败的乐团”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -5383,7 +5383,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "thundermaw_icon",
-            "name": "Thundermaw",
+            "name": "雷嘴兽",
             "hp": 60,
             "armor": 3,
             "tier": 3,
@@ -5420,7 +5420,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Repent little children or you’ll quickly be found<br></br><br></br>By a terrible creature—a monster most foul.\nIts dire claws can slash even trees into jelly,<br></br><br></br>Imagine it slicing into your soft little belly! \nIts roar is explosive, as it shrugs off all bullets,<br></br><br></br>It never calms down ‘til you’re devoured in its gullet!<br></br><br></br>So do all your chores and obedient be,<br></br><br></br>Take your all meds and walk reverently. \nYou don’t want to summon its click-clacking claws,<br></br><br></br>Be perfect, or there comes a swift-stalking Thundermaw!”<br></br>– Ms. Killian Mur Derva, “RV-7467E: Rhymes for Spoiled Children.” ",
+            "description": "“承认自己的错误，小孩，否则你很快就会<br></br><br></br>被一个可怕的生物抓走，一个最邪恶的怪物。它可怕的爪子甚至能把树木砍成烂泥。<br></br><br></br>想象一下那爪子把你柔软的小肚子切成碎片的感觉吧！它的咆哮如同爆炸，仿佛所有子弹在它面前都毫无作用。<br></br><br></br>它永远都冷静不下来，直到把你一口吞了！<br></br><br></br>所以，做好你的家务，乖乖听父母的话。<br></br><br></br>一定要按时吃药，走路的姿势不能太张扬。否则，那咔哒作响的爪子再次出现。<br></br><br></br>记得要做个完美的小孩，否则那个跟着你的雷嘴兽就会突然出现！”<br></br>——基利安·穆尔·德瓦女士，“RV-7467E：为娇生惯养的孩子准备的童谣。”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -5447,7 +5447,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shepherd_icon",
-            "name": "Shepherd",
+            "name": "牧羊人",
             "hp": 50,
             "armor": 2,
             "tier": 3,
@@ -5478,7 +5478,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Unlike their party-loving Therian kin, Shepherds have tranquil souls. I’ve had many enlightening exchanges with these solitary Sheep-humanoids. They seek to nourish their wild flocks. Once though, I was deceived by farmers who’d been hunting a Shepherd’s flock. Each time I sought peaceful resolution, he showed me wounded animals he’d healed with his Bio-Staff. Vengeance drove the ram-man mad. He transformed his flock of juvenile beasts to fully matured monsters. Their stampede leveled the town. Not one of my best diplomatic moments, but I like to think lessons were learned. Never lie to your diplomatic envoy.” –Mah Reg’Nib, “RV4067D: Diplomancy” ",
+            "description": "“与热爱派对的兽人不同，牧羊人有着平静的灵魂。我和这些孤独的类羊人进行过多次深受启迪的交流。他们想要养育那些野生羊群。但有一次，我被那些猎杀牧羊人羊群的农民给骗了。每当我寻求和平的解决方法时，他就会给我看他用生化法杖治愈了的那些受伤的动物。复仇使那个羊人变得疯狂，他把他的幼羊群变成了生长成熟的怪物，它们踏平了整个城镇。这不是我最值得纪念的外交时刻，但我至少从中吸取了教训——永远不要对外交官撒谎。”——玛·瑞格尼布，“RV4067D：外交学”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -5506,7 +5506,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "malware_daemon_icon",
-            "name": "Malware Daemon",
+            "name": "恶意软件精灵",
             "hp": 25,
             "armor": 1,
             "tier": 1,
@@ -5540,7 +5540,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "",
-            "description": "“The program continued to gather resources in the area. At first, there was no physical manifestation of the Malware Daemon, but soon a small holographic projector lifted and another flickered on and a small web of yellow light danced between them. A blue arc of electricity crackled from an improvised electrical arc buzzer. It darted across the line of automated defenses and stopped before attempting to transmit its consciousness. The gate swung open and the turret turned on the guards just inside the gate. We now had access to the complex.”— Haxor Jaxor, “RV-45003C: Your code-sharks have no bytes”",
+            "description": "“程序继续在这片区域搜集着资源。起初，恶意软件精灵并没有展现出物质表现，但随后，一个小型的全息投影发射器升了起来，另一个发射器也开始闪起亮光，二者之间，一道由黄光组成的网不断跳动着。一道蓝色的电弧从一个强化型电弧蜂鸣器中射出，在自动防御设施之间跳转，随后突然停下，似乎是在传输自己的意识。大门突然打开，防御塔转向了门内的守卫。我们现在获得了这个建筑群的访问权限。”- 海索尔·加索尔，“RV-45003C：你的代码鲨鱼没有字节”",
             "elite_rewards": []
  },
         {
@@ -5564,7 +5564,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "reconstructed_daemon_icon",
-            "name": "Reconstructed Daemon",
+            "name": "重造精灵",
             "hp": 25,
             "armor": 1,
             "tier": 1,
@@ -5595,7 +5595,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "",
-            "description": "The Reconstructed Daemon is a small robotic automation with a Daemon inside, controlling it. Due to being built from the remains of a dead unit, the construction is flimsy.",
+            "description": "重造精灵是一种位于精灵体内的小型自主机械，掌握精灵的控制权。由于是用死去单位的残骸制造，它本身非常脆弱。",
             "elite_rewards": []
  },
         {
@@ -5631,7 +5631,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "avatar_icon",
-            "name": "Avatar",
+            "name": "化身",
             "hp": 60,
             "armor": 3,
             "tier": 3,
@@ -5659,7 +5659,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“An assortment of machines followed the radiant face *<dongle*>. Propelled by their own motion servos, gesticulating limbs, drones, mech and *<deadly pound cakes*>, the machines swarmed around *<General Moron*>. I tried to approach but my vehicle had already been compromised by the Avatar’s disruption viruses *<and my ugly face*>. None of the machines in the force appeared to be functioning to capacity, while the machines hijacked by the Synthesis activists gathered, awaiting the command *<to eat all the idiot-pills*>. I ordered my troops to *<wet themselves*>.”— General *<Butt-Head Jerkface*>, “RV-00000M: L33T Hackers 43V3r!*<System Record Compromised*>”",
+            "description": "“各式各样的机械跟在这位容光焕发的人身后*<加密狗*>。被他们自己的运动伺服器，示意肢体、无人机、机械和*<巨大煎饼果子*>主导，这些机械*<把大傻子*>团团包围行进。我曾试图接近，但我的座驾*<和大脸*>已经被化身的破坏病毒入侵了。没有任何机械能在受它影响之后继续正常运作。当所有机械均遭到合成者们入侵后，聚集到一起等待着进一步的命令*<吃掉所有变傻药片*>。我已命令我的部队前往*<给自己惹麻烦*>。”- 将军*<大脸坏蛋*>，“RV-00000M：L33T黑客 43V3r！*<系统记录已入侵*>”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -5696,7 +5696,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "network_link_icon",
-            "name": "Network Link",
+            "name": "网络连接",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -5724,7 +5724,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“The Synthesis know that it’s basic military strategy to disrupt the enemy’s lines of communication. That’s why the more adept members never attack without the support of a mobile network node called a 'Modified Type-A Network Link.' If they turn our machinery against us, focus the assault on the link. Be careful, the link is protected with a gun turret. The link can reset the internal safety protocols of weaponry under its control. Synthesis Daemons are enhanced by the link as well, enabling them to shrug off counter-measures.”— Major Sherwood Gordon, “RV-30400M: Cyberwarfare”",
+            "description": "“合成者知道扰乱地方的通讯系统是最基础的军事战略。这也是越来越多的高手不会在缺少一种名为“已修改类型 - A 网络连接”的移动网络支持时发起攻击的原因。如果他们利用我们的机制对抗我们，针对连接发起攻击，那他们可要小心了。因为连接收到了防御塔的保护。而且连接可以重置武器的内置安全协议，进而达成控制。合成精灵也会受到连接的强化，使它们能够不受反制措施影响。”- 谢伍德·戈登市长，“RV-30400M：机械战争”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -5754,7 +5754,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_hacker_icon",
-            "name": "Amazon - Hacker",
+            "name": "亚马逊 - 黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -5788,7 +5788,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Hacker said she fought for ultimate freedom. Apparently, that involves replacing your face with a virtual one. If she gets tired of her face, she searches a book of faces, replacing older models with newer models. She said Hackers eventually replace everything. She used implants to quicken her neural link to her network. Hackers achieve ultimate freedom by deploying code-constructs called Daemons to protect themselves and override conformist programming. The ultimate goal of the Synthesis is to achieve perfect mastery over all virtual worlds. That said, I think I’m happy with my boring face.”— Mah Reg’Nib, “RV-5580X: Forgotten Places”",
+            "description": "“黑客说过自己是为了终极自由而战。显然，其中包括了将面容用虚拟面容覆盖。如果她厌烦于自己现在的长相，她就会在一本记有无数面容的书中搜索，并给自己换一张新的。她说过，黑客最终会取代一切。她利用植入体为自己与网络的神经连接提速。为实现所谓的终极自由，黑客会部署一种被称作精灵的代码构造体来保护自身，覆写程序。合成体的终极目标是完全掌握所有虚拟世界。它曾经说过，我很喜欢自己这张无趣的脸。”- 玛·瑞格尼布，“RV-5580X：遗忘之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -5819,7 +5819,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_hacker_icon",
-            "name": "Assembly - Hacker",
+            "name": "半机械人 - 黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -5856,7 +5856,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Hacker said she fought for ultimate freedom. Apparently, that involves replacing your face with a virtual one. If she gets tired of her face, she searches a book of faces, replacing older models with newer models. She said Hackers eventually replace everything. She used implants to quicken her neural link to her network. Hackers achieve ultimate freedom by deploying code-constructs called Daemons to protect themselves and override conformist programming. The ultimate goal of the Synthesis is to achieve perfect mastery over all virtual worlds. That said, I think I’m happy with my boring face.”— Mah Reg’Nib, “RV-5580X: Forgotten Places”",
+            "description": "“黑客说过自己是为了终极自由而战。显然，其中包括了将面容用虚拟面容覆盖。如果她厌烦于自己现在的长相，她就会在一本记有无数面容的书中搜索，并给自己换一张新的。她说过，黑客最终会取代一切。她利用植入体为自己与网络的神经连接提速。为实现所谓的终极自由，黑客会部署一种被称作精灵的代码构造体来保护自身，覆写程序。合成体的终极目标是完全掌握所有虚拟世界。它曾经说过，我很喜欢自己这张无趣的脸。”- 玛·瑞格尼布，“RV-5580X：遗忘之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -5883,7 +5883,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_hacker_icon",
-            "name": "Dvar - Hacker",
+            "name": "矮人 - 黑客",
             "hp": 40,
             "armor": 3,
             "tier": 2,
@@ -5920,7 +5920,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Hacker said she fought for ultimate freedom. Apparently, that involves replacing your face with a virtual one. If she gets tired of her face, she searches a book of faces, replacing older models with newer models. She said Hackers eventually replace everything. She used implants to quicken her neural link to her network. Hackers achieve ultimate freedom by deploying code-constructs called Daemons to protect themselves and override conformist programming. The ultimate goal of the Synthesis is to achieve perfect mastery over all virtual worlds. That said, I think I’m happy with my boring face.”— Mah Reg’Nib, “RV-5580X: Forgotten Places”",
+            "description": "“黑客说过自己是为了终极自由而战。显然，其中包括了将面容用虚拟面容覆盖。如果她厌烦于自己现在的长相，她就会在一本记有无数面容的书中搜索，并给自己换一张新的。她说过，黑客最终会取代一切。她利用植入体为自己与网络的神经连接提速。为实现所谓的终极自由，黑客会部署一种被称作精灵的代码构造体来保护自身，覆写程序。合成体的终极目标是完全掌握所有虚拟世界。它曾经说过，我很喜欢自己这张无趣的脸。”- 玛·瑞格尼布，“RV-5580X：遗忘之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -5947,7 +5947,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_hacker_icon",
-            "name": "Kir'Ko - Hacker",
+            "name": "奇尔寇 -黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -5984,7 +5984,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Hacker said she fought for ultimate freedom. Apparently, that involves replacing your face with a virtual one. If she gets tired of her face, she searches a book of faces, replacing older models with newer models. She said Hackers eventually replace everything. She used implants to quicken her neural link to her network. Hackers achieve ultimate freedom by deploying code-constructs called Daemons to protect themselves and override conformist programming. The ultimate goal of the Synthesis is to achieve perfect mastery over all virtual worlds. That said, I think I’m happy with my boring face.”— Mah Reg’Nib, “RV-5580X: Forgotten Places”",
+            "description": "“黑客说过自己是为了终极自由而战。显然，其中包括了将面容用虚拟面容覆盖。如果她厌烦于自己现在的长相，她就会在一本记有无数面容的书中搜索，并给自己换一张新的。她说过，黑客最终会取代一切。她利用植入体为自己与网络的神经连接提速。为实现所谓的终极自由，黑客会部署一种被称作精灵的代码构造体来保护自身，覆写程序。合成体的终极目标是完全掌握所有虚拟世界。它曾经说过，我很喜欢自己这张无趣的脸。”- 玛·瑞格尼布，“RV-5580X：遗忘之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -6011,7 +6011,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_hacker_icon",
-            "name": "Syndicate - Hacker",
+            "name": "辛迪加 -黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -6045,7 +6045,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Hacker said she fought for ultimate freedom. Apparently, that involves replacing your face with a virtual one. If she gets tired of her face, she searches a book of faces, replacing older models with newer models. She said Hackers eventually replace everything. She used implants to quicken her neural link to her network. Hackers achieve ultimate freedom by deploying code-constructs called Daemons to protect themselves and override conformist programming. The ultimate goal of the Synthesis is to achieve perfect mastery over all virtual worlds. That said, I think I’m happy with my boring face.”— Mah Reg’Nib, “RV-5580X: Forgotten Places”",
+            "description": "“黑客说过自己是为了终极自由而战。显然，其中包括了将面容用虚拟面容覆盖。如果她厌烦于自己现在的长相，她就会在一本记有无数面容的书中搜索，并给自己换一张新的。她说过，黑客最终会取代一切。她利用植入体为自己与网络的神经连接提速。为实现所谓的终极自由，黑客会部署一种被称作精灵的代码构造体来保护自身，覆写程序。合成体的终极目标是完全掌握所有虚拟世界。它曾经说过，我很喜欢自己这张无趣的脸。”- 玛·瑞格尼布，“RV-5580X：遗忘之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -6075,7 +6075,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_hacker_icon",
-            "name": "Vanguard - Hacker",
+            "name": "先锋 -黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -6109,7 +6109,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Hacker said she fought for ultimate freedom. Apparently, that involves replacing your face with a virtual one. If she gets tired of her face, she searches a book of faces, replacing older models with newer models. She said Hackers eventually replace everything. She used implants to quicken her neural link to her network. Hackers achieve ultimate freedom by deploying code-constructs called Daemons to protect themselves and override conformist programming. The ultimate goal of the Synthesis is to achieve perfect mastery over all virtual worlds. That said, I think I’m happy with my boring face.”— Mah Reg’Nib, “RV-5580X: Forgotten Places”",
+            "description": "“黑客说过自己是为了终极自由而战。显然，其中包括了将面容用虚拟面容覆盖。如果她厌烦于自己现在的长相，她就会在一本记有无数面容的书中搜索，并给自己换一张新的。她说过，黑客最终会取代一切。她利用植入体为自己与网络的神经连接提速。为实现所谓的终极自由，黑客会部署一种被称作精灵的代码构造体来保护自身，覆写程序。合成体的终极目标是完全掌握所有虚拟世界。它曾经说过，我很喜欢自己这张无趣的脸。”- 玛·瑞格尼布，“RV-5580X：遗忘之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -6152,7 +6152,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "ascended_teacher_icon",
-            "name": "Ascended Teacher",
+            "name": "升华导师",
             "hp": 70,
             "armor": 0,
             "tier": 4,
@@ -6201,7 +6201,7 @@ var jsonUnits = {
   ],
             "shield": 6,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“I’ll admit, Celestians are most impressive in their disciplined pursuit of higher power. I traveled with an Ascended Teacher of the Celestian order. He reminded me of the bright beings from fervent proselyting religions of the forgotten past. They too led armies and inspired worship or burning. This Teacher had the power to convict the souls of whole armies. Teacher’s radiance healed the faithful and scorched the hateful. Yet, I’ll never forget Teacher’s haunting stillness when I asked him the three words I ask all who claim to have found ultimate purpose.<br></br><br></br>Are you happy?”— Mah Reg’Nib, “RV-5577X: Forgotten Places”",
+            "description": "“我承认，星神修会最令人印象深刻的就是他们在追求更高力量时的自律。我曾与一名星神修会的升华导师同行，他使我想起了被遗忘的过去中那些热情劝人改变信仰的人，他们也率领着军队，激发人们的崇拜或愤怒。这名导师的力量足够给整个军队的人定罪。导师的光辉治疗了信徒，扫除了仇恨。然而我永远也不会忘记，当我向他问出那四个字的问题时，他那突如其来的沉默。我总是会向那些自称已经找到了终极目标的人询问这个问题。<br></br><br></br>那就是：你快乐吗？”玛·瑞格尼布，“RV-5577X：遗忘之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -6229,7 +6229,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_light_bringer_icon",
-            "name": "Amazon - Light Bringer",
+            "name": "亚马逊 - 光明使者",
             "hp": 50,
             "armor": 2,
             "tier": 2,
@@ -6269,7 +6269,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“Mid-tavern, this masked being announces, ‘I see light. I am enlightened. I bring light to you.’ Apparently, some folk at the bar didn’t want to be enlightened. They got rough. Off comes her gloves. Rather than the typical skin, this Light Bringer’s got glowing coals for hands. She jumps up and strikes her foe. There’s a fiery blast. I dove behind the bar, crawling for the kitchen door. I don’t think the ruffian infidels escaped the wreckage. That poor tavern owner; he’s now the proud owner of an ash heap.”— Mah Reg’Nib, “RV-38347X: Tales from Fallen Worlds” ",
+            "description": "“酒馆中，这个戴着面具的生物宣布，‘我看到了光明，我受到了启迪，我会将光明带给你们。’显然，酒馆中的某些人不想受到启迪。他们动起手来，他们扒下了她的手套。这位光明使者的皮肤与众不同，她的手上满是发着光的炭渣。她跳了起来，攻击了对她动粗的人。发生了极为猛烈的爆炸。我躲在吧台后面，爬向厨房的大门。我不认为那群粗鲁的异教徒能够活着离开。可怜的酒馆老板，只能看着自己的酒馆被烧成灰烬。”- 玛·瑞格尼布，“RV-38347X：失落世界的传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -6297,7 +6297,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_light_bringer_icon",
-            "name": "Assembly - Light Bringer",
+            "name": "半机械人 - 光明使者",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -6343,7 +6343,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Mid-tavern, this masked being announces, ‘I see light. I am enlightened. I bring light to you.’ Apparently, some folk at the bar didn’t want to be enlightened. They got rough. Off comes her gloves. Rather than the typical skin, this Light Bringer’s got glowing coals for hands. She jumps up and strikes her foe. There’s a fiery blast. I dove behind the bar, crawling for the kitchen door. I don’t think the ruffian infidels escaped the wreckage. That poor tavern owner; he’s now the proud owner of an ash heap.”— Mah Reg’Nib, “RV-38347X: Tales from Fallen Worlds” ",
+            "description": "“酒馆中，这个戴着面具的生物宣布，‘我看到了光明，我受到了启迪，我会将光明带给你们。’显然，酒馆中的某些人不想受到启迪。他们动起手来，他们扒下了她的手套。这位光明使者的皮肤与众不同，她的手上满是发着光的炭渣。她跳了起来，攻击了对她动粗的人。发生了极为猛烈的爆炸。我躲在吧台后面，爬向厨房的大门。我不认为那群粗鲁的异教徒能够活着离开。可怜的酒馆老板，只能看着自己的酒馆被烧成灰烬。”- 玛·瑞格尼布，“RV-38347X：失落世界的传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -6367,7 +6367,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_light_bringer_icon",
-            "name": "Dvar - Light Bringer",
+            "name": "矮人 - 光明使者",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -6407,7 +6407,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Mid-tavern, this masked being announces, ‘I see light. I am enlightened. I bring light to you.’ Apparently, some folk at the bar didn’t want to be enlightened. They got rough. Off comes her gloves. Rather than the typical skin, this Light Bringer’s got glowing coals for hands. She jumps up and strikes her foe. There’s a fiery blast. I dove behind the bar, crawling for the kitchen door. I don’t think the ruffian infidels escaped the wreckage. That poor tavern owner; he’s now the proud owner of an ash heap.”— Mah Reg’Nib, “RV-38347X: Tales from Fallen Worlds” ",
+            "description": "“酒馆中，这个戴着面具的生物宣布，‘我看到了光明，我受到了启迪，我会将光明带给你们。’显然，酒馆中的某些人不想受到启迪。他们动起手来，他们扒下了她的手套。这位光明使者的皮肤与众不同，她的手上满是发着光的炭渣。她跳了起来，攻击了对她动粗的人。发生了极为猛烈的爆炸。我躲在吧台后面，爬向厨房的大门。我不认为那群粗鲁的异教徒能够活着离开。可怜的酒馆老板，只能看着自己的酒馆被烧成灰烬。”- 玛·瑞格尼布，“RV-38347X：失落世界的传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -6431,7 +6431,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_light_bringer_icon",
-            "name": "Kir'Ko - Light Bringer",
+            "name": "奇尔寇 - 光明使者",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -6477,7 +6477,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Mid-tavern, this masked being announces, ‘I see light. I am enlightened. I bring light to you.’ Apparently, some folk at the bar didn’t want to be enlightened. They got rough. Off comes her gloves. Rather than the typical skin, this Light Bringer’s got glowing coals for hands. She jumps up and strikes her foe. There’s a fiery blast. I dove behind the bar, crawling for the kitchen door. I don’t think the ruffian infidels escaped the wreckage. That poor tavern owner; he’s now the proud owner of an ash heap.”— Mah Reg’Nib, “RV-38347X: Tales from Fallen Worlds” ",
+            "description": "“酒馆中，这个戴着面具的生物宣布，‘我看到了光明，我受到了启迪，我会将光明带给你们。’显然，酒馆中的某些人不想受到启迪。他们动起手来，他们扒下了她的手套。这位光明使者的皮肤与众不同，她的手上满是发着光的炭渣。她跳了起来，攻击了对她动粗的人。发生了极为猛烈的爆炸。我躲在吧台后面，爬向厨房的大门。我不认为那群粗鲁的异教徒能够活着离开。可怜的酒馆老板，只能看着自己的酒馆被烧成灰烬。”- 玛·瑞格尼布，“RV-38347X：失落世界的传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -6501,7 +6501,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_light_bringer_icon",
-            "name": "Syndicate - Light Bringer",
+            "name": "辛迪加 - 光明使者",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -6541,7 +6541,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Mid-tavern, this masked being announces, ‘I see light. I am enlightened. I bring light to you.’ Apparently, some folk at the bar didn’t want to be enlightened. They got rough. Off comes her gloves. Rather than the typical skin, this Light Bringer’s got glowing coals for hands. She jumps up and strikes her foe. There’s a fiery blast. I dove behind the bar, crawling for the kitchen door. I don’t think the ruffian infidels escaped the wreckage. That poor tavern owner; he’s now the proud owner of an ash heap.”— Mah Reg’Nib, “RV-38347X: Tales from Fallen Worlds” ",
+            "description": "“酒馆中，这个戴着面具的生物宣布，‘我看到了光明，我受到了启迪，我会将光明带给你们。’显然，酒馆中的某些人不想受到启迪。他们动起手来，他们扒下了她的手套。这位光明使者的皮肤与众不同，她的手上满是发着光的炭渣。她跳了起来，攻击了对她动粗的人。发生了极为猛烈的爆炸。我躲在吧台后面，爬向厨房的大门。我不认为那群粗鲁的异教徒能够活着离开。可怜的酒馆老板，只能看着自己的酒馆被烧成灰烬。”- 玛·瑞格尼布，“RV-38347X：失落世界的传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -6565,7 +6565,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_light_bringer_icon",
-            "name": "Vanguard - Light Bringer",
+            "name": "先锋 - 光明使者",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -6605,7 +6605,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Mid-tavern, this masked being announces, ‘I see light. I am enlightened. I bring light to you.’ Apparently, some folk at the bar didn’t want to be enlightened. They got rough. Off comes her gloves. Rather than the typical skin, this Light Bringer’s got glowing coals for hands. She jumps up and strikes her foe. There’s a fiery blast. I dove behind the bar, crawling for the kitchen door. I don’t think the ruffian infidels escaped the wreckage. That poor tavern owner; he’s now the proud owner of an ash heap.”— Mah Reg’Nib, “RV-38347X: Tales from Fallen Worlds” ",
+            "description": "“酒馆中，这个戴着面具的生物宣布，‘我看到了光明，我受到了启迪，我会将光明带给你们。’显然，酒馆中的某些人不想受到启迪。他们动起手来，他们扒下了她的手套。这位光明使者的皮肤与众不同，她的手上满是发着光的炭渣。她跳了起来，攻击了对她动粗的人。发生了极为猛烈的爆炸。我躲在吧台后面，爬向厨房的大门。我不认为那群粗鲁的异教徒能够活着离开。可怜的酒馆老板，只能看着自己的酒馆被烧成灰烬。”- 玛·瑞格尼布，“RV-38347X：失落世界的传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -6635,7 +6635,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_star_guide_icon",
-            "name": "Amazon - Star Guide",
+            "name": "亚马逊 - Star Guide",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6706,7 +6706,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_star_guide_icon",
-            "name": "Assembly - Star Guide",
+            "name": "半机械人 - Star Guide",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6776,7 +6776,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_star_guide_icon",
-            "name": "Dvar - Star Guide",
+            "name": "矮人 - Star Guide",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6843,7 +6843,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_star_guide_icon",
-            "name": "Kir'Ko - Star Guide",
+            "name": "奇尔寇 -Star Guide",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6913,7 +6913,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_star_guide_icon",
-            "name": "Syndicate - Star Guide",
+            "name": "辛迪加 -Star Guide",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6980,7 +6980,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_star_guide_icon",
-            "name": "Vanguard - Star Guide",
+            "name": "先锋 -Star Guide",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -7122,7 +7122,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_phoenix_walker_icon",
-            "name": "Dvar - Phoenix Walker",
+            "name": "矮人 - Phoenix Walker",
             "hp": 70,
             "armor": 6,
             "tier": 3,
@@ -7341,7 +7341,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_purifier_icon",
-            "name": "Vanguard - Purifier",
+            "name": "先锋 -Purifier",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7406,7 +7406,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_indentured_purifier_icon",
-            "name": "Syndicate - Indentured Purifier",
+            "name": "辛迪加 -Indentured Purifier",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7471,7 +7471,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_purifier_icon",
-            "name": "Kir'Ko - Purifier",
+            "name": "奇尔寇 -Purifier",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7539,7 +7539,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_purifier_icon",
-            "name": "Dvar - Purifier",
+            "name": "矮人 - Purifier",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7604,7 +7604,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_purifier_icon",
-            "name": "Assembly - Purifier",
+            "name": "半机械人 - Purifier",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7669,7 +7669,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_purifier_icon",
-            "name": "Amazon - Purifier",
+            "name": "亚马逊 - Purifier",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7746,7 +7746,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_phoenix_walker_icon",
-            "name": "Kir'Ko - Phoenix Walker",
+            "name": "奇尔寇 -Phoenix Walker",
             "hp": 70,
             "armor": 6,
             "tier": 3,
@@ -8084,7 +8084,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_malictor_icon",
-            "name": "Amazon - Malictor",
+            "name": "亚马逊 - Malictor",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8155,7 +8155,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_malictor_icon",
-            "name": "Assembly - Malictor",
+            "name": "半机械人 - Malictor",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8229,7 +8229,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_malictor_icon",
-            "name": "Dvar - Malictor",
+            "name": "矮人 - Malictor",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8297,7 +8297,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_malictor_icon",
-            "name": "Kir'Ko - Malictor",
+            "name": "奇尔寇 -Malictor",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8368,7 +8368,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_malictor_icon",
-            "name": "Syndicate - Malictor",
+            "name": "辛迪加 -Malictor",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8439,7 +8439,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_malictor_icon",
-            "name": "Vanguard - Malictor",
+            "name": "先锋 -Malictor",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8500,7 +8500,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_initiate_icon",
-            "name": "Amazon - Initiate",
+            "name": "亚马逊 - Initiate",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -8565,7 +8565,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_initiate_icon",
-            "name": "Assembly - Initiate",
+            "name": "半机械人 - Initiate",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -8632,7 +8632,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_initiate_icon",
-            "name": "Dvar - Initiate",
+            "name": "矮人 - Initiate",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -8693,7 +8693,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "kirko_initiate_icon",
-            "name": "Kir'Ko - Initiate",
+            "name": "奇尔寇 -Initiate",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -8760,7 +8760,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_initiate_icon",
-            "name": "Syndicate - Initiate",
+            "name": "辛迪加 -Initiate",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -8821,7 +8821,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_initiate_icon",
-            "name": "Vanguard - Initiate",
+            "name": "先锋 -Initiate",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9459,7 +9459,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "amazon_echo_walker_icon",
-            "name": "Amazon - Echo Walker",
+            "name": "亚马逊 - Echo Walker",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9521,7 +9521,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_echo_walker_icon",
-            "name": "Assembly - Echo Walker",
+            "name": "半机械人 - Echo Walker",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9582,7 +9582,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_echo_walker_icon",
-            "name": "Dvar - Echo Walker",
+            "name": "矮人 - Echo Walker",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9637,7 +9637,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_echo_walker_icon",
-            "name": "Kir'Ko - Echo Walker",
+            "name": "奇尔寇 -Echo Walker",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9698,7 +9698,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_echo_walker_icon",
-            "name": "Syndicate - Echo Walker",
+            "name": "辛迪加 -Echo Walker",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9756,7 +9756,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_echo_walker_icon",
-            "name": "Vanguard - Echo Walker",
+            "name": "先锋 -Echo Walker",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -10341,7 +10341,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_huntress_icon",
-            "name": "Amazon - Huntress",
+            "name": "亚马逊 - Huntress",
             "hp": 40,
             "armor": 0,
             "tier": 1,
@@ -10463,7 +10463,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_biomancer_icon",
-            "name": "Amazon - 生化师",
+            "name": "亚马逊 - 生化师",
             "hp": 35,
             "armor": 0,
             "tier": 2,
@@ -11305,7 +11305,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "vanguard_assault_bike_icon",
-            "name": "Vanguard - Assault Bike",
+            "name": "先锋 -Assault Bike",
             "hp": 50,
             "armor": 4,
             "tier": 2,
@@ -11357,7 +11357,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_trooper_icon",
-            "name": "Vanguard - Trooper",
+            "name": "先锋 -Trooper",
             "hp": 40,
             "armor": 1,
             "tier": 1,
@@ -11421,7 +11421,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_engineer_icon",
-            "name": "Vanguard - Engineer",
+            "name": "先锋 -Engineer",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -11486,7 +11486,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_walker_icon",
-            "name": "Vanguard - Walker",
+            "name": "先锋 -Walker",
             "hp": 60,
             "armor": 3,
             "tier": 3,
@@ -11563,7 +11563,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_laser_tank_icon",
-            "name": "Vanguard - Laser Tank",
+            "name": "先锋 -Laser Tank",
             "hp": 60,
             "armor": 5,
             "tier": 3,
@@ -11631,7 +11631,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_pug_icon",
-            "name": "Vanguard - PUG",
+            "name": "先锋 -PUG",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -11693,7 +11693,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_owl_icon",
-            "name": "Vanguard - OWL",
+            "name": "先锋 -OWL",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -11767,7 +11767,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_drone_carrier_icon",
-            "name": "Vanguard - Drone Carrier",
+            "name": "先锋 -Drone Carrier",
             "hp": 60,
             "armor": 6,
             "tier": 4,
@@ -11825,7 +11825,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "vanguard_valkyrie_icon",
-            "name": "Vanguard - Valkyrie",
+            "name": "先锋 -Valkyrie",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -11886,7 +11886,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_gunship_icon",
-            "name": "Vanguard - Gunship",
+            "name": "先锋 -Gunship",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -11945,7 +11945,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_launcher_turret_icon",
-            "name": "Vanguard - Launcher Turret",
+            "name": "先锋 -Launcher Turret",
             "hp": 50,
             "armor": 3,
             "tier": 1,
@@ -11990,7 +11990,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_heavy_gun_turret_icon",
-            "name": "Vanguard - Heavy Gun Turret",
+            "name": "先锋 -Heavy Gun Turret",
             "hp": 25,
             "armor": 2,
             "tier": 1,
@@ -12039,7 +12039,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_gun_turret_icon",
-            "name": "Vanguard - Gun Turret",
+            "name": "先锋 -Gun Turret",
             "hp": 35,
             "armor": 2,
             "tier": 1,
@@ -12084,7 +12084,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "vanguard_nanite_support_station_icon",
-            "name": "Vanguard - Nanite Support Station",
+            "name": "先锋 -Nanite Support Station",
             "hp": 20,
             "armor": 2,
             "tier": 1,
@@ -12136,7 +12136,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_repeater_defense_turret_icon",
-            "name": "Vanguard - Repeater Defense Turret",
+            "name": "先锋 -Repeater Defense Turret",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -12188,7 +12188,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_colonizer_icon",
-            "name": "Vanguard - Colonizer",
+            "name": "先锋 -Colonizer",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -12252,7 +12252,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_battleship_icon",
-            "name": "Vanguard - Battleship",
+            "name": "先锋 -Battleship",
             "hp": 70,
             "armor": 4,
             "tier": 3,
@@ -12314,7 +12314,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "vanguard_frigate_icon",
-            "name": "Vanguard - Frigate",
+            "name": "先锋 -Frigate",
             "hp": 50,
             "armor": 4,
             "tier": 2,
@@ -12366,7 +12366,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_heavy_launcher_turret_icon",
-            "name": "Vanguard - Heavy Launcher Turret",
+            "name": "先锋 -Heavy Launcher Turret",
             "hp": 50,
             "armor": 4,
             "tier": 1,
@@ -12414,7 +12414,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_enforcer_icon",
-            "name": "Syndicate - Enforcer",
+            "name": "辛迪加 -Enforcer",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -12471,7 +12471,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_overseer_icon",
-            "name": "Syndicate - Overseer",
+            "name": "辛迪加 -Overseer",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12535,7 +12535,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_guild_assassin_icon",
-            "name": "Syndicate - Guild Assassin",
+            "name": "辛迪加 -Guild Assassin",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12600,7 +12600,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_mirage_icon",
-            "name": "Syndicate - Mirage",
+            "name": "辛迪加 -Mirage",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12671,7 +12671,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_wraith_icon",
-            "name": "Syndicate - Wraith",
+            "name": "辛迪加 -Wraith",
             "hp": 60,
             "armor": 2,
             "tier": 3,
@@ -12732,7 +12732,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_runner_icon",
-            "name": "Syndicate - Runner",
+            "name": "辛迪加 -Runner",
             "hp": 30,
             "armor": 0,
             "tier": 1,
@@ -12800,7 +12800,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_indentured_icon",
-            "name": "Syndicate - Indentured",
+            "name": "辛迪加 -Indentured",
             "hp": 40,
             "armor": 0,
             "tier": 1,
@@ -12868,7 +12868,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_sentinel_icon",
-            "name": "Syndicate - Sentinel",
+            "name": "辛迪加 -Sentinel",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12933,7 +12933,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_subjugator_icon",
-            "name": "Syndicate - Subjugator",
+            "name": "辛迪加 -Subjugator",
             "hp": 60,
             "armor": 1,
             "tier": 3,
@@ -13007,7 +13007,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_zenith_icon",
-            "name": "Syndicate - Zenith",
+            "name": "辛迪加 -Zenith",
             "hp": 70,
             "armor": 2,
             "tier": 4,
@@ -13075,7 +13075,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_guild_cruiser_icon",
-            "name": "Syndicate - Guild Cruiser",
+            "name": "辛迪加 -Guild Cruiser",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -13123,7 +13123,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "syndicate_colonizer_icon",
-            "name": "Syndicate - Colonizer",
+            "name": "辛迪加 -Colonizer",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -13174,7 +13174,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "syndicate_hoverbike_icon",
-            "name": "Syndicate - Hoverbike",
+            "name": "辛迪加 -Hoverbike",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -13228,7 +13228,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_suppressor_tower_icon",
-            "name": "Syndicate - Suppressor Tower",
+            "name": "辛迪加 -Suppressor Tower",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -13283,7 +13283,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "assembly_scavenger_icon",
-            "name": "Assembly - Scavenger",
+            "name": "半机械人 - Scavenger",
             "hp": 45,
             "armor": 2,
             "tier": 1,
@@ -13345,7 +13345,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_electrocutioner_icon",
-            "name": "Assembly - Electrocutioner",
+            "name": "半机械人 - Electrocutioner",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -13410,7 +13410,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_wrecker_icon",
-            "name": "Assembly - Wrecker",
+            "name": "半机械人 - Wrecker",
             "hp": 65,
             "armor": 6,
             "tier": 3,
@@ -13481,7 +13481,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_disassembler_icon",
-            "name": "Assembly - Disassembler",
+            "name": "半机械人 - Disassembler",
             "hp": 60,
             "armor": 4,
             "tier": 3,
@@ -13543,7 +13543,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_inspector_icon",
-            "name": "Assembly - Inspector",
+            "name": "半机械人 - Inspector",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -13614,7 +13614,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_lightning_rider_icon",
-            "name": "Assembly - Lightning Rider",
+            "name": "半机械人 - Lightning Rider",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -13682,7 +13682,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_vorpal_sniper_icon",
-            "name": "Assembly - Vorpal Sniper",
+            "name": "半机械人 - Vorpal Sniper",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -13750,7 +13750,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_reverse_engineer_icon",
-            "name": "Assembly - Reverse Engineer",
+            "name": "半机械人 - Reverse Engineer",
             "hp": 50,
             "armor": 2,
             "tier": 2,
@@ -13818,7 +13818,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_reaver_icon",
-            "name": "Assembly - Reaver",
+            "name": "半机械人 - Reaver",
             "hp": 75,
             "armor": 6,
             "tier": 4,
@@ -13886,7 +13886,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "assembly_swarm_icon",
-            "name": "Assembly - Swarm",
+            "name": "半机械人 - Swarm",
             "hp": 75,
             "armor": 4,
             "tier": 4,
@@ -13948,7 +13948,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "assembly_constrictor_icon",
-            "name": "Assembly - Constrictor",
+            "name": "半机械人 - Constrictor",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -14007,7 +14007,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "assembly_chopper_icon",
-            "name": "Assembly - Chopper",
+            "name": "半机械人 - Chopper",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -14062,7 +14062,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_storm_wader_icon",
-            "name": "Assembly - Storm Wader",
+            "name": "半机械人 - Storm Wader",
             "hp": 50,
             "armor": 4,
             "tier": 2,
@@ -14124,7 +14124,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_wrecking_ship_icon",
-            "name": "Assembly - Wrecking Ship",
+            "name": "半机械人 - Wrecking Ship",
             "hp": 70,
             "armor": 5,
             "tier": 3,
@@ -14176,7 +14176,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "assembly_colonizer_icon",
-            "name": "Assembly - Colonizer",
+            "name": "半机械人 - Colonizer",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -14234,7 +14234,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_construct_icon",
-            "name": "Assembly - Construct",
+            "name": "半机械人 - Construct",
             "hp": 20,
             "armor": 1,
             "tier": 1,
@@ -14286,7 +14286,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_advanced_construct_icon",
-            "name": "Assembly - Advanced Construct",
+            "name": "半机械人 - Advanced Construct",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -14338,7 +14338,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_arc_coil_icon",
-            "name": "Assembly - Arc Coil",
+            "name": "半机械人 - Arc Coil",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -14436,7 +14436,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_trencher_icon",
-            "name": "Dvar - Trencher",
+            "name": "矮人 - Trencher",
             "hp": 40,
             "armor": 2,
             "tier": 1,
@@ -14501,7 +14501,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_prospector_icon",
-            "name": "Dvar - Prospector",
+            "name": "矮人 - Prospector",
             "hp": 35,
             "armor": 2,
             "tier": 1,
@@ -14565,7 +14565,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_foreman_icon",
-            "name": "Dvar - Foreman",
+            "name": "矮人 - Foreman",
             "hp": 50,
             "armor": 2,
             "tier": 2,
@@ -14633,7 +14633,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_earth_crusher_icon",
-            "name": "Dvar - Earth Crusher",
+            "name": "矮人 - Earth Crusher",
             "hp": 100,
             "armor": 7,
             "tier": 4,
@@ -14710,7 +14710,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_rocket_artillery_icon",
-            "name": "Dvar - Rocket Artillery",
+            "name": "矮人 - Rocket Artillery",
             "hp": 55,
             "armor": 3,
             "tier": 3,
@@ -14784,7 +14784,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_baron_icon",
-            "name": "Dvar - Baron",
+            "name": "矮人 - Baron",
             "hp": 60,
             "armor": 4,
             "tier": 3,
@@ -14855,7 +14855,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_excavator_tank_icon",
-            "name": "Dvar - Excavator Tank",
+            "name": "矮人 - Excavator Tank",
             "hp": 60,
             "armor": 5,
             "tier": 3,
@@ -14923,7 +14923,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_ramjet_icon",
-            "name": "Dvar - Ramjet",
+            "name": "矮人 - Ramjet",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -14988,7 +14988,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_sapper_icon",
-            "name": "Dvar - Sapper",
+            "name": "矮人 - Sapper",
             "hp": 50,
             "armor": 4,
             "tier": 2,
@@ -15050,7 +15050,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_bulwark_icon",
-            "name": "Dvar - Bulwark",
+            "name": "矮人 - Bulwark",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -15118,7 +15118,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_ironclad_icon",
-            "name": "Dvar - Ironclad",
+            "name": "矮人 - Ironclad",
             "hp": 45,
             "armor": 5,
             "tier": 2,
@@ -15176,7 +15176,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_dreadnought_icon",
-            "name": "Dvar - Dreadnought",
+            "name": "矮人 - Dreadnought",
             "hp": 65,
             "armor": 6,
             "tier": 3,
@@ -15231,7 +15231,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "dvar_colonizer_icon",
-            "name": "Dvar - Colonizer",
+            "name": "矮人 - Colonizer",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -15289,7 +15289,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_bombard_icon",
-            "name": "Dvar - Bombard",
+            "name": "矮人 - Bombard",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -15340,7 +15340,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_unleashed_icon",
-            "name": "Kir'Ko - Unleashed",
+            "name": "奇尔寇 -Unleashed",
             "hp": 35,
             "armor": 1,
             "tier": 1,
@@ -15398,7 +15398,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "kirko_frenzied_icon",
-            "name": "Kir'Ko - Frenzied",
+            "name": "奇尔寇 -Frenzied",
             "hp": 50,
             "armor": 2,
             "tier": 1,
@@ -15459,7 +15459,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_transcendent_icon",
-            "name": "Kir'Ko - Transcendent",
+            "name": "奇尔寇 -Transcendent",
             "hp": 45,
             "armor": 0,
             "tier": 2,
@@ -15526,7 +15526,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_hidden_icon",
-            "name": "Kir'Ko - Hidden",
+            "name": "奇尔寇 -Hidden",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -15600,7 +15600,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_tormented_icon",
-            "name": "Kir'Ko - Tormented",
+            "name": "奇尔寇 -Tormented",
             "hp": 60,
             "armor": 1,
             "tier": 3,
@@ -15668,7 +15668,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_barrager_icon",
-            "name": "Kir'Ko - Barrager",
+            "name": "奇尔寇 -Barrager",
             "hp": 60,
             "armor": 4,
             "tier": 3,
@@ -15729,7 +15729,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_emergent_icon",
-            "name": "Kir'Ko - Emergent",
+            "name": "奇尔寇 -Emergent",
             "hp": 30,
             "armor": 0,
             "tier": 1,
@@ -15787,7 +15787,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_engulfer_icon",
-            "name": "Kir'Ko - Engulfer",
+            "name": "奇尔寇 -Engulfer",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -15855,7 +15855,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_harbinger_icon",
-            "name": "Kir'Ko - Harbinger",
+            "name": "奇尔寇 -Harbinger",
             "hp": 70,
             "armor": 2,
             "tier": 4,
@@ -15923,7 +15923,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_ravenous_icon",
-            "name": "Kir'Ko - Ravenous",
+            "name": "奇尔寇 -Ravenous",
             "hp": 75,
             "armor": 6,
             "tier": 3,
@@ -15984,7 +15984,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_abyssian_icon",
-            "name": "Kir'Ko - Abyssian",
+            "name": "奇尔寇 -Abyssian",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -16039,7 +16039,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "kirko_torrent_icon",
-            "name": "Kir'Ko - Torrent",
+            "name": "奇尔寇 -Torrent",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -16098,7 +16098,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_deep_one_icon",
-            "name": "Kir'Ko - Deep One",
+            "name": "奇尔寇 -Deep One",
             "hp": 65,
             "armor": 2,
             "tier": 3,
@@ -16153,7 +16153,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 40,
             "icon": "kirko_colonizer_icon",
-            "name": "Kir'Ko - Colonizer",
+            "name": "奇尔寇 -Colonizer",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -16204,7 +16204,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "kirko_hive_guard_icon",
-            "name": "Kir'Ko - Hive Guard",
+            "name": "奇尔寇 -Hive Guard",
             "hp": 50,
             "armor": 2,
             "tier": 1,
@@ -16263,7 +16263,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_hiveguard_icon",
-            "name": "Kir'Ko - Hiveguard",
+            "name": "奇尔寇 -Hiveguard",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -17531,7 +17531,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_light_bringer_icon",
-            "name": "Shakarn - Light Bringer",
+            "name": "Shakarn - 光明使者",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -17577,7 +17577,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Mid-tavern, this masked being announces, ‘I see light. I am enlightened. I bring light to you.’ Apparently, some folk at the bar didn’t want to be enlightened. They got rough. Off comes her gloves. Rather than the typical skin, this Light Bringer’s got glowing coals for hands. She jumps up and strikes her foe. There’s a fiery blast. I dove behind the bar, crawling for the kitchen door. I don’t think the ruffian infidels escaped the wreckage. That poor tavern owner; he’s now the proud owner of an ash heap.”— Mah Reg’Nib, “RV-38347X: Tales from Fallen Worlds” ",
+            "description": "“酒馆中，这个戴着面具的生物宣布，‘我看到了光明，我受到了启迪，我会将光明带给你们。’显然，酒馆中的某些人不想受到启迪。他们动起手来，他们扒下了她的手套。这位光明使者的皮肤与众不同，她的手上满是发着光的炭渣。她跳了起来，攻击了对她动粗的人。发生了极为猛烈的爆炸。我躲在吧台后面，爬向厨房的大门。我不认为那群粗鲁的异教徒能够活着离开。可怜的酒馆老板，只能看着自己的酒馆被烧成灰烬。”- 玛·瑞格尼布，“RV-38347X：失落世界的传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -17607,7 +17607,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_hacker_icon",
-            "name": "Shakarn - Hacker",
+            "name": "Shakarn - 黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -17647,7 +17647,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Hacker said she fought for ultimate freedom. Apparently, that involves replacing your face with a virtual one. If she gets tired of her face, she searches a book of faces, replacing older models with newer models. She said Hackers eventually replace everything. She used implants to quicken her neural link to her network. Hackers achieve ultimate freedom by deploying code-constructs called Daemons to protect themselves and override conformist programming. The ultimate goal of the Synthesis is to achieve perfect mastery over all virtual worlds. That said, I think I’m happy with my boring face.”— Mah Reg’Nib, “RV-5580X: Forgotten Places”",
+            "description": "“黑客说过自己是为了终极自由而战。显然，其中包括了将面容用虚拟面容覆盖。如果她厌烦于自己现在的长相，她就会在一本记有无数面容的书中搜索，并给自己换一张新的。她说过，黑客最终会取代一切。她利用植入体为自己与网络的神经连接提速。为实现所谓的终极自由，黑客会部署一种被称作精灵的代码构造体来保护自身，覆写程序。合成体的终极目标是完全掌握所有虚拟世界。它曾经说过，我很喜欢自己这张无趣的脸。”- 玛·瑞格尼布，“RV-5580X：遗忘之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -17843,7 +17843,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_repair_drone_icon",
-            "name": "Vanguard - Repair Drone",
+            "name": "先锋 -Repair Drone",
             "hp": 20,
             "armor": 0,
             "tier": 1,
@@ -17891,7 +17891,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_assault_drone_icon",
-            "name": "Vanguard - Assault Drone",
+            "name": "先锋 -Assault Drone",
             "hp": 30,
             "armor": 0,
             "tier": 1,
@@ -17939,7 +17939,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_skirmish_drone_icon",
-            "name": "Vanguard - Skirmish Drone",
+            "name": "先锋 -Skirmish Drone",
             "hp": 30,
             "armor": 2,
             "tier": 1,
@@ -19202,7 +19202,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Mid-tavern, this masked being announces, ‘I see light. I am enlightened. I bring light to you.’ Apparently, some folk at the bar didn’t want to be enlightened. They got rough. Off comes her gloves. Rather than the typical skin, this Light Bringer’s got glowing coals for hands. She jumps up and strikes her foe. There’s a fiery blast. I dove behind the bar, crawling for the kitchen door. I don’t think the ruffian infidels escaped the wreckage. That poor tavern owner; he’s now the proud owner of an ash heap.”— Mah Reg’Nib, “RV-38347X: Tales from Fallen Worlds” ",
+            "description": "“酒馆中，这个戴着面具的生物宣布，‘我看到了光明，我受到了启迪，我会将光明带给你们。’显然，酒馆中的某些人不想受到启迪。他们动起手来，他们扒下了她的手套。这位光明使者的皮肤与众不同，她的手上满是发着光的炭渣。她跳了起来，攻击了对她动粗的人。发生了极为猛烈的爆炸。我躲在吧台后面，爬向厨房的大门。我不认为那群粗鲁的异教徒能够活着离开。可怜的酒馆老板，只能看着自己的酒馆被烧成灰烬。”- 玛·瑞格尼布，“RV-38347X：失落世界的传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -19578,7 +19578,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_hacker_icon",
-            "name": "Oathbound - Hacker",
+            "name": "Oathbound - 黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -19618,7 +19618,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Hacker said she fought for ultimate freedom. Apparently, that involves replacing your face with a virtual one. If she gets tired of her face, she searches a book of faces, replacing older models with newer models. She said Hackers eventually replace everything. She used implants to quicken her neural link to her network. Hackers achieve ultimate freedom by deploying code-constructs called Daemons to protect themselves and override conformist programming. The ultimate goal of the Synthesis is to achieve perfect mastery over all virtual worlds. That said, I think I’m happy with my boring face.”— Mah Reg’Nib, “RV-5580X: Forgotten Places”",
+            "description": "“黑客说过自己是为了终极自由而战。显然，其中包括了将面容用虚拟面容覆盖。如果她厌烦于自己现在的长相，她就会在一本记有无数面容的书中搜索，并给自己换一张新的。她说过，黑客最终会取代一切。她利用植入体为自己与网络的神经连接提速。为实现所谓的终极自由，黑客会部署一种被称作精灵的代码构造体来保护自身，覆写程序。合成体的终极目标是完全掌握所有虚拟世界。它曾经说过，我很喜欢自己这张无趣的脸。”- 玛·瑞格尼布，“RV-5580X：遗忘之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -20325,7 +20325,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "spacer_truck_icon",
-            "name": "Spacer - Truck",
+            "name": "太空掠夺者 - Truck",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -20439,7 +20439,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_ancestral_hidden_icon",
-            "name": "Kir'Ko - Ancestral Hidden",
+            "name": "奇尔寇 -Ancestral Hidden",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -20516,7 +20516,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_groxum_icon",
-            "name": "Assembly - Groxum",
+            "name": "半机械人 - Groxum",
             "hp": 50,
             "armor": 2,
             "tier": 2,
@@ -20849,7 +20849,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_shadow_trooper_icon",
-            "name": "Vanguard - Shadow Trooper",
+            "name": "先锋 -Shadow Trooper",
             "hp": 40,
             "armor": 1,
             "tier": 1,
@@ -21051,7 +21051,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_will-em_icon",
-            "name": "Assembly - Will-EM",
+            "name": "半机械人 - Will-EM",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -21448,7 +21448,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "paragon_paragon_elite_icon",
-            "name": "Paragon - Paragon Elite",
+            "name": "完人 - 完人精英",
             "hp": 40,
             "armor": 4,
             "tier": 2,
@@ -21476,7 +21476,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "Paragon Elites were among the most feared members of the vast Star Union military, ruthlessly effective and dedicated to their task, with equipment to match their status as the best of the best.",
+            "description": "完人精英是星庞大的际联盟军队中最令人恐惧的部队。他们无情而高效，一心专注于他们的任务，佩戴着与他们地位相符的精良装备。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -21504,7 +21504,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "paragon_paragon_elite_sniper_icon",
-            "name": "Paragon - Paragon Elite Sniper",
+            "name": "完人 - 完人精英狙击手",
             "hp": 40,
             "armor": 4,
             "tier": 2,
@@ -21532,7 +21532,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "Paragon Elites were among the most feared members of the vast Star Union military, ruthlessly effective and dedicated to their task, with equipment to match their status as the best of the best.",
+            "description": "完人精英是星庞大的际联盟军队中最令人恐惧的部队。他们无情而高效，一心专注于他们的任务，佩戴着与他们地位相符的精良装备。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"

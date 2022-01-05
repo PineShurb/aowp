@@ -501,7 +501,7 @@
              } else {
                  reward = "";
              }
-             tier.innerHTML = "Tier " + jsonUnits.units[i].tier + ": " + jsonUnits.units[i].upkeep;
+             tier.innerHTML = "阶级 " + jsonUnits.units[i].tier + ": " + jsonUnits.units[i].upkeep;
              if (jsonUnits.units[i].tier == "1") {
 
                  levelup.innerHTML = "<p><x-medal_novice> </x-medal_novice>Novice<li>+4 <hp></hp> HP </li></ul><p><x-medal_veteran> </x-medal_veteran>Veteran<li>+4 <hp></hp> HP <li>+5 <accuracy></accuracy> Accuracy </li></li></ul><p><x-medal_expert> </x-medal_expert>Expert<li>+4 <hp></hp> HP </li></ul> <p><x-medal_prime> </x-medal_prime>Prime<li>+5 <accuracy></accuracy> Accuracy </li><li>+4 <hp></hp> HP </li><li>" + EliteSkill(reward) + "</li></ul>";
@@ -520,7 +520,7 @@
 
              prodcost = document.getElementById("productioncost");
              prodcost.setAttribute("id", "productioncost" + a);
-             prodcost.innerHTML = "Base Cost: " + jsonUnits.units[i].cost;
+             prodcost.innerHTML = "基础花费: " + jsonUnits.units[i].cost;
 
              for (j in jsonUnits.units[i].unit_types) {
                  addUnitTypeIcon(jsonUnits.units[i].unit_types[j].slug, a);
@@ -601,7 +601,7 @@
              //type.innerHTML = "Mod Type: " + jsonMods.mods[j].type;
              //type.setAttribute("id", "modtype" + a);
              tier = document.getElementById("modtier");
-             tier.innerHTML = "<silver>" + "Tier " + jsonMods.mods[j].tier + ", " + jsonMods.mods[j].type + "</silver>";
+             tier.innerHTML = "<silver>" + "阶级 " + jsonMods.mods[j].tier + ", " + jsonMods.mods[j].type + "</silver>";
              tier.setAttribute("id", "modtier" + a);
              cost = document.getElementById("modcost");
              cost.innerHTML = "Purchase Cost : " + jsonMods.mods[j].cost;
@@ -764,7 +764,7 @@
              modUnlockAbility = jsonMods.mods[j].description;
 
 
-             var tier = "<silver>" + "Tier " + jsonMods.mods[j].tier + ", " + jsonMods.mods[j].type + "</silver>";
+             var tier = "<silver>" + "阶级 " + jsonMods.mods[j].tier + ", " + jsonMods.mods[j].type + "</silver>";
 
 
              var btn = document.createElement("DIV");
@@ -834,7 +834,7 @@
              opUnlockAbility = jsonOperations.operations[j].description;
 
 
-             var tier = "<silver>" + "Tier " + jsonOperations.operations[j].tier + ", " + jsonOperations.operations[j].type + "</silver>";
+             var tier = "<silver>" + "阶级 " + jsonOperations.operations[j].tier + ", " + jsonOperations.operations[j].type + "</silver>";
 
 
              var btn = document.createElement("DIV");
@@ -959,7 +959,7 @@
 
              spa.innerHTML = "<p>" + unitNameShort + "</p>" + tier + "<hr>";
              spa.innerHTML += unitUnlockName;
-             spa.innerHTML += "<br>Tier " + jsonUnits.units[j].tier;
+             spa.innerHTML += "<br>阶级 " + jsonUnits.units[j].tier;
              spa.innerHTML += "<hr>" + jsonUnits.units[j].hp + "<hp></hp> " + jsonUnits.units[j].mp + "<mp></mp> ";
              if (jsonUnits.units[j].shield) {
                  spa.innerHTML += jsonUnits.units[j].shield + "<shield></shield> ";
