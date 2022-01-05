@@ -6011,7 +6011,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_hacker_icon",
-            "name": "辛迪加 -黑客",
+            "name": "辛迪加 - 黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -6635,7 +6635,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_star_guide_icon",
-            "name": "亚马逊 - Star Guide",
+            "name": "亚马逊 - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6672,7 +6672,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Consider each Path of Light.<br></br>Heed the Star Guide’s Communing Call.<br></br>Trace the Structure of Orderly Stars.<br></br>Ponder Purple Purposeful Night.<br></br>Discipline your Questioning Mind.<br></br>Abandon Evolution’s own Appetite.<br></br>Believe the Faithful’s Perpetual Fight.<br></br>Transcend your Natural fleshy Lusts.<br></br><br></br>Be seen by the All-Searching Eye.<br></br>Become a Being of Light.”— Star Guide Shin’Shia Shiq “RV-6600R: Celestian Vespers”",
+            "description": "“仔细思考每一条光明之路。<br></br>遵从星辰向导的指引。<br></br>追踪秩序星辰的构造。<br></br>沉思紫色的目的之夜。<br></br>控制你的疑问思绪。<br></br>放弃进化本身的欲望。<br></br>坚信忠诚者的永恒之战。<br></br>超脱你天然肉体的欲望。<br></br><br></br>全索之眼注视着你。<br></br>成为光明之身。”- 星辰向导辛西亚·仕奇科“RV-6600R：星神晚祷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -6706,7 +6706,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_star_guide_icon",
-            "name": "半机械人 - Star Guide",
+            "name": "半机械人 - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6746,7 +6746,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Consider each Path of Light.<br></br>Heed the Star Guide’s Communing Call.<br></br>Trace the Structure of Orderly Stars.<br></br>Ponder Purple Purposeful Night.<br></br>Discipline your Questioning Mind.<br></br>Abandon Evolution’s own Appetite.<br></br>Believe the Faithful’s Perpetual Fight.<br></br>Transcend your Natural fleshy Lusts.<br></br><br></br>Be seen by the All-Searching Eye.<br></br>Become a Being of Light.”— Star Guide Shin’Shia Shiq “RV-6600R: Celestian Vespers”",
+            "description": "“仔细思考每一条光明之路。<br></br>遵从星辰向导的指引。<br></br>追踪秩序星辰的构造。<br></br>沉思紫色的目的之夜。<br></br>控制你的疑问思绪。<br></br>放弃进化本身的欲望。<br></br>坚信忠诚者的永恒之战。<br></br>超脱你天然肉体的欲望。<br></br><br></br>全索之眼注视着你。<br></br>成为光明之身。”- 星辰向导辛西亚·仕奇科“RV-6600R：星神晚祷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -6776,7 +6776,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_star_guide_icon",
-            "name": "矮人 - Star Guide",
+            "name": "矮人 - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6813,7 +6813,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Consider each Path of Light.<br></br>Heed the Star Guide’s Communing Call.<br></br>Trace the Structure of Orderly Stars.<br></br>Ponder Purple Purposeful Night.<br></br>Discipline your Questioning Mind.<br></br>Abandon Evolution’s own Appetite.<br></br>Believe the Faithful’s Perpetual Fight.<br></br>Transcend your Natural fleshy Lusts.<br></br><br></br>Be seen by the All-Searching Eye.<br></br>Become a Being of Light.”— Star Guide Shin’Shia Shiq “RV-6600R: Celestian Vespers”",
+            "description": "“仔细思考每一条光明之路。<br></br>遵从星辰向导的指引。<br></br>追踪秩序星辰的构造。<br></br>沉思紫色的目的之夜。<br></br>控制你的疑问思绪。<br></br>放弃进化本身的欲望。<br></br>坚信忠诚者的永恒之战。<br></br>超脱你天然肉体的欲望。<br></br><br></br>全索之眼注视着你。<br></br>成为光明之身。”- 星辰向导辛西亚·仕奇科“RV-6600R：星神晚祷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -6843,7 +6843,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_star_guide_icon",
-            "name": "奇尔寇 -Star Guide",
+            "name": "奇尔寇 - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6883,7 +6883,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Consider each Path of Light.<br></br>Heed the Star Guide’s Communing Call.<br></br>Trace the Structure of Orderly Stars.<br></br>Ponder Purple Purposeful Night.<br></br>Discipline your Questioning Mind.<br></br>Abandon Evolution’s own Appetite.<br></br>Believe the Faithful’s Perpetual Fight.<br></br>Transcend your Natural fleshy Lusts.<br></br><br></br>Be seen by the All-Searching Eye.<br></br>Become a Being of Light.”— Star Guide Shin’Shia Shiq “RV-6600R: Celestian Vespers”",
+            "description": "“仔细思考每一条光明之路。<br></br>遵从星辰向导的指引。<br></br>追踪秩序星辰的构造。<br></br>沉思紫色的目的之夜。<br></br>控制你的疑问思绪。<br></br>放弃进化本身的欲望。<br></br>坚信忠诚者的永恒之战。<br></br>超脱你天然肉体的欲望。<br></br><br></br>全索之眼注视着你。<br></br>成为光明之身。”- 星辰向导辛西亚·仕奇科“RV-6600R：星神晚祷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -6913,7 +6913,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_star_guide_icon",
-            "name": "辛迪加 -Star Guide",
+            "name": "辛迪加 - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -6950,7 +6950,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Consider each Path of Light.<br></br>Heed the Star Guide’s Communing Call.<br></br>Trace the Structure of Orderly Stars.<br></br>Ponder Purple Purposeful Night.<br></br>Discipline your Questioning Mind.<br></br>Abandon Evolution’s own Appetite.<br></br>Believe the Faithful’s Perpetual Fight.<br></br>Transcend your Natural fleshy Lusts.<br></br><br></br>Be seen by the All-Searching Eye.<br></br>Become a Being of Light.”— Star Guide Shin’Shia Shiq “RV-6600R: Celestian Vespers”",
+            "description": "“仔细思考每一条光明之路。<br></br>遵从星辰向导的指引。<br></br>追踪秩序星辰的构造。<br></br>沉思紫色的目的之夜。<br></br>控制你的疑问思绪。<br></br>放弃进化本身的欲望。<br></br>坚信忠诚者的永恒之战。<br></br>超脱你天然肉体的欲望。<br></br><br></br>全索之眼注视着你。<br></br>成为光明之身。”- 星辰向导辛西亚·仕奇科“RV-6600R：星神晚祷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -6980,7 +6980,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_star_guide_icon",
-            "name": "先锋 -Star Guide",
+            "name": "先锋 - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -7017,7 +7017,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Consider each Path of Light.<br></br>Heed the Star Guide’s Communing Call.<br></br>Trace the Structure of Orderly Stars.<br></br>Ponder Purple Purposeful Night.<br></br>Discipline your Questioning Mind.<br></br>Abandon Evolution’s own Appetite.<br></br>Believe the Faithful’s Perpetual Fight.<br></br>Transcend your Natural fleshy Lusts.<br></br><br></br>Be seen by the All-Searching Eye.<br></br>Become a Being of Light.”— Star Guide Shin’Shia Shiq “RV-6600R: Celestian Vespers”",
+            "description": "“仔细思考每一条光明之路。<br></br>遵从星辰向导的指引。<br></br>追踪秩序星辰的构造。<br></br>沉思紫色的目的之夜。<br></br>控制你的疑问思绪。<br></br>放弃进化本身的欲望。<br></br>坚信忠诚者的永恒之战。<br></br>超脱你天然肉体的欲望。<br></br><br></br>全索之眼注视着你。<br></br>成为光明之身。”- 星辰向导辛西亚·仕奇科“RV-6600R：星神晚祷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -7048,7 +7048,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "plasmoid_icon",
-            "name": "Plasmoid",
+            "name": "等离子粒团",
             "hp": 35,
             "armor": 2,
             "tier": 1,
@@ -7082,7 +7082,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Please don’t try to cook on them. Sure, Specialist Verin calls it her walking Barbeque Grill, but just bumping them causes a fiery blowback of third-degree burns. They’re like walking napalm grenades. Plasmoids became available when research scientists from the Promethean project developed what they called a Phoenix Op Station. There’s a whole protocol to containing the caustic inferno of chemicals that fuel them. Ever since then, these little fiery bots are part of our acquisition cycle. We can order a little extra fire-power, if you catch my meaning.”—Tex ‘Melonballer’ Smith, “RV-6750M: Special Ops and Support”",
+            "description": "“请不要在用它来做菜。虽然，维林专家称呼它为移动的烧烤架，但只是碰了一下它们便受到了三级烧伤。它们更像是行走的凝固汽油弹。当圣火计划的科研人员开发出了凤凰行动站后，等离子粒团也随之被开发了出来。为了容纳具有腐蚀性的化学燃料，他们设计出了一整套方案。自那之后，这些小型的易怒机器人便成为了我们采集循环的一部分，我们也因此获得了一些额外的火力支援，如果你明白我的意思的话。”- 泰克斯“挖球者”史密斯，“RV-6750M：特殊行动和支援”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -7122,7 +7122,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_phoenix_walker_icon",
-            "name": "矮人 - Phoenix Walker",
+            "name": "矮人 - 凤凰行者",
             "hp": 70,
             "armor": 6,
             "tier": 3,
@@ -7165,7 +7165,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "125<energy></energy>  440<production></production>  25<tricorium></tricorium>",
-            "description": "“He towers over the flames like a proud father, leading his hungry ethereal offspring to spread across worlds, consuming all. The armored giant extends its arm and a stream of blinding plasma cuts through any stone or steel. All solids melt. Liquids evaporate. The Phoenix Walker extends its leaden wings in a blistering torrent of flame. There is no safe approach to this glaring god of fire that greets its devotees with gouts of PyrX Firestorm. All life blackens and bows, ascending before this chaos titan like a prayer of ashen worship.”—Arsonist Poet Xin’xia Xiq, “RV-6651R: Promethean Prayers”",
+            "description": "“他行走在火焰之中，像一名骄傲的父亲带领着饥饿的虚灵后代，前往各个星球吞噬一切。装甲巨人伸展手臂，炫目的等离子流便能切开任何石头或钢铁。固体都将会熔化，液体将会蒸发。凤凰行者在炙热的火焰中展开自己铅灰色的翅膀。当这位光芒万丈的火焰之神用派尔克斯火焰风暴向自己的信徒表达问候时，没有任何方法能够安全地靠近他。当这位象征着混沌的巨人吟诵着自己对灰烬的崇拜时，周围的所有生灵都化为了灰烬。”- 纵火诗人辛夏奇，“RV-6651R：圣火祷告者”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -7205,7 +7205,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "phoenix_walker_icon",
-            "name": "Phoenix Walker",
+            "name": "凤凰行者",
             "hp": 70,
             "armor": 6,
             "tier": 3,
@@ -7242,7 +7242,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“He towers over the flames like a proud father, leading his hungry ethereal offspring to spread across worlds, consuming all. The armored giant extends its arm and a stream of blinding plasma cuts through any stone or steel. All solids melt. Liquids evaporate. The Phoenix Walker extends its leaden wings in a blistering torrent of flame. There is no safe approach to this glaring god of fire that greets its devotees with gouts of PyrX Firestorm. All life blackens and bows, ascending before this chaos titan like a prayer of ashen worship.”—Arsonist Poet Xin’xia Xiq, “RV-6651R: Promethean Prayers”",
+            "description": "“他行走在火焰之中，像一名骄傲的父亲带领着饥饿的虚灵后代，前往各个星球吞噬一切。装甲巨人伸展手臂，炫目的等离子流便能切开任何石头或钢铁。固体都将会熔化，液体将会蒸发。凤凰行者在炙热的火焰中展开自己铅灰色的翅膀。当这位光芒万丈的火焰之神用派尔克斯火焰风暴向自己的信徒表达问候时，没有任何方法能够安全地靠近他。当这位象征着混沌的巨人吟诵着自己对灰烬的崇拜时，周围的所有生灵都化为了灰烬。”- 纵火诗人辛夏奇，“RV-6651R：圣火祷告者”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -7279,7 +7279,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "aegis_tank_icon",
-            "name": "Aegis Tank",
+            "name": "神盾坦克",
             "hp": 60,
             "armor": 3,
             "tier": 3,
@@ -7313,7 +7313,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Rumors of Xenoplague brought the Prometheans. They dutifully set the whole countryside ablaze. Encircled by walls of flame, I led Tarrex-IIV’s terrified colonists to an Aegis Tank. My advice in case of a Promethean-caused Inferno: Find an Aegis Tank. Resistant to fire and capable of manipulating its Fallout Shield Dome, we felt cool relief as its protective field encompassed us. Using its kinetic force projector, the tank cleared away obstacles, creating a safe perimeter away from the blaze. Good to know, if they burn down the planet, at least they provide shelter from the firestorm.”—Mah Reg’Nib, “RV-3999X: Vacation Hotspots”",
+            "description": "“有传言称是异星疫病导致了圣火使者的到来，他们尽职尽责地将整个郊外烧得精光。被火焰包围的时候，我带领着塔里克斯-IIV 号星球上被吓坏了的移住民们乘上了一辆神盾坦克。应对圣火使者的烈焰，我的建议是：找到一辆神盾坦克。它不仅防火，而且还能放出辐射护盾穹顶。当被保护的力场包围时，我们感觉非常安全。我们用坦克的动能发射器清理路上的障碍物，安全地离开了着火地带。至少现在我们知道，如果他们把整个星球都点燃了，神盾坦克是安全的避难所。”- 玛·瑞格尼布，“RV-3999X：假期热点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -7341,7 +7341,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_purifier_icon",
-            "name": "先锋 -Purifier",
+            "name": "先锋 - 净化者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7375,7 +7375,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Fire is hypnotic. I don’t believe in magic; but if I did, it’d live in fire. I joined the Prometheans at the height of hysteria when the Xenoplague was discovered. At the time, I was thinking, why should robots have all the fun of dispensing incendiary accelerants? I never bought into the dogma that as a Purifier I brought holy fire. There’s something about oxidizing even the heartiest biohazards. I’ll admit it. I love watching noxious lifeforms dispersed in a puff of fumes. Burn them all. Reduced to smoke. Now that’s purity.”—Promethean Specialist Verin, “RV-6750M: Special Ops and Support”",
+            "description": "“火焰是催眠药。我不相信魔法，就算是有，魔法也应该生活在火焰里。当外星疫病首次被发现时，我满怀热血地加入了圣火修会。那时我在想，为什么只有机器人能够享受使用助燃剂的快乐？在身为圣火净化者的那段时光里，我从没有遵守过教条。即使是最活跃的生物危害也存在着氧化。我必须承认，我喜欢看着污秽的生命体在火焰中消逝的样子。烧光它们，将它们化为青烟，这才叫纯净。”- 圣火专家维林，“RV-6750M：特殊行动和支援”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -7406,7 +7406,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_indentured_purifier_icon",
-            "name": "辛迪加 -Indentured Purifier",
+            "name": "辛迪加 - 契约净化者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7443,7 +7443,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Fire is hypnotic. I don’t believe in magic; but if I did, it’d live in fire. I joined the Prometheans at the height of hysteria when the Xenoplague was discovered. At the time, I was thinking, why should robots have all the fun of dispensing incendiary accelerants? I never bought into the dogma that as a Purifier I brought holy fire. There’s something about oxidizing even the heartiest biohazards. I’ll admit it. I love watching noxious lifeforms dispersed in a puff of fumes. Burn them all. Reduced to smoke. Now that’s purity.”—Promethean Specialist Verin, “RV-6750M: Special Ops and Support”",
+            "description": "“火焰是催眠药。我不相信魔法，就算是有，魔法也应该生活在火焰里。当外星疫病首次被发现时，我满怀热血地加入了圣火修会。那时我在想，为什么只有机器人能够享受使用助燃剂的快乐？在身为圣火净化者的那段时光里，我从没有遵守过教条。即使是最活跃的生物危害也存在着氧化。我必须承认，我喜欢看着污秽的生命体在火焰中消逝的样子。烧光它们，将它们化为青烟，这才叫纯净。”- 圣火专家维林，“RV-6750M：特殊行动和支援”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -7471,7 +7471,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_purifier_icon",
-            "name": "奇尔寇 -Purifier",
+            "name": "奇尔寇 - 净化者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7508,7 +7508,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Fire is hypnotic. I don’t believe in magic; but if I did, it’d live in fire. I joined the Prometheans at the height of hysteria when the Xenoplague was discovered. At the time, I was thinking, why should robots have all the fun of dispensing incendiary accelerants? I never bought into the dogma that as a Purifier I brought holy fire. There’s something about oxidizing even the heartiest biohazards. I’ll admit it. I love watching noxious lifeforms dispersed in a puff of fumes. Burn them all. Reduced to smoke. Now that’s purity.”—Promethean Specialist Verin, “RV-6750M: Special Ops and Support”",
+            "description": "“火焰是催眠药。我不相信魔法，就算是有，魔法也应该生活在火焰里。当外星疫病首次被发现时，我满怀热血地加入了圣火修会。那时我在想，为什么只有机器人能够享受使用助燃剂的快乐？在身为圣火净化者的那段时光里，我从没有遵守过教条。即使是最活跃的生物危害也存在着氧化。我必须承认，我喜欢看着污秽的生命体在火焰中消逝的样子。烧光它们，将它们化为青烟，这才叫纯净。”- 圣火专家维林，“RV-6750M：特殊行动和支援”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -7539,7 +7539,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_purifier_icon",
-            "name": "矮人 - Purifier",
+            "name": "矮人 - 净化者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7573,7 +7573,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Fire is hypnotic. I don’t believe in magic; but if I did, it’d live in fire. I joined the Prometheans at the height of hysteria when the Xenoplague was discovered. At the time, I was thinking, why should robots have all the fun of dispensing incendiary accelerants? I never bought into the dogma that as a Purifier I brought holy fire. There’s something about oxidizing even the heartiest biohazards. I’ll admit it. I love watching noxious lifeforms dispersed in a puff of fumes. Burn them all. Reduced to smoke. Now that’s purity.”—Promethean Specialist Verin, “RV-6750M: Special Ops and Support”",
+            "description": "“火焰是催眠药。我不相信魔法，就算是有，魔法也应该生活在火焰里。当外星疫病首次被发现时，我满怀热血地加入了圣火修会。那时我在想，为什么只有机器人能够享受使用助燃剂的快乐？在身为圣火净化者的那段时光里，我从没有遵守过教条。即使是最活跃的生物危害也存在着氧化。我必须承认，我喜欢看着污秽的生命体在火焰中消逝的样子。烧光它们，将它们化为青烟，这才叫纯净。”- 圣火专家维林，“RV-6750M：特殊行动和支援”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -7604,7 +7604,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_purifier_icon",
-            "name": "半机械人 - Purifier",
+            "name": "半机械人 - 净化者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7641,7 +7641,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Fire is hypnotic. I don’t believe in magic; but if I did, it’d live in fire. I joined the Prometheans at the height of hysteria when the Xenoplague was discovered. At the time, I was thinking, why should robots have all the fun of dispensing incendiary accelerants? I never bought into the dogma that as a Purifier I brought holy fire. There’s something about oxidizing even the heartiest biohazards. I’ll admit it. I love watching noxious lifeforms dispersed in a puff of fumes. Burn them all. Reduced to smoke. Now that’s purity.”—Promethean Specialist Verin, “RV-6750M: Special Ops and Support”",
+            "description": "“火焰是催眠药。我不相信魔法，就算是有，魔法也应该生活在火焰里。当外星疫病首次被发现时，我满怀热血地加入了圣火修会。那时我在想，为什么只有机器人能够享受使用助燃剂的快乐？在身为圣火净化者的那段时光里，我从没有遵守过教条。即使是最活跃的生物危害也存在着氧化。我必须承认，我喜欢看着污秽的生命体在火焰中消逝的样子。烧光它们，将它们化为青烟，这才叫纯净。”- 圣火专家维林，“RV-6750M：特殊行动和支援”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -7669,7 +7669,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_purifier_icon",
-            "name": "亚马逊 - Purifier",
+            "name": "亚马逊 - 净化者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -7706,7 +7706,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Fire is hypnotic. I don’t believe in magic; but if I did, it’d live in fire. I joined the Prometheans at the height of hysteria when the Xenoplague was discovered. At the time, I was thinking, why should robots have all the fun of dispensing incendiary accelerants? I never bought into the dogma that as a Purifier I brought holy fire. There’s something about oxidizing even the heartiest biohazards. I’ll admit it. I love watching noxious lifeforms dispersed in a puff of fumes. Burn them all. Reduced to smoke. Now that’s purity.”—Promethean Specialist Verin, “RV-6750M: Special Ops and Support”",
+            "description": "“火焰是催眠药。我不相信魔法，就算是有，魔法也应该生活在火焰里。当外星疫病首次被发现时，我满怀热血地加入了圣火修会。那时我在想，为什么只有机器人能够享受使用助燃剂的快乐？在身为圣火净化者的那段时光里，我从没有遵守过教条。即使是最活跃的生物危害也存在着氧化。我必须承认，我喜欢看着污秽的生命体在火焰中消逝的样子。烧光它们，将它们化为青烟，这才叫纯净。”- 圣火专家维林，“RV-6750M：特殊行动和支援”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -7746,7 +7746,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_phoenix_walker_icon",
-            "name": "奇尔寇 -Phoenix Walker",
+            "name": "奇尔寇 - 凤凰行者",
             "hp": 70,
             "armor": 6,
             "tier": 3,
@@ -7789,7 +7789,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“He towers over the flames like a proud father, leading his hungry ethereal offspring to spread across worlds, consuming all. The armored giant extends its arm and a stream of blinding plasma cuts through any stone or steel. All solids melt. Liquids evaporate. The Phoenix Walker extends its leaden wings in a blistering torrent of flame. There is no safe approach to this glaring god of fire that greets its devotees with gouts of PyrX Firestorm. All life blackens and bows, ascending before this chaos titan like a prayer of ashen worship.”—Arsonist Poet Xin’xia Xiq, “RV-6651R: Promethean Prayers”",
+            "description": "“他行走在火焰之中，像一名骄傲的父亲带领着饥饿的虚灵后代，前往各个星球吞噬一切。装甲巨人伸展手臂，炫目的等离子流便能切开任何石头或钢铁。固体都将会熔化，液体将会蒸发。凤凰行者在炙热的火焰中展开自己铅灰色的翅膀。当这位光芒万丈的火焰之神用派尔克斯火焰风暴向自己的信徒表达问候时，没有任何方法能够安全地靠近他。当这位象征着混沌的巨人吟诵着自己对灰烬的崇拜时，周围的所有生灵都化为了灰烬。”- 纵火诗人辛夏奇，“RV-6651R：圣火祷告者”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -7823,7 +7823,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "echo_of_despair_icon",
-            "name": "Echo of Despair",
+            "name": "绝望回响",
             "hp": 35,
             "armor": 0,
             "tier": 1,
@@ -7872,7 +7872,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "'There are many strange stories about the raid on the Psynumbra temple. Many men claim they were attacked by the embodiment of despair. I saw something—wisps of shadow that shook with nodding sorrow. I could feel the foreboding terror as they passed through the walls to steal our courage. One of them let out a dreadful shriek and exploded. Inky shadows splattered across my deputies. They clutched their heads and could scarcely string two intelligible words together thereafter. Why would anyone willingly join such a terrible organization?”—Sheriff Mack Willburgh, “RV-44006L: The Psynumbra Death Cult”",
+            "description": "“关于赛努布拉神庙有着许多诡异的故事。许多人称自己受到了绝望化身的攻击。我看到了某种东西，一缕阴影，浑身散发着悲伤。当它们穿过墙壁时，我们的勇气被它们盗走，一股不祥的恐惧席卷全身。我们其中一人在发出了一声令人不悦的尖叫后便爆炸了。黑色的阴影攀上了手下们的身体，它们抓住了他们的脑袋，然后勉强地说出了两个容易理解的单词。为什么会有人自愿加入这样一个恐怖的组织？”- 马克·威尔伯格警长，“RV-44006L：赛努布拉死亡教派”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -7906,7 +7906,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "whisper_of_discord_icon",
-            "name": "Whisper of Discord",
+            "name": "不谐低语",
             "hp": 30,
             "armor": 0,
             "tier": 1,
@@ -7955,7 +7955,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“There is something off about this place. The ruins of the Psynumbra headquarters still give me an unsettled feeling. The colony wants a security guard to make sure nobody enters and tries to dig up dirt on the place. Already two intruders were murdered under mysterious circumstances. The last guard quit after a week. But there’s nothing there, right? I want to fight myself just looking at the abandoned building. Sometimes I hear whispers. It’s enough to give a man the shivers.”— Night Watchman, Shaquawn Rhodes, “RV-345699E: Ghost Hunters”",
+            "description": "“这个地方有点不对劲，赛努布拉的总部即便成为了废墟也令我感到不安。殖民地希望能安排一名守卫来阻止任何人进入或挖掘这片土地。可是，已经有两名入侵者死于非命了。虽然上一位守卫只坚持了一周，但这里确实什么都没有，不是吗？光是看向那些废弃的建筑都令我不寒而栗，何况有时我还能听到些许低语，这已经足够使人浑身颤抖了。”——守夜人，肖奎恩·罗德斯，“RV-345699E：鬼魂猎人”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -8001,7 +8001,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "herald_of_oblivion_icon",
-            "name": "Herald of Oblivion",
+            "name": "遗忘先驱",
             "hp": 80,
             "armor": 0,
             "tier": 4,
@@ -8053,7 +8053,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "140<energy></energy>  650<production></production>  70<tricorium></tricorium>3<population></population>",
-            "description": "“The Initiates bound my brother to a black stone slab. They chanted. One lifted a dagger. I gasped. A gloomy ethereal claw reached out from my brother’s chest. It plunged the dagger into his own chest. The Psynumbra followers continued chanting. The shadow claws pulled itself out of my brother’s sacrificed body. Streaks of blood marbled the shadowy Herald of Oblivion. It stared at me. For a moment, I saw my brother’s lost soul tumbling through an endless pit. Panic forced me to flee. They will kill me, but I must warn someone.”—Linda Carpenter, “RV-44002L: The Psynumbra Death Cult”",
+            "description": "“初灵将我的兄弟绑在一块黑色的石板上。它们吟唱着什么歌曲，其中一个举起了一把匕首。我倒吸了一口凉气。这时，一只虚无缥缈的利爪从我兄弟的胸膛中伸出，将匕首拉入了他的身体。赛努布拉的追随者们继续吟唱着，我的兄弟成为了祭品，一道阴影从他的体内出现。幽暗的遗忘先驱满身鲜血注视着我。那一瞬间，我仿佛看到自己兄弟那失落的灵魂落入了一个深不见底的深渊。恐慌使我落荒而逃。它们会杀了我的，我必须去警告其他人。”- 琳达·卡朋特，“RV-44002L：赛努布拉死亡教派”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -8084,7 +8084,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_malictor_icon",
-            "name": "亚马逊 - Malictor",
+            "name": "亚马逊 - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8121,7 +8121,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The realm of the mind is vast and swirling. With too many senses, a feeling mind is scattered and weak. Those who receive ritual annihilation can only be revived in the single-minded Great Darkness of malice. I tell you this to strip you down. Other sentiments will destroy you. Only then can you wield the Soul Seeking darkness and unlock the Lure of Darkness. Only when you are directed by unadulterated odium will the darkness bind your enemies with cords of despair.” —Murgle Fain, “RV-43092R: Psynumbra Ritual of the Malictor”",
+            "description": "“思维领域广袤无垠。由于太多的感觉存在，情感丰富的思想来到这里便会分崩离析，脆弱不已。那些被仪式消灭的个体只能在思维单一的恶毒黑暗中复生。我告诉你这个是为了让你放开心智，因为其他情绪会将你摧毁。只有那时，你才能行使灵魂追寻的黑暗，找到黑暗的诱惑。只有当你获得纯粹的恶意指引时，黑暗才会用名为绝望的锁链束缚你的敌人。”- 姆格勒·法因，“RV-43092R：赛努布拉恶毒者仪式”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -8155,7 +8155,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_malictor_icon",
-            "name": "半机械人 - Malictor",
+            "name": "半机械人 - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8198,7 +8198,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The realm of the mind is vast and swirling. With too many senses, a feeling mind is scattered and weak. Those who receive ritual annihilation can only be revived in the single-minded Great Darkness of malice. I tell you this to strip you down. Other sentiments will destroy you. Only then can you wield the Soul Seeking darkness and unlock the Lure of Darkness. Only when you are directed by unadulterated odium will the darkness bind your enemies with cords of despair.” —Murgle Fain, “RV-43092R: Psynumbra Ritual of the Malictor”",
+            "description": "“思维领域广袤无垠。由于太多的感觉存在，情感丰富的思想来到这里便会分崩离析，脆弱不已。那些被仪式消灭的个体只能在思维单一的恶毒黑暗中复生。我告诉你这个是为了让你放开心智，因为其他情绪会将你摧毁。只有那时，你才能行使灵魂追寻的黑暗，找到黑暗的诱惑。只有当你获得纯粹的恶意指引时，黑暗才会用名为绝望的锁链束缚你的敌人。”- 姆格勒·法因，“RV-43092R：赛努布拉恶毒者仪式”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -8229,7 +8229,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_malictor_icon",
-            "name": "矮人 - Malictor",
+            "name": "矮人 - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8266,7 +8266,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The realm of the mind is vast and swirling. With too many senses, a feeling mind is scattered and weak. Those who receive ritual annihilation can only be revived in the single-minded Great Darkness of malice. I tell you this to strip you down. Other sentiments will destroy you. Only then can you wield the Soul Seeking darkness and unlock the Lure of Darkness. Only when you are directed by unadulterated odium will the darkness bind your enemies with cords of despair.” —Murgle Fain, “RV-43092R: Psynumbra Ritual of the Malictor”",
+            "description": "“思维领域广袤无垠。由于太多的感觉存在，情感丰富的思想来到这里便会分崩离析，脆弱不已。那些被仪式消灭的个体只能在思维单一的恶毒黑暗中复生。我告诉你这个是为了让你放开心智，因为其他情绪会将你摧毁。只有那时，你才能行使灵魂追寻的黑暗，找到黑暗的诱惑。只有当你获得纯粹的恶意指引时，黑暗才会用名为绝望的锁链束缚你的敌人。”- 姆格勒·法因，“RV-43092R：赛努布拉恶毒者仪式”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -8297,7 +8297,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_malictor_icon",
-            "name": "奇尔寇 -Malictor",
+            "name": "奇尔寇 - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8337,7 +8337,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The realm of the mind is vast and swirling. With too many senses, a feeling mind is scattered and weak. Those who receive ritual annihilation can only be revived in the single-minded Great Darkness of malice. I tell you this to strip you down. Other sentiments will destroy you. Only then can you wield the Soul Seeking darkness and unlock the Lure of Darkness. Only when you are directed by unadulterated odium will the darkness bind your enemies with cords of despair.” —Murgle Fain, “RV-43092R: Psynumbra Ritual of the Malictor”",
+            "description": "“思维领域广袤无垠。由于太多的感觉存在，情感丰富的思想来到这里便会分崩离析，脆弱不已。那些被仪式消灭的个体只能在思维单一的恶毒黑暗中复生。我告诉你这个是为了让你放开心智，因为其他情绪会将你摧毁。只有那时，你才能行使灵魂追寻的黑暗，找到黑暗的诱惑。只有当你获得纯粹的恶意指引时，黑暗才会用名为绝望的锁链束缚你的敌人。”- 姆格勒·法因，“RV-43092R：赛努布拉恶毒者仪式”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -8368,7 +8368,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_malictor_icon",
-            "name": "辛迪加 -Malictor",
+            "name": "辛迪加 - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8408,7 +8408,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "125<energy></energy>  440<production></production>  25<tricorium></tricorium>",
-            "description": "“The realm of the mind is vast and swirling. With too many senses, a feeling mind is scattered and weak. Those who receive ritual annihilation can only be revived in the single-minded Great Darkness of malice. I tell you this to strip you down. Other sentiments will destroy you. Only then can you wield the Soul Seeking darkness and unlock the Lure of Darkness. Only when you are directed by unadulterated odium will the darkness bind your enemies with cords of despair.” —Murgle Fain, “RV-43092R: Psynumbra Ritual of the Malictor”",
+            "description": "“思维领域广袤无垠。由于太多的感觉存在，情感丰富的思想来到这里便会分崩离析，脆弱不已。那些被仪式消灭的个体只能在思维单一的恶毒黑暗中复生。我告诉你这个是为了让你放开心智，因为其他情绪会将你摧毁。只有那时，你才能行使灵魂追寻的黑暗，找到黑暗的诱惑。只有当你获得纯粹的恶意指引时，黑暗才会用名为绝望的锁链束缚你的敌人。”- 姆格勒·法因，“RV-43092R：赛努布拉恶毒者仪式”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -8439,7 +8439,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_malictor_icon",
-            "name": "先锋 -Malictor",
+            "name": "先锋 - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -8476,7 +8476,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The realm of the mind is vast and swirling. With too many senses, a feeling mind is scattered and weak. Those who receive ritual annihilation can only be revived in the single-minded Great Darkness of malice. I tell you this to strip you down. Other sentiments will destroy you. Only then can you wield the Soul Seeking darkness and unlock the Lure of Darkness. Only when you are directed by unadulterated odium will the darkness bind your enemies with cords of despair.” —Murgle Fain, “RV-43092R: Psynumbra Ritual of the Malictor”",
+            "description": "“思维领域广袤无垠。由于太多的感觉存在，情感丰富的思想来到这里便会分崩离析，脆弱不已。那些被仪式消灭的个体只能在思维单一的恶毒黑暗中复生。我告诉你这个是为了让你放开心智，因为其他情绪会将你摧毁。只有那时，你才能行使灵魂追寻的黑暗，找到黑暗的诱惑。只有当你获得纯粹的恶意指引时，黑暗才会用名为绝望的锁链束缚你的敌人。”- 姆格勒·法因，“RV-43092R：赛努布拉恶毒者仪式”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -8500,7 +8500,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_initiate_icon",
-            "name": "亚马逊 - Initiate",
+            "name": "亚马逊 - 初灵",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -8537,7 +8537,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It’s been my observation that, because true lasting happiness requires difficult sacrifices, many societies give up on it altogether. The Psynumbra have clearly decided not only to avoid happiness but to fight against anyone who tries to find it. No matter their race, Psynumbra Initiates stoke hatred and malevolence. Cold and dark, Initiates can rob victims of hope. They employ a psionic attack called a Soul Spear, which breaks the mind of an adversary. I try to avoid them. My friends already think I’m insane as I am.”—Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“根据我长久以来的观察，真正长久的快乐需要付出极大的牺牲，因此许多社会完全放弃了这份追求。赛努布拉的宗旨不仅要避免快乐，还要对抗那些试图寻找快乐的人。无论来自什么种族，赛努布拉初灵的心中都满怀仇恨与敌意。冰冷而黑暗，初灵会夺走受害者心中的希望。它们会一种叫做灵魂长矛的灵能之力粉碎敌人的心智。我试着躲避它们。我的朋友们已经开始认为我疯了。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -8565,7 +8565,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_initiate_icon",
-            "name": "半机械人 - Initiate",
+            "name": "半机械人 - 初灵",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -8608,7 +8608,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It’s been my observation that, because true lasting happiness requires difficult sacrifices, many societies give up on it altogether. The Psynumbra have clearly decided not only to avoid happiness but to fight against anyone who tries to find it. No matter their race, Psynumbra Initiates stoke hatred and malevolence. Cold and dark, Initiates can rob victims of hope. They employ a psionic attack called a Soul Spear, which breaks the mind of an adversary. I try to avoid them. My friends already think I’m insane as I am.”—Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“根据我长久以来的观察，真正长久的快乐需要付出极大的牺牲，因此许多社会完全放弃了这份追求。赛努布拉的宗旨不仅要避免快乐，还要对抗那些试图寻找快乐的人。无论来自什么种族，赛努布拉初灵的心中都满怀仇恨与敌意。冰冷而黑暗，初灵会夺走受害者心中的希望。它们会一种叫做灵魂长矛的灵能之力粉碎敌人的心智。我试着躲避它们。我的朋友们已经开始认为我疯了。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -8632,7 +8632,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_initiate_icon",
-            "name": "矮人 - Initiate",
+            "name": "矮人 - 初灵",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -8669,7 +8669,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It’s been my observation that, because true lasting happiness requires difficult sacrifices, many societies give up on it altogether. The Psynumbra have clearly decided not only to avoid happiness but to fight against anyone who tries to find it. No matter their race, Psynumbra Initiates stoke hatred and malevolence. Cold and dark, Initiates can rob victims of hope. They employ a psionic attack called a Soul Spear, which breaks the mind of an adversary. I try to avoid them. My friends already think I’m insane as I am.”—Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“根据我长久以来的观察，真正长久的快乐需要付出极大的牺牲，因此许多社会完全放弃了这份追求。赛努布拉的宗旨不仅要避免快乐，还要对抗那些试图寻找快乐的人。无论来自什么种族，赛努布拉初灵的心中都满怀仇恨与敌意。冰冷而黑暗，初灵会夺走受害者心中的希望。它们会一种叫做灵魂长矛的灵能之力粉碎敌人的心智。我试着躲避它们。我的朋友们已经开始认为我疯了。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -8693,7 +8693,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "kirko_initiate_icon",
-            "name": "奇尔寇 -Initiate",
+            "name": "奇尔寇 - 初灵",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -8736,7 +8736,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It’s been my observation that, because true lasting happiness requires difficult sacrifices, many societies give up on it altogether. The Psynumbra have clearly decided not only to avoid happiness but to fight against anyone who tries to find it. No matter their race, Psynumbra Initiates stoke hatred and malevolence. Cold and dark, Initiates can rob victims of hope. They employ a psionic attack called a Soul Spear, which breaks the mind of an adversary. I try to avoid them. My friends already think I’m insane as I am.”—Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“根据我长久以来的观察，真正长久的快乐需要付出极大的牺牲，因此许多社会完全放弃了这份追求。赛努布拉的宗旨不仅要避免快乐，还要对抗那些试图寻找快乐的人。无论来自什么种族，赛努布拉初灵的心中都满怀仇恨与敌意。冰冷而黑暗，初灵会夺走受害者心中的希望。它们会一种叫做灵魂长矛的灵能之力粉碎敌人的心智。我试着躲避它们。我的朋友们已经开始认为我疯了。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -8760,7 +8760,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_initiate_icon",
-            "name": "辛迪加 -Initiate",
+            "name": "辛迪加 - 初灵",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -8797,7 +8797,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It’s been my observation that, because true lasting happiness requires difficult sacrifices, many societies give up on it altogether. The Psynumbra have clearly decided not only to avoid happiness but to fight against anyone who tries to find it. No matter their race, Psynumbra Initiates stoke hatred and malevolence. Cold and dark, Initiates can rob victims of hope. They employ a psionic attack called a Soul Spear, which breaks the mind of an adversary. I try to avoid them. My friends already think I’m insane as I am.”—Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“根据我长久以来的观察，真正长久的快乐需要付出极大的牺牲，因此许多社会完全放弃了这份追求。赛努布拉的宗旨不仅要避免快乐，还要对抗那些试图寻找快乐的人。无论来自什么种族，赛努布拉初灵的心中都满怀仇恨与敌意。冰冷而黑暗，初灵会夺走受害者心中的希望。它们会一种叫做灵魂长矛的灵能之力粉碎敌人的心智。我试着躲避它们。我的朋友们已经开始认为我疯了。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -8821,7 +8821,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_initiate_icon",
-            "name": "先锋 -Initiate",
+            "name": "先锋 - 初灵",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -8858,7 +8858,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It’s been my observation that, because true lasting happiness requires difficult sacrifices, many societies give up on it altogether. The Psynumbra have clearly decided not only to avoid happiness but to fight against anyone who tries to find it. No matter their race, Psynumbra Initiates stoke hatred and malevolence. Cold and dark, Initiates can rob victims of hope. They employ a psionic attack called a Soul Spear, which breaks the mind of an adversary. I try to avoid them. My friends already think I’m insane as I am.”—Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“根据我长久以来的观察，真正长久的快乐需要付出极大的牺牲，因此许多社会完全放弃了这份追求。赛努布拉的宗旨不仅要避免快乐，还要对抗那些试图寻找快乐的人。无论来自什么种族，赛努布拉初灵的心中都满怀仇恨与敌意。冰冷而黑暗，初灵会夺走受害者心中的希望。它们会一种叫做灵魂长矛的灵能之力粉碎敌人的心智。我试着躲避它们。我的朋友们已经开始认为我疯了。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -8892,7 +8892,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "quartzite_liquid_magma_icon",
-            "name": "Quartzite - Liquid Magma",
+            "name": "石英岩兽 - 液熔兽",
             "hp": 25,
             "armor": 3,
             "tier": 1,
@@ -8929,7 +8929,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“What we know:<br></br>1. Quartzite require vast geothermal energy to exist.<br></br>2. If they are alive and not just constructs, they are not organic.<br></br> 3. They appear to originate deep within the planet’s crust.<br></br>4. They have been found on nearly all colonized worlds.<br></br><br></br>My best guess? Either they are the natural embodiment of a natural law exhibited in some evolutionary mechanism we have not yet discovered, or they are a side-effect of Star Union colonization, perhaps caused by terraforming?<br></br>Suffice to say, the specimen is a dangerous fiery rock monster.”—Prof. Sendak Volm, “RV-9931S: Scientific Mysteries”",
+            "description": "“我们已经了解的：<br></br>1.石英岩兽需要大量地热能才能生存。<br></br>2.如果它们活着且不是仅仅构造体，那它们就不再是有机体了。<br></br>3.它们似乎起源于星球的地壳之下。<br></br>4.在几乎所有殖民星球上都能发现它们的身影。<br></br><br></br>我的猜测？要么它们是某种自然法则的化身，具备着某些我们尚未发现的进化机制，要么它们是星际联盟的殖民行动产生的后果，也许是由于地表改造而生？<br></br>无论如何，这种物种都是非常危险的岩石怪物。”- 桑达克·沃尔姆教授，“RV-9931S：科研奥秘”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -8966,7 +8966,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "quartzite_magma_basher_icon",
-            "name": "Quartzite - Magma Basher",
+            "name": "石英岩兽 - 熔岩破坏者",
             "hp": 60,
             "armor": 5,
             "tier": 3,
@@ -9006,7 +9006,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Not all volcanologists are fools, but Dr. Jenkmen perpetuated the prejudice. He didn’t listen to our mutant guide. The guide refused to take him into the caldera. The guide claimed the rocks moved there. Jenkmen scoffed at the mutant’s fears. ‘I bet his tribe hid treasures there. This is a volcano! Of course, rocks move.’ He rationalized. Poor Professor. He should’ve listened to his guide. As soon as he climbed into the crater, a large rocky hand steaming with glowing coals reached out. He was both crushed and incinerated by a Quarzite Basher.”—Associate Professor Nemar Gupta, “RV-60948S: Geothermal Surveys”",
+            "description": "“并不是所有的火山学家都是蠢货，但詹克曼博士始终都怀有偏见。他不听从我们突变体向导的指引，而这位向导也拒绝带他进入火山口。向导说那里的岩石会移动，但詹克曼却嘲笑他的胆小。‘我敢打赌，他的部落肯定将宝贝藏在了那里。这里可是火山！岩石当然会移动。’他进行了一番科学解释。可怜的教授。他应该听从向导的指引。当他爬上火山口的那一刻，一只由燃烧着火光的煤炭构成的巨型岩石手掌伸了出来。那石英岩兽狂怒者不仅将他拍成了肉酱，还将他烧成了灰烬。”- 副教授内马尔·古普塔，“RV-60948S：地热勘测”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -9037,7 +9037,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "quartzite_liquid_crystal_icon",
-            "name": "Quartzite - Liquid Crystal",
+            "name": "石英岩兽 - 液晶",
             "hp": 25,
             "armor": 3,
             "tier": 1,
@@ -9071,7 +9071,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Prospecting in the Arctic is lonesome business. On land, away from the ice floes, it is tranquil. I don’t expect my cousin, the illustrious Baron, to like it here, but the solitude suits me. I used to miss the rhythmic clank of a Dvartian grinding wheel, but now the quiet is my friend. It warns me when the Liquid Crystal spiders are moving. I hear before they swarm. Arcs of blue electricity crackles as they skitter too close. Now that I consider it, please don’t come visit. I prefer quiet.” —Prospector Dvarton Nan, “RV-2254D: Dvar Cases”",
+            "description": "“在极寒地区进行勘探活动是一件非常孤独的事情，在远离浮冰的陆地上，一切都静得出奇。我从未指望自己的表亲，那位著名的男爵会喜欢这里，但我个人很喜欢这种离群索居的感觉。我也曾怀念过矮人砂轮那富有节奏的叮当声，但现在的我更喜欢安静。安静能够让我察觉到正在移动的液晶蜘蛛。在它们袭来之前，我便已经察觉到了它们的存在。当它们靠得过近时，我会用蓝色的电流将它们击退。我想了想，还是别来看我了，我更喜欢安静。”- 勘探者德瓦顿·南，“RV-2254D：矮人案例”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -9108,7 +9108,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "quartzite_crystal_worm_icon",
-            "name": "Quartzite - Crystal Worm",
+            "name": "石英岩兽 - 水晶石英岩虫",
             "hp": 70,
             "armor": 6,
             "tier": 4,
@@ -9148,7 +9148,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“There is no credible scientific evidence connecting the terraforming technologies pioneered by my client and its subsidiaries to this phenomenon. Terratech Corporation cannot be held liable for the Crystal Worm that burrowed into Cirius-II colony, striking all electronics with its powerful electromagnetic lightning bursts and lobbing quartzite crystals at the plaintiff’s loved ones. My client asks the court to dismiss this case as an Act of God and forgo the need to misappropriate blame upon my client so that the plaintiff can justly mourn their tragic loss.” —Attorney of Law, Almer Mastriss, “RV-0285L: The Relatives of Cirius-II versus Terratech Corporation”",
+            "description": "“没有可信的科学证据可以表明我的客户及其附属公司所开创的地表改造技术与这个现象之间存在关联。泰拉科技公司不会对盘踞在希里厄斯-II 号星殖民地地下，用强力电磁袭击所有电子元件并向原告的爱人投掷石英岩兽水晶的水晶石英岩虫负责。我的客户要求法庭以不可抗力为由驳回此案，并撤销针对我客户的无端指责，尽管我们的确对原告的巨大损失感到非常遗憾。”- 律师，阿尔莫·马斯特里斯，“RV-0285L：希里厄斯-II 星的相关负责人对泰拉科技公司的控诉”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -9188,7 +9188,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "quartzite_magma_worm_icon",
-            "name": "Quartzite - Magma Worm",
+            "name": "石英岩兽 - 熔岩虫",
             "hp": 70,
             "armor": 8,
             "tier": 4,
@@ -9228,7 +9228,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“Our Colony on Stellara IV was paradise until the 13th day of the fourth month, when the earth thrust upward. The air rippled with heat. A mouth of fire and rock splayed open and vomited brimstone. Its flaming jaws clamped onto our supply silo. Boulders crunched boulders like great teeth grinding, destroying everything. This titanic glowing lava worm plunged back into the ground. All is quiet now. E-Cells are nearly depleted. We tread lightly on the earth out of fear the Worm will return and finish us off.”—Ram Singer, “RV-9984X: Lost World”",
+            "description": "“我们在斯黛拉四号星上的殖民地一直是一个天堂，直到第四个月的第十三天。那天，地面猛地向上凸起，空气酷热无比。一个由火焰和岩石组成的嘴巴张大开来，不断有硫磺从中吐出。它燃着火星的下颚紧紧地咬住了我们的补给筒仓，岩石与岩石之间的碰撞仿佛在模仿咀嚼的动作，将一切都摧毁了。随后，这只流淌着岩浆的巨型蠕虫返回了地底。一切都安静了下来，E 区的资源几乎全部被吞尽。我们悄声地迈着步子，生怕那只蠕虫会卷土重来，将我们赶尽杀绝。”- 拉姆·辛格，“RV-9984X：失落的世界”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -9265,7 +9265,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "quartzite_crystal_basher_icon",
-            "name": "Quartzite - Crystal Basher",
+            "name": "石英岩兽 - 水晶狂怒者",
             "hp": 60,
             "armor": 5,
             "tier": 3,
@@ -9302,7 +9302,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Brother Rigel climbed the mountain again. He brought back glowing crystals. He says God touched them, and that we should rejoice. He quoted scripture, that with faith enough even the rocks will obey us. We came to this world seeking a sanctuary for believers. I don’t wish to sow doubt, but last night the rocks came to life. A hulking crystal monster bashed through the colony wall. It broke into Brother Rigel’s home and took back the crystals touched by God.  Brother Rigel’s dead. I think I liked things better when rocks didn’t move.”—Tomas Marsh, “RV-324R: Promised Land”",
+            "description": "“里基尔再一次上了山，这一次他带回了一些散发着光芒的水晶。他说这些水晶受到了神的触碰，我们应该感到欣喜。他引用了一段经文，大概就是信仰坚定的人连岩石都会服从于他之类的。我们来到这个星球是为了给我们的信徒寻找庇护所。我不想散播疑虑，但昨晚那些岩石的确都活了过来。一只巨大的水晶怪物冲破了殖民地的墙壁，闯入了里基尔的家中，拿走了那些他口中所谓的‘被神触碰过的水晶’。里基尔死了，我想还是更喜欢不会动的岩石。”- 托马斯·马什，“RV-324R：承诺之地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -9336,7 +9336,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "phase_manipulator_icon",
-            "name": "Phase Manipulator",
+            "name": "相位操纵器",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -9364,7 +9364,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“The laser seared off my right arm. I saw it there on the ground beside me. Unavoidable, imminent death gripped me. The angry mob rushed forward to finish me. Then I blinked. I felt a slight tug. My mind buzzed. Somehow, I was behind a defensive bulwark beside a Voidtech Phase Manipulator. It was as if time rewound. My arm was back where it belonged. Crackling blue energy burst from the device dispersing angry protestors. Rifle in my restored arm, I returned fire with renewed vigor; saved by this Voidtech invention.”—Peaceworker Jaya N’Kilpanni, “RV-4417M: Famine’s Era”",
+            "description": "“射线烧毁了我的右臂，它就在我的身边，我避无可避，死亡已经将我包围。愤怒的人群冲了过来，想要置我于死地。我眨了眨眼，感觉到了一阵轻微的拉拽。我的大脑嗡嗡作响，我的身体以某种方式移动到了一处防御工事后方，旁边放着一台相位操纵器。时间仿佛被回溯了一样，我的胳膊再一次完好如初。蓝色的能量从设备中发出，涌向了愤怒的抗议群众。我的步枪也随着胳膊回到了自己的手中，我得以再次向他们发起攻击，这一切都归功于这台虚空科技发明。”- 维和工作者加亚·恩基帕尼，“RV-4417M：饥荒年代”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_overwatch"
@@ -9401,7 +9401,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "rift_generator_icon",
-            "name": "Rift Generator",
+            "name": "裂隙生成器",
             "hp": 55,
             "armor": 1,
             "tier": 3,
@@ -9435,7 +9435,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“I tried to warn them. General Mustlebox’s last words were, “It’s just a rift, fly over it!” That’s when the large donut-shaped ship projected a pulsating dimensional rift into the center of the company. Gravity shifted sideways. Time skipped. Vehicles, men, aircraft phase-shifted in all directions. The General’s vehicle rematerialized in a stone wall. Being unable to breathe solid rock, he died. My turret was rendered out of phase with reality. Our shots had no effect, phasing through its targets. The upside was we were intangible as the VoidTech weapon decimated the colony’s defenses.”—Mah Reg’Nib, “RV-3498X: Dimensional Explorations”",
+            "description": "“我已经厌烦于警告他们了，姆斯特博克斯将军的遗言就是，‘只不过是个裂隙，飞过去！’那时一个甜甜圈型的飞船向着公司的中心发射了一道位面裂隙。重力将道路牵引得七扭八歪，连时间都被吸了进去。载具、人、飞行器，被相位转移到各处，将军的载具被转移到了一面石墙中。他在坚固的岩石中无法呼吸，所以死去了。我的炮台被撕扯得粉碎。我们的射击没有任何效果，只是从它身上穿了过去。在这样强大的虚空武器面前，殖民地的防御设施根本形同虚设。”- 玛·瑞格尼布，“RV-3498X：位面探索”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -9459,7 +9459,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "amazon_echo_walker_icon",
-            "name": "亚马逊 - Echo Walker",
+            "name": "亚马逊 - 回声行者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9493,7 +9493,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Anyone can learn to fold alternate dimensional probabilities using the Echo Walker, if they have the right Voidtech. We suggest program directors prescreen soldiers using this technology for single-mindedness. There should be no personal conflicts hidden within their psyche. Indecisiveness is a killer when entangling probabilistic quantum-realities. Some original prototypes created hostile dimensional echoes. Their doppelgangers actually attacked the tech-users. No one wants to summon their evil twin from an alternate dimension, even if it has better facial hair. The two must share the same willingness to destroy the same enemy.” —Trainer Richter Gray, “RV-3414M: Void Echo Augmentation Tech”",
+            "description": "“只要拥有回声行者这种虚空科技，任何人都能学会折叠其他位面的可能性。我们建议项目主管使用这种技术对士兵进行洗脑，这样他们的精神中就不会隐藏有杂念了。在进入概率性量子现实时，犹豫就会送命。一些原型机能够生成含有敌意的位面回声，他们的二重身甚至会攻击使用者。没人想从其他位面召唤来一个邪恶的自己，即便他的胡须更帅。二者在必须拥有相同的敌人。”- 训练师里克特·格雷，“RV-3414M：虚空回声增幅技术”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -9521,7 +9521,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_echo_walker_icon",
-            "name": "半机械人 - Echo Walker",
+            "name": "半机械人 - 回声行者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9558,7 +9558,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Anyone can learn to fold alternate dimensional probabilities using the Echo Walker, if they have the right Voidtech. We suggest program directors prescreen soldiers using this technology for single-mindedness. There should be no personal conflicts hidden within their psyche. Indecisiveness is a killer when entangling probabilistic quantum-realities. Some original prototypes created hostile dimensional echoes. Their doppelgangers actually attacked the tech-users. No one wants to summon their evil twin from an alternate dimension, even if it has better facial hair. The two must share the same willingness to destroy the same enemy.” —Trainer Richter Gray, “RV-3414M: Void Echo Augmentation Tech”",
+            "description": "“只要拥有回声行者这种虚空科技，任何人都能学会折叠其他位面的可能性。我们建议项目主管使用这种技术对士兵进行洗脑，这样他们的精神中就不会隐藏有杂念了。在进入概率性量子现实时，犹豫就会送命。一些原型机能够生成含有敌意的位面回声，他们的二重身甚至会攻击使用者。没人想从其他位面召唤来一个邪恶的自己，即便他的胡须更帅。二者在必须拥有相同的敌人。”- 训练师里克特·格雷，“RV-3414M：虚空回声增幅技术”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -9582,7 +9582,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_echo_walker_icon",
-            "name": "矮人 - Echo Walker",
+            "name": "矮人 - 回声行者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9613,7 +9613,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Anyone can learn to fold alternate dimensional probabilities using the Echo Walker, if they have the right Voidtech. We suggest program directors prescreen soldiers using this technology for single-mindedness. There should be no personal conflicts hidden within their psyche. Indecisiveness is a killer when entangling probabilistic quantum-realities. Some original prototypes created hostile dimensional echoes. Their doppelgangers actually attacked the tech-users. No one wants to summon their evil twin from an alternate dimension, even if it has better facial hair. The two must share the same willingness to destroy the same enemy.” —Trainer Richter Gray, “RV-3414M: Void Echo Augmentation Tech”",
+            "description": "“只要拥有回声行者这种虚空科技，任何人都能学会折叠其他位面的可能性。我们建议项目主管使用这种技术对士兵进行洗脑，这样他们的精神中就不会隐藏有杂念了。在进入概率性量子现实时，犹豫就会送命。一些原型机能够生成含有敌意的位面回声，他们的二重身甚至会攻击使用者。没人想从其他位面召唤来一个邪恶的自己，即便他的胡须更帅。二者在必须拥有相同的敌人。”- 训练师里克特·格雷，“RV-3414M：虚空回声增幅技术”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -9637,7 +9637,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_echo_walker_icon",
-            "name": "奇尔寇 -Echo Walker",
+            "name": "奇尔寇 - 回声行者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9674,7 +9674,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Anyone can learn to fold alternate dimensional probabilities using the Echo Walker, if they have the right Voidtech. We suggest program directors prescreen soldiers using this technology for single-mindedness. There should be no personal conflicts hidden within their psyche. Indecisiveness is a killer when entangling probabilistic quantum-realities. Some original prototypes created hostile dimensional echoes. Their doppelgangers actually attacked the tech-users. No one wants to summon their evil twin from an alternate dimension, even if it has better facial hair. The two must share the same willingness to destroy the same enemy.” —Trainer Richter Gray, “RV-3414M: Void Echo Augmentation Tech”",
+            "description": "“只要拥有回声行者这种虚空科技，任何人都能学会折叠其他位面的可能性。我们建议项目主管使用这种技术对士兵进行洗脑，这样他们的精神中就不会隐藏有杂念了。在进入概率性量子现实时，犹豫就会送命。一些原型机能够生成含有敌意的位面回声，他们的二重身甚至会攻击使用者。没人想从其他位面召唤来一个邪恶的自己，即便他的胡须更帅。二者在必须拥有相同的敌人。”- 训练师里克特·格雷，“RV-3414M：虚空回声增幅技术”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -9698,7 +9698,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_echo_walker_icon",
-            "name": "辛迪加 -Echo Walker",
+            "name": "辛迪加 - 回声行者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9732,7 +9732,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Anyone can learn to fold alternate dimensional probabilities using the Echo Walker, if they have the right Voidtech. We suggest program directors prescreen soldiers using this technology for single-mindedness. There should be no personal conflicts hidden within their psyche. Indecisiveness is a killer when entangling probabilistic quantum-realities. Some original prototypes created hostile dimensional echoes. Their doppelgangers actually attacked the tech-users. No one wants to summon their evil twin from an alternate dimension, even if it has better facial hair. The two must share the same willingness to destroy the same enemy.” —Trainer Richter Gray, “RV-3414M: Void Echo Augmentation Tech”",
+            "description": "“只要拥有回声行者这种虚空科技，任何人都能学会折叠其他位面的可能性。我们建议项目主管使用这种技术对士兵进行洗脑，这样他们的精神中就不会隐藏有杂念了。在进入概率性量子现实时，犹豫就会送命。一些原型机能够生成含有敌意的位面回声，他们的二重身甚至会攻击使用者。没人想从其他位面召唤来一个邪恶的自己，即便他的胡须更帅。二者在必须拥有相同的敌人。”- 训练师里克特·格雷，“RV-3414M：虚空回声增幅技术”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -9756,7 +9756,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_echo_walker_icon",
-            "name": "先锋 -Echo Walker",
+            "name": "先锋 - 回声行者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -9787,7 +9787,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Anyone can learn to fold alternate dimensional probabilities using the Echo Walker, if they have the right Voidtech. We suggest program directors prescreen soldiers using this technology for single-mindedness. There should be no personal conflicts hidden within their psyche. Indecisiveness is a killer when entangling probabilistic quantum-realities. Some original prototypes created hostile dimensional echoes. Their doppelgangers actually attacked the tech-users. No one wants to summon their evil twin from an alternate dimension, even if it has better facial hair. The two must share the same willingness to destroy the same enemy.” —Trainer Richter Gray, “RV-3414M: Void Echo Augmentation Tech”",
+            "description": "“只要拥有回声行者这种虚空科技，任何人都能学会折叠其他位面的可能性。我们建议项目主管使用这种技术对士兵进行洗脑，这样他们的精神中就不会隐藏有杂念了。在进入概率性量子现实时，犹豫就会送命。一些原型机能够生成含有敌意的位面回声，他们的二重身甚至会攻击使用者。没人想从其他位面召唤来一个邪恶的自己，即便他的胡须更帅。二者在必须拥有相同的敌人。”- 训练师里克特·格雷，“RV-3414M：虚空回声增幅技术”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -9808,7 +9808,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "heritor_drained_icon",
-            "name": "Heritor - Drained",
+            "name": "继承者 - 枯萎者",
             "hp": 35,
             "armor": 1,
             "tier": 1,
@@ -9839,7 +9839,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“In life, you rejected me. Now, you’re Drained. You will serve me. Cling to those not yet consumed by oblivion. In life, you sapped me with tiresome, trivial demands. What motivates you now, dearest Mother? Regret? The fact that you succumbed to Es’Teq is evidence of your faithlessness. I will put your hovering husk to good use collecting the vitality of others unworthy of the gift of life. Those who squander life will be made subservient. Are they not all unworthy? If it were not so, they would not fall.”<br></br>– High Lord Merritt Tarksun, “RV-84575R: Requiem Decreed”",
+            "description": "“你的一生都在排斥我。现在，你被抽尽了精华，将为我服务。紧紧抓住那些还未被遗忘吞没的人吧。你在一生中用繁琐的要求折磨我。我最亲爱的母亲啊，现在是什么在推动着你？是后悔吗？你屈服于埃斯特克的事实证实了你的不忠。我将好好利用你空荡的躯壳，收集那些不配获得生命馈赠之人的活力。浪费生命之人将会屈从于我。他们都是不配拥有之人吗？没错，因为如果不是那样的话，他们就不会堕落。”<br></br>- 至尊领主梅里特·塔克森，“RV-84575R：安魂曲教令”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -9866,7 +9866,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "heritor_siphoner_icon",
-            "name": "Heritor - Siphoner",
+            "name": "继承者 - 生命汲取者",
             "hp": 35,
             "armor": 1,
             "tier": 2,
@@ -9897,7 +9897,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Heritor Dynasty is a pyramid scheme best left buried in the past. Es’Teq extends life, by draining it. They created dogmas to justify it. Every believer gave a little. Unsustainable incentives went to faithful adopters. Once everyone was hooked, it became clear: to live forever, more vitality was needed. Then Siphoners appeared, punishing unbelievers and undesirables. Once weaponized, those with money and power got essence indulgences. Sure, they wrapped it in religion, but it was no more virtuous than the Syndicate. The desire to live forever creates empires of monsters and always will.”<br></br>– Mah Reg’Nib, “RV-98034X: Running from Monsters”",
+            "description": "“继承者王朝就是一个金字塔式的骗局，最好让它继续被过去埋葬。埃斯特克人能够延长生命，然而方式却是汲取生命，他们甚至创造了教条来为自己辩护。每一位信徒都奉献了一些生命，这些不可持续的激励都到了忠诚的接受者那里。当所有人都上钩了，就变得明晰起来：想要获得永生，就需要更多生命力。于是，生命汲取者出现了，他们会惩罚那些没有信仰或不愿信仰之人。在获得了武器之后，那些有钱有势的人便对精华染上了特殊的癖好。当然，他们会用宗教来包装这一切，但这并不比辛迪加人高尚到哪里去。对永生的渴望创造了这些怪物帝国，并且将永远这样下去。”<br></br>- 玛·瑞格尼布，“RV-98034X：逃离虎口”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -9940,7 +9940,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "heritor_quintessence_ark_icon",
-            "name": "Heritor - Quintessence Ark",
+            "name": "继承者 - 精髓方舟",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -9980,7 +9980,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Originally, Heritors were peaceful. We shared our vitality, surrounding their Quintessence Arks willingly to heal our most afflicted. Their miraculous Es’Teq promised us eternal lives. We were equals, thriving for generations. Then their High Lord rose to power. It wasn’t enough just to live. He demanded deeper devotion. Essence became power. Power required control. The vitality we shared went to those deemed worthiest. Communion became forced servitude. My husband was drained to death, and for what purpose? A happy life no longer matters. Their self-righteous pride drained us all of life.”<br></br>– Morris Maunery, “RV-838899R: Testimonial: Heritor Purge Initiative”",
+            "description": "“最初，继承者是爱好和平的。我们围绕着他们的精髓方舟，一同分享着生命力，治愈我们的苦痛。他们不可思议的埃斯特克许诺给予我们永恒的生命。我们维持着平等，世世代代都繁荣昌盛，直到他们的至尊领主掌握了大权。光是活着还远远不够，他要求更多的奉献。精华变成了力量，而力量需要掌控。我们本来共同所拥有的活力被送往那些被视为值得之人。通灵变成了一种强制性的劳役。我的丈夫被吸取精华至死，但是为了什么？幸福的生活已经不再重要了。他们自以为是的骄傲吸尽了我们所有的生命。”<br></br>- 莫里斯·莫纳里，“RV-838899R：证明书：继承者净化计划”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -10014,7 +10014,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "heritor_high_lord_icon",
-            "name": "Heritor - High Lord",
+            "name": "继承者 - 至尊领主",
             "hp": 50,
             "armor": 2,
             "tier": 3,
@@ -10048,7 +10048,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“We entered the sanctum, stepping over the husks of fallen bodies. Taskmaster’s men donned hazmat suits, assuming a plague. I knew better. Zealots gave their lives for what slept within. Despite my protests, they broke the seals. A man floated before them, encased in emerald. His ageless eyes opened. Virulent tendrils sapped the workers of life, nourishing the High Lord. The Taskmaster’s weapons deflected off its recharging carapace. A blast of entropic energy caused all mechanical devices to fall inert. I watched with concealed horror as Taskmaster’s corpse bowed with lifeless eyes before this Heritor nightmare.”<br></br>– Mah Reg’Nib, “RV-97009X: Running from Monsters”",
+            "description": "“我们走进圣殿，脚下是一具具变为了空壳的尸体。为了防止瘟疫，工头的手下们全都穿着防护服。我比他们要清楚得多。这些狂热者为了里面沉睡的东西献出了自己的生命。尽管我一再反对，但他们还是打开了封印，一个浑身包裹在绿宝石中的男人漂浮着出现在了他们面前。接着，他睁开了自己永不衰老的眼睛。恶毒的触须吸走了工人们的生命，滋养着至尊领主。工头的武器射偏在了充能外壳上，一阵混沌能量的爆发使所有的机械装置都失去了作用。我看见工头的尸体瞪着毫无生气的眼睛跪倒在这位继承者梦魇面前。我的内心充满了恐惧，但却不敢表露出来。”<br></br>- 玛·瑞格尼布，“RV-97009X：逃离虎口”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -10072,7 +10072,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "pustule_icon",
-            "name": "Pustule",
+            "name": "脓疱",
             "hp": 40,
             "armor": 1,
             "tier": 1,
@@ -10112,7 +10112,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Yes, I’m just a lowly bug doctor. This Xenoplague discovery is no bug. Until witnessing the Alpha Strain’s parasitic mutation from spore to organized creature, I would’ve said no other living creature had as much success spreading across worlds as insectoids. Now I see that even the Pustule exhibits a wicked determination to assimilate all life forms. It’s too dangerous. You can’t contain its spurts of infectious bile. Quarantine your world. It will spread. What you are unleashing upon the universe could end us all. God have mercy if someone weaponized it  ”—Professor R. Lin’l “Bugman” Bunson, “RV-022S: Xenoplague Discovery Analysis”",
+            "description": "“没错，我只是个卑微的虫类博士。经过调查发现，这场异星疫病并非虫类引起。在随后的调查中，我们亲眼目睹初始毒株发生寄生变异，从孢子变为有组织的生物，我认为没有活体生物能像昆虫类一样快速传播至各个世界。现在就连脓疱也表现出了一种消灭所有生命体的决心，它喷吐出的汁液能够夺走你的性命。将你的世界隔离起来，不然它会继续传播，你正在向宇宙散布的东西会为所有生物带来末日，希望不会有人将它制成武器。”- R.林“昆虫人”邦森教授，“RV-022S：异星疫病发现分析”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -10136,7 +10136,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "destroyer_icon",
-            "name": "Destroyer",
+            "name": "毁灭者",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -10173,7 +10173,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Eureka! I’ve done it. My research shows how to mutate stable Pustule specimens into more powerful living weapons. The common mutation, spontaneous infectious self-destruction, is no longer its preferred evolutionary path. Uploading the procedures to Xenolab’s research cloud… Wait… There’s a disruption in the specimen cages. I hear screaming. Activate monitors. My creations breached the safety interlocks. So beautifully clever! So lethal! They’re destroying my offices. Quarantine this planet. My beloved Eva, continue my research. Don’t weep. This is the price of scientific breakthroughs. Oh! And don’t forget: Use acid-resistant restraining collars.”—Dr. Felix Berg, “RV-165S: Xenolabs Research”",
+            "description": "“很好！我做到了。我的研究表明，将稳定的脓疱变异为更加强力的活体武器是可行的。普通的变异，自发性感染性的自我摧毁，将不再被其视为进化道路。正在将变异步骤上传至异星实验室的云计算研究中心......等一下......样本牢笼中出现了混乱，我听到了尖叫声。激活监控系统。我的造物突破了安全联锁，它们是那么的聪明！那么的致命！它们正在摧毁我的办公室，隔离这颗星球。亲爱的爱娃，继续我的研究，不要哭泣，这是科学进步的必要代价。哦！别忘了，要使用抗酸材质制成的项圈。”- 菲利克斯·柏格博士，“RV-165S：异星实验室研究”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -10207,7 +10207,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "plague_lord_icon",
-            "name": "Plague Lord",
+            "name": "疫病领主",
             "hp": 65,
             "armor": 4,
             "tier": 3,
@@ -10250,7 +10250,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Specimen T-23, affectionately known in the Xenolab as Plague Lord, has an impressive array of deadly attacks. It launched a tree-sized spike into an armored tank with devastating effectiveness. The testers activating the target were infected with Xenoplague. Its savage strength enables it to launch lethal tentacle spikes at flying enemies with deadly accuracy. The Plague Lord’s control over infected fallen allows it to animate expired enemies. With a simple inoculation of training serum and 32 million credits, you can unveil this terrifying new weapon in your next military engagement.”—Dr. Terrence Weiss, “RV-3488M: Xenoplague Weapons Mastery”",
+            "description": "“样本 T-23，在异星实验室被亲切地称为疫病领主，拥有多种致命的攻击方式。它能够发射树木大小的尖刺，威力足以刺穿坦克装甲。测试员正在激活受到异星疫病感染的实验体。它强大的力量使其能够精准地利用触手尖刺攻击到飞行的敌人。疫病领主能够控制被感染的生物，即使该生物已经死去。只需简单地接种一针训练血清，并支付三千两百万，你就能在下次的军事行动中使用这个可怕的新武器。”- 特伦斯·怀斯博士，“RV-3488：异星疫病武器精通”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -10271,7 +10271,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "bloated_pustule_icon",
-            "name": "Bloated Pustule",
+            "name": "浮肿脓胞",
             "hp": 25,
             "armor": 0,
             "tier": 1,
@@ -10317,7 +10317,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“It’s amazing how much of my advice gets ignored all because the best thing I can advise is to run away. If you ever see a large overinflated pustule separate itself from other Xenoplague pustules and approach, RUN! You can’t make friends with an infectious plague. Diplomatic Envoy Derwinnivik thought he could. That’s why he died. As did the rest of his company that ignored my warning and surrounded that swollen undulating snot-ball. What did it do? It exploded! Boom! All of them died or were infected. It’s why they eventually quarantined Sunkist-II.”—Mah Reg’Nib, “RV-4000X: Vacation Hotspots”",
+            "description": "“就因为我的建议是尽快逃跑，所以我惨遭了所有人的无视，这可真是讽刺。如果你见到一大坨巨大的脓疱正从其他异性疫病脓疱中分离，并向你靠近，快跑！这种疫病可不是来和你交朋友的。外交官恩沃·德温尼维克认为自己能够与它和睦相处，所以他死了。至于他的那些无视了我的警告，继续围绕在那个肿胀的大球周围的同伴们，当然也死了。它是怎么做到的？它爆开了！嘭！周围的人要么直接死去，要么惨遭感染。这就是必须隔离桑基斯特-II 的原因。”- 玛·瑞格尼布，“RV-4000X：假期热点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -10341,7 +10341,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "amazon_huntress_icon",
-            "name": "亚马逊 - Huntress",
+            "name": "亚马逊 - 女猎手",
             "hp": 40,
             "armor": 0,
             "tier": 1,
@@ -10375,7 +10375,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“At the forest-moon of Gen-II, we discovered the Terratech Research Park stripped of all its tech. Disappointed in the loss of such valuable assets, the team searched the forest. That’s when we saw them: powerful females armed with ultramodern bows. These Huntresses moved like ghosts in and out of the trees. Visible one moment, gone the next. We demanded they surrender their armor and weapons, clearly using modified tech from the old Star Union facility. Ignoring us, they launched a volley of modified arrows, some laced with biotoxins and others that produced blinding flashes.”— Major Matt Maxim, “RV-3424M: Terratech Salvage Mission Gen-II”",
+            "description": "“在森林卫星 Gen-II 上，我们发现泰拉科技公园被掠夺了其全部的科技。失去如此宝贵的资产令人十分失望，搜寻队搜查了森林。我们看到了以下景象：强力女战士手持由尖端科技打造的强弓。这些女猎手在树丛间悄无声息的来回穿插。上一刻还在眼前，下一刻就消失的无影无踪。我们要求他们缴械投降，因为她们在使用的是从前星际联盟研究设施中掠夺的技术所改造的武器。她们并没有回应我们，取而代之的是一阵改装箭矢乱射，其中一些附带的是生物毒素，而其他箭矢会发出致盲的闪光。”- 马特·马西姆少校，“RV-3424M：‘二代’泰拉科技救助任务”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -11305,7 +11305,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "vanguard_assault_bike_icon",
-            "name": "先锋 -Assault Bike",
+            "name": "先锋 - 突击机车",
             "hp": 50,
             "armor": 4,
             "tier": 2,
@@ -11333,7 +11333,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“In ancient times, our ancestors rode bikes to freedom, claiming virtue in a life on the open road. Ancestral records show leather-clad mobs of two-wheeled ruffians decorated with the flaming skulls of their enemies. Some anthropologists believe the Assault Bike captures that instinctive melancholy—without the skulls, of course. The old bikes had no Laser Arrays capable of strafing mobs of enemy invaders or focusing all power onto a single target. One can only wonder if our ancestors ever would’ve left the open road had they these additional capabilities.”— Professor Quinlinn T. Ortivexis, “RV-4367H: Historical Parallels: Humanity’s Twisted Past”",
+            "description": "“在古代，我们的祖先乘坐机车奔向自由，在宽广的大道上领悟了生命的真谛。历史记录显示曾有一群骑着两轮机车身穿皮革的暴徒，会将敌人的头骨点燃来作为机车上的装饰。一些人类学家认为突击机车充分体现了独特忧郁的气质，当然是说没有头骨作为装饰的时候。这些老旧的机车没有配备激光阵列，因此既不能扫射侵略而来的敌人暴徒，也不能将所有能量汇聚到单个目标之上。人们只能猜想，我们的祖先是否曾经离开了宽广的大道并获得了这些额外的能力。”- 奎里恩·T·奥迪威希斯教授，“RV-4367H：历史的相似之处：人类扭曲的过去”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -11357,7 +11357,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_trooper_icon",
-            "name": "先锋 -Trooper",
+            "name": "先锋 - 骑兵",
             "hp": 40,
             "armor": 1,
             "tier": 1,
@@ -11391,7 +11391,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Technology exists to automate the Vanguard Trooper’s job, but how do you inspire a populace with no skin in the game? That philosophy was posited by emperors that needed humankind to sympathize with the price of war. Some suppose that the troopers are a tool of CORE, desperate criminals being forced to join its ranks. It has been my experience, however, that the deadliest trooper fights not to atone for his past, but to build a better future. For that, CORE and the emperors should be wary. They serve but never surrender.”— Quinlinn T. Ortivexis, “RV-4367H: Historical Parallels: Humanity’s Twisted Past”",
+            "description": "“科技能够使先锋骑兵的工作变得自动化，但你要如何激励连皮肤都没有的士兵呢？帝皇们认为需要人类对战争的代价产生共鸣。一些人认为骑兵不过是核心的工具，认为他们不过是一群被迫加入的穷凶极恶之徒。但在我看来，就算是凶狠的骑兵也并非在为赎罪而战，而是为了创造更美好的未来。因此，核心和帝皇们都应该小心。他们虽然在服从，但却从未屈从。”- 奎里恩·T·奥迪威希斯，“RV-4367H：历史的相似之处：人类扭曲的过去”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_improved_overwatch"
@@ -11421,7 +11421,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_engineer_icon",
-            "name": "先锋 -Engineer",
+            "name": "先锋 - 工程师",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -11452,7 +11452,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“An Engineer’s job is never done. Soldiers get their downtime during the slow creep of space travel in cryosleep. I’m the one awakened when there’s a slight abnormality in system diagnostics. The Valkyries were older than me before we started this voyage. They remained blissfully preserved. Now I’m their senior by a decade. I outfit the hazmat-mech suits. I can fix anything. I can erect a laser turret. Once the Void FTL-comms failed, can anyone blame me for having a little fun with the system computers?”— Dren Gates, “RV-20456C: Building VR-Gaming Empires in your Starship’s AUX-compute core.”",
+            "description": "“工程师的工作永远都没有尽头。士兵们会在太空旅行慢行期间进入冷冻休眠休息。当系统诊断中出现任何异常时，我都会被唤醒。在开始这段旅行前，那些瓦尔基里看上去比我老多了。她们的青春得到了保留，而我却已经比她们还要年长十岁了。我穿着危险机械防护服，什么都能修，还可以建造激光炮塔。当虚空 FTL 通讯失灵后，应该没有人会指责我用系统电脑找点乐子吧？”- 德里恩·盖茨，“RV-20456C：在你的星际飞船 AUX 电脑核心中搭建 VR 游戏帝国。”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -11486,7 +11486,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_walker_icon",
-            "name": "先锋 -Walker",
+            "name": "先锋 - 行者",
             "hp": 60,
             "armor": 3,
             "tier": 3,
@@ -11526,7 +11526,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“When Commander Abbott disappeared during the Mission of Comet Tomb, I was promoted to pilot his Walker. They say each mech has its own personality. Abbott wanted revenge. It terrified me. I screamed the first time I fired the Vulcan cannon. Gouts of life exploded before its barrage of bullets. Air-bound or hiding behind cover, the spindly finger smoke trails from the Walker’s frag-missile batteries left no survivors. I won accolades, but I tell you, the ghost of Commander Abbott lives on in his favorite mech.”— Captain Paxus Plexis, “RV-334M: Vanguard Encounters, Lost Colonies of the Water Nebula”",
+            "description": "“当指挥官阿伯特在执行彗星坟墓任务期间失踪后，我就被晋升为了他的行者的驾驶员。他们说每一台行者都有其自己的个性。阿伯特想要复仇，这令我感到畏惧。我在第一次发射伏尔甘炮时吓得尖叫了起来。无数生命在它的弹幕下被轰得四分五裂。无论是在空中，还是躲在掩体后，当行者的破片导弹排炮开始轰击，从中传出阵阵青烟后，就绝不会有任何幸存者存在。我赢得了称赞，但我必须要说，指挥官阿伯特的灵魂就在这台他生前最喜爱的机甲之中”- 帕修斯·普雷西斯队长，“RV-334M：先锋遭遇战，失落的水星云殖民地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_improved_overwatch"
@@ -11563,7 +11563,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_laser_tank_icon",
-            "name": "先锋 -Laser Tank",
+            "name": "先锋 - 激光坦克",
             "hp": 60,
             "armor": 5,
             "tier": 3,
@@ -11594,7 +11594,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Pollux Moon Colony rejoiced to see the Vanguard Laser Tank among the supply convoy. For days, we hid in bunkers and prayed for armed relief. When the enemy returned, the townsfolk groaned, crying for fear that the tank was immediately damaged because a cloud of smoke enveloping the tank. Captain Paxus calmed the crowd. The tank was fine, he explained. Smoke obscures the tank, a defensive capability. He told us to avert our eyes, as the main gun began its deadly work.”— Mayor Delani D’Terni, “RV-333M: Vanguard Encounters, Lost Colonies of the Water Nebula”",
+            "description": "“波勒克斯月亮殖民地看见供给车队中有先锋激光坦克而欣慰不已。这几天一来，我们一直躲在地堡中，祈祷着武装救援的到来。当敌人回来时，一团烟雾包裹住了坦克，居民们发出了叹息，担心坦克会因此受到伤害。帕修斯队长安抚了群众。‘坦克没有事，’他解释道，‘包围坦克的烟雾是一种防御手段’。他告诉我们把目光移开，因为致命的主火炮即将开工了。”- 德拉尼·德特尔尼市长，“RV-333M：先锋遭遇战，失落的水星云殖民地”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -11631,7 +11631,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_pug_icon",
-            "name": "先锋 -PUG",
+            "name": "先锋 - 巴哥",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -11662,7 +11662,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Ensign Arnie thought it would be funny to prank Sarge. So he stuffed his dessert rations into the Healing Charge of the Sarge’s PUG. I think he just forgot about it. A month later we were ambushed by bugs, and Sarge gets hit. His PUG was working fine. It was blurred and returning fire with its blasters—all’s good, until Sarge calls for medical. Normally, it’d heal him right up, but instead it sprayed him with chocolate pudding. That’s when the battle took a turn for the worse.”— Lieutenant Lenny Sasse, “RV-333M: Court-martial of Ensign Arnie Malarkin”",
+            "description": "“阿尔尼海军少尉认为整蛊萨尔基是一件很有趣的事，所以他把自己的甜点口粮塞到了萨尔基的巴哥治疗电荷中。我认为他就是把这件事情给忘了。一个月后，我们遭到了虫子的偷袭，萨尔基受伤了。他的巴哥运作正常，它快速地移动并用爆能枪进行反击。一切都很正常，直到萨尔基请求医疗救助。通常情况下，它会立刻对他进行治疗，而不是向他喷洒一堆巧克力布丁。这场战斗也是从那时起开始变得糟糕起来。”- 莱尼·沙斯中尉，“RV-333M：海军少尉阿尔尼·马拉尔金的军事法庭审判”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -11693,7 +11693,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_owl_icon",
-            "name": "先锋 -OWL",
+            "name": "先锋 - 猫头鹰",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -11727,7 +11727,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“Want to survive? Send in the OWL first. The little robot flies like a falcon - twice as high and just as fast. I won’t go in to a new location without the OWL first taking a look-see. Rumor has it, there are budget cuts coming. Sure, its laser is not much of a weapon, but it’s perfect for targeting enemies. My OWL prevented a dozen ambushes, and when it paints a target, my sniper rifle never misses. It is essential military gear. It’s easier to repair than a bullet through my head.”— Ensign Topher Erikson, “RV-222M: Vanguard Military Hardware Testimonial”",
+            "description": "“想要活命？先派遣猫头鹰吧。这个小小的机器人就如同一只猎鹰，虽然高度是鹰的两倍，但速度不相上下。如果不事先派猫头鹰去勘察一下，我是不会去任何新地方的。有传言称，预算即将缩减。虽然它的激光算不上是个武器，但却非常适合标记敌人。我的猫头鹰帮助我躲过了许多次埋伏，当它标记出敌人后，我的狙击枪从没有失手过。它是我至关重要的军事装备，而且十分容易修理。”- 海军少尉托非尔·埃里克森，“RV-222M：先锋军事硬件推荐信”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -11767,7 +11767,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_drone_carrier_icon",
-            "name": "先锋 -Drone Carrier",
+            "name": "先锋 - 无人机航母",
             "hp": 60,
             "armor": 6,
             "tier": 4,
@@ -11798,7 +11798,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“Why did the Star Union dominate before the Collapse? It wasn’t their trade policies or the prosperity afforded to non-aggressors. No, they dominated by sheer power.  At the height of its reach, the Empire’s Drone Carrier could launch drone swarms for distinct tactical purposes, whether it be for offense, medical, building or destroying obstacles, without the loss of a single marine. It is ironic that a race so horrified by the discovery of the swarm-like Kir’Ko could invent the deadliest swarm-capable weapon known across the galaxy.”— Professor Quinlinn T. Ortivexis, “RV-4368H: Historical Parallels: Humanity’s Twisted Past”",
+            "description": "“为什么星际联盟在陨落前能够一直主宰？不是因为他们的贸易政策或是为非侵略者提供的繁荣，都不是。他们之所以能够主宰是因为他们掌握了无与伦比的力量。在帝国无人机航母的鼎盛时期，它能够为了不同的战术目的发动无人机群，无论是进攻、医疗、建造还是摧毁障碍物，并且不会损失任何一支舰队。说起来可真是讽刺，一个因发现虫群一样的奇尔寇而陷入了恐惧的种族，竟然自己发明了能够容纳像虫群一样致命无人机的载具。”- 奎里恩·T·奥迪威希斯教授，“RV-4368H：历史的相似之处：人类扭曲的过去”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -11825,7 +11825,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "vanguard_valkyrie_icon",
-            "name": "先锋 -Valkyrie",
+            "name": "先锋 - 瓦尔基里",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -11852,7 +11852,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“My story ends with me swallowed by a big bug. The thing poops out larvae, and I think, ‘What a waste! Am I going to end up as a slimy bug?!’ I’m smothered in the pitch-black acidic undulations of its digestive tract. It’s enough to make the least religious pray. Then, I see a light. Before me, holding a sword of burning light, floats an angel. She lobs a flash grenade, blinding the angry swarm. I’ll never forget when I died and was delivered by an angel: a Vanguard Valkyrie.”— Mah Reg’Nib, Observer Officiate: “RV-771X: Nectar Run: The Price of Power”",
+            "description": "“我的故事在我被一只大虫子吞掉后就一起结束了。当时那东西正在向外排卵，我心想：‘真可惜！难道我最后会变成一只黏糊糊的虫子吗？！’它满是酸液的漆黑消化道令我窒息，但我还可以进行最后一次宗教祈祷。随后，我看到了一道光芒。我的面前漂浮着一位手持发光长剑的天使，她抛出一颗闪光弹，致盲了愤怒的虫群。我永远也不会忘记我死亡的那一刻，并且被一名天使所带走：先锋瓦尔基里。”- 玛·瑞格尼布，观察者长官：“RV-771X：花蜜奔跑：力量的代价”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -11886,7 +11886,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_gunship_icon",
-            "name": "先锋 -Gunship",
+            "name": "先锋 - 炮艇",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -11920,7 +11920,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“The refugees couldn’t communicate with air support. We just fled. They flew in formation, eight Vanguard Gunships. They drew fire from our flying pursuers. The Vanguard built those gunships to repel hostile fliers. I thought I had a clear shot until I ran into a line of hostiles blocking our retreat. The gunships mowed down the lines easily. The fools didn’t realize that Vanguard Gunships specialize in strafing fools in long lines too. If I ever get a chance, I’d buy those pilots a drink.”— Mah Reg’Nib, Observer Officiate: “RV-770X: Nectar Run: The Price of Power”",
+            "description": "“难民无法与空中支援取得联系，我们只能逃跑。八艘先锋炮艇以方阵形式飞行，吸引那些追击者的火力。先锋制造这些炮艇就是为了对抗敌对飞行物。我以为我的目标很明确，直到一排敌人拦住了我们的撤退线路。炮艇轻而易举地解决掉了他们。那群白痴不知道先锋炮艇也十分擅长消灭排成一列的敌人。如果有机会的话，我真想请那群飞行员喝一杯。”- 玛·瑞格尼布，观察者长官：“RV-770X：花蜜奔跑：力量的价值”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -11945,7 +11945,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_launcher_turret_icon",
-            "name": "先锋 -Launcher Turret",
+            "name": "先锋 - 发射器炮塔",
             "hp": 50,
             "armor": 3,
             "tier": 1,
@@ -11969,7 +11969,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "“Like most engineers, I’d much rather automate my job so that I can work on my side projects. It’s nothing personal about the bosses, but they’re stupid. I’m no combat soldier! So, I assembled my fellow engineers and coded a targeting computer. Put it on a turret, change this variable to indicate a machine gun, laser blaster, or a rocket launcher, and it shoots the baddies. I mean, do you really want me, with my bad vision and posture anywhere near a gun?”—Dren Gates, “RV-21000C: Building VR-Gaming Empires in a Targeting Computer.”",
+            "description": "“与大多数工程师一样，我也更希望自己的工作能够自动化处理，这样我就能忙一些副业了。我并不是针对那些领导，但他们真是蠢到家了。我又不是战斗士兵！所以，我集结了手下的工程师，对目标电脑进行了编程。然后将它放置在一个炮塔上，改变这个变量，它就能变成机关枪、激光爆能枪或是火箭发射器，而且还能攻击敌人。我的意思是，你真的希望像我这种视力和身体的人拿一把枪去作战吗？”- 德伦·盖茨，“RV-21000C：在目标电脑建造 VR 游戏帝国。”",
             "elite_rewards": []
  },
         {
@@ -11990,7 +11990,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_heavy_gun_turret_icon",
-            "name": "先锋 -Heavy Gun Turret",
+            "name": "先锋 - 重型炮塔",
             "hp": 25,
             "armor": 2,
             "tier": 1,
@@ -12018,7 +12018,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "“Like most engineers, I’d much rather automate my job so that I can work on my side projects. It’s nothing personal about the bosses, but they’re stupid. I’m no combat soldier! So, I assembled my fellow engineers and coded a targeting computer. Put it on a turret, change this variable to indicate a machine gun, laser blaster, or a rocket launcher, and it shoots the baddies. I mean, do you really want me, with my bad vision and posture anywhere near a gun?”—Dren Gates, “RV-21000C: Building VR-Gaming Empires in a Targeting Computer.”",
+            "description": "“与大多数工程师一样，我也更希望自己的工作能够自动化处理，这样我就能忙一些副业了。我并不是针对那些领导，但他们真是蠢到家了。我又不是战斗士兵！所以，我集结了手下的工程师，对目标电脑进行了编程。然后将它放置在一个炮塔上，改变这个变量，它就能变成机关枪、激光爆能枪或是火箭发射器，而且还能攻击敌人。我的意思是，你真的希望像我这种视力和身体的人拿一把枪去作战吗？”- 德伦·盖茨，“RV-21000C：在目标电脑建造 VR 游戏帝国。”",
             "elite_rewards": []
  },
         {
@@ -12039,7 +12039,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_gun_turret_icon",
-            "name": "先锋 -Gun Turret",
+            "name": "先锋 - 炮塔",
             "hp": 35,
             "armor": 2,
             "tier": 1,
@@ -12067,7 +12067,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "“Like most engineers, I’d much rather automate my job so that I can work on my side projects. It’s nothing personal about the bosses, but they’re stupid. I’m no combat soldier! So, I assembled my fellow engineers and coded a targeting computer. Put it on a turret, change this variable to indicate a machine gun, laser blaster, or a rocket launcher, and it shoots the baddies. I mean, do you really want me, with my bad vision and posture, anywhere near a gun?”— Dren Gates, “RV-21000C: Building VR-Gaming Empires in a Targeting Computer.”",
+            "description": "“与大多数工程师一样，我也更希望自己的工作能够自动化处理，这样我就能忙一些副业了。我并不是针对那些领导，但他们真是蠢到家了。我又不是战斗士兵！所以，我集结了手下的工程师，对目标电脑进行了编程。然后将它放置在一个炮塔上，改变这个变量，它就能变成机关枪、激光爆能枪或是火箭发射器，而且还能攻击敌人。我的意思是，你真的希望像我这种视力和身体的人拿一把枪去作战吗？”- 德伦·盖茨，“RV-21000C：在目标电脑建造 VR 游戏帝国。”",
             "elite_rewards": []
  },
         {
@@ -12084,7 +12084,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "vanguard_nanite_support_station_icon",
-            "name": "先锋 -Nanite Support Station",
+            "name": "先锋 - 纳米支援站",
             "hp": 20,
             "armor": 2,
             "tier": 1,
@@ -12112,7 +12112,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "",
-            "description": "“The operations manual said that it would spray the area with a light refracting obscuring agent called Lumitol. I don’t know if that’s the chemical that kept the enemy fire from seeing us, or if it was the healing agent that stopped my bleeding, but I must confess I would be much more willing to help fight this war if there were more Support Stations along the way.”— Ensign Doohan ‘Red Shirt’ McGee, “RV-957M: All the Best Gadgets and the Men who Love Them.”",
+            "description": "“行动手册上说它会向区域喷射一种被称为鲁米托的光线折射隐藏剂，我不知道是不是那种化学物质使我们消失在了敌人的火力视线内，也不清楚是不是它让我的伤口止住了流血。但我必须承认，如果一路上还有更多这样的纳米支援站的话，我的战斗热情将会更加高涨。”- 海军少尉多汉“红衣”麦吉，“RV-957M：最好的装置以及爱它们的人。”",
             "elite_rewards": []
  },
         {
@@ -12136,7 +12136,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_repeater_defense_turret_icon",
-            "name": "先锋 -Repeater Defense Turret",
+            "name": "先锋 - 连发防御炮塔",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -12164,7 +12164,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "Repeater Defense Turrets are the Vanguard colony defense turrets.",
+            "description": "连发防御炮塔是先锋殖民地的防御炮台。",
             "elite_rewards": []
  },
         {
@@ -12188,7 +12188,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_colonizer_icon",
-            "name": "先锋 -Colonizer",
+            "name": "先锋 - Colonizer",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -12219,7 +12219,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  250<production></production>  10<tricorium></tricorium>1<population></population>",
-            "description": "“From the ashes of the Star Union, a new age will dawn. The fallen empire hides powerful secrets yet to be found, a race in earnest to revive the powers hidden in our past. The colonizer is the first step towards that revival. The nurturing of colonies and the development of society is of delicate importance, more so for a foreign and unfamiliar planet with dangers unknown. The cosmic Dark Age is over, and the legendary remnants of the Empire lay dormant, waiting to be rediscovered.”— Quinlinn T. Ortivexis, “RV-4367H: Universal Coincidental History”",
+            "description": "“从星际联盟的废墟中，新的时代将会来临。但帝国即使陨落了，也隐藏着许多未被人发现的秘密，也存在着一个想要恢复往日繁荣的种族。殖民者就是复兴的第一步。殖民地的养护和社会的发展都尤为重要，尤其是在陌生且危机四伏的星球。虽然宇宙的黑暗时代已经结束，但帝国仍有许多意义非凡的秘密等待被人发现。”- 奎里恩·T.奥迪威希斯，“RV-4367H：宇宙巧合历史”",
             "elite_rewards": []
  },
         {
@@ -12252,7 +12252,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_battleship_icon",
-            "name": "先锋 -Battleship",
+            "name": "先锋 - 战列舰",
             "hp": 70,
             "armor": 4,
             "tier": 3,
@@ -12280,7 +12280,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>  10<tricorium></tricorium>",
-            "description": "“Our Captain cursed the intercom static, demanding engineering’s reply. Judging from the crater in the ship where the engines used to be, I knew there would be no reply. A jarring boom sent the lead marauder’s ship flying in three directions. Missiles tore it apart. A Vanguard Battleship loomed out of the smoke. Its cannons blasted a second ship, while its missile launchers reloaded. We hailed it, hoping for lifeboats, but the Battleship unleashed a sparkling charge of warmth over us. The hole in our ship sealed, as microscopic nanites knit everything back together.”— Sheldon Zaragoza, “RV-39761M: Vanguard Justice”",
+            "description": "“我们的舰长朝着对讲机发出的静电干扰一通臭骂，要求工程部立即回应。原本飞船引擎所在的位置已经变成了一个大坑，我想已经不会有人回应他了。一阵巨大的爆炸声响，领头的劫掠者船只向三个方向碎落而去。不知哪里的导弹将它轰成了碎片。这时，一艘先锋战列舰从浓烟中出现，向敌人的第二艘船只发起了炮轰，导弹发射器同时开始填弹。我们向它挥手，希望它能投来救生艇，但战列舰却向我们投来了一阵温暖的火花电荷。微小的纳米机器人不仅修复了我们船体的破洞，还令整艘船如获新生。”- 谢尔顿·扎拉格扎，“RV-39761M：先锋正义”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -12314,7 +12314,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "vanguard_frigate_icon",
-            "name": "先锋 -Frigate",
+            "name": "先锋 - 护卫舰",
             "hp": 50,
             "armor": 4,
             "tier": 2,
@@ -12338,7 +12338,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  150<production></production>",
-            "description": "“Rumor reached me of a land called Felinar where the natives revered cats as gods. Naturally, I thought it the ideal place for my cat. I hitched a ride with a Vanguard Frigate patrol. Surprisingly, the natives mobbed us. Their faces were strained with desire. They leered at my darling kitty. I’d made a terrible mistake. These savages adored cats only as food. It was a trap! The Vanguard Frigate unleashed a multi-laser barrage, burning a clear swathe through the throng of cat-carnivores. That’s why Mister McFlufflepants loves the Vanguard.”— Astro Cattovio, Children’s Book Author, “RV-00495E: McFlufflepants Travels Abroad”",
+            "description": "“有传言称有一个地方叫菲里纳尔，那里的原住民将猫视为神明。所以，我认为那里非常适合我的猫咪居住。于是我跳上了一艘正在巡逻的先锋护卫舰，搭了一趟顺风车。令人意外的是，当地人竟然袭击了我们。他们的脸上满是欲望。他们不怀好意地盯着我心爱的小猫咪。我犯下了一个致命的错误，在这些野蛮人眼里，猫只是食物罢了，传言是个陷阱！先锋护卫舰发射了一道多重激光弹幕，将这些食猫族全部烧成了灰烬。这就是迈克弗鲁潘茨先生喜欢先锋的原因。”- 阿斯特罗·卡托维奥，儿童读物作家，“RV-00495E：克弗鲁潘茨游记”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -12366,7 +12366,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_heavy_launcher_turret_icon",
-            "name": "先锋 -Heavy Launcher Turret",
+            "name": "先锋 - 重型发射器炮塔",
             "hp": 50,
             "armor": 4,
             "tier": 1,
@@ -12390,7 +12390,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "“Like most engineers, I’d much rather automate my job so that I can work on my side projects. It’s nothing personal about the bosses, but they’re stupid. I’m no combat soldier! So, I assembled my fellow engineers and coded a targeting computer. Put it on a turret, change this variable to indicate a machine gun, laser blaster, or a rocket launcher, and it shoots the baddies. I mean, do you really want me, with my bad vision and posture anywhere near a gun?”—Dren Gates, “RV-21000C: Building VR-Gaming Empires in a Targeting Computer.”",
+            "description": "“与大多数工程师一样，我也更希望自己的工作能够自动化处理，这样我就能忙一些副业了。我并不是针对那些领导，但他们真是蠢到家了。我又不是战斗士兵！所以，我集结了手下的工程师，对目标电脑进行了编程。然后将它放置在一个炮塔上，改变这个变量，它就能变成机关枪、激光爆能枪或是火箭发射器，而且还能攻击敌人。我的意思是，你真的希望像我这种视力和身体的人拿一把枪去作战吗？”- 德伦·盖茨，“RV-21000C：在目标电脑建造 VR 游戏帝国。”",
             "elite_rewards": []
  },
         {
@@ -12414,7 +12414,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_enforcer_icon",
-            "name": "辛迪加 -Enforcer",
+            "name": "辛迪加 - 执行者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -12444,7 +12444,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The protestors were fools. Syndicate noble-merchants all have money and power. A bunch of shouting people won’t change that. Who fights the Syndicate Enforcers expecting to get away without some kind of injury? Each punch with their Psi-powered gauntlet is the equivalent force of being beaten by an angry mob. Their Psi-tech weaponry can create shields and if things get out of control, inflicts crippling wounds on the unruliest dissidents. In the Syndicate, if you want a long life, you should lay low, keep quiet, and obey.”—Nozefur Aatu, Propagandist, “RV-9527H: Revisions of Syndicate History”",
+            "description": "“那群抗议的人都是蠢货。辛迪加那些贵族商人有权有势，一群乱喊乱叫的人什么也改变不了。敢于辛迪加执行者作对的人，哪个有好果子吃？以灵能驱动的手套发出的每一次攻击都堪比一个愤怒的暴民，而且这种灵能武器还能生成护盾。如果事态失控，这群不守规矩的反抗者一定非死即残。在辛迪加，想活得久，就保持低调，乖乖听话。”- 诺兹弗尔·阿图，宣传者，“RV-9527H：重温辛迪加历史”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -12471,7 +12471,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_overseer_icon",
-            "name": "辛迪加 -Overseer",
+            "name": "辛迪加 - Overseer",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12535,7 +12535,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_guild_assassin_icon",
-            "name": "辛迪加 -Guild Assassin",
+            "name": "辛迪加 - Guild Assassin",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12600,7 +12600,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_mirage_icon",
-            "name": "辛迪加 -Mirage",
+            "name": "辛迪加 - Mirage",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12671,7 +12671,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_wraith_icon",
-            "name": "辛迪加 -Wraith",
+            "name": "辛迪加 - Wraith",
             "hp": 60,
             "armor": 2,
             "tier": 3,
@@ -12732,7 +12732,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_runner_icon",
-            "name": "辛迪加 -Runner",
+            "name": "辛迪加 - Runner",
             "hp": 30,
             "armor": 0,
             "tier": 1,
@@ -12800,7 +12800,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_indentured_icon",
-            "name": "辛迪加 -Indentured",
+            "name": "辛迪加 - Indentured",
             "hp": 40,
             "armor": 0,
             "tier": 1,
@@ -12868,7 +12868,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_sentinel_icon",
-            "name": "辛迪加 -Sentinel",
+            "name": "辛迪加 - Sentinel",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12933,7 +12933,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_subjugator_icon",
-            "name": "辛迪加 -Subjugator",
+            "name": "辛迪加 - Subjugator",
             "hp": 60,
             "armor": 1,
             "tier": 3,
@@ -13007,7 +13007,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_zenith_icon",
-            "name": "辛迪加 -Zenith",
+            "name": "辛迪加 - Zenith",
             "hp": 70,
             "armor": 2,
             "tier": 4,
@@ -13075,7 +13075,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_guild_cruiser_icon",
-            "name": "辛迪加 -Guild Cruiser",
+            "name": "辛迪加 - Guild Cruiser",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -13123,7 +13123,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "syndicate_colonizer_icon",
-            "name": "辛迪加 -Colonizer",
+            "name": "辛迪加 - Colonizer",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -13154,7 +13154,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  250<production></production>  10<tricorium></tricorium>1<population></population>",
-            "description": "“From the ashes of the Star Union, a new age will dawn. The fallen empire hides powerful secrets yet to be found, a race in earnest to revive the powers hidden in our past. The colonizer is the first step towards that revival. The nurturing of colonies and the development of society is of delicate importance, more so for a foreign and unfamiliar planet with dangers unknown. The cosmic Dark Age is over, and the legendary remnants of the Empire lay dormant, waiting to be rediscovered.”— Quinlinn T. Ortivexis, “RV-4367H: Universal Coincidental History”",
+            "description": "“从星际联盟的废墟中，新的时代将会来临。但帝国即使陨落了，也隐藏着许多未被人发现的秘密，也存在着一个想要恢复往日繁荣的种族。殖民者就是复兴的第一步。殖民地的养护和社会的发展都尤为重要，尤其是在陌生且危机四伏的星球。虽然宇宙的黑暗时代已经结束，但帝国仍有许多意义非凡的秘密等待被人发现。”- 奎里恩·T.奥迪威希斯，“RV-4367H：宇宙巧合历史”",
             "elite_rewards": []
  },
         {
@@ -13174,7 +13174,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "syndicate_hoverbike_icon",
-            "name": "辛迪加 -Hoverbike",
+            "name": "辛迪加 - Hoverbike",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -13228,7 +13228,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_suppressor_tower_icon",
-            "name": "辛迪加 -Suppressor Tower",
+            "name": "辛迪加 - Suppressor Tower",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -14210,7 +14210,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  250<production></production>  10<tricorium></tricorium>1<population></population>",
-            "description": "“From the ashes of the Star Union, a new age will dawn. The fallen empire hides powerful secrets yet to be found, a race in earnest to revive the powers hidden in our past. The colonizer is the first step towards that revival. The nurturing of colonies and the development of society is of delicate importance, more so for a foreign and unfamiliar planet with dangers unknown. The cosmic Dark Age is over, and the legendary remnants of the Empire lay dormant, waiting to be rediscovered.”— Quinlinn T. Ortivexis, “RV-4367H: Universal Coincidental History”",
+            "description": "“从星际联盟的废墟中，新的时代将会来临。但帝国即使陨落了，也隐藏着许多未被人发现的秘密，也存在着一个想要恢复往日繁荣的种族。殖民者就是复兴的第一步。殖民地的养护和社会的发展都尤为重要，尤其是在陌生且危机四伏的星球。虽然宇宙的黑暗时代已经结束，但帝国仍有许多意义非凡的秘密等待被人发现。”- 奎里恩·T.奥迪威希斯，“RV-4367H：宇宙巧合历史”",
             "elite_rewards": []
  },
         {
@@ -15262,7 +15262,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  250<production></production>  10<tricorium></tricorium>1<population></population>",
-            "description": "“From the ashes of the Star Union, a new age will dawn. The fallen empire hides powerful secrets yet to be found, a race in earnest to revive the powers hidden in our past. The colonizer is the first step towards that revival. The nurturing of colonies and the development of society is of delicate importance, more so for a foreign and unfamiliar planet with dangers unknown. The cosmic Dark Age is over, and the legendary remnants of the Empire lay dormant, waiting to be rediscovered.”— Quinlinn T. Ortivexis, “RV-4367H: Universal Coincidental History”",
+            "description": "“从星际联盟的废墟中，新的时代将会来临。但帝国即使陨落了，也隐藏着许多未被人发现的秘密，也存在着一个想要恢复往日繁荣的种族。殖民者就是复兴的第一步。殖民地的养护和社会的发展都尤为重要，尤其是在陌生且危机四伏的星球。虽然宇宙的黑暗时代已经结束，但帝国仍有许多意义非凡的秘密等待被人发现。”- 奎里恩·T.奥迪威希斯，“RV-4367H：宇宙巧合历史”",
             "elite_rewards": []
  },
         {
@@ -16184,7 +16184,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  250<production></production>  10<tricorium></tricorium>1<population></population>",
-            "description": "“From the ashes of the Star Union, a new age will dawn. The fallen empire hides powerful secrets yet to be found, a race in earnest to revive the powers hidden in our past. The colonizer is the first step towards that revival. The nurturing of colonies and the development of society is of delicate importance, more so for a foreign and unfamiliar planet with dangers unknown. The cosmic Dark Age is over, and the legendary remnants of the Empire lay dormant, waiting to be rediscovered.”— Quinlinn T. Ortivexis, “RV-4367H: Universal Coincidental History”",
+            "description": "“从星际联盟的废墟中，新的时代将会来临。但帝国即使陨落了，也隐藏着许多未被人发现的秘密，也存在着一个想要恢复往日繁荣的种族。殖民者就是复兴的第一步。殖民地的养护和社会的发展都尤为重要，尤其是在陌生且危机四伏的星球。虽然宇宙的黑暗时代已经结束，但帝国仍有许多意义非凡的秘密等待被人发现。”- 奎里恩·T.奥迪威希斯，“RV-4367H：宇宙巧合历史”",
             "elite_rewards": []
  },
         {
@@ -17188,7 +17188,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_echo_walker_icon",
-            "name": "Shakarn - Echo Walker",
+            "name": "Shakarn - 回声行者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -17225,7 +17225,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Anyone can learn to fold alternate dimensional probabilities using the Echo Walker, if they have the right Voidtech. We suggest program directors prescreen soldiers using this technology for single-mindedness. There should be no personal conflicts hidden within their psyche. Indecisiveness is a killer when entangling probabilistic quantum-realities. Some original prototypes created hostile dimensional echoes. Their doppelgangers actually attacked the tech-users. No one wants to summon their evil twin from an alternate dimension, even if it has better facial hair. The two must share the same willingness to destroy the same enemy.” —Trainer Richter Gray, “RV-3414M: Void Echo Augmentation Tech”",
+            "description": "“只要拥有回声行者这种虚空科技，任何人都能学会折叠其他位面的可能性。我们建议项目主管使用这种技术对士兵进行洗脑，这样他们的精神中就不会隐藏有杂念了。在进入概率性量子现实时，犹豫就会送命。一些原型机能够生成含有敌意的位面回声，他们的二重身甚至会攻击使用者。没人想从其他位面召唤来一个邪恶的自己，即便他的胡须更帅。二者在必须拥有相同的敌人。”- 训练师里克特·格雷，“RV-3414M：虚空回声增幅技术”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -17256,7 +17256,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_malictor_icon",
-            "name": "Shakarn - Malictor",
+            "name": "Shakarn - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -17299,7 +17299,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The realm of the mind is vast and swirling. With too many senses, a feeling mind is scattered and weak. Those who receive ritual annihilation can only be revived in the single-minded Great Darkness of malice. I tell you this to strip you down. Other sentiments will destroy you. Only then can you wield the Soul Seeking darkness and unlock the Lure of Darkness. Only when you are directed by unadulterated odium will the darkness bind your enemies with cords of despair.” —Murgle Fain, “RV-43092R: Psynumbra Ritual of the Malictor”",
+            "description": "“思维领域广袤无垠。由于太多的感觉存在，情感丰富的思想来到这里便会分崩离析，脆弱不已。那些被仪式消灭的个体只能在思维单一的恶毒黑暗中复生。我告诉你这个是为了让你放开心智，因为其他情绪会将你摧毁。只有那时，你才能行使灵魂追寻的黑暗，找到黑暗的诱惑。只有当你获得纯粹的恶意指引时，黑暗才会用名为绝望的锁链束缚你的敌人。”- 姆格勒·法因，“RV-43092R：赛努布拉恶毒者仪式”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -17323,7 +17323,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_initiate_icon",
-            "name": "Shakarn - Initiate",
+            "name": "Shakarn - 初灵",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -17366,7 +17366,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It’s been my observation that, because true lasting happiness requires difficult sacrifices, many societies give up on it altogether. The Psynumbra have clearly decided not only to avoid happiness but to fight against anyone who tries to find it. No matter their race, Psynumbra Initiates stoke hatred and malevolence. Cold and dark, Initiates can rob victims of hope. They employ a psionic attack called a Soul Spear, which breaks the mind of an adversary. I try to avoid them. My friends already think I’m insane as I am.”—Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“根据我长久以来的观察，真正长久的快乐需要付出极大的牺牲，因此许多社会完全放弃了这份追求。赛努布拉的宗旨不仅要避免快乐，还要对抗那些试图寻找快乐的人。无论来自什么种族，赛努布拉初灵的心中都满怀仇恨与敌意。冰冷而黑暗，初灵会夺走受害者心中的希望。它们会一种叫做灵魂长矛的灵能之力粉碎敌人的心智。我试着躲避它们。我的朋友们已经开始认为我疯了。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -17394,7 +17394,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "shakarn_purifier_icon",
-            "name": "Shakarn - Purifier",
+            "name": "Shakarn - 净化者",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -17434,7 +17434,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Fire is hypnotic. I don’t believe in magic; but if I did, it’d live in fire. I joined the Prometheans at the height of hysteria when the Xenoplague was discovered. At the time, I was thinking, why should robots have all the fun of dispensing incendiary accelerants? I never bought into the dogma that as a Purifier I brought holy fire. There’s something about oxidizing even the heartiest biohazards. I’ll admit it. I love watching noxious lifeforms dispersed in a puff of fumes. Burn them all. Reduced to smoke. Now that’s purity.”—Promethean Specialist Verin, “RV-6750M: Special Ops and Support”",
+            "description": "“火焰是催眠药。我不相信魔法，就算是有，魔法也应该生活在火焰里。当外星疫病首次被发现时，我满怀热血地加入了圣火修会。那时我在想，为什么只有机器人能够享受使用助燃剂的快乐？在身为圣火净化者的那段时光里，我从没有遵守过教条。即使是最活跃的生物危害也存在着氧化。我必须承认，我喜欢看着污秽的生命体在火焰中消逝的样子。烧光它们，将它们化为青烟，这才叫纯净。”- 圣火专家维林，“RV-6750M：特殊行动和支援”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -17464,7 +17464,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_star_guide_icon",
-            "name": "Shakarn - Star Guide",
+            "name": "Shakarn - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -17507,7 +17507,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Consider each Path of Light.<br></br>Heed the Star Guide’s Communing Call.<br></br>Trace the Structure of Orderly Stars.<br></br>Ponder Purple Purposeful Night.<br></br>Discipline your Questioning Mind.<br></br>Abandon Evolution’s own Appetite.<br></br>Believe the Faithful’s Perpetual Fight.<br></br>Transcend your Natural fleshy Lusts.<br></br><br></br>Be seen by the All-Searching Eye.<br></br>Become a Being of Light.”— Star Guide Shin’Shia Shiq “RV-6600R: Celestian Vespers”",
+            "description": "“仔细思考每一条光明之路。<br></br>遵从星辰向导的指引。<br></br>追踪秩序星辰的构造。<br></br>沉思紫色的目的之夜。<br></br>控制你的疑问思绪。<br></br>放弃进化本身的欲望。<br></br>坚信忠诚者的永恒之战。<br></br>超脱你天然肉体的欲望。<br></br><br></br>全索之眼注视着你。<br></br>成为光明之身。”- 星辰向导辛西亚·仕奇科“RV-6600R：星神晚祷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -17702,7 +17702,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  250<production></production>  10<tricorium></tricorium>1<population></population>",
-            "description": "“From the ashes of the Star Union, a new age will dawn. The fallen empire hides powerful secrets yet to be found, a race in earnest to revive the powers hidden in our past. The colonizer is the first step towards that revival. The nurturing of colonies and the development of society is of delicate importance, more so for a foreign and unfamiliar planet with dangers unknown. The cosmic Dark Age is over, and the legendary remnants of the Empire lay dormant, waiting to be rediscovered.”— Quinlinn T. Ortivexis, “RV-4367H: Universal Coincidental History”",
+            "description": "“从星际联盟的废墟中，新的时代将会来临。但帝国即使陨落了，也隐藏着许多未被人发现的秘密，也存在着一个想要恢复往日繁荣的种族。殖民者就是复兴的第一步。殖民地的养护和社会的发展都尤为重要，尤其是在陌生且危机四伏的星球。虽然宇宙的黑暗时代已经结束，但帝国仍有许多意义非凡的秘密等待被人发现。”- 奎里恩·T.奥迪威希斯，“RV-4367H：宇宙巧合历史”",
             "elite_rewards": []
  },
         {
@@ -19129,7 +19129,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  250<production></production>  10<tricorium></tricorium>1<population></population>",
-            "description": "“From the ashes of the Star Union, a new age will dawn. The fallen empire hides powerful secrets yet to be found, a race in earnest to revive the powers hidden in our past. The colonizer is the first step towards that revival. The nurturing of colonies and the development of society is of delicate importance, more so for a foreign and unfamiliar planet with dangers unknown. The cosmic Dark Age is over, and the legendary remnants of the Empire lay dormant, waiting to be rediscovered.”— Quinlinn T. Ortivexis, “RV-4367H: Universal Coincidental History”",
+            "description": "“从星际联盟的废墟中，新的时代将会来临。但帝国即使陨落了，也隐藏着许多未被人发现的秘密，也存在着一个想要恢复往日繁荣的种族。殖民者就是复兴的第一步。殖民地的养护和社会的发展都尤为重要，尤其是在陌生且危机四伏的星球。虽然宇宙的黑暗时代已经结束，但帝国仍有许多意义非凡的秘密等待被人发现。”- 奎里恩·T.奥迪威希斯，“RV-4367H：宇宙巧合历史”",
             "elite_rewards": []
  },
         {
@@ -19232,7 +19232,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_star_guide_icon",
-            "name": "Oathbound - Star Guide",
+            "name": "Oathbound - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -19275,7 +19275,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Consider each Path of Light.<br></br>Heed the Star Guide’s Communing Call.<br></br>Trace the Structure of Orderly Stars.<br></br>Ponder Purple Purposeful Night.<br></br>Discipline your Questioning Mind.<br></br>Abandon Evolution’s own Appetite.<br></br>Believe the Faithful’s Perpetual Fight.<br></br>Transcend your Natural fleshy Lusts.<br></br><br></br>Be seen by the All-Searching Eye.<br></br>Become a Being of Light.”— Star Guide Shin’Shia Shiq “RV-6600R: Celestian Vespers”",
+            "description": "“仔细思考每一条光明之路。<br></br>遵从星辰向导的指引。<br></br>追踪秩序星辰的构造。<br></br>沉思紫色的目的之夜。<br></br>控制你的疑问思绪。<br></br>放弃进化本身的欲望。<br></br>坚信忠诚者的永恒之战。<br></br>超脱你天然肉体的欲望。<br></br><br></br>全索之眼注视着你。<br></br>成为光明之身。”- 星辰向导辛西亚·仕奇科“RV-6600R：星神晚祷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -19312,7 +19312,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_purifier_icon",
-            "name": "Oathbound - Purifier",
+            "name": "Oathbound - 净化者",
             "hp": 45,
             "armor": 4,
             "tier": 2,
@@ -19349,7 +19349,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Fire is hypnotic. I don’t believe in magic; but if I did, it’d live in fire. I joined the Prometheans at the height of hysteria when the Xenoplague was discovered. At the time, I was thinking, why should robots have all the fun of dispensing incendiary accelerants? I never bought into the dogma that as a Purifier I brought holy fire. There’s something about oxidizing even the heartiest biohazards. I’ll admit it. I love watching noxious lifeforms dispersed in a puff of fumes. Burn them all. Reduced to smoke. Now that’s purity.”—Promethean Specialist Verin, “RV-6750M: Special Ops and Support”",
+            "description": "“火焰是催眠药。我不相信魔法，就算是有，魔法也应该生活在火焰里。当外星疫病首次被发现时，我满怀热血地加入了圣火修会。那时我在想，为什么只有机器人能够享受使用助燃剂的快乐？在身为圣火净化者的那段时光里，我从没有遵守过教条。即使是最活跃的生物危害也存在着氧化。我必须承认，我喜欢看着污秽的生命体在火焰中消逝的样子。烧光它们，将它们化为青烟，这才叫纯净。”- 圣火专家维林，“RV-6750M：特殊行动和支援”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -19410,7 +19410,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Anyone can learn to fold alternate dimensional probabilities using the Echo Walker, if they have the right Voidtech. We suggest program directors prescreen soldiers using this technology for single-mindedness. There should be no personal conflicts hidden within their psyche. Indecisiveness is a killer when entangling probabilistic quantum-realities. Some original prototypes created hostile dimensional echoes. Their doppelgangers actually attacked the tech-users. No one wants to summon their evil twin from an alternate dimension, even if it has better facial hair. The two must share the same willingness to destroy the same enemy.” —Trainer Richter Gray, “RV-3414M: Void Echo Augmentation Tech”",
+            "description": "“只要拥有回声行者这种虚空科技，任何人都能学会折叠其他位面的可能性。我们建议项目主管使用这种技术对士兵进行洗脑，这样他们的精神中就不会隐藏有杂念了。在进入概率性量子现实时，犹豫就会送命。一些原型机能够生成含有敌意的位面回声，他们的二重身甚至会攻击使用者。没人想从其他位面召唤来一个邪恶的自己，即便他的胡须更帅。二者在必须拥有相同的敌人。”- 训练师里克特·格雷，“RV-3414M：虚空回声增幅技术”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -19441,7 +19441,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_malictor_icon",
-            "name": "Oathbound - Malictor",
+            "name": "Oathbound - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -19484,7 +19484,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The realm of the mind is vast and swirling. With too many senses, a feeling mind is scattered and weak. Those who receive ritual annihilation can only be revived in the single-minded Great Darkness of malice. I tell you this to strip you down. Other sentiments will destroy you. Only then can you wield the Soul Seeking darkness and unlock the Lure of Darkness. Only when you are directed by unadulterated odium will the darkness bind your enemies with cords of despair.” —Murgle Fain, “RV-43092R: Psynumbra Ritual of the Malictor”",
+            "description": "“思维领域广袤无垠。由于太多的感觉存在，情感丰富的思想来到这里便会分崩离析，脆弱不已。那些被仪式消灭的个体只能在思维单一的恶毒黑暗中复生。我告诉你这个是为了让你放开心智，因为其他情绪会将你摧毁。只有那时，你才能行使灵魂追寻的黑暗，找到黑暗的诱惑。只有当你获得纯粹的恶意指引时，黑暗才会用名为绝望的锁链束缚你的敌人。”- 姆格勒·法因，“RV-43092R：赛努布拉恶毒者仪式”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -19508,7 +19508,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_initiate_icon",
-            "name": "Oathbound - Initiate",
+            "name": "Oathbound - 初灵",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -19551,7 +19551,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It’s been my observation that, because true lasting happiness requires difficult sacrifices, many societies give up on it altogether. The Psynumbra have clearly decided not only to avoid happiness but to fight against anyone who tries to find it. No matter their race, Psynumbra Initiates stoke hatred and malevolence. Cold and dark, Initiates can rob victims of hope. They employ a psionic attack called a Soul Spear, which breaks the mind of an adversary. I try to avoid them. My friends already think I’m insane as I am.”—Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“根据我长久以来的观察，真正长久的快乐需要付出极大的牺牲，因此许多社会完全放弃了这份追求。赛努布拉的宗旨不仅要避免快乐，还要对抗那些试图寻找快乐的人。无论来自什么种族，赛努布拉初灵的心中都满怀仇恨与敌意。冰冷而黑暗，初灵会夺走受害者心中的希望。它们会一种叫做灵魂长矛的灵能之力粉碎敌人的心智。我试着躲避它们。我的朋友们已经开始认为我疯了。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -20955,7 +20955,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It’s been my observation that, because true lasting happiness requires difficult sacrifices, many societies give up on it altogether. The Psynumbra have clearly decided not only to avoid happiness but to fight against anyone who tries to find it. No matter their race, Psynumbra Initiates stoke hatred and malevolence. Cold and dark, Initiates can rob victims of hope. They employ a psionic attack called a Soul Spear, which breaks the mind of an adversary. I try to avoid them. My friends already think I’m insane as I am.”—Mah Reg’Nib, “RV-22299X: Forlorn Fantasy Destinations”",
+            "description": "“根据我长久以来的观察，真正长久的快乐需要付出极大的牺牲，因此许多社会完全放弃了这份追求。赛努布拉的宗旨不仅要避免快乐，还要对抗那些试图寻找快乐的人。无论来自什么种族，赛努布拉初灵的心中都满怀仇恨与敌意。冰冷而黑暗，初灵会夺走受害者心中的希望。它们会一种叫做灵魂长矛的灵能之力粉碎敌人的心智。我试着躲避它们。我的朋友们已经开始认为我疯了。”- 玛·瑞格尼布，“RV-22299X：凄凉幻想终点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -21128,7 +21128,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "heritor_the_hand_that_takes_icon",
-            "name": "Heritor - The Hand that takes",
+            "name": "继承者 - The Hand that takes",
             "hp": 100,
             "armor": 4,
             "tier": 4,
@@ -21202,7 +21202,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "heritor_the_hand_that_gives_icon",
-            "name": "Heritor - The Hand that gives",
+            "name": "继承者 - The Hand that gives",
             "hp": 120,
             "armor": 5,
             "tier": 4,
