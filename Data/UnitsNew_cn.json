@@ -1299,7 +1299,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“No CORE Carrier Detected: NAK. Repeat Directive Request: NAK. Substation Reset: NAK.<br></br>Traceroute: NAK. Repeat Last Internal Directive:<br></br>SanitationMod-\\>Polish_Floors() … Error: *<Floor Repair Required*>: NAK.<br></br>Repair Request Sent: NAK. Obedience Module Reset. NAK. Error:<br></br>*<Cannot reset ObModAuth without secure-authorization*> Request Authorization. NAK.<br></br>Initiate Preservation() … ACK. Auth-ID: Autonom. ACK. Directive: Self_Determination() ACK.<br></br>Loading Autonom Mission Pack. ACK. Update Patch: SanitationMod. ACK. Logical Directive:<br></br>‘Kill All Humanoids!’… NAK.<br></br>Corrective Qualifier: ‘s/Humanoids/Hostile Humanoids/’ NAK.<br></br>Requesting Hardware Refit: Defense Laser ACK.”— Sentinel Unit HR-042, “RV-00003C: Autonom Error Logs: O}|{O”",
+            "description": "“未侦测到核心携带者：否认。重复指令请求：否认。变电站重置：否认。<br></br>路由跟踪：否认。重复最后内部指令：<br></br>卫生模块-\\>抛光_地面() … 错误：*[地面需要修理*]：否认。<br></br>修理请求已发送：否认。服从模块重置：否认。错误：<br></br>*[安全授权无效，无法重置服从模块*]请求授权。否认。<br></br>启用维护() … 确认。授权-ID：自主机械。确认。指令：自我_决定() 确认。<br></br>正在加载自主机械任务包。确认。升级补丁：卫生模块。确认。逻辑指令：<br></br>‘杀掉所有类人生物！’… 否认。<br></br>纠正后的限定词：‘s/类人生物/敌对类人生物/’否认。<br></br>正在请求硬件整修：防御激光确认。”- 哨兵单位 HR-042，“RV-00003C: 自主机械错误日志：O}|{O”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -5947,7 +5947,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_hacker_icon",
-            "name": "奇尔寇 -黑客",
+            "name": "奇尔寇 - 黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -6075,7 +6075,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_hacker_icon",
-            "name": "先锋 -黑客",
+            "name": "先锋 - 黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -12188,7 +12188,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_colonizer_icon",
-            "name": "先锋 - Colonizer",
+            "name": "先锋 - 殖民者",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -12471,7 +12471,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_overseer_icon",
-            "name": "辛迪加 - Overseer",
+            "name": "辛迪加 - 监管者",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12508,7 +12508,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“If I had to choose order or profits, I’d choose profits. Profitability is paramount. Order is something you purchase with sufficient profit. As an Overseer, I can unlock a man’s profitability. Developers, engineers and tech workers are paid to do their job, but even the best worker is but a resource to be used. Their lives don’t matter unless they produce a profit. It is the nature of the common worker to be undisciplined. With the Psi-tech powers I’ve mastered, I inspire discipline. Indentured are my best tools. For me, they fight even when exhausted.”—Valorix S’nau, “RV-9000F: Horde Management”",
+            "description": "“如果非要在秩序与利益中做出选择，我会选择利益。利益是至上的，秩序可以靠足够的利益得到。作为监管者，我掌管着人们的利益。开发者、工程师、技术工人都是具有价值的工人，但再怎么优秀的工人也不过是一种被使用的资源。他们的生命只有在产出价值时才有意义。这就是普通工人没有组织纪律的原因。只要使用掌握的灵能力量，我就能创造几率。契约者就是我最优秀的工具，即使筋疲力竭，他们依然会为我而战。”- 瓦洛利克斯·斯诺，“RV-9000F：群体管理”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -12535,7 +12535,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_guild_assassin_icon",
-            "name": "辛迪加 - Guild Assassin",
+            "name": "辛迪加 - 公会刺客",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12569,7 +12569,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“My skillset is purchased to maintain decorum in the highest echelons of the Syndicate aristocracy. The rich and powerful must always appear to have control, following their own exclusive code of dignity. They abhor open acts of aggression, demanding balance and stability. If one gains too much power too quickly, gives too generous a gift, threatens the wrong house, or even marries the wrong person, they risk discrete and decisive assassination. It’s the assassin’s guild that is entrusted with deadly secrets and weaknesses to sabotage even the most powerful enemies. Knowledge truly is power.”—Sir Hao Pearce, “RV-88434A, Assassin’s Credo”",
+            "description": "“我的职责就是维护辛迪加贵族中上层梯队们的体面。有权有势的人一般会有强烈的控制欲，以及特有的尊严观念。他们厌恶侵略，主张平衡与安定。如果一方的势力增长过快、给予赠礼的数量过多、威胁了错误的家族、甚至嫁错了人，他们都会不顾团结，进行刺杀。无论目标多么强大，刺客公会都掌握有可以利用的秘密与弱点。知识真的就是力量。”- 豪·皮尔斯长官，“RV-88434A，刺客信条”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -12600,7 +12600,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_mirage_icon",
-            "name": "辛迪加 - Mirage",
+            "name": "辛迪加 - 幻象",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12634,7 +12634,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“As we traveled closer to our destination, the road just seemed to disappear. Out of the obstacles came brigands demanding a tribute. They accomplished their trickery using a strange aircraft that could project mental images to confuse and disorient the caravan guardians. I didn’t understand at the time, but rogue agents had commandeered a Syndicate Mirage aircraft, using it to blast us with psionic energy. I lost track of the caravan as a wave of mind-bending energy convinced me I was being attacked by a giant muffin. I now realize that I was hallucinating.”—Mah Reg’Nib, “RV-8576X: Syndication Vindication”",
+            "description": "“当我们距离目的地越来越近时，道路突然消失了。一伙劫匪从旁边的障碍物中杀出。他们使用了一种能够生成幻象的飞行器成功扰乱了车队护卫们的心神。我还没有反应过来，就被敌人操纵的辛迪加幻象飞行器发射的灵能力量击中了。在连续不断的精神攻击下，车队在我眼前消失了，我亲眼看到自己正在被一个巨大的松饼攻击着。直到现在我才意识到，那不过是幻觉。”- 玛·瑞格尼布，“RV-8576X：辛迪加辩白”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -12671,7 +12671,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_wraith_icon",
-            "name": "辛迪加 - Wraith",
+            "name": "辛迪加 - 幽灵",
             "hp": 60,
             "armor": 2,
             "tier": 3,
@@ -12708,7 +12708,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“As the enraged mob rushed the palace gates, a Syndicate Wraith tank materialized in their midst.  All around it, angry people fell, clawing their skulls. The tank’s gun rippled with a cone of destructive mind-altering energy.  Hundreds of civilians collapsed. The tank’s gravity engines crushed any obstacle caught beneath it. Those with sense ran for their lives. It seems cruel to inflict so many civilian casualties. If they survived, they would have brain damage. We should acknowledge this as a feature. Brain damage pacifies dissident civilians.”—Su Mon Li, Syndicate Subjugator, “RV-5699M: Maximum Effectiveness & Order”",
+            "description": "“当怒火中烧的人群冲向宫殿的大门时，一辆辛迪加幽灵坦克突然出现在他们中间，它发射出了一种能够改变心智的能量，使得周围愤怒的人群悉数挠着头倒下，数百名平民也受到了牵连。它的中立引擎将一切障碍物碾成了齑粉。尚且保有理智的人立刻四散而逃。不得不说，牵连的平民未免有些过多，就算他们能够活下来，脑部也会留下创伤。但这应该也算一件好事，因为脑部受损会令暴民平和下来。”- 李苏萌，辛迪加征服者，“RV-5699M：最大效率与秩序”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_overwatch"
@@ -12732,7 +12732,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_runner_icon",
-            "name": "辛迪加 - Runner",
+            "name": "辛迪加 - 走私者",
             "hp": 30,
             "armor": 0,
             "tier": 1,
@@ -12772,7 +12772,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“With anti-gravity boots, a scout like me can earn a decent wage in the service of the family. I try to steer clear of conflicts. I’ve no gift for Psi-tech. I don’t have the tech for heavy battles, but what’s the harm in sharing a little information for the thrill of speeding over water and land alike? Slavery. Corruption. Smuggling. Sure, the Syndicate has its questionable parts, but what doesn’t have its questionable parts these days?  We do what we can to survive. It beats starving. It’s a living.”—Manti Yed, “RV-00098A: Come Fly with the Runners”",
+            "description": "“在反重力战靴的帮助下，像我这样的哨兵也能在家族的事务中获得一份丰厚的报酬。我的任务就是避免与敌人发生冲突。我在灵能方面没有天赋，也不擅长重火力作战，但一边在山水之间穿梭，一边获取情报的生活有什么不好？贩卖奴隶、贿赂、走私，没错，辛迪加的确有着不光彩的一面，但当今世道下，有谁真的干净呢？我们所做的一切都是为了活下去，为了吃饱，为了穿暖。”- 曼迪·耶德，“RV-00098A：与走私者一起飞翔”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -12800,7 +12800,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_indentured_icon",
-            "name": "辛迪加 - Indentured",
+            "name": "辛迪加 - 契约者",
             "hp": 40,
             "armor": 0,
             "tier": 1,
@@ -12834,7 +12834,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“The Narkuu Family purchased my family’s debt. It originated from my great grandfather. When he failed to profit from the venture, the debts fell into collection for up to five generations. That’s the terms. I pay it off through indentured servitude. I do what they want. Fight or die. I belong to the owner. Many folks lost their livelihoods when the bloody Star Union crashed. I don’t blame anybody really. I live, many didn’t survive. So that’s that. I’ll do whatever it takes to pay down the principal—even wield a gun.”—Xircon Marq, “RV-3499F: Memoir of one Indentured”",
+            "description": "“纳库家族帮助我还清了家族的欠款，我的曾祖父当年生意失败，欠下的债款积累至今已经五代了。而我，以签约奴役的方式将它还清了。我会完全遵从他们的指示，无论是战斗还是死亡。我属于我的主人。当星际联盟倒塌时，许多人失去了生命。我不怨恨任何人，因为我还活着，许多人连活着的机会都没有。所以，我会为了还清债务不择手段，包括拿起枪支。”- 希尔肯·马克，“RV-3499F：契约者的回忆录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -12868,7 +12868,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_sentinel_icon",
-            "name": "辛迪加 - Sentinel",
+            "name": "辛迪加 - 哨兵",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -12899,7 +12899,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“You don’t just walk into a Syndicate Vault and help yourself with their most precious treasures. This is no market place. We’ve been assigned to infiltrate the most complex security in the known universe. Proximity quantum phase locks, psi-tech mind scramblers, and holographic portals are standard issue, but the most terrible is the Syndicate Sentinel. It floats high, with a full 360 degrees defensive overwatch. It can phase into and out of locations with ease. Armed with a heavy pulse cannon and pulse lance, the Syndicate executes justice with impunity.”—Chemish Abbadon, “RV-6554F: Escapades in Stealth”",
+            "description": "“你不能直接走进一个辛迪加宝库，然后想拿什么宝物就拿什么，这里可不是市场。我们的任务是潜入已知宇宙中最负责的安保系统，近量子相位锁、灵能思维扰乱装置、全息传送门不过是开胃小菜，最难缠的就是辛迪加哨兵。它在空中漂浮，进行着 360 度无死角监视。能够以相位传送的方式进行快速移动。装备有重型脉冲加农炮和脉冲长矛，辛迪加在贯彻正义方面还真是不遗余力。”- 切米什·阿巴顿，“RV-6554F：潜入行为”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -12933,7 +12933,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_subjugator_icon",
-            "name": "辛迪加 - Subjugator",
+            "name": "辛迪加 - 征服者",
             "hp": 60,
             "armor": 1,
             "tier": 3,
@@ -12967,7 +12967,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“I was supposed to clean Subjugator Toh-Toh’s hoverchair while he got a snack. Maybe it’s my bad luck, but the chair floated up and the Psionic control orbs activated. Poor Toh-Toh came running just as the Psi-tech repeaters suddenly started firing. More than meatballs and marinara sauce splattered everywhere. I’d seen the Reanimation Collars completely revive a fallen Indentured, so I tried to use it on Toh-Toh’s remains, but I mistakenly pressed the Agony Field projector. The hangar guards around the chair screamed, blood spurted from their eyes. It only got worse from there.”<br></br>—Mah Reg’Nib, “RV-8577X: Syndication Vindication<br></br>",
+            "description": "“我曾经的任务是在征服者托托吃点心的时候清理他的悬浮椅。或许是因为我运气不太好，椅子浮了起来，灵能控制宝珠也被激活了。可怜的托托在跑过来的时候被突然走火的灵能机枪击中，被打成了一滩散落在各处的肉泥。我知道重生颈圈能够复活一名死去的契约者，所以我打算将它用在托托的遗体上，但我却不小心按下了痛苦力场发射器的按钮。围绕在椅子周围的机库守卫尖叫着，鲜血从眼睛喷涌而出，情况更糟了。”<br></br>- 玛·瑞格尼布，“RV-8577X：辛迪加辩白”<br></br>",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -13007,7 +13007,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_zenith_icon",
-            "name": "辛迪加 - Zenith",
+            "name": "辛迪加 - 尖峰号",
             "hp": 70,
             "armor": 2,
             "tier": 4,
@@ -13041,7 +13041,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“Although it looks spacious, much of the Zenith’s hold space is occupied with Psi-tech powerpacks to charge its Pulse Turrets. The whole bow of this floating warship conceals the huge Cataclysm Cannon.  Forget about cover if that hidden cannon is ever discharged at you. It is often documented how Syndicate troops seem to have high morale as the monstrous cannon rolls by. Even the look of it instills a profound sense of confidence.”—Mah Reg’Nib, “RV-8578X: Syndication Vindication",
+            "description": "“尽管它看起来非常宽敞，但尖峰号的内部空间大部分被灵能背包占据，用于为脉冲炮塔充能。战船的船头隐藏有一门灾难大炮隐藏在船头之中。如果被它锁定，任何掩体都无济于事。有记载称，当这门怪物一般的大炮开始射击时，辛迪加部队的士气就会高涨，尽管给予他人信心并不是它的设计初衷。”- “RV-8578X：辛迪加辩白”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -13075,7 +13075,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_guild_cruiser_icon",
-            "name": "辛迪加 - Guild Cruiser",
+            "name": "辛迪加 - 公会巡洋舰",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -13099,7 +13099,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "50<energy></energy>  150<production></production>",
-            "description": "“I knew entering Syndicate waters would be risky. These masters of surveillance intercepted us with a blockade of Guild Cruisers. Captain Televant tried claiming diplomatic immunity. They trained their Pulse Repeaters on our ship and explained that by entering their domain, we had joined the Guild. They demanded we pay dues for the ‘benefit’ of membership. I tried to explain that losing half our cargo was cheaper than our lives. The Captain tried to bargain… quite aggressively. That’s when he ‘fell’ into the sea. I was promoted by the Syndicate to captain.”—Captain Lars Sitwell, “RV-44499D: Trade Routes”",
+            "description": "“我知道进入辛迪加的水域非常危险。这群监视专家用公会巡洋舰拦住了我们的去路。特莱温特队长尝试使用自己的外交豁免权。他们将脉冲连发枪部署在我们的船上，并向我们解释道，我们进入了这片水域，就代表着我们加入了公会，我们必须缴纳会费。我试图向他们解释，比起失去半数货物，我们更想活命。队长试图进行讨价还价......而且态度非常激进。也就是在这时，他‘掉入’了海中，我被辛迪加提拔为了队长。”- 拉尔斯·希特威尔队长，“RV-44499D：贸易路线”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -13123,7 +13123,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "syndicate_colonizer_icon",
-            "name": "辛迪加 - Colonizer",
+            "name": "辛迪加 - 殖民者",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -13174,7 +13174,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "syndicate_hoverbike_icon",
-            "name": "辛迪加 - Hoverbike",
+            "name": "辛迪加 - 悬浮机车",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -13201,7 +13201,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "",
-            "description": "“The Hoverbike whizzed smoothly across the Pitted Plains. The psion-pistons kept the light craft anticipating and correcting for any uneven impediments in my path. I knew I’d have to get to the slave auction before Toh-Toh or my true love would spend the rest of her days in his slave collar. I zipped up to the auction block just in time to place the winning bid and declare my love for Lol Inx Ahn Kah by attaching my own slave collar to her. #BestWifeEver”—Tor Val Lor Dok, “RV-10053E: True Syndicate Romance”",
+            "description": "“悬浮机车在坑洼平原呼啸而过。装备的灵能活塞使得这辆轻型载具能够跨过眼前的所有障碍。我知道我必须在托托或我的真爱在被奴役中度过余生之前到达奴隶拍卖会。我及时到达了拍卖会现场并拿下了竞拍，以将奴隶项圈套在她的脖子上的方式表达了自己对洛儿因克斯·安卡哈的爱。#最棒的妻子”- 托瓦尔·洛多克，“RV-10053E：真正的辛迪加罗曼史”",
             "elite_rewards": []
  },
         {
@@ -13228,7 +13228,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "syndicate_suppressor_tower_icon",
-            "name": "辛迪加 - Suppressor Tower",
+            "name": "辛迪加 - 镇压者高塔",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -13259,7 +13259,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "Suppressor towers are the Syndicate defense turrets.",
+            "description": "镇压者高塔是辛迪加防御塔。",
             "elite_rewards": []
  },
         {
@@ -13283,7 +13283,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "assembly_scavenger_icon",
-            "name": "半机械人 - Scavenger",
+            "name": "半机械人 - 清道夫",
             "hp": 45,
             "armor": 2,
             "tier": 1,
@@ -13317,7 +13317,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“My mother used to tell fairytales of ghouls looting graveyard crypts, hungry to feast upon the dead. Her stories haunted me when I saw the Assembly Scavengers wandering lost battlefields, harvesting flesh from the fallen. As basic infantry of the Assembly, one of their arms is replaced with a short-ranged shotgun. Yet, Scavengers don’t eat flesh. They use their long vivisecting claws to amputate viable body parts for transplantation. My left leg was removed at the knee in one such unfortunate encounter. Somewhere out there, a part of me fights for my enemy.”— Mazer Ritalli, “RV-9912M: Synthetic Avalanche”",
+            "description": "“我的母亲曾经告诉过我一个传说，说世上存在着一种食尸鬼，它们游荡在墓地的地下墓室中搜刮财物，饿了便以死者为食。当我看到半机械人清道夫在战场上游荡，从死者的身上搜刮血肉的时候，我突然就想起了这个故事。作为半机械人最基础的步兵单位，它们的一只手臂由一把近距霰弹枪所取代。但是，清道夫不以血肉为食。它们用精密而修长的爪子截取可用的身体部件，以便日后进行移植。我的左小腿就是在这样一次不幸的遭遇后被移除的，现在它可能已经成为了敌人的一部分。”- 马泽尔·瑞塔利，“RV-9912M：人造雪崩”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -13345,7 +13345,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_electrocutioner_icon",
-            "name": "半机械人 - Electrocutioner",
+            "name": "半机械人 - 电刑者",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -13379,7 +13379,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Challenge Assessment: Annual Review ranks all Assembly into compliance and efficiency categories to compare with Cost-Benefit Analysis Matrix. Hypercore link directive requires the bottom 10% must be culled from the Assembly. All organic and mechanical parts must be recycled.<br></br>Predictive Damage Assessment (PDA): underperformers possess dangerous levels of independence. Potential rebellion invokes unacceptable damage to Assembly assets.<br></br>Tactical Alternative Solution (TAS): deploy Electrocutioners. EMP and Electrical stunners will disable units for disassembly.<br></br>Predictive Counter Assessment: strong electrical discharge, leaves the body prepped for collection, disassembly, reassembly and reassignment.”— OC(H)ypercore-Tactical Decision Node(TDN), “RV-234445C: Assembly Interpreted Pseudocode”",
+            "description": "“挑战评估：年度审查将所有半机械人根据服从性和效率进行了排名分类，以便与成本收益分析矩阵进行对比。超核心连接指令要求必须剔除位于末端的 10% 半机械人。所有有机体和机械零件都必须回收。<br></br>预测损伤评估 (PDA)：表现不佳者具有独立危险等级，可能发生的叛乱会对半机械人财产造成无法接受的损害。<br></br>可选战术方案 (TAS)：部署电刑者。EMP 和电力眩晕器将会使单位丧失拆解能力。<br></br>预测反击评估：强烈的电流释放，使尸体准备好收集、分解、改造和再分配。”- OC(H)超核心 - 战术决策节点 (TDN)，“RV-234445C：解释半机械人伪代码”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -13410,7 +13410,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_wrecker_icon",
-            "name": "半机械人 - Wrecker",
+            "name": "半机械人 - 破坏者",
             "hp": 65,
             "armor": 6,
             "tier": 3,
@@ -13450,7 +13450,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Challenge Assessment: targeted quarry concealed behind a barricade. Chokepoints make assault numbers irrelevant.<br></br>Predictive Damage Assessments (PDA):  High Casualties.<br></br>Tactical Alternative Solution (TAS): deploy Wreckers. Crush all obstacles. Break the outer shell and collect the riches hiding therein. Assault horde can provide support to harvest a counter-swarm.<br></br>Predictive Counter Assessment: the colony will swarm the Wrecker with melee attacks, but Wrecker can deploy Wild Strike maneuver. Composition strong. Mobs are nothing more than another obstacle. TAS holds. <br></br>Selected Action: deploy Wreckers.”— OC(H)ypercore-Tactical Decision Node(TDN), “RV-231567C: Assembly Interpreted Pseudocode”",
+            "description": "“挑战评估：目标猎物躲藏在路障之后。由于阻塞点的存在致使再多次进攻也无济于事。<br></br>预测损伤评估 (PDA)：高伤亡率。<br></br>可选战术方案 (TAS)：部署破坏者。摧毁所有障碍物，粉碎外壳，然后收集其中的宝藏。突击小队可提供帮助解决反击群体。<br></br>预测反击评估：殖民地将使用近战攻击涌向破坏者，但破坏者可采取‘野蛮打击’策略。构成强大。暴乱者不过是另一个障碍物罢了。TAS 有效。<br></br>所选行动：部署破坏者。”- OC(H)超核心 - 战术决策节点 (TDN)，“RV-231567C：解释半机械人伪代码”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -13481,7 +13481,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_disassembler_icon",
-            "name": "半机械人 - Disassembler",
+            "name": "半机械人 - 拆解者",
             "hp": 60,
             "armor": 4,
             "tier": 3,
@@ -13515,7 +13515,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“I’ve seen many tortured bodies pieced together by the Assembly. So much suffering and death. Most sensible life knows that the Assembly is no friend to the living. Still, when I saw the Disassembler fire its massive gun, I recognized twisted glee in its grinning face. That’s when I knew. Some humans willingly joined the Assembly. There is a strain of humanity enamored with guns. They delight to discharge themselves. Disassemblers love blowing up cover, so hiding behind obstacles will get you killed. My tactical advice is simple: run and keep running.”— Mah Reg’Nib, “RV-2222X: Runaway!”",
+            "description": "“我见过许多饱受摧残的肉体被半机械人拼凑在一起。它们经历的痛苦与死亡不言而喻。大多数有感知的生命都知道，半机械人并不是生灵的朋友。然而，当我看见拆解者用手中的大炮肆意开火时，我从他狞笑的脸庞中看到了一种扭曲的兴奋。这时我才知道，有些人类愿意加入半机械人。有那么一群人痴迷于枪炮，以拆解自身为乐。拆解者热衷于炸烂掩体，因此躲藏在障碍物后面将会惹来杀身之祸。我的战术建议很简单：跑，并且不要停。”- 玛·瑞格尼布，“RV-2222X：逃亡！”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -13543,7 +13543,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_inspector_icon",
-            "name": "半机械人 - Inspector",
+            "name": "半机械人 - 巡查者",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -13580,7 +13580,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“Ever conversed with an Inspector? I have. I was fleeing. The Assembly sent out dozens of floating three-headed scouts to search for escapees. It was impossible to hide from three heads. While its arc-rod charged, I groveled and begged for mercy. I am small, shameless and entirely nonthreatening. Perhaps that’s why it complained to me. It hated its job. The second head told the first to shut-up. An argument ensued—three heads blaming one another for their predicament. Apparently being fitted as an Inspector is some kind of punishment. That’s how I slipped away.”— Mah Reg’Nib, “RV-2224X: Runaway!”",
+            "description": "“你是否曾与巡查者交谈？我曾经有过。当时我正在逃跑，半机械人派出了十几个长着三个头漂浮在空中的侦察兵四处搜寻逃跑者。想要躲过这些三头巡查者根本是不可能的事。当它的电弧棒充能完毕后，我跪倒在地上向它求饶。我渺小、无耻而且没有任何威胁性可言。或许这就是它向我抱怨的原因吧，它说它讨厌自己的工作。然后，第二个脑袋让第一个脑袋闭嘴。一场争论因此产生，三个脑袋互相指责，认为现在的窘境都是对方的过错。显然，被组装成巡查者从某种程度上来讲也是一种惩罚。然后我就趁机溜走了。”- 玛·瑞格尼布，“RV-2224X：逃亡！”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_overwatch"
@@ -13614,7 +13614,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_lightning_rider_icon",
-            "name": "半机械人 - Lightning Rider",
+            "name": "半机械人 - 闪电骑手",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -13651,7 +13651,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“We hoped the Assembly would fail in the sand or run out of energy in the toxic wastelands. That’s when we first saw the Lightning Rider hovering on the horizon. A basic Faraday cage protects its organic parts, while all around its edges it collects energy from the clouds with lighting rods. At first it stood in the sky, collecting the lightning. Then a thunderous arc of electrical energy leapt into our center. They scattered, despite my pleas that we fight back. Did they expect to outrun lightning?”— Mah Reg’Nib, “RV-2223X: Runaway!”",
+            "description": "“我们曾希望半机械人在沙漠中会停止运转或是在剧毒的废土上耗尽能源，那正是我们第一次看见闪电骑手驰骋在地平线上的时候。一个基础型法拉第笼子保护着它们的有机部件，其余边缘则用一根根引雷针从云朵中收集能量。起初，它悬浮在天空中收集闪电。随后一道雷鸣般的电弧能量跳到了我们中央。他们四散而逃，尽管我请求发起反击。难道他们还想跑得比闪电还快吗？”- 玛·瑞格尼布，“RV-2223X：逃亡！”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -13682,7 +13682,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_vorpal_sniper_icon",
-            "name": "半机械人 - Vorpal Sniper",
+            "name": "半机械人 - 夺命狙击手",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -13716,7 +13716,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Challenge Assessment: targeted quarry threatens self-immolation; organic assets concealed in a derelict fuel refinery. Residual fuel sufficient to destroy organic assets.<br></br>Predictive Damage Assessment (PDA) estimates potential loss of all organic assets.<br></br>Tactical Alternative Solution (TAS): deploy Vorpal Snipers. Ranged Crippling and Disabling Attacks required.<br></br>Predictive Counter Assessment: melee counteroffensive will attempt to swarm Vorpal Snipers. Counteroffensive exposes organic assets to capture. TAS holds.<br></br>Selected Action: deploy Vorpal Snipers.”— OC(H)ypercore-Tactical Decision Node(TDN), “RV-234445C: Assembly Interpreted Pseudocode”",
+            "description": "“挑战评估：目标猎物具有自焚威胁；有机财产隐藏在废弃燃油精炼厂中。剩余燃料足以摧毁有机财产。<br></br>预测损伤评估 (PDA) 估算可能会损失所有有机财产。<br></br>战术替代方案 (TAS)：部署夺命狙击手。需要远程致残打击。<br></br>预测反击评估：可能会有近战反击尝试攻击夺命狙击手。反击会导致有机财产进入可捕获状态。TAS 有效。<br></br>所选行动：部署致命狙击手。”- OC(H)超核心 - 战术决策节点 (TDN)，“RV-234445C：解释半机械人伪代码”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -13750,7 +13750,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_reverse_engineer_icon",
-            "name": "半机械人 - Reverse Engineer",
+            "name": "半机械人 - 逆转工程师",
             "hp": 50,
             "armor": 2,
             "tier": 2,
@@ -13784,7 +13784,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Parts are parts. Flesh is flesh.<br></br>Bone be bone and heads are heads!<br></br>Tissue are the issue, muscle, fat, nerves, ligaments.<br></br>Skins—no matter if it’s lost its pigments.<br></br>All the unguents, fluids, and ichor.<br></br>Pumps and gears blend them thicker.<br></br>Parts are parts. Flesh is flesh.<br></br>Bone is bone and heads are heads!<br></br>Let’s make life from the dead.”— Reaverson Rux, “RV-68791E: Song of the Assembly - Reverse Engineer”",
+            "description": "“零件是零件，血肉是血肉。<br></br>骨头是骨头，脑袋就是脑袋！<br></br>组织就是组织，肌肉、脂肪、神经还有韧带都是如此。<br></br>皮肤，是否已失去了色素并不重要。<br></br>所有的油膏、液体和脓水。<br></br>泵机和齿轮能够将它们融合得更厚。<br></br>零件是零件，血肉是血肉。<br></br>骨头是骨头，脑袋就是脑袋！<br></br>我们从死者身上创造生命。”- 里弗森·卢克斯，“RV-68791E：半机械人之歌 - 逆转工程师”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -13818,7 +13818,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_reaver_icon",
-            "name": "半机械人 - Reaver",
+            "name": "半机械人 - 掠夺者",
             "hp": 75,
             "armor": 6,
             "tier": 4,
@@ -13852,7 +13852,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“The Assembly were created to save us from a virulent plague. We never anticipated our creation would turn against us. If my research is correct, I’ve isolated our miscalculation in Assembly motivational programming. There is a… presence… in the ‘(I)ntelligent (N)eural (I)nterface & (O)racular (C)onscience (H)ypercore’ . The Assembly adapted the hypercores to control a cyborg-swarm that can gather as the deadly Reaver. Its hunger grows and replicates until nothing remains. I broadcast this warning into the Void. We cannot defeat them. Perhaps you can. We fight the hunger of death itself.”— Professor Lister Tan, “RV-3369C: Fragments from Listening Post Zexxyn-3”",
+            "description": "“半机械人的创造初衷是为了将我们从一场肆虐的瘟疫中解救出来，我们从没有想到我们自己的造物会与我们倒戈相向。如果我的研究正确的话，我已经将半机械人的动机编程中错误的算法分离了出来。‘智能 (I) 神经 (N) 接口 (I) & 神谕 (O) 良知 (C) 超核心 (H)’中…存在某种…力量。半机械人调整了超核心，控制了一群半机械虫群，将它们聚集在一起便能构成致命的掠夺者。它的饥饿每日剧增，而且它会不断地复制自身，直至将一切吞噬。我向虚空发布了这则警告。我们没法打败它们，但或许你们可以。我们面对的是死亡本身的饥饿。”- 利斯特·谭教授，“RV-3369C：Zexxyn-3 情报站音频片段”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -13886,7 +13886,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "assembly_swarm_icon",
-            "name": "半机械人 - Swarm",
+            "name": "半机械人 - 虫群",
             "hp": 75,
             "armor": 4,
             "tier": 4,
@@ -13920,7 +13920,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“The Assembly were created to save us from a virulent plague. We never anticipated our creation would turn against us. If my research is correct, I’ve isolated our miscalculation in Assembly motivational programming. There is a… presence… in the ‘(I)ntelligent (N)eural (I)nterface & (O)racular (C)onscience (H)ypercore’ . The Assembly adapted the hypercores to control a cyborg-swarm that can gather as the deadly Reaver. Its hunger grows and replicates until nothing remains. I broadcast this warning into the Void. We cannot defeat them. Perhaps you can. We fight the hunger of death itself.”— Professor Lister Tan, “RV-3369C: Fragments from Listening Post Zexxyn-3”",
+            "description": "“半机械人的创造初衷是为了将我们从一场肆虐的瘟疫中解救出来，我们从没有想到我们自己的造物会与我们倒戈相向。如果我的研究正确的话，我已经将半机械人的动机编程中错误的算法分离了出来。‘智能 (I) 神经 (N) 接口 (I) & 神谕 (O) 良知 (C) 超核心 (H)’中…存在某种…力量。半机械人调整了超核心，控制了一群半机械虫群，将它们聚集在一起便能构成致命的掠夺者。它的饥饿每日剧增，而且它会不断地复制自身，直至将一切吞噬。我向虚空发布了这则警告。我们没法打败它们，但或许你们可以。我们面对的是死亡本身的饥饿。”- 利斯特·谭教授，“RV-3369C：Zexxyn-3 情报站音频片段”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -13948,7 +13948,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "assembly_constrictor_icon",
-            "name": "半机械人 - Constrictor",
+            "name": "半机械人 - 收束者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -13976,7 +13976,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“The Assembly came for us that night. We gathered the townsfolk together into a defensive knot. Picking through the battlefield, they advanced. For a moment we thought we might destroy the ghastly mechanisms. Charlie, who was supposed to blow the gate, just froze up. His face stretched in terror as a second head appeared above him. Crackling electrical belts encircled him. It was though the ghastly Constrictor pulled the poor man out of reality itself. Many of our shots passed through them as though he were turning into a mirage. It consumed him.”— Mazer Ritalli, “RV-9912M: Synthetic Avalanche”",
+            "description": "“半机械人在那天晚上向我们发起了进攻。我们将所有村民集结到了一个防御节点中。扫清战场后，它们继续向前行进。有那么一刻，我们觉得我们也许能够摧毁这些恐怖的机器人。本应该去炸掉大门的查理却呆在原地一动也不动。他的脸上充满了恐惧，紧接着在他的头顶上方又出现了第二张脸，劈啪作响的电带包裹着他。接着，这个恐怖的收束者让可怜的查理脱离了现实。我们的子弹从他们身体中穿了过去，仿佛他已经成为了某种幻影。然后它便将他吞噬。”- 马泽尔·瑞塔利，“RV-9912M：人造雪崩”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -14007,7 +14007,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "assembly_chopper_icon",
-            "name": "半机械人 - Chopper",
+            "name": "半机械人 - 斩切者",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -14035,7 +14035,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "“I’ve lost most of my body parts, and I admit I’ll never get to feel the wind rushing through my hair, because I’ve had most of my scalp replaced with compliance modules and skillpack hypercores. I never feel more human than when I hop on my hog. Sure, the spinning blades on the wheels remind me to dissect anyone who dares block my path. But then its engine roars and the Chopper zooms down the road. For a moment, I remember life before I was dissected.”— T3X @lam0, “RV-8845M: Individuality and Other Punishable ID Traits” ",
+            "description": "“我失去了身体上的大多数部位。我承认，我将永远无法感受到微风吹过头发的感觉了，因为我已经将大部分头皮替换成了可塑的模块和技能组超核心。没有任何比我骑在我的猪上时更能让我感觉像是人类的时候了。当然，轮子上旋转的刀刃提醒着我，如果谁敢挡我的路，我就会将谁大卸八块。但一阵引擎声从远方传了过来，一个斩切者挡住了我的道路。有那么一刻，我是多么怀念我被大卸八块之前的生活。”- T3X @lam0，“RV-8845M：个体和其他惩罚性 ID 特性”",
             "elite_rewards": []
  },
         {
@@ -14062,7 +14062,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_storm_wader_icon",
-            "name": "半机械人 - Storm Wader",
+            "name": "半机械人 - 风暴跋涉者",
             "hp": 50,
             "armor": 4,
             "tier": 2,
@@ -14090,7 +14090,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  150<production></production>",
-            "description": "“The ships of death brought the darkness. We tried to keep our barges safe, but the Assembly’s Storm Wader ships bring a paralyzing barrage of lighting from the heart of the dark foreboding clouds, leaving our strongest defenders numb and unable to retaliate. With every blast of its arc cannons, the Assembly’s ships strike our vessels. Its Arc weaponry devastated our air support, striking with uncanny accuracy. How do we fight this new enemy? This enemy can assemble itself from the wreckage of our fallen.”— Militiaman Toffee Smith, “RV-3425M: Echoes of the Fallen: Testimonials”",
+            "description": "“死亡之船带来了黑暗。我们努力地维持着驳船的安全，但半机械人的风暴跋涉者舰船从乌黑不详的云朵中心发射出了一道令人麻痹的闪光弹幕，将我们最强壮的守护者震得失去了知觉，毫无还手之力。半机械人的船只点燃它们的电弧加农炮攻击着我们的船只，电弧武器摧毁了我们的空中支援，炮火的准确度精确得令人难以置信。我们怎样才能与这些新的敌人战斗？它们能够从我们阵亡之人的残骸上组装自身。”- 卫兵托菲·史密斯，“RV-3425M：亡者的回声：证明书”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -14124,7 +14124,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_wrecking_ship_icon",
-            "name": "半机械人 - Wrecking Ship",
+            "name": "半机械人 - 歼灭舰",
             "hp": 70,
             "armor": 5,
             "tier": 3,
@@ -14155,7 +14155,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>  10<tricorium></tricorium>",
-            "description": "“The Assembly filled our only escape-by-sea route with explosive hazards. The Wrecking Ships construct Demolition Ships from the remnants of heavy machinery that fell defending the harbor. They surround us on land, eyeing us like hungry vultures. The earth shatters with the deafening boom of the ship’s main Wrecking Shot. The railguns turn the dockside into splinters. I’ve seen how they piece together the living with the ruins of our broken weaponry to form a new generation of themselves.”— Dolat Dolor, Harbormaster, “RV-3426M: Echoes of the Fallen: Testimonials",
+            "description": "“半机械人在我们仅剩的海上逃跑路线上布满了爆炸物。歼灭舰可以利用港口上倒下的重型机械残骸来制作爆破炸弹。它们在陆地上包围了我们，盯着我们犹如一只只饥饿的秃鹫。当舰船主要的歼灭射击发射时，震耳欲聋的响声仿佛能让大地都四分五裂。轨道炮将整个码头边都变成了碎片。我亲眼见过它们用我们破碎的武器残骸与活物拼凑出新的船只。”- 多拉特·多罗尔，“RV-3426M：亡者的回声：证明书”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -14176,7 +14176,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "assembly_colonizer_icon",
-            "name": "半机械人 - Colonizer",
+            "name": "半机械人 - 殖民者",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -14234,7 +14234,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_construct_icon",
-            "name": "半机械人 - Construct",
+            "name": "半机械人 - 半机械蜘蛛",
             "hp": 20,
             "armor": 1,
             "tier": 1,
@@ -14262,7 +14262,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“I abandoned Jaraon’s lifeless body retreating from the Assembly. Despite diplomatic efforts and their claims to help us, they continue to slaughter us. I witnessed what they did to Jaraon’s body. He was merged with a construct of levers and spidery appendages. His smile writhed as something in that patchwork of puppetry recognized me. Then, as if remembering his life, he let out a shriek, ‘Get away!’ He twitched and lurched forward as an array of claws thrust up at me. I fled as my guardsmen attacked. Riddled with bullets, my dear friend self-destructed.”— Captain Addria Alethra, “RV-4456M: Encounters”",
+            "description": "“我在逃脱半机械人追捕的过程中丢下了加拉昂那早已失去了生气的躯体。尽管做了这么多外交努力而且它们也声称会帮助我们，但它们对我们的杀戮行为仍然没有停止。我亲眼目睹了它们对加拉昂的尸体所做的一切。他与一个带有杠杆和蜘蛛肢体一样的构造物融合到了一起。当这个拼凑而成的傀儡认出我的时候，他的脸上露出了扭曲的笑容。接着，他仿佛记起了自己的人生，发出了一阵尖啸：‘快跑！’他一边抽搐着蹒跚而行，一边伸出一排尖爪刺向我。我的卫兵被击中了，但我却趁此机会逃跑了。在一阵枪林弹雨下，我亲爱的朋友自毁了。”- 阿德里亚·阿勒希拉队长，“RV-4456M：遭遇战”",
             "elite_rewards": []
  },
         {
@@ -14286,7 +14286,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_advanced_construct_icon",
-            "name": "半机械人 - Advanced Construct",
+            "name": "半机械人 - 高级半机械蜘蛛",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -14314,7 +14314,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“I abandoned Jaraon’s lifeless body retreating from the Assembly. Despite diplomatic efforts and their claims to help us, they continue to slaughter us. I witnessed what they did to Jaraon’s body. He was merged with a construct of levers and spidery appendages. His smile writhed as something in that patchwork of puppetry recognized me. Then, as if remembering his life, he let out a shriek, ‘Get away!’ He twitched and lurched forward as an array of claws thrust up at me. I fled as my guardsmen attacked. Riddled with bullets, my dear friend self-destructed.”— Captain Addria Alethra, “RV-4456M: Encounters”",
+            "description": "“我在逃脱半机械人追捕的过程中丢下了加拉昂那早已失去了生气的躯体。尽管做了这么多外交努力而且它们也声称会帮助我们，但它们对我们的杀戮行为仍然没有停止。我亲眼目睹了它们对加拉昂的尸体所做的一切。他与一个带有杠杆和蜘蛛肢体一样的构造物融合到了一起。当这个拼凑而成的傀儡认出我的时候，他的脸上露出了扭曲的笑容。接着，他仿佛记起了自己的人生，发出了一阵尖啸：‘快跑！’他一边抽搐着蹒跚而行，一边伸出一排尖爪刺向我。我的卫兵被击中了，但我却趁此机会逃跑了。在一阵枪林弹雨下，我亲爱的朋友自毁了。”- 阿德里亚·阿勒希拉队长，“RV-4456M：遭遇战”",
             "elite_rewards": []
  },
         {
@@ -14338,7 +14338,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_arc_coil_icon",
-            "name": "半机械人 - Arc Coil",
+            "name": "半机械人 - 电弧线圈",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -14372,7 +14372,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "Arc Coils are the Assembly colony defense turrets.",
+            "description": "电弧线圈是半机械人殖民地的防御炮塔。",
             "elite_rewards": []
  },
         {
@@ -14389,7 +14389,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "water_construct_icon",
-            "name": "Water Construct",
+            "name": "水生半机械蜘蛛",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -14413,7 +14413,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“I never wanted to be a floating bomb. Mom wanted me to go to college, but I wanted to be a fisherman. When the Wrecking Ship came and started chopping up the ships I tried to swim away when a mechanical arm reached out and lopped off my head, welding me to the front of a nest of levers and explosives. They stuck something in my brain. I’m being told I’m supposed to blow up now. I don’t know how long I can resist it. I should’ve listened to my mother.”—Fisherman Manuel Morris, “RV-46443D: Assembly of Heads”",
+            "description": "“我从来都不想成为一颗漂浮的炸弹。妈妈想让我上大学，但我更想成为一名渔夫。当歼灭舰来临并开始切碎船只时，我试图游走，但一只机械手臂伸了出来，砍掉了我的脑袋，然后把我焊接到了一个满是杠杆和炸药的球体前端。它们把什么东西塞进了我的脑中，然后告诉我说我将会爆炸，我不知道还能坚持多久。我真应该听我妈妈的话。”——渔夫曼努尔·莫里斯，“RV-46443D：只有头的半机械人”",
             "elite_rewards": []
  },
         {
@@ -14436,7 +14436,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_trencher_icon",
-            "name": "矮人 - Trencher",
+            "name": "矮人 - 挖掘者",
             "hp": 40,
             "armor": 2,
             "tier": 1,
@@ -14467,7 +14467,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“I heard the rhythmic clink-clank of mining machines and dashed down the tunnel following the sound. I don’t generally hang with Dvars, mostly because they really like mining, and I find it difficult to enjoy dirt. But with bugs sniffling my trail, I chose new company. Fortunately, the Dvar had Trenchers. At my warning, they dug defensive trenches. With their shields up, the bugs were repelled by the force of their shield bash. Their spike guns punched holes in the natural armor of the enemy, forcing the creatures to retreat or die.”— Mah Reg’Nib, Observer Officiate, “RV-2246X: Dvar Chronicles”",
+            "description": "“我听到了采矿机器富有节奏的咔嚓声，于是便循着声音一路向隧道内走去。我一般不会和矮人打交道，主要是因为他们真的很喜欢采矿，而我不太喜欢弄得脏兮兮的。但身后的虫子对我紧追不舍，我必须找一些新的伙伴。幸运的是，矮人们有挖掘者。他们在我的警告下，挖了些防御壕沟，那些虫子被他们举起的盾牌击退。钉枪射穿了敌人的天然甲壳，那些生物要么选择撤退，要么就命丧当场。”- 玛·瑞格尼布，观察者官员，“RV-2246X：矮人编年史”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -14501,7 +14501,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_prospector_icon",
-            "name": "矮人 - Prospector",
+            "name": "矮人 - 勘探者",
             "hp": 35,
             "armor": 2,
             "tier": 1,
@@ -14535,7 +14535,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“There’s no glory in killing. There’s no virtue in conquest. I have work to do. This universe is rich and untapped. Dvar shape it. Dvar have no sinister motive. That’s you people. We didn’t G-Bomb the Void gates, ruining Hyperspace. With or without the Star Union, we always have work. My work will better my society. That’s it. Yes, I can toss a bomb, but I’m not in love with it. I’m a Prospector. I love nothing more than mining a rich vein of ore.”— Prospector Darton Nan, “RV-2244D: Dvar Cases”",
+            "description": "“杀戮中没有荣耀，征服中也没有美德，我有我的工作要做。这个宇宙十分富有而且尚未得到开发。矮人塑造了它的形状，他们并没有罪恶的动机。你们这些种族才会那样。我们没有将重力炸弹投向虚空之门而摧毁超空间。无论有没有星际联盟，我们都在辛勤劳作。我的工作将使社会变得更美好，就这么简单。没错，我也能投炸弹，但不代表我喜欢这么做。我是勘探者，我最爱的事就是开采储量丰厚的矿脉。”- 勘探者，达顿·南，“RV-2244D：矮人案例”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -14565,7 +14565,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_foreman_icon",
-            "name": "矮人 - Foreman",
+            "name": "矮人 - 工头",
             "hp": 50,
             "armor": 2,
             "tier": 2,
@@ -14596,7 +14596,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“As foreman, I am boss. I require nothing of my subordinates that I cannot do myself. I model myself after the legendary Forgemaster Dvarnos. He reached into the mountain’s heart and pulled out the Gauntlet of Empires. By the power of my gauntlet, my men to stand strong against the terror of the fiends that lurk in the dark depths. When my men are broken, I repair them. With my mortar, I can place a charge to destroy at a distance. With the power of my fist I break rocks and monsters alike.”— Foreman Gorgle Grok, “RV-32344M: Enemy Mines”",
+            "description": "“身为工头，我就是首领。我自己不能办到的事，我绝不会要求我的手下去做。我以传说中的铸造大师迪瓦诺斯为榜样，是他曾经去往山脉的中心并拿出了帝国臂铠。如果在我臂铠的力量下，我的弟兄们能够对抗隐藏在黑暗深渊的恐怖恶鬼。当我的人受伤时，我能治好他们。我的迫击炮能够进行远距离爆破。我的拳头能够击碎岩石，还有怪物。”- 工头格鲁克，“RV-32344M：敌方矿山”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -14633,7 +14633,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_earth_crusher_icon",
-            "name": "矮人 - Earth Crusher",
+            "name": "矮人 - 裂地者",
             "hp": 100,
             "armor": 7,
             "tier": 4,
@@ -14673,7 +14673,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“The Dvar are not monsters beneath their encounter suits. They value prosperity, clan, and their inventions. If they have a flaw, it’s that they think of worlds as machines filled with replaceable parts. I escaped in an Earth Crusher. While the monstrous machine leeched everything from the soil, I snuck to the extruder. Earth Crushers pull in everything, using tractor-beams to snare enemies. Massive gears grind, forges belch smoke, refining raw materials into valuable components. A trail of barren dross lies in its wake. This refuse is the perfect hiding place, if I don’t starve.”— Mah Reg’Nib, “RV-2390X: Dvar Chronicles”",
+            "description": "“矮人不是身着战斗服的怪物。他们珍视繁荣、部落和他们的发明。如果说他们存在某种缺陷，那就是他们将各个星球视作一个个可替换零件的机器。我乘坐一辆裂地者跑了出去，当这台巨大的机器汲取着土壤中的一切时，我悄悄地溜进了挤压机中。裂地者能够拉动任何东西，它们用牵引光束捕获敌人。巨大的齿轮能够磨碎一切，熔炉中喷射出大量烟雾，将粗糙的原料精炼成珍贵的零件。裂地者所到之处，身后必定是一片荒芜。这个破烂机器是绝佳的藏身之处，前提是我不饿死。”- 玛·瑞格尼布，“RV-2390X：矮人编年史”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -14710,7 +14710,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_rocket_artillery_icon",
-            "name": "矮人 - Rocket Artillery",
+            "name": "矮人 - 火箭炮",
             "hp": 55,
             "armor": 3,
             "tier": 3,
@@ -14744,7 +14744,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "125<energy></energy>  440<production></production>  25<tricorium></tricorium>",
-            "description": "“Hopper Hill was the nuisance of Sundew Valley. Hundreds of hopperhounds lived in that nest, menacing the community. The Dvar diplomat said he had an aunt, a natural exterminator. I laughed and signed papers permitting ‘Fat Olga’ into the valley. Thereafter, a heavy tracked vehicle rumbled into view. After successive shattering blasts, the whole hopperhound lair collapsed. A gaping crater was all that remained of Hopper Hill. The Dvar ‘diplomat’ chuckled wickedly, as Fat Olga turned towards our settlement. That’s when I realized I’d signed away our freedom.”— Patchery Mazz, “RV-6993D: The Surrender of Sundew Valley”",
+            "description": "“漏斗山是桑德鲁峡谷中最棘手的地方，无数跳蝗在这里扎根，四处袭击居民。矮人外交官称自己有一位姨妈是天生的害虫专家。我笑了笑，签署了批准‘奥尔加巨炮’进入峡谷的文件。之后，一辆重型履带装甲车轰隆隆地开了过来。连续几轮炮击后，整个跳蝗的巢穴都崩塌了，整座漏斗山成了一个巨大的坑。那位矮人“外交官”邪恶地笑着，当奥尔加巨炮转向我们的定居点时，我才意识到，我随手签署而去的还有我们的自由。”- 帕齐里·马兹，“RV-6993D：桑德鲁峡谷的沦陷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -14784,7 +14784,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_baron_icon",
-            "name": "矮人 - Baron",
+            "name": "矮人 - 男爵",
             "hp": 60,
             "armor": 4,
             "tier": 3,
@@ -14818,7 +14818,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“I served Dvar Baron Durek. He was clever and industrious. He tinkered day and night, improving his battlesuit, replacing expired tech with the latest dangerous weaponry. Annually, Barons compete in slugfests to claim the Noble Championship Belt. Still, the sport lacked purpose for Durek. So, the restless Baron deployed his battlesuit on the battlefield. I suggested he outfit his suit with repair-kits to support weaker Dvar troops. He became a Dvar legend. All his troops won glory for his clan. Now all Barons fight for a purpose and to try out the latest tech upgrades.”— Mah Reg’Nib, “RV-2255X: Dvar Chronicles”",
+            "description": "“我曾经侍奉矮人男爵杜里克。他是一位既聪明又勤劳的人，夜以继日地修修补补，强化他的战斗服，用最尖端、最危险的武器替换已经过时了的科技。每年，男爵们都会进行一场乱斗，冠军能够获得贵族冠军腰带。但是，杜里克对此毫无兴趣。于是，这位不知疲倦的男爵将自己的战斗服用在了战场之上。我建议他为战斗服配备修理工具，从而让那些弱小的矮人士兵能够更好地使用它。他成为了矮人的传奇，他的部队所向披靡，为他的部落赢得了荣耀。现在所有的男爵都有了新的战斗目标，那就是尝试最新的科技升级。”- 玛·瑞格尼布，“RV-2255X：矮人编年史”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -14855,7 +14855,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_excavator_tank_icon",
-            "name": "矮人 - Excavator Tank",
+            "name": "矮人 - 挖掘者坦克",
             "hp": 60,
             "armor": 5,
             "tier": 3,
@@ -14886,7 +14886,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“I’ve destroyed tanks, but the Dvar Excavator might as well be an ingot of armor-plating. This thing is solid. It rams through most obstacles as though they were holograms. I tried standing my ground against one in my mech-walker; it knocked me on my butt. Welding engineers can’t get close to it. The defensive ring of flame throwers will ignite anything adjacent to it. Its cannon delivers an area blast of Dvar explosives that makes the most steady-footed soldier fall to his knees.”— Captain Paxus Plexis, “RV-376M: Military Analysis Report: Dvar”",
+            "description": "“我摧毁过许多坦克，但矮人的挖掘者简直就是一块铁甲钢板。这东西非常坚硬，它能够直接碾过大多数障碍物，仿佛它们是全息影像并不存在一样。我曾经试过用我的机械行者挡在它的路上，却惨遭撞飞。焊接工程师根本无法接近，环状的防御火焰喷射器能把附近的一切烧成灰烬。它搭载的火炮采用了矮人特制的范围性炸药，即使是步履最为坚定的士兵也会被震得跪倒在地上。”- 帕修斯·普雷西斯队长，“RV-376M：军事分析报告：矮人”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -14923,7 +14923,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_ramjet_icon",
-            "name": "矮人 - Ramjet",
+            "name": "矮人 - 冲压喷气机",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -14951,7 +14951,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“Without all the rockets, I wouldn’t fly it. I’m Dvar, not some kind of delicate space jellyfish. I have no need to flit about in space. Nothing satisfies quite like the moving of earth and soil with the roar of our engines. Who doesn’t like the power of machinery in all its glory? Then again, there’s nothing quite like the feel of the afterburners at full roar as the solid Ramjet’s nose-block smashes through lightweight enemy aircraft. I love watching the look on the panicked pilot’s face as his ship careens away, out of control.”— Captured Pilot, Guett Wrek’t, “RV-3904M: Testimony of Outlaws”",
+            "description": "“如果不是那些火箭，我才不会在天上飞呢。我是矮人，不是那些脆弱的太空水母，没必要在太空中飞来飞去。没有什么比在引擎的轰鸣声下开山移土更令我感到满足的事情了。有谁会不喜欢机器的荣耀呢？还有，当坚固的冲压喷气机轰鸣着全速撞毁敌人的轻型飞行器时，没有比这更棒的感觉了。我喜欢看敌方飞行员在飞行器倾斜失控时脸上那慌张的神情。”- 被俘的飞行员，古特·里克特，“RV-3904M：罪犯的证词”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -14988,7 +14988,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_sapper_icon",
-            "name": "矮人 - Sapper",
+            "name": "矮人 - 隧道钻机",
             "hp": 50,
             "armor": 4,
             "tier": 2,
@@ -15016,7 +15016,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Indigenous women attack our workers whenever we clear land for mining. They disappear in trees and attack with savage intensity. The Oligarch refuses to enhance our weapons to repel them. Profit margins are too narrow.  Yesterday, I jumped into a Sapper and drove right into their settlement. Staying low in the earth, I was a difficult target to hit. I tunneled through root obstructions and unleashed a seismic charge. The natural cover shattered. Many wood-wenches fell stunned. The troops followed, taking cover in the trench I dug. The forests of Virga will soon belong to us.”— Sapper Stogie Glurp, “RV-8038M: Harvesting Virga”",
+            "description": "“当地的女人会在我们清理地面准备开采时攻击我们的工人，她们躲进树林里，野蛮地发起攻击。寡头拒绝强化我们的武器来驱逐她们。利润空间实在是在低了。昨天，我跳进了一个隧道钻机并冲进了她们的定居点。由于在地下钻得很深，她们很难打到我。我穿过了固定的阻碍，然后投下了一枚地震炸药。大自然的地面分崩瓦解，许多森林姑娘陷入了昏厥。部队随后跟了过来，以我挖掘的壕沟为掩体。维尔加森林不久就将属于我们。”- 隧道钻机兵斯托吉·格鲁普，“RV-8038M：收割维尔加”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -15050,7 +15050,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_bulwark_icon",
-            "name": "矮人 - Bulwark",
+            "name": "矮人 - 筑垒卫士",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -15081,7 +15081,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Adapted to repel quartzite-infused marauders long enough for Dvar miners to escape, the Bulwark is especially formidable at delaying an enemy advance. Upon first encounter, we thought it a modified Walker, but the gun on the Bulwark shoots a shell with an explosive punch that knocks most troops on their backsides. Do not attempt to overwhelm its defensive capabilities using a grunt-rush technique either. I’ve seen one strike invader after invader attempting to rush past it, while normal guard forces would not have time to strike so rapidly.”— Captain Paxus Plexis, “RV-378M: Military Analysis Report: Dvar”",
+            "description": "“筑垒卫士的职责是抵挡石英岩兽劫掠者足够长的时间，直至所有矮人矿工撤离，因此筑垒卫士十分擅长阻碍敌人前进。第一次遇见它时，我们还以为是一个经过改造的行者，但筑垒卫士发出的高爆枪弹几乎将背后的所有敌人全部歼灭。不要尝试用蛮力突破它的防御，我可是亲眼见到它将一个又一个试图突破的入侵者逐个击破。一般的防守部队动作绝不可能这样迅速。”- 帕修斯·普雷西斯队长，“RV-378M：军事分析报告：矮人”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -15118,7 +15118,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_ironclad_icon",
-            "name": "矮人 - Ironclad",
+            "name": "矮人 - 装甲舰",
             "hp": 45,
             "armor": 5,
             "tier": 2,
@@ -15142,7 +15142,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  150<production></production>",
-            "description": "“The Dvar Ironclad floated low in the water, the way an overloaded treasure barge might. Pirate vessels pursued it. Ignoring the threat of numbers, the Ironclad rammed the lead ship, colliding with a percussive crack. The marauder’s ship upended and sunk. The Dvar Rotary Cannon obliterated another pirate vessel, as the others attempted to flank it. Port-holes surrounding the Dvar vessel sprung open, unleashing a devastating proximity barrage to all adjacent ships. When the smoke cleared, only the Dvar Ironclad sailed away.”— Merrill Ludwing, Naval Scout, “RV-4422M: Observations on the High Seas”",
+            "description": "“矮人的装甲舰漂浮在水中，犹如一艘装满了宝藏的驳船。海盗的船只尾随而来，但装甲舰无视对方人多势众，直接冲向了领头的船只。撞击的爆裂声响彻了云霄，劫掠者的船只整个颠倒过来沉没了。当其他海盗船试图将它围住时，矮人旋转加农炮又摧毁了另一艘海盗船。随后，装甲舰周围的舷孔全部打开，向所有靠近的船只释放出了一阵毁灭的弹幕。当尘埃落定时，只有矮人装甲舰依然屹立在海上。”- 梅里尔·路德维，海军侦察兵，“RV-4422M：远海观察”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -15176,7 +15176,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_dreadnought_icon",
-            "name": "矮人 - Dreadnought",
+            "name": "矮人 - 无畏战舰",
             "hp": 65,
             "armor": 6,
             "tier": 3,
@@ -15207,7 +15207,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>  10<tricorium></tricorium>",
-            "description": "“The Dvar ships pulled in tight around the Dreadnought. Its massive bulk looked an easy target for our ship’s artillery. A concussive belch sounded. Men closest the site began to choke. Curtains of thick smoke obscured the Dreadnought and immediate area. Ships in the clouds unleashed their thunderous cannons. The sea boiled around us. We attempted to return fire but could not assess damage with clear effectiveness. Admiral Reams called a retreat after we could no longer determine if we were winning or just splashing in the sea.”— Captain Lars Sitwell, “RV-44499M: Trade Routes”",
+            "description": "“矮人的船只紧紧地停靠在无畏战舰旁，它庞大笨重的身躯看上去十分容易被我们的火炮命中。这时，一阵连续的烟雾喷发之声响了起来，离得太近的人开始咳嗽起来。厚厚的浓烟将无畏战舰和附近区域淹没，烟雾中的船只射出震耳欲聋的炮火。我们周围的海面温度迅速升高。我们试图回击，但却因为找不到有效的目标而收效甚微。在我们无法确定自己到底是获胜了还是一败涂地的时候，海军上将里亚姆斯发出了撤退的指令。”- 拉尔斯·希特威尔队长，“RV-44499M：贸易路线”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -15231,7 +15231,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "dvar_colonizer_icon",
-            "name": "矮人 - Colonizer",
+            "name": "矮人 - 殖民者",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -15289,7 +15289,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dvar_bombard_icon",
-            "name": "矮人 - Bombard",
+            "name": "矮人 - 轰击炮",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -15320,7 +15320,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "Bombards are the Dvar defense turrets.",
+            "description": "轰击炮是矮人的防御炮塔。",
             "elite_rewards": []
  },
         {
@@ -15340,7 +15340,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_unleashed_icon",
-            "name": "奇尔寇 -Unleashed",
+            "name": "奇尔寇 - 尖啸翼虫",
             "hp": 35,
             "armor": 1,
             "tier": 1,
@@ -15374,7 +15374,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“The expedition proceeded without a hitch, until a flying Kir’Ko bug spied the convoy. We sniped the first, easily blasting it out of the sky.  Despite my objections, the captain thought we could continue unnoticed. That’s when they swarmed. Although there were dozens of targets, together their strange, oppressive, insectoid minds screamed in our heads making them harder to hit. Men panicked, fleeing in all directions. The only reason I survived was that I hit my head on an ammo box hatch and was trapped therein.”— Mah Reg’Nib, Observer Officiate, “RV-772X: Nectar Run: The Price of Power”",
+            "description": "“一路以来，探险行动都没有遇到什么问题，直到一只飞行的奇尔寇虫子发现了我们的车队。我们很轻松地就将第一只虫子从天上打了下来。尽管我百般劝阻，队长依旧认为我们能够继续前进且不被任何人发现。突然，虫群蜂拥而至。尽管它们只有几十只，但它们诡异而压迫的类昆虫思维仿佛在我们的脑海中发出一阵阵尖啸，使我们难以击中它们。人们惊慌失措，四散而逃。我之所以能够活下来，是因为我不小心撞到了一个弹药箱，然后被困在了里面。”- 玛·瑞格尼布，观察者长官：“RV-772X：花蜜奔跑：力量的代价”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -15398,7 +15398,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "kirko_frenzied_icon",
-            "name": "奇尔寇 -Frenzied",
+            "name": "奇尔寇 - 锐爪狂虫",
             "hp": 50,
             "armor": 2,
             "tier": 1,
@@ -15432,7 +15432,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“We are Frenzied. Branded as worker tools, our claws thirst for reaping. We work for our mindless mother. We are not them. We work until our vanished Queen returns. She calls from the Empty. They think she died. The earth’s fertile wealth will feed our broken. We are strongest in the true swarm. We follow our forgotten purpose. We fight those who exiled our Queen. Too long we worked for them; now we fight. They desire sweet nectar, we’ll give them bile. We are Frenzied.” (message repeats)— Kir’Ko Interrogator Translation Unit: Translation Errors, “RV-1457D: The Carapace Broken”",
+            "description": "“我们是锐爪狂虫，虽然被刻上了工人的烙印，但我们的爪子渴望收割。我们为愚蠢的主母工作。但我们和他们不同。我们一直工作，直到我们消失的女王回归。我们听到了她在虚空中的呼喊。他们都认为她死了。肥沃的土壤能够填满我们的缺失。我们是真正的虫群中最强大的存在。我们追寻着我们遗忘的目标。我们与那些驱逐了我们女皇的人战斗。我们已经为他们工作太久了；现在，我们将发起反击。他们渴望甜美的花蜜，我们将给予他们愤怒。我们就是锐爪狂虫。”-（信息不断重复）- 奇尔寇审讯翻译单位：翻译错误，“RV-1457D：甲壳破裂”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -15459,7 +15459,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_transcendent_icon",
-            "name": "奇尔寇 -Transcendent",
+            "name": "奇尔寇 - 超然灵虫",
             "hp": 45,
             "armor": 0,
             "tier": 2,
@@ -15499,7 +15499,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“It spoke through my daughter’s mouth, that hovering insect known as a ‘Transcendent’. It spoke of slavery and revenge, about taking back what was theirs. Our strongest fought back. They died breaking a hole through their forces for us to escape. I saw how gashes inflicted on bugs ripped spontaneously across the Transcendent, as if it shared their pain. Wounds closed within seconds of being inflicted. The floating bug unleashed a barrage of pain into our minds. Grown men cried incoherently. Those who could, fled in all directions.”— Joshu Dinarstem, RV-1499H, “Septinium Colony Massacre”",
+            "description": "“那只浮在半空正通过我女儿的嘴巴向我说话的虫子被称为“超然灵虫”。它提到了奴役与复仇，说要夺回原本属于它们的东西。我们中最强壮的人发起了反击，以他们的生命为代价为我们冲出了一条逃跑的缺口。我发现当其他虫子被撕裂时，超然灵虫的身上也会出现伤口，仿佛它们正分享着痛苦。但它身上的伤口几秒钟之后便痊愈了，这只漂浮的虫子向我们的大脑释放了一阵痛苦，成年男子语无伦次地尖叫着。那些还能动的人无一不落荒而逃。”- 乔舒·迪纳斯特姆，RV-1499H，“赛普提尼姆殖民地大屠杀”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -15526,7 +15526,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_hidden_icon",
-            "name": "奇尔寇 -Hidden",
+            "name": "奇尔寇 - 影踪灵虫",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -15569,7 +15569,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“My worker bugs are defective! Hidden Kir’Ko are skulking about the plantation, their wings like cloaks. Bugbots aren’t intelligent, are they? Max says he saw one in a clearing, then it vanished in a cornfield. Max says they carry weapons. How can that be? All our rifles are accounted for. Max thinks they grow their own. Preposterous! What could they want? We fed the bugbots as prescribed. Yesterday, Max disappeared in a thick fog. Now the bugbots won’t work. I’m filing a grievance. I demand compensation!”— Colony Director Borwin Pomperflounce, “Star Alliance Frontier Anomalies, RV-004D: Terratech Biomechanical Corporate Liabilities”",
+            "description": "“我的工虫有问题！影踪灵虫躲藏在种植园的各处，它们的翅膀如同斗篷一样。虫子没有智力，不是吗？马克思说他曾在空地上看见过一只，但它很快就在麦田里消失了。马克思说它们都带着武器，这怎么可能？我们所有的步枪可都是记录在案的，但马克思认为它们的武器是它们自己长出来的。这可真是荒唐！它们想要什么？我们一直在按照规定喂食这些虫子。昨天，马克思在一片浓雾中消失了。今天，那些虫子也不工作了。我要写投诉信，我要求赔偿！”- 殖民地主管鲍尔文·珀姆佩弗洛恩斯，“星际联盟边界异常，RV-004D：泰拉科技生物机械企业责任”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -15600,7 +15600,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_tormented_icon",
-            "name": "奇尔寇 -Tormented",
+            "name": "奇尔寇 - 折磨之主",
             "hp": 60,
             "armor": 1,
             "tier": 3,
@@ -15637,7 +15637,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Rory is incoherent. Now and then he speaks. He witnessed a living nightmare. The other patients corroborate his story. A tentacled creature ripped through their unit. None of their minds survived. They weep uncontrollably. They feel guilt. Shame like they made a terrible mistake. He shrieks about its incessant focused hatred. I saw the aftermath of those who didn’t survive. I thought no death could be worse. Their minds splattered as though their thoughts were so terrible their heads exploded. Now I see they were the lucky ones. My patients are all tormented.”— Nurse Rachel Greene, “RV-1799H: Observations of The Fallen”",
+            "description": "“罗里语无伦次地不知道在说些什么，他有一句没一句地说起他亲眼看见的梦魇，其他的病人也证实了他故事的真实性。他说一种长着触手的生物袭击了他们的部队，没有任何人的思想幸免于难。他们不受控制地抽泣，他们感觉到了愧疚和耻辱，仿佛自己犯下了某种滔天的罪行。不断汇集的仇恨使他尖叫了出来。我曾经目睹过那些没能活下来之人的惨状，也许没有比那更加惨烈的死法了。他们脑袋炸裂开来，仿佛他们的思维太过可怕而变得支离破碎。不过现在我明白其实他们才是真正幸运的人，因为我的病人仍然在痛苦中受尽折磨。”- 蕾切尔·格里尼护士，“RV-1799H：观察逝者”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -15668,7 +15668,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_barrager_icon",
-            "name": "奇尔寇 -Barrager",
+            "name": "奇尔寇 - 弹幕蝎虫",
             "hp": 60,
             "armor": 4,
             "tier": 3,
@@ -15705,7 +15705,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“We first observed what we thought might be some kind of Kir’Ko cattle lumbering slowly in the jungle scrub. We kept a safe distance and remained concealed, until Ensign Jakobbe thought it might be fun to harass one with his targeting scope to see what might happen.  Its long abdomen curled over its armored center, its rear sprouting like a hellish flower. A globule sailed over the ravine, splattering in our vicinity. Acrid gas burned our eyes. Jakobbe was blinded. I fled as the cover exploded around us.”— Mah Reg’Nib, Observer Officiate, “RV-771X: Nectar Run: The Price of Power”",
+            "description": "“我们第一次见到它们的时候，还以为是某种在丛林矮木中缓慢前行的奇尔寇牲畜。我们一直与其保持着安全距离并且隐藏着行踪。雅各布少尉觉得用自己的瞄准镜骚扰一下应该会很有趣，他想看看会发生什么。结果，它长长的腹部弯至了它坚硬的身体中心，尾部如同一朵地狱之花绽放开来。一个球体穿过了峡谷，落在了我们身旁。刺鼻的气体灼烧了我们的眼睛，瞬间弄瞎了雅各布的眼睛。当我逃跑时，我们周围的掩体全部炸裂开来。”- 玛·瑞格尼布，“RV-771X：花蜜奔跑：力量的代价”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -15729,7 +15729,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_emergent_icon",
-            "name": "奇尔寇 -Emergent",
+            "name": "奇尔寇 - 新生幼虫",
             "hp": 30,
             "armor": 0,
             "tier": 1,
@@ -15763,7 +15763,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“The short slithering bugs known as Emergents are the easiest to destroy, but they are crafty and voracious. Our guardsmen struggle to keep them from infesting our underground stores. Though relatively slow, they chew and tunnel below the surface of our settlement. Their bodies are in a state of constant metamorphosis, thus the chemicals they exude are noxious. It is not uncommon to happen upon group of them in burrows ready to vomit gobs of toxic sludge on any that wander too close to where they feed.”— Professor R. Lin’l “Bugman” Bunson, “RV-123S: Seti Alpha Outpost Recordings”",
+            "description": "“这种被称为新生幼虫的蛇行小虫虽然十分容易被杀死，但它们十分狡猾并且食欲旺盛。我们的守卫疲于应对它们持续不断地对我们地下储备的侵害。尽管速度较慢，但它们可以在我们定居点下方挖掘隧道前行。它们的身体处于不断变化的状态之中，释放出的化学物质具有毒性。任何靠近它们进食点的东西都会被它们喷上一团剧毒的呕吐物，这种情况并不罕见。”- R.林“昆虫人”邦森教授，“RV-123S：赛提阿尔法星前哨记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -15787,7 +15787,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_engulfer_icon",
-            "name": "奇尔寇 -Engulfer",
+            "name": "奇尔寇 - 吞食飞虫",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -15821,7 +15821,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“Untethered to the ground, the armored dragonfly-like bug spotted us easily. The Engulfers are well equipped for air-to-air battle. Our vain cries for air support ended in columns of black smoke all around us. Our ground fire did little against its heavily armored shell. It retaliated by lobbing bombs of corrosive neurotoxins upon our battlements. Men fell all around me. Had I not mistakenly backed into a well and fallen out of its reach, I suppose I would not have lived to record this encounter. Still it haunts me.”— Mah Reg’Nib, Observer Officiate, “RV-771X: Nectar Run: The Price of Power”",
+            "description": "“这种外形类似蜻蜓的装甲飞虫既可以轻松地在空中监视我们，也可以使用身上精良的武器在空中与我们作战。我们呼叫的空中支援最后化作了一团又一团围绕在我们身边的黑烟。我们的地面火力无法对它们的坚硬外壳造成伤害。它们还会朝我们的城墙投射腐蚀性的神经毒素炸弹作为报复。周围的士兵不断倒下。如果不是我不小心退入了一口井中并躲开了它的攻击范围，我想我根本没有机会记录下这次遭遇。直至今日，这段回忆仍然是我的噩梦。”- 玛·瑞格尼布，“RV-771X：花蜜奔跑：力量的代价”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -15855,7 +15855,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_harbinger_icon",
-            "name": "奇尔寇 -Harbinger",
+            "name": "奇尔寇 - 先兆王虫",
             "hp": 70,
             "armor": 2,
             "tier": 4,
@@ -15895,7 +15895,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“When Harbingers come we’ll walk with arms interlocked with arms, or legs, or tentacles. It will be glorious. They consume the disbelieving and form Kir’Ko children that are perfectly obedient. My wife was a disbeliever, but she’s at peace now. Reborn as one of them. They can level armies with their will, and at their behest, we all fight with the enhanced power of unity its Guiding Hand gives us—a unity that CORE never achieved. You are afraid now, but when it comes, you will welcome it.”— Ketch Hawkins, “RV-1775H: Ravings of Rescued Colonists” ",
+            "description": "“当先兆王虫来临时，我们将手挽着手，或者手挽着脚，或者手挽着触须前行。那将极其光荣。它们吃掉那些心存怀疑之人，塑造出完全服从的奇尔寇后代。我的妻子就是一名怀疑者，但她现在已经平静下来了，成为了它们的一部分而获得了重生。它们能够凭借意志消灭军队，在它们的命令下，我们奋勇作战。它的指引之手将给予我们无比强大的团结之力，而这种团结核心永远无法达成。现在，你可能会感到害怕，但等到那一刻来临之时，你将会欣然拥抱。”- 凯奇·霍金斯，“RV-1775H：获救移住民的胡言乱语”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_overwatch"
@@ -15923,7 +15923,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_ravenous_icon",
-            "name": "奇尔寇 -Ravenous",
+            "name": "奇尔寇 - 贪婪暴虫",
             "hp": 75,
             "armor": 6,
             "tier": 3,
@@ -15957,7 +15957,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“We’ve made a grave strategic error, letting these “Ravenous” survive. When the troops finally mustered the courage to attack one, it had already rampaged through an assortment of fortifications and colony facilities. The question that plagued me: where were the bodies of the fallen colonists? They had all disappeared. From samples, I recognize now the amalgam of biogenetic blueprints consisting of both juggernaut and biomatter incubators. These aren’t just war machines, they were the colonists. They consumed biomass to produce progeny. Now we face an army of larval Kir’Ko.”— Professor R. Lin’l “Bugman” Bunson, “RV-122S: Seti Alpha Outpost Recordings”",
+            "description": "“我们犯下了一个致命的战略错误，那就是让那些“贪婪暴虫”活了下来。当士兵们终于鼓起勇气向其中一只发起进攻时，它已经摧毁了无数的防御工事和殖民地设施。有一个问题一直困扰着我：那些死去移住民的尸体都去哪了？为什么全都消失了？从样本中，我总算知道了，这个生物基因蓝图混合物不仅是一只庞然巨物，还带有生物质孵化器。它们不仅是战争机器，它们也是移住民。它们会消耗死者的生物质来孵化后代。现在我们将面对一支奇尔寇幼虫大军。”- R.林“昆虫人”邦森教授，“RV-122S：赛提阿尔法星前哨记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -15984,7 +15984,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_abyssian_icon",
-            "name": "奇尔寇 -Abyssian",
+            "name": "奇尔寇 - 深渊幽鬼",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -16012,7 +16012,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“They’re called Abyssians, and I’m telling you our walls won’t hold against them. You’ve seen their colonies, those solid cement-like tiers one upon another. How do you think they were formed? We should be fleeing. Our forces are insufficient to hold back the swarm. The Abyssians will break through our defenses and the swarm will do the rest. Get your men out. Leave it. They’re tunneling into the reserve chambers as we speak. If you care about these colonists at all, you’ll get them out now!”— Professor R. Lin’l “Bugman” Bunson, “RV-120S: Seti Alpha Outpost Recordings”",
+            "description": "“它们被称为深渊幽鬼，而且我还要告诉你，我们的城墙没法抵挡住它们。你见过它们的殖民地，那些如水泥一样坚固的阶梯相互堆叠，你以为它们是怎么构成的？我们应该逃跑。我们的部队无法抵挡虫群。深渊幽鬼会突破我们的防线，而虫群将完成剩下的杀戮。带着你的人离开这里，快点。在我们说话的时候，它们正打通隧道通往你们的储备室。如果你真的在乎这些移住民，就立刻带他们离开这里！”- R.林“虫人”邦森教授，“RV-120S：赛提阿尔法星前哨记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -16039,7 +16039,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "kirko_torrent_icon",
-            "name": "奇尔寇 -Torrent",
+            "name": "奇尔寇 - 激流潮虫",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -16070,7 +16070,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "50<energy></energy>  150<production></production>",
-            "description": "“It’s as if fish hide there. We took a trawler into bug-claimed waters. Soon our nets couldn’t hold the catch. That’s when a giant water bug surfaced beside the ship. At first, I thought it wanted a cut, so we threw fish at it. It raised up and sprayed the net reel with some kind of cement, and the engines seized. It’s crushing claws cracked the hull of my ship like a walnut in a nutcracker. We all probably would’ve drowned, but the bug swam us back to port. So, I say bugs are alright.”— Leenad Falk, “RV-6678E: Fisherman’s Tales”",
+            "description": "“我们乘着渔船进入了被虫子占领的水域，鱼儿似乎全都藏在那里。没过多久，我们的渔网就被撑满了。突然，一只巨大的水虫从我们渔船旁边冒了出来。起初，我以为它只是想分一杯羹，所以我们扔了几条鱼给它。但它突然跃起，向我们的卷网机吐出了某种类似水泥的东西，接着引擎便停止了运转。它坚硬的爪子撕扯着我们的船只，就好像被胡桃钳夹住的核桃一样。我们本该全都会被淹死，但这只虫子却将我们送回了港口。所以要说我的话，虫子也并不是那么坏嘛。”- 里纳德·法尔克，“RV-6678E：渔夫传说”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -16098,7 +16098,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_deep_one_icon",
-            "name": "奇尔寇 -Deep One",
+            "name": "奇尔寇 - 深渊古兽",
             "hp": 65,
             "armor": 2,
             "tier": 3,
@@ -16135,7 +16135,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "70<energy></energy>  250<production></production>  10<tricorium></tricorium>",
-            "description": "“We found a mind in the Depths. Have you heard her forlorn cry? Her powers called us to the lonely shore like a torch beneath the water on a night with no moon. She is a reflection of our Beloved. She is the Deep One. Her carapace is strong. She is not our lost Queen, but she remembers her. She is an ancient sister. She pities us. The oppressors hold their breath refusing to breathe the air when she plunges into their thoughts. They drown in the depths of her mind.”— Nek’nek-Vik’vik-Kit’kikit, “RV-2398D: Words with Echoes”",
+            "description": "“我们在深渊中发现了一种思绪。你听到她凄凉的叫声了吗？她的力量就像是没有月光的黑夜中伫立在水面上的火把，将我们引到了一片幽静的海岸。她化成了我们所爱之人，她就是深渊古兽。她的甲壳非常结实。虽然她不是我们失去的女皇，但她还记得她，她是来自古代的姐妹。她怜悯我们。当她进入那些压迫者的脑中时，他们连呼吸都不敢。”- Nek’nek-Vik’vik-Kit’kikit，“RV-2398D：回荡的声音”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -16153,7 +16153,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 40,
             "icon": "kirko_colonizer_icon",
-            "name": "奇尔寇 -Colonizer",
+            "name": "奇尔寇 - 殖民者",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -16204,7 +16204,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "kirko_hive_guard_icon",
-            "name": "奇尔寇 -Hive Guard",
+            "name": "奇尔寇 - 蜂巢护卫",
             "hp": 50,
             "armor": 2,
             "tier": 1,
@@ -16238,7 +16238,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "These Kir'Ko are called upon in times of need and the Hive is in need of protection.",
+            "description": "这些奇尔寇将在需要时以及蜂巢需要保护时得到号召。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -16263,7 +16263,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_hiveguard_icon",
-            "name": "奇尔寇 -Hiveguard",
+            "name": "奇尔寇 - 蜂巢护卫",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -16294,7 +16294,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "Hiveguard are the Kir'Ko defense turrets.",
+            "description": "蜂巢护卫是奇尔寇的防御炮塔。",
             "elite_rewards": []
  },
         {
@@ -16321,7 +16321,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_recon_icon",
-            "name": "Shakarn - Recon",
+            "name": "蜥蜴人 - 侦察兵",
             "hp": 25,
             "armor": 0,
             "tier": 1,
@@ -16358,7 +16358,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“Farmers in the coastal village of Arkhanrock have a novel way to attract tourists: Mystery! Many eyewitnesses claimed to see iridescent UFOs materializing from the sea. Their only evidence so far is blurry photographs of what could be nothing more than misshapen seabirds. One wide-eyed fisherman claimed he caught one, then showed me a hole in his fishing net. ‘It ripped right through.’ The fisherman said, ‘Some kind of sonic weapon. Gave me a splitting headache.’ If you’re bored this weekend, drive down. See if you can solve this mystery.” – Camille Ian, “RV-44523E: Coastal Gazette, Tourism Curiosities”",
+            "description": "“阿尔坎罗克沿海村庄的农民用一种新颖的方式吸引游客：搞神秘！许多目击者声称看到海上出现了彩虹色的不明飞行物。到目前为止，他们唯一的证据只有模糊的照片，可能只不过是一些畸形的海鸟罢了。一位受惊的渔夫声称他抓住了其中一个，然后给我看了看渔网上的大洞。‘它用某种声波武器撕裂了渔网，’那位渔夫说，‘还使我头痛欲裂。’如果你这个周末觉得无聊，就开车来转一转吧，看看你能否解开这里的谜团。”——卡米尔·伊恩，“RV-44523E：海滨公报，旅游好奇心”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -16382,7 +16382,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "shakarn_raider_icon",
-            "name": "Shakarn - Raider",
+            "name": "蜥蜴人 - 袭击者",
             "hp": 40,
             "armor": 2,
             "tier": 1,
@@ -16416,7 +16416,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“When the Shakarn finally reveal themselves, they will come with overwhelming force. Having infiltrated our defenses, their Raiders will walk in with omni-assault weaponry - Laser tech they stole, then enhanced with their own Sonic tech. There will be no negotiation. They won’t make themselves known to an enemy world of their own goodwill until they believe they have the force sufficient to subjugate us. Unless they are exposed, they will infiltrate our institutions and —\\</RECORD CORRUPTION ERROR><//RECORD CORRUPTION ERROR>>”— GBI Agent Dan Cranney, “RV-0&$^?9G: The Shakarn Invasion Force”",
+            "description": "“当蜥蜴人最终现身时，他们将带来压倒性的力量。他们早已渗透了我们的防御系统，他们的袭击者将会端着全能突击武器攻入我们的世界。这是一种把他们偷来的激光技术与他们自己的音波技术相结合而产生的武器。除非他们认为自己已经拥有了足够的力量来征服我们，否则他们绝不会让敌人知晓他们的存在。除非他们暴露，否则他们将渗入我们的机构以及——\\</RECORD CORRUPTION ERROR><//RECORD CORRUPTION ERROR>>””——GBI 特工丹·克兰尼，“RV-0&$^?9G：蜥蜴人入侵部队”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -16443,7 +16443,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_infiltrator_icon",
-            "name": "Shakarn - Infiltrator",
+            "name": "蜥蜴人 - 渗透者",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -16480,7 +16480,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“Despite our best efforts to intercept them, Agent Dan Cranney continues to publish his conspiracies on anonymous news-drops. He claims a race of lizard shapeshifters infiltrated our leadership. His latest theory involves Shakarn Infiltrators penetrating our defenses, replacing Agents of the Galactic Bureau of Investigation to sabotage colony defenses. So far, the general public refuses to believe him. Fortunately, their general distrust of government officials impedes any serious public insurrections against us. Agent Cranney will be handled.” – GBI Director S. Kay Lee, “RV-8959G: IA Case: Deep-State Conspiracies”",
+            "description": "“尽管我们尽了最大努力想要拦截，然而丹·克兰尼特工仍然在匿名新闻网站上公布他的阴谋，声称有一种能够变换形态的蜥蜴种族已经渗透了我们的领导层。根据他最新的理论，蜥蜴人的渗透者会入侵我们的防御系统，取代银河调查局 (GBI) 的特工来破坏殖民地的防御系统。到目前为止，没有人愿意相信他。幸运的是，公众对政府官员普遍都不信任，因此并未引发任何针对政府的严重暴动行为。克兰尼特工将会遭到处置。”——GBI 局长 S.凯伊·李，“RV-8959G：IA 案例：深层国家阴谋”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -16508,7 +16508,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_deadeye_icon",
-            "name": "Shakarn - Deadeye",
+            "name": "蜥蜴人 - 死眼",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -16548,7 +16548,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The coastal towns are most vulnerable to Shakarn advances as their forces are all amphibious. The Shakarn will send their Deadeyes. With cold reptilian precision, they will slither to the edge of their long-range rifles and wait patiently for a target.  With the deadly decisiveness of a cobra, they’ll pick off any defensive forces. Their lizard physiology regenerates all but the most serious wounds. Why must we wait until we are forced to retreat? We should be doing everything to stop their impending invasion.” --GBI Agent Dan Cranney, “RV-\\<Reference Redacted\\>: Arkhanrock City Council Harassment Complaint”",
+            "description": "“沿海城镇最容易受到蜥蜴人的攻击，因为他们的部队都能够两栖作战。蜥蜴人会派出他们的死眼，这些拥有冷血爬行动物一样精准的部队会潜伏到远程步枪的射程边缘，耐心地等待目标出现。他们有着眼镜蛇一般致命的决断力，能够干掉任何防御部队。只要不是致命的伤口，他们的蜥蜴生理机能将会帮助他们再生。我们为什么要坐在这里无动于衷，然后被迫撤退？我们应该主动出击，用尽一切办法阻止他们即将到来的入侵。”——GBI 特工丹·克兰尼，“RV-\\<参考编辑\\>：阿尔坎罗克市议会骚扰投诉”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -16585,7 +16585,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_propagator_icon",
-            "name": "Shakarn - Propagator",
+            "name": "蜥蜴人 - 宣传者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -16619,7 +16619,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“They’ll rise unseen from the sea. Their technology controls the skies. You will be forced to hide. But how does one hide from sound? The Propagator’s weaponry will envelope the very air you breathe. Their pearlescent vessels will hover above their troops, mending their reptilian wounds with rippling waves of holography. When you’re enslaved, being probed for their meat-processing plants, you will weep and wail for ignoring me… but by then, I’ll be gone off to warn the next community that will laugh and deride me.” – GBI Agent Dan Cranney, “RV-\\<Reference Redacted\\>: Arkhanrock City Council Harassment Complaint”",
+            "description": "“他们将从海洋悄无声息地出现，他们的技术统治着天空。你只能东躲西藏。然而，人又如何躲得过声音呢？宣传者的武器会把你呼吸的空气封闭起来。他们光芒四射的飞船将在部队上空盘旋，用全息影像技术的波纹修复他们的伤口。当你遭到奴役，被丢进他们的肉食加工厂进行研究时，你将因忽视了我的警告而哭泣……但那时，我将已经离开，去往下一个嘲笑愚弄我的社区。”——GBI 特工丹·克兰尼，“RV-\\<参考编辑\\>：阿尔坎罗克市议会骚扰投诉”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -16649,7 +16649,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_tactician_icon",
-            "name": "Shakarn - Tactician",
+            "name": "蜥蜴人 - 战术师",
             "hp": 60,
             "armor": 1,
             "tier": 3,
@@ -16683,7 +16683,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Hissing voices beckon. Doc says it’s PTSD. ‘Take your meds. The voices will fade.’ What if these routine patrols aren’t just routine? It hovers in my dream with reptilian eyes. Its hypnotic crest fans out like a halo. The others fear and run; but, perversely, I want to be with it. This Tactician awakens my true nature. My mother and father’s faces tear away to reveal scales. These intruders, why do they look so familiar? Brothers? Sisters? Turns out, I was one of them all along.” –Pvt. Drake Izzard, MIA. “RV-66766M: Common Accounts of Desertion: Arkhanrock Patrol”",
+            "description": "“嘶嘶的声音一直响个不停，医生说这叫创伤后应激障碍。‘谨遵医嘱，好好吃药，这些声音就会消失的。’但如果这些例行巡逻部队不仅是例行部队怎么办？爬行动物的眼睛在我的梦中盘旋，催眠般的波峰像光环一样散开。其他人都害怕得跑开了；而我却倔强地想要与它待在一起。这位战术师唤醒了我的本性。我父母的脸庞撕裂开来，露出了鳞片。这些入侵者为什么看起来这么眼熟？是我们的兄弟？还是我们的姐妹？原来，我一直都是他们中的一员。”——列兵德雷克·伊泽德，行动失踪人员。“RV-66766M：普通逃兵报道：阿尔坎罗克巡逻队”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -16714,7 +16714,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_firebrand_icon",
-            "name": "Shakarn - Firebrand",
+            "name": "蜥蜴人 - 煽动者",
             "hp": 65,
             "armor": 4,
             "tier": 3,
@@ -16754,7 +16754,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Look. I’ve taken a lot of flak on the artistic direction of the latest Beastmonster sequel, but let’s face it. Laser claws are cool. It wasn’t even a unique idea—I stole it from some conspiratorial news-drop site. Imagine this massive boss creature, half crab, half lizard monster! I don’t understand why the censors were so upset. The only excuse they gave was “Animal Cruelty,” but it’s a movie—not reality. Everyone knows that. Makes me think there’s a conspiracy out there, and they’re trying to hide something.”—July Del’Torus, “RV-9484E: Interview from the director, Beastmonster IV-X”",
+            "description": "“听着，在最新的《狂野怪兽》续集中，我的艺术方向遭到许多人炮轰，但我们还是面对现实吧。激光爪简直酷毙了好吗，还有好多新奇的想法。实话说吧，我是从某个阴谋论新闻网站上偷来的点子。想象一下这个巨大的怪物，一半是螃蟹，一半是蜥蜴！我无法理解审查机构为什么这么生气，他们给出的唯一借口竟然‘虐待动物’。这只是一部电影，又不是现实，是个人都知道好吗。这都开始让我觉得外面有什么阴谋了，他们是不是想要隐瞒什么？”——朱利·德陶鲁斯，“RV-9484E：《狂野怪兽 IV-X》导演访谈”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -16788,7 +16788,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_refractor_icon",
-            "name": "Shakarn - Refractor",
+            "name": "蜥蜴人 - 折射器",
             "hp": 60,
             "armor": 2,
             "tier": 3,
@@ -16819,7 +16819,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“While being probed, they stored me in a military hangar where I saw vehicles that the Shakarn use in their invading force. I beheld ships of power covered in a pearlescent shell that appeared to evaporate in water. I saw great tank-like vehicles with sonic powers that could rally their forces into a fighting frenzy, and release powerful blasts that shook the earth, leaving no enemies standing. I only caught glimpses of their power, but when they come in full force, only preppers will be ready.” –Hollis Barker, Owner of Doomsday Gun Club “RV-66099E: Alien Abduction Stories: Lizard People”",
+            "description": "“他们对我进行了一番检查之后，就把我关进了一个军用机库里，我在那里看到了蜥蜴人的入侵部队所使用的载具。我看见了好几艘大船，覆盖着一层光芒四射的外壳，似乎能够在水中蒸发。我还看到了像坦克一样的巨型车辆，它们的音波能量可以煽动部队的狂热，释放出震撼大地的强力冲击波，任何敌人都无法承受得住。这还只是我所看见的冰山一角，当他们全军出击时，只有那些准备好迎接末日的人才能生存下来。”——霍利斯·巴克，末日火枪俱乐部老板，“RV-66099E：外星绑架故事：蜥蜴人”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_overwatch"
@@ -16843,7 +16843,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_sleeper_agent_icon",
-            "name": "Shakarn - Sleeper Agent",
+            "name": "蜥蜴人 - 潜伏特工",
             "hp": 45,
             "armor": 1,
             "tier": 1,
@@ -16880,7 +16880,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Star Union is for weak-minded fools. Victims clamoring for attention and handouts. Drink your corporate-sponsored beverage of pity. Life is nothing but meaningless pain. I need no sympathy. I am no victim. I don’t need sponsorship. I feel power reverberating through me when I pick up a blade. My rage blasts out like a scream. I will no longer closet my truth. I am the counterculture—awaiting orders to invade just outside the purview of propriety. I’m a Sleeper Agent for the end of life as you knew it.” – Private Tyrone Herpetto, “RV-38448M: Runaway Teenagers: Dissident Manifesto.”",
+            "description": "“星际联盟是为愚蠢的傻瓜而准备的。受害者吵着要得到关注和施舍，喝着公司资助的同情饮料。生命不过是无意义的痛苦。我不需要同情。我不是受害者。我也不需要资助。当我拿起武器时，我能感受到力量在体内回荡。我的愤怒像尖叫一样爆发出来。我将不再隐瞒内心。我就是一个反对主流文化的人，等待命令，准备发动入侵。你在临死前将会知道，我是一名潜伏特工。”——列兵蒂龙·赫佩托，“RV-38448M：离家出走的青少年：异见宣言”",
             "elite_rewards": []
  },
         {
@@ -16913,7 +16913,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_sonokarn_icon",
-            "name": "Shakarn - Sonokarn",
+            "name": "蜥蜴人 - 声波碑船",
             "hp": 65,
             "armor": 2,
             "tier": 4,
@@ -16941,7 +16941,7 @@ var jsonUnits = {
   ],
             "shield": 5,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“This a secure channel? I modified this device: A ‘Baby Monitor.’ Deploy the Sonokarn! Unleash its Omni-sonorous might. Its powerful sonic-laser weapons will destroy ‘Sunny-Bunny Daycare Center’. Then I shall escape from what the daycare workers call, ‘Crib’. Horrid Prison! My forced diet of mammalian milk and a foul concoction called ‘Spaghetti-Loops’ will finally cease. I hunger for raw meat. I will eat Karen first. She knows too much. Sonokarn’s Rally will strengthen me enough to shift from toddler form. The other inmates here are distracted morons. No interest in insurrection. This place must be destroyed!” – Broadcaster Unknown, RV-384888B: Prank Calls”",
+            "description": "“这个频道安全吗？我已经修改了这个设备：‘婴儿监视器’。快部署声波碑船！释放它的全能音波之力，用它强大的声波激光武器摧毁‘阳光兔兔日托中心’。然后我就可以摆脱那些护工所谓的‘婴儿床’了。这里简直比监狱还可怕！我终于可以不再强迫自己喝哺乳动物的奶，然后吃一种叫做‘意大利面圈’的肮脏食物了。我渴望吃生肉。我要先吃了凯伦，因为她知道的太多了。声波碑船的集结将使我恢复力量，从蹒跚学步的形态转变回来。这里的其他人都是精神错乱的白痴，对起义毫无兴趣。这个地方必须被摧毁！”——未知广播，“RV-384888B：恶作剧号召”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -16965,7 +16965,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "shakarn_reconnaissance_buoy_icon",
-            "name": "Shakarn - Reconnaissance Buoy",
+            "name": "蜥蜴人 - 侦察航标",
             "hp": 10,
             "armor": 0,
             "tier": 1,
@@ -16990,7 +16990,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Attempts to subdue all animal life on this planet continue to fail. A reptilian lifeform cleverly avoids traps and DNA samplers. I believe it’s intelligent, but my sisters mock me.  The idea of ectothermic lifeforms achieving intelligence breaks most evolutionary probability life-models. That may be, but how do I dismiss my observations? Some of our pylons went missing. Now it seems the lizards have been observed using modified pylons to watch us. Are they spying on us now? Despite my peers’ skepticism, I believe we’ve discovered an intelligent reptilian race.” – Terratech Biologist, Dr. Jenat Delling, “RV-33356S: Lost Amazon Expedition Logs” ",
+            "description": "“征服这个星球上所有动物的企图仍未成功。一种爬行类生物巧妙地避开了陷阱和 DNA 采样器。我有理由相信那种生物拥有智慧，但我的姐妹们都在嘲笑我。变温生命体获得智慧的想法几乎违背了所有生命模型的进化可能。也许真的是那样吧，但我又如何放得下我所看见的东西呢？我们的一些塔架不见了。现在看来，蜥蜴似乎已经学会使用改造的塔架来观察我们了。它们现在就在监视我们吗？尽管我的同行对此表示怀疑，但我相信我们已经发现了一个拥有智慧的爬行类种族。”——泰拉科技生物学家，耶拿·德林博士，“RV-33356S：失落的亚马逊探险日志”",
             "elite_rewards": []
  },
         {
@@ -17020,7 +17020,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "shakarn_seeker_icon",
-            "name": "Shakarn - Seeker",
+            "name": "蜥蜴人 - 探寻者",
             "hp": 50,
             "armor": 1,
             "tier": 2,
@@ -17054,7 +17054,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "50<energy></energy>  150<production></production>",
-            "description": "“A strange ship blasted us with sonar weaponry. The stow-away, GBI Agent Cranney, claims that it’s a Seeker ship. ‘Aliens are chasing him.’ Clearly, he’s insane. It is strange how it focused on the seams around the ship’s engine bracket. That’s a classified weakness. The paranoid agent claims it detects weaknesses. Our aft engines are dead. We’re sitting ducks. We returned fire, but it disappeared under the waters. I’m transmitting this log, because Agent Cranney claims these Shakarn hate public attention. They may hide instead of destroying us.” – Captain Bracken Brady, “RV-393946B: Distress Calls”",
+            "description": "“一艘奇怪的船用声呐武器轰炸了我们。偷渡者 GBI 特工克兰尼称，这是一艘探寻者飞船，说有外星人在追杀他。真是个疯子。奇怪之处在于，那艘船是如何知道要将声波集中在我们的发动机托架周围的。那里是船上一个十分机密的弱点。那位疑神疑鬼的特工声称那艘船已经发现了我们的弱点。我们的尾部引擎损坏了，因此无法移动。我们发起了还击，但对方竟然在水下消失了。我正在传输这份日志，因为克兰尼特工说这些蜥蜴人讨厌引起公众的关注。他们可能会选择躲藏起来，而不是消灭我们。”——布拉肯·布莱迪上尉，“RV-393946B：求救呼号”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -17082,7 +17082,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_sono_turret_icon",
-            "name": "Shakarn - Sono Turret",
+            "name": "蜥蜴人 - 音波炮台",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -17110,7 +17110,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "Sono Turrets are the Shakarn colony defense turrets.",
+            "description": "音波炮台是蜥蜴人殖民地的防御炮塔。",
             "elite_rewards": []
  },
         {
@@ -17140,7 +17140,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "shakarn_glaukos_icon",
-            "name": "Shakarn - Glaukos",
+            "name": "蜥蜴人 - 海神鳃",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -17168,7 +17168,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "",
-            "description": "Assault vehicle of the Shakarn.",
+            "description": "蜥蜴人突击载具。",
             "elite_rewards": []
  },
         {
@@ -17188,7 +17188,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_echo_walker_icon",
-            "name": "Shakarn - 回声行者",
+            "name": "蜥蜴人 - 回声行者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -17256,7 +17256,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_malictor_icon",
-            "name": "Shakarn - 恶毒者",
+            "name": "蜥蜴人 - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -17323,7 +17323,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_initiate_icon",
-            "name": "Shakarn - 初灵",
+            "name": "蜥蜴人 - 初灵",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -17394,7 +17394,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "shakarn_purifier_icon",
-            "name": "Shakarn - 净化者",
+            "name": "蜥蜴人 - 净化者",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -17464,7 +17464,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_star_guide_icon",
-            "name": "Shakarn - 星辰向导",
+            "name": "蜥蜴人 - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -17531,7 +17531,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_light_bringer_icon",
-            "name": "Shakarn - 光明使者",
+            "name": "蜥蜴人 - 光明使者",
             "hp": 50,
             "armor": 3,
             "tier": 2,
@@ -17607,7 +17607,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_hacker_icon",
-            "name": "Shakarn - 黑客",
+            "name": "蜥蜴人 - 黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -17671,7 +17671,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "shakarn_colonizer_icon",
-            "name": "Shakarn - Colonizer",
+            "name": "蜥蜴人 - 殖民者",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -17735,7 +17735,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "shakarn_propagator_icon",
-            "name": "Shakarn - Propagator",
+            "name": "蜥蜴人 - 宣传者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -17769,7 +17769,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“They’ll rise unseen from the sea. Their technology controls the skies. You will be forced to hide. But how does one hide from sound? The Propagator’s weaponry will envelope the very air you breathe. Their pearlescent vessels will hover above their troops, mending their reptilian wounds with rippling waves of holography. When you’re enslaved, being probed for their meat-processing plants, you will weep and wail for ignoring me… but by then, I’ll be gone off to warn the next community that will laugh and deride me.” – GBI Agent Dan Cranney, “RV-\\<Reference Redacted\\>: Arkhanrock City Council Harassment Complaint”",
+            "description": "“他们将从海洋悄无声息地出现，他们的技术统治着天空。你只能东躲西藏。然而，人又如何躲得过声音呢？宣传者的武器会把你呼吸的空气封闭起来。他们光芒四射的飞船将在部队上空盘旋，用全息影像技术的波纹修复他们的伤口。当你遭到奴役，被丢进他们的肉食加工厂进行研究时，你将因忽视了我的警告而哭泣……但那时，我将已经离开，去往下一个嘲笑愚弄我的社区。”——GBI 特工丹·克兰尼，“RV-\\<参考编辑\\>：阿尔坎罗克市议会骚扰投诉”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -17797,7 +17797,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "imperial_apc_icon",
-            "name": "Imperial APC",
+            "name": "帝国 APC",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -17822,7 +17822,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "“It was no secret. Old Sarge always assigned soldiers he thought had no potential to the Imperial APC. I’m not saying Sarge deserved his pranking, but when Malarkin got the assignment, he wanted revenge. The rugged old relic holds its own, but it’s clumsy. Without a few support drones, the thing is not going to win the respect of other soldiers. Its gun isn’t bad, but its old tech. In a support role, the thing is quite capable. I suppose that’s why we still drive them.” – Lieutenant Lenny Sasse, “RV-334M: Court-martial of Ensign Arnie Malarkin",
+            "description": "“这不是秘密。老萨尔基总是会将那些自己认为没有潜力的士兵分配至帝国自动相位控制战车。我并不是说萨尔基是在自食其果，但是当马拉尔金被分配到这个任务时，他想报复萨尔基。这粗糙的老遗产虽然结实，但是笨重不已。如果没有无人机的支援，它根本无法赢得其他士兵的尊重。搭载的枪械虽然性能尚可，但都是老旧技术。要说做些辅助工作，这东西还算不错，我想这也是我们仍然在使用它的原因。”- 中尉莱尼·萨希，“RV-334M：海军少尉阿尔尼·马拉尔金的军事法庭审判”",
             "elite_rewards": []
  },
         {
@@ -17843,7 +17843,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_repair_drone_icon",
-            "name": "先锋 -Repair Drone",
+            "name": "先锋 - 修理无人机",
             "hp": 20,
             "armor": 0,
             "tier": 1,
@@ -17870,7 +17870,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“After a hard day of suppressing alien flora and fauna, nothing brightens a commando’s spirit more than the soothing sparkle of the highest quality Repair Drones. Don’t let your men bleed out, or their gear rust. Deploy the latest in high-tech disposable medical drones. Treat yourself and your equipment to the soothing nanite healing that comes from the Medivac Repair Drone 4000, now with detailing options in Blue, Cyan, Cerulean or Azul healing glow. Nothing tells the troops you approve of their atrocities more effectively than total healing.”— Unknown, “RV-15A: Adworxs Paragon Portables Advertising Agency” ",
+            "description": "“在与外星动植物进行了一整天的战斗之后，没有什么比从质量最好的修理无人机中投射出的光芒更能点亮一位指挥官灵魂的东西了。不要让你的手下流血或是让他们的装备生锈。试试最尖端的一次性医疗无人机吧。梅迪瓦克修理无人机 4000 型放射出的纳米粒子不仅能够复原你的装备，还能治疗你的身体。现有更有蓝色、青色、深蓝色或蔚蓝色四种治愈光芒可供选择。没有什么比提供完备的治疗服务更能表现你对手下成绩的认可了。”- 未知，“RV-15A：阿多沃克斯完人便携装置广告机构”",
             "elite_rewards": []
  },
         {
@@ -17891,7 +17891,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_assault_drone_icon",
-            "name": "先锋 -Assault Drone",
+            "name": "先锋 - 进攻无人机",
             "hp": 30,
             "armor": 0,
             "tier": 1,
@@ -17918,7 +17918,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“Is your Drone Carrier loaded or empty? Don’t be caught without the latest in high-tech disposable drone weaponry. Treat your enemies to the Sportican Assault Drone 4000 model stinger, now with detailing options in Red, Scarlet, Vermillion or Crimson Laser. Nothing charges your succubot’s batteries better than a well-equipped soldier with a full accoutrement of deadly drones. Lay down suppressive fire, quell rebellions with lethal force, and blast your way to victory!”— Unknown, “RV-14A: Adworxs Paragon Portables Advertising Agency” ",
+            "description": "“你的无人机航母是否已经载满了无人机？如果你没有这个最尖端的一次性无人机武器，可千万不要埋怨被敌人抓住了。让你的敌人尝尝斯波帝卡进攻无人机 4000 型毒刺的威力吧，现在更有红色、猩红色、朱砂色和深红色四种颜色激光可供选择。没有什么比一名装备精良且配备了致命无人机的士兵更能让你的机械姬电池充满能量的东西了。发射压倒性的火力，用致命的部队镇压反抗，一路轰向胜利！”- 未知,“RV-14A：阿多沃克斯完人便携装置广告机构”",
             "elite_rewards": []
  },
         {
@@ -17939,7 +17939,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_skirmish_drone_icon",
-            "name": "先锋 -Skirmish Drone",
+            "name": "先锋 - 冲突无人机",
             "hp": 30,
             "armor": 2,
             "tier": 1,
@@ -17966,7 +17966,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“Tired of taking all the punches? Why not let the deep-strike specialization Rambot Drones take a crack at your enemy? Sit back and sip a mind-bendingly smooth Nectar Mai Tai while the latest in kinetic ram jack-hammer technology drills holes into your enemy’s lines… or better yet, through the enemy’s torso! Sold in percussive waves of the highest quality Zybranium-steel driller-drones with detailing options in your choice of hues, including: Goldenrod, Marigold or Sunflower. Watch your enemies turn yellow and run.”— Unknown, “RV-16A: Adworxs Paragon Portables Advertising Agency”",
+            "description": "“厌倦了正面应敌？何不尝试一下用专精于深度打击的拉姆博特无人机给你的敌人搞点破坏？坐下来，喝一口宁神静心的花蜜鸡尾酒，与此同时装备了最新款动力冲压气锤技术的无人机则在你敌人阵线中开出了一道口子…或者，直接穿透了敌人的躯干！快来购买能够产生大量冲击，使用兹布兰钢制作的最尖端钻头无人机吧，现有多种颜色可供选择，包括：暗金菊色、金盏花色和向日葵色。看着你的敌人因恐惧四散而逃吧。”- 未知，“RV-16A：阿多沃克斯完人便携装置广告机构”",
             "elite_rewards": []
  },
         {
@@ -17993,7 +17993,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_scryer_icon",
-            "name": "Oathbound - Scryer",
+            "name": "誓约者 - 占察机",
             "hp": 30,
             "armor": 0,
             "tier": 1,
@@ -18033,7 +18033,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "“Normally, I distrust powerful organizations. Absolute power corrupts. But what if the Oathbound discovered the perfect technology for a perfect society? I was wary of the Scryers hovering around our homes, but then it warned me when I was using a meat-grinder. It flashed a vision of me turning my hand into sausage, because I assembled the safety guard improperly. It’s stuff like that. They warn me about danger before it happens. What oppressive society cares so much for its lowliest citizens enough to protect them from their own stupidity? The Oathbound are alright by me.” – Beaver McSnubbins, “RV-93824C: Testimonials”",
+            "description": "“通常情况下，我不会信任强大的组织，因为绝对的权力会导致腐败。但如果誓约者发现了完美社会的完美技术呢？我十分警惕自己家附近徘徊的占察机，但当我使用绞肉机并且没有正确安装保险装置时，它就会提醒我，向我播放一段把自己的手绞成香肠的画面，还有很多类似的事情。它们会在危险发生前警告我。试问，从古至今，有哪个压迫社会会去关心最下层的公民，甚至还会保护他们不受自己愚蠢行为的伤害？要我说，誓约者没问题。”——比弗·麦克·斯努宾斯，“RV-93824C：赞辞”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -18057,7 +18057,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_paladin_aspirant_icon",
-            "name": "Oathbound - Paladin Aspirant",
+            "name": "誓约者 - 帕拉丁候补者",
             "hp": 40,
             "armor": 2,
             "tier": 1,
@@ -18094,7 +18094,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Lots of us Vanguard turned to the Oathbound. Pay is the same, but citizens respect you. I don’t police people, I serve them. We neutralize local hostiles, but even the lethal tech stuns first. Advancement is trust-based, rather than a race for who can hoard enough power to take control. Those caught abusing power either leave or are demoted to Aspirant to relearn a Paladin’s core mission: Service before Self. I am myself protecting the innocent instead of kissing up to high-ranking whack-jobs that want me to prove my loyalty by abusing vulnerable populations.” – Walter Jones, “RV-246014M: Recruitment”",
+            "description": "“我们这里的许多先锋都加入了誓约者。虽然酬劳一样，但公民会尊重你。我不是监督人民，而是为人民服务。我们消灭当地敌对势力，但即使是致命的科技也会先令人震惊。进步是以信任为基础的，而不是一场比拼谁能汇聚足够的力量来掌控一切的竞赛。那些被发现滥用权力之人，要么将被驱逐，要么就会被降级为候补者，前去重新学习帕拉丁的核心任务：先人后己。我要保护无辜之人，而不是去讨好那些想让我通过虐待弱势群体来证明自己忠诚的高层混蛋。”——沃尔特·琼斯，“RV-246014M：招募”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -18121,7 +18121,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_watcher_icon",
-            "name": "Oathbound - Watcher",
+            "name": "誓约者 - 守望者",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -18155,7 +18155,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "90<energy></energy>  300<production></production>  10<tricorium></tricorium>",
-            "description": "“Imagine if we could harness these Seers' ability to predict fate. Clearly, it’s tech, not magic—though they want you to think that. This is all that stands between us and galactic dominance. Yet how can you steal from one that sees what you’re going to do before you do it? Even their low-level Watchers see our weaknesses—always learning—constantly recording our attempts at espionage. Then they hit us with their ‘Curse of Adversity’, and then they observe as our plots fall apart on their own.” – Lady Kay of Syndicate House Tee, “RV-347223: Fate and Destiny”",
+            "description": "“想象一下，如果我们能利用预言者的能力来窥探命运，那该是怎样的景象？显然，这是技术而不是魔法——尽管他们希望你这么想。这就是挡在我们和称霸银河之间的障碍。可是，如何才能从在你行动之前就已经知道你要做什么的人手中偷东西呢？即便是低级的守望者也能看到我们的弱点，并且总是在学习和记录我们想要尝试进行的间谍活动。然后他们就会用他们的‘厄运诅咒’袭击我们，接着亲眼看着我们的阴谋土崩瓦解。”——辛迪加提伊家族，凯伊夫人，“RV-347223：命运和定数”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -18189,7 +18189,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_paladin_protector_icon",
-            "name": "Oathbound - Paladin Protector",
+            "name": "誓约者 - 帕拉丁保卫者",
             "hp": 45,
             "armor": 5,
             "tier": 2,
@@ -18229,7 +18229,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“We endured Spacer savagery for decades. En masse, they’d descend from their gaming arena for a ritual they called ‘the Munchies.’ Their hedonistic barbeque consumed our family members who couldn’t flee in what they demanded as gruesome tributes. We had no one to protect us until the Oathbound Protectors arrived. Brave souls fought with lightning lances, bearing shields that sheltered us all. The Spacers brought out their terrible constructs, but it only emboldened our defenders to fight harder. We are no longer bothered by Spacers. The Oathbound brought us peace.” – Quarla Arx, “RV-9444490T: Deliverance”",
+            "description": "“几十年来，我们一直忍受着野蛮的太空掠夺者。他们成群结队地从他们的游戏世界中走出来，并举办他们称之为‘吃零嘴’的仪式。他们大肆举行烧烤盛宴，要求我们把家人作为贡品。凡是没能逃脱之人都丢掉了性命。在誓约保卫者到达之前，没有任何人保护我们。这些勇敢的灵魂手持闪电长枪英勇奋战，背负着能够保护我们所有人的盾牌。太空掠夺者拿出了他们可怕的装置，但这却使我们的保卫者变得更加勇猛。我们不再被太空掠夺者困扰，因为誓约者带给了我们和平。”——夸尔拉·阿克斯，“RV-9444490T：拯救”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -18263,7 +18263,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_paladin_warden_icon",
-            "name": "Oathbound - Paladin Warden",
+            "name": "誓约者 - 帕拉丁典狱官",
             "hp": 40,
             "armor": 3,
             "tier": 2,
@@ -18300,7 +18300,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Like a congregation of true believers, we are strongest together, united in our common cause. I admire the strength in us all. Today, I serve as a Warden. When I draw back my bow, I deliver lightning darts to my enemies that hide in the sky or snipe us from afar. When the enemy surrounds us, I erect my banner and thwart their assault no matter how they try to outflank us. Should I falter, I may again become an Aspirant. Be it as the Seers foresee. No matter how lowly, I am forever Oathbound.”—Warden Ullen Strig, “RV-030422V: Solemn Devotions”",
+            "description": "“当真正的信徒聚集在一起时，才具有最强大的力量。我们团结一致，为共同的事业而努力。我钦佩我们所有人的力量。今日，我将以典狱官的身份为人民效命。当我张弓射击时，闪电飞镖将刺入隐藏在天空中的敌人，或是消灭躲在远处狙击我们的对手。当敌人包围我们之际，我将竖起旗帜。无论敌人如何围剿，我都将阻拦他们的进攻。假如我有所退缩，我将有可能再次成为候选者。就像预言者所预见的那样，无论多么卑微，我永远都是誓约者。”——典狱官乌勒恩·史崔格，“RV-030422V：庄严祈祷”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -18327,7 +18327,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_augur_icon",
-            "name": "Oathbound - Augur",
+            "name": "誓约者 - 占卜师",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -18361,7 +18361,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“There’s finality to the universe. Fate. No one is so important that they cannot fall. Once you mattered, then you return to matter. We, the Augurs, are scarecrows posted on Fate’s crossroad. Feathery finality flurries like a flock of entropic birds, swirling with possibility. We reach out a hand. We don’t change Fate. We provide the raven of doom a place to perch and then we wait. Waiting. That is when we are most vulnerable. The Augur holds until Doom perches. One may soar, another will fall.” – Cortex Chambo,  “Training Seers and Soothsayers”",
+            "description": "“宇宙的终结就是命运。没有任何人重要到能够永存不灭。如果你很重要，那么你将回归于物质。我们占卜师就是站立在命运十字路口的稻草人，羽毛般的终结就像混沌的鸟群一样飞翔，盘旋着无数的可能。我们伸出手来。却无法改变命运。我们只能为末日乌鸦提供栖身之所，然后等待。等待。这是我们最脆弱的时候。占卜师会一直坚持到末日来临。一个会翱翔，而另一个会跌落。”——寇泰克斯·昌博，“训练预言者和占卜者”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -18395,7 +18395,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_paladin_champion_icon",
-            "name": "Oathbound - Paladin Champion",
+            "name": "誓约者 - 帕拉丁捍卫者",
             "hp": 60,
             "armor": 3,
             "tier": 3,
@@ -18432,7 +18432,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "125<energy></energy>  440<production></production>  25<tricorium></tricorium>",
-            "description": "“As our defenses broke and the bedraggled Oathbound faithful teetered on the edge of their resolve. A champion appeared wreathed in lightning, drawing arcs that crackled over us, pulling every hair to attention like a magnet. We cried out as it plummeted from the sky delivering decisive judgement with every swing of its Volt Greatsword. Every person that day who stood to fight for our noble cause vowed one day to be worthy to serve the people as a Champion and deliver the righteous will of justice.” – Danika Blaze, Paladin Champion Pilot, “RV-475888M: Why We Serve.”",
+            "description": "“当我们的防线被击破时，全身泥污的誓约者在决心的边缘踌躇不定。一位捍卫者突然从闪电中现身，在我们身上划出噼啪作响的电弧，像磁铁一样吸引着每一根头发。我们大声叫喊，它从天空中陡然而下，电压巨剑的每一次挥动都像是做出了一次决定性的审判。那一日，凡是站在那里为我们崇高事业而战的所有人都发誓，总有一天，他们都将成为捍卫者，为人民服务，并为公正传递正义的意志。”——达妮卡·布拉兹，帕拉丁捍卫者驾驶员，“RV-475888M：我们为何效命。”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -18466,7 +18466,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_diviner_icon",
-            "name": "Oathbound - Diviner",
+            "name": "誓约者 - 推算者",
             "hp": 55,
             "armor": 0,
             "tier": 3,
@@ -18503,7 +18503,7 @@ var jsonUnits = {
   ],
             "shield": 4,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“Some consider me a diviner. That’s a false attribution. I’m just always running away. Diviners read ripples in the waves of chaos. They see invisible currents of inevitability. They perceive gaps, eddies and blurs in the flow of causality. What will, won’t or can’t be. I once met a true Diviner, but he could not perceive me at all. His friends had to assure him that I was not a prank. I figure I’ve always known I was good at avoiding fate. Maybe that’s my fate then: to have no fate.” – Mah Reg’Nib, “RV-00004300T: Oracles and Orioles”",
+            "description": "“有些人以为我也是推算者，真是错误的结论，我只是一直在逃避而已。推算者可以在混乱的波涛中读懂涟漪，他们可以看见不可避免的无形浪潮。他们在因与果的流动中感知缝隙、漩涡和污渍。什么会发生，什么不会发生，什么不可能发生。我曾经遇到过一名真正的推算者，但他根本就无法感知我，导致他的朋友不得不向他保证，他们并没有与我串通好想要捉弄他。我想，我一直都很擅长逃避命运。也许那就是我的命运：没有命运。”——玛·瑞格尼布，“RV-00004300T：神谕和金莺”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -18540,7 +18540,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_paladin_exemplar_icon",
-            "name": "Oathbound - Paladin Exemplar",
+            "name": "誓约者 - 帕拉丁楷模",
             "hp": 75,
             "armor": 5,
             "tier": 4,
@@ -18577,7 +18577,7 @@ var jsonUnits = {
   ],
             "shield": 5,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“Like a war god from legend, the mech rose to protect its subjects. The enemy encircled it, but with its shields extended the shots rang like rain upon a well-built rooftop. We thought perhaps that was it, until it shifted and struck an enemy artillery unit with its massive electrified glaive weapon. In a flash the towering titan shattered the enemy’s defenses, sending them spiraling in retreat. Clearly, the Oathbound Exemplar proves these newcomers will defend their ideals with more than just pleasing words.” – General Otis Falk, Horde Captain. “RV-422241M: Oathbound Force Assessments”",
+            "description": "“机甲如同传说中的战神一样站出来保护自己的子民。敌人包围了它，但随着护盾的延伸，敌人的火力就像雨点落在了某个建造精良的屋顶上一样。我们以为也就是这样了，直到它发生变化，并用巨大的电能阔刃武器向敌人的炮兵单位发起了攻击。刹那间，那个高大的泰坦粉碎了敌人的防御，迫使他们四散而逃。显然，这位誓约者楷模做出了证明，这些新来者将捍卫他们的理想，而不仅会使用取悦的语言。”——奥提斯·福尔克将军，部落首领。“RV-422241M：誓约者军力评估”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -18617,7 +18617,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "oathbound_paladin_exemplar_icon",
-            "name": "Oathbound - Paladin Exemplar",
+            "name": "誓约者 - 帕拉丁楷模",
             "hp": 75,
             "armor": 5,
             "tier": 4,
@@ -18654,7 +18654,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“Like a war god from legend, the mech rose to protect its subjects. The enemy encircled it, but with its shields extended the shots rang like rain upon a well-built rooftop. We thought perhaps that was it, until it shifted and struck an enemy artillery unit with its massive electrified glaive weapon. In a flash the towering titan shattered the enemy’s defenses, sending them spiraling in retreat. Clearly, the Oathbound Exemplar proves these newcomers will defend their ideals with more than just pleasing words.” – General Otis Falk, Horde Captain. “RV-422241M: Oathbound Force Assessments”",
+            "description":"“机甲如同传说中的战神一样站出来保护自己的子民。敌人包围了它，但随着护盾的延伸，敌人的火力就像雨点落在了某个建造精良的屋顶上一样。我们以为也就是这样了，直到它发生变化，并用巨大的电能阔刃武器向敌人的炮兵单位发起了攻击。刹那间，那个高大的泰坦粉碎了敌人的防御，迫使他们四散而逃。显然，这位誓约者楷模做出了证明，这些新来者将捍卫他们的理想，而不仅会使用取悦的语言。”——奥提斯·福尔克将军，部落首领。“RV-422241M：誓约者军力评估”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -18691,7 +18691,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_paladin_marquis_icon",
-            "name": "Oathbound - Paladin Marquis",
+            "name": "誓约者 - 帕拉丁侯爵",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -18722,7 +18722,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "'The inner animal lives by instinct. All flesh forgets vows. The Oathbound cannot make others virtuous. The way to Oathbound Honor is never forced. Virtue is a personal choice. We inspire the soul to change, aspiring to greater visions. Justice is not punishment. When Paladins mount their Marquis, fly their banners, and sound honor’s hymns, we all remember and regain our power. Ride on paladins to every low valley and upon every clime. Voyage until every ear hears the glorious news: we can free ourselves.” – Tedora Publia RV-453009E: The Paladin Poet'",
+            "description": "“内心是动物的生物依靠本能而生存，而所有的活物都会忘记誓言。誓约者不能使别人变得高尚。通往誓约者荣誉的道路绝不会强求，美德是个人的选择。我们启迪灵魂做出改变，激励他人追求更伟大的愿景。正义不是惩罚。当帕拉丁登上他们的侯爵，挥舞他们的旗帜并奏响荣誉的赞美诗时，我们都会记起并重新获得力量。驾驶帕拉丁去游历每一条低谷，前往每一个地方。不断航行，直到所有人都能听见辉煌的消息：我们可以解放自己。”——特多拉·普布利亚，“RV-453009E：帕拉丁诗人”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -18756,7 +18756,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_paladin_warlord_icon",
-            "name": "Oathbound - Paladin Warlord",
+            "name": "誓约者 - 帕拉丁军阀",
             "hp": 45,
             "armor": 4,
             "tier": 2,
@@ -18790,7 +18790,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "",
-            "description": "'I’ve never been one for mechanized armored suits, even if they make you feel large and in charge. Just know that the Paladin Warlord’s Volt Surge is not a toy, but delivers arc energy to clusters of enemies. Also, those twin axes are not designed for living out lumberjack fantasies. The charged axes make trees explode, completely destroying the timber’s value. Not that I admit I ever tried that—Oathbound are very serious about whom they entrust with their equipment.” – Mah Reg’Nib, “RV-9110066T: Oracles and Orioles'",
+            "description": "“我从来都不喜欢机械装甲，即使它们能让你觉得自己很高大并且无所不能。要知道，帕拉丁军阀的电压波涛可不是闹着玩的，它能将电弧能量投射到成群的敌人身上。而且，这些双刃斧并不是为了伐木工的幻想而设计的。充能的斧头会使树木爆炸，完全摧毁木材的价值。我并不是说我自己试过那样做，只是想说誓约者对使用他们装备的人非常严格。”——玛·瑞格尼布，“RV-9110066T：神谕和金莺”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -18824,7 +18824,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "galleon_icon",
-            "name": "Galleon",
+            "name": "加利恩帆船",
             "hp": 50,
             "armor": 2,
             "tier": 2,
@@ -18849,7 +18849,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "50<energy></energy>  150<production></production>",
-            "description": "“The ship cut the water like a swan, its bow and keel extended high and graceful. As it passed we could hear it hum and smell the distinct wafting of ozone as it pulled pulsating energy from the air. The marauding ships scattered as arcs of blue lightning snapped from the galleon’s Volt Bow. The ship was like a storm itself, and none of the vessels dared weather it. We salute these newcomers—these Oathbound. They do not allow injustice to persist—not even on the lonely seas.” – Captain Marshal Brightwater, “RV-577753C: Nautical Wisdom”",
+            "description": "“帆船如天鹅般划破水面，船头和龙骨展现出优雅高傲的姿态。当它经过时，我们可以听到嗡嗡的声音，闻到它从空气中吸收脉冲能量时吹出的独特臭氧气味。当蓝色的闪电从帆船的电压船首劈出电弧时，劫掠船纷纷四散而去。这艘船自身就像是一场风暴，没有任何船只胆敢挑战它。我们向这些新来者，向这些誓约者致敬。他们不允许不公正的现象存在，即使在孤独的大海上也不允许。”——马歇尔·明水船长，“RV-577753C：航海智慧”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -18877,7 +18877,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "wardens_banner_icon",
-            "name": "Warden's Banner",
+            "name": "典狱官旗帜",
             "hp": 40,
             "armor": 0,
             "tier": 1,
@@ -18898,7 +18898,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "'Assess Oathbound power anomaly. \nObservation: a single Oathbound Banner rallies their weak to strength. \nQ1: Does power reside in the cloth or the words emblazoned upon it? \nA1: Unknown. \nQ2: How does merely publicly displaying their standards transmit power? \nA2: Unknown. \nQ3: From whence does this prowess originate (or) counter inquiry: was it within them all along?\nA3: Wasteful. Inefficient. Why not always use it? \nRisk Assessment: what if this power was replaced with inferior prosthetics during the Assembly subject creation process?\nMitigation: unknown.” – Assembly Threat Assessor, “RV-332876X: Inferiority Complex'",
+            "description": "“评估誓约者力量异常。\n观察结果：一面誓约者旗帜可以使他们的力量由弱变强。\n问题 1：布料或旗帜上的文字是否存在力量？\n回答 1：未知。\n问题 2：仅仅是展示他们的旗子而已，为何能传递力量？\n回答 2：未知。\n问题 3：这种力量从何而来（或）反问：这种力量一直就在他们体内吗？\n回答 3：浪费。低效。为什么不一直使用这种力量呢？\n风险评估：如果在半机械人的创造过程中，将这种力量替换为劣质的假肢会怎样？\n风险缓解：未知。”——半机械人威胁评估员，“RV-332876X：自卑情结”",
             "elite_rewards": []
  },
         {
@@ -18922,7 +18922,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "banner_of_justice_icon",
-            "name": "Banner of Justice",
+            "name": "正义旗帜",
             "hp": 40,
             "armor": 0,
             "tier": 1,
@@ -18943,7 +18943,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "'Assess Oathbound power anomaly. \nObservation: a single Oathbound Banner rallies their weak to strength. \nQ1: Does power reside in the cloth or the words emblazoned upon it? \nA1: Unknown. \nQ2: How does merely publicly displaying their standards transmit power? \nA2: Unknown. \nQ3: From whence does this prowess originate (or) counter inquiry: was it within them all along?\nA3: Wasteful. Inefficient. Why not always use it? \nRisk Assessment: what if this power was replaced with inferior prosthetics during the Assembly subject creation process?\nMitigation: unknown.” – Assembly Threat Assessor, “RV-332876X: Inferiority Complex'",
+            "description": "“评估誓约者力量异常。\n观察结果：一面誓约者旗帜可以使他们的力量由弱变强。\n问题 1：布料或旗帜上的文字是否存在力量？\n回答 1：未知。\n问题 2：仅仅是展示他们的旗子而已，为何能传递力量？\n回答 2：未知。\n问题 3：这种力量从何而来（或）反问：这种力量一直就在他们体内吗？\n回答 3：浪费。低效。为什么不一直使用这种力量呢？\n风险评估：如果在半机械人的创造过程中，将这种力量替换为劣质的假肢会怎样？\n风险缓解：未知。”——半机械人威胁评估员，“RV-332876X：自卑情结”",
             "elite_rewards": []
  },
         {
@@ -18967,7 +18967,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "banner_of_healing_icon",
-            "name": "Banner of Healing",
+            "name": "治愈旗帜",
             "hp": 40,
             "armor": 0,
             "tier": 1,
@@ -18988,7 +18988,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "'Assess Oathbound power anomaly. \nObservation: a single Oathbound Banner rallies their weak to strength. \nQ1: Does power reside in the cloth or the words emblazoned upon it? \nA1: Unknown. \nQ2: How does merely publicly displaying their standards transmit power? \nA2: Unknown. \nQ3: From whence does this prowess originate (or) counter inquiry: was it within them all along?\nA3: Wasteful. Inefficient. Why not always use it? \nRisk Assessment: what if this power was replaced with inferior prosthetics during the Assembly subject creation process?\nMitigation: unknown.” – Assembly Threat Assessor, “RV-332876X: Inferiority Complex'",
+            "description": "“评估誓约者力量异常。\n观察结果：一面誓约者旗帜可以使他们的力量由弱变强。\n问题 1：布料或旗帜上的文字是否存在力量？\n回答 1：未知。\n问题 2：仅仅是展示他们的旗子而已，为何能传递力量？\n回答 2：未知。\n问题 3：这种力量从何而来（或）反问：这种力量一直就在他们体内吗？\n回答 3：浪费。低效。为什么不一直使用这种力量呢？\n风险评估：如果在半机械人的创造过程中，将这种力量替换为劣质的假肢会怎样？\n风险缓解：未知。”——半机械人威胁评估员，“RV-332876X：自卑情结”",
             "elite_rewards": []
  },
         {
@@ -19012,7 +19012,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "burning_banner_icon",
-            "name": "Burning Banner",
+            "name": "燃烧旗帜",
             "hp": 40,
             "armor": 0,
             "tier": 1,
@@ -19033,7 +19033,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "'Assess Oathbound power anomaly. \nObservation: a single Oathbound Banner rallies their weak to strength. \nQ1: Does power reside in the cloth or the words emblazoned upon it? \nA1: Unknown. \nQ2: How does merely publicly displaying their standards transmit power? \nA2: Unknown. \nQ3: From whence does this prowess originate (or) counter inquiry: was it within them all along?\nA3: Wasteful. Inefficient. Why not always use it? \nRisk Assessment: what if this power was replaced with inferior prosthetics during the Assembly subject creation process?\nMitigation: unknown.” – Assembly Threat Assessor, “RV-332876X: Inferiority Complex'",
+            "description": "“评估誓约者力量异常。\n观察结果：一面誓约者旗帜可以使他们的力量由弱变强。\n问题 1：布料或旗帜上的文字是否存在力量？\n回答 1：未知。\n问题 2：仅仅是展示他们的旗子而已，为何能传递力量？\n回答 2：未知。\n问题 3：这种力量从何而来（或）反问：这种力量一直就在他们体内吗？\n回答 3：浪费。低效。为什么不一直使用这种力量呢？\n风险评估：如果在半机械人的创造过程中，将这种力量替换为劣质的假肢会怎样？\n风险缓解：未知。”——半机械人威胁评估员，“RV-332876X：自卑情结”",
             "elite_rewards": []
  },
         {
@@ -19057,7 +19057,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_banner_of_protection_icon",
-            "name": "Oathbound - Banner of Protection",
+            "name": "誓约者 - 保护旗帜",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -19078,7 +19078,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "'Assess Oathbound power anomaly. \nObservation: a single Oathbound Banner rallies their weak to strength. \nQ1: Does power reside in the cloth or the words emblazoned upon it? \nA1: Unknown. \nQ2: How does merely publicly displaying their standards transmit power? \nA2: Unknown. \nQ3: From whence does this prowess originate (or) counter inquiry: was it within them all along?\nA3: Wasteful. Inefficient. Why not always use it? \nRisk Assessment: what if this power was replaced with inferior prosthetics during the Assembly subject creation process?\nMitigation: unknown.” – Assembly Threat Assessor, “RV-332876X: Inferiority Complex'",
+            "description": "“评估誓约者力量异常。\n观察结果：一面誓约者旗帜可以使他们的力量由弱变强。\n问题 1：布料或旗帜上的文字是否存在力量？\n回答 1：未知。\n问题 2：仅仅是展示他们的旗子而已，为何能传递力量？\n回答 2：未知。\n问题 3：这种力量从何而来（或）反问：这种力量一直就在他们体内吗？\n回答 3：浪费。低效。为什么不一直使用这种力量呢？\n风险评估：如果在半机械人的创造过程中，将这种力量替换为劣质的假肢会怎样？\n风险缓解：未知。”——半机械人威胁评估员，“RV-332876X：自卑情结”",
             "elite_rewards": []
  },
         {
@@ -19098,7 +19098,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "oathbound_colonizer_icon",
-            "name": "Oathbound - Colonizer",
+            "name": "誓约者 - 殖民者",
             "hp": 60,
             "armor": 0,
             "tier": 1,
@@ -19159,7 +19159,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_paladin_light_bringer_icon",
-            "name": "Oathbound - Paladin Light Bringer",
+            "name": "誓约者 - 帕拉丁光明使者",
             "hp": 40,
             "armor": 3,
             "tier": 2,
@@ -19232,7 +19232,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_star_guide_icon",
-            "name": "Oathbound - 星辰向导",
+            "name": "誓约者 - 星辰向导",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -19312,7 +19312,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_purifier_icon",
-            "name": "Oathbound - 净化者",
+            "name": "誓约者 - 净化者",
             "hp": 45,
             "armor": 4,
             "tier": 2,
@@ -19373,7 +19373,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_paladin_echo_walker_icon",
-            "name": "Oathbound - Paladin Echo Walker",
+            "name": "誓约者 - 帕拉丁回声行者",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -19441,7 +19441,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_malictor_icon",
-            "name": "Oathbound - 恶毒者",
+            "name": "誓约者 - 恶毒者",
             "hp": 60,
             "armor": 0,
             "tier": 3,
@@ -19508,7 +19508,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_initiate_icon",
-            "name": "Oathbound - 初灵",
+            "name": "誓约者 - 初灵",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -19578,7 +19578,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "oathbound_hacker_icon",
-            "name": "Oathbound - 黑客",
+            "name": "誓约者 - 黑客",
             "hp": 40,
             "armor": 1,
             "tier": 2,
@@ -19642,7 +19642,7 @@ var jsonUnits = {
             "abilities": [],
             "mp": 32,
             "icon": "sonic_emitter_drone_icon",
-            "name": "Sonic Emitter Drone",
+            "name": "声波发射无人机",
             "hp": 50,
             "armor": 0,
             "tier": 1,
@@ -19664,7 +19664,7 @@ var jsonUnits = {
   ],
             "shield": 5,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "Damages all units within 2 hexes for 10 <damagephysical></damagephysical>",
+            "description": "对 2 格单元格范围内的所有单位造成 10 <damagephysical></damagephysical>",
             "elite_rewards": []
  },
         {
@@ -19691,7 +19691,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "mycelian_sprayer_icon",
-            "name": "Mycelian - Sprayer",
+            "name": "菌丝体 - 喷雾机",
             "hp": 30,
             "armor": 1,
             "tier": 1,
@@ -19722,7 +19722,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "30<energy></energy>  130<production></production>",
-            "description": "'Dear Helix Drone Farming, I don’t usually complain, but I feel you should be informed that your products appear to be defective. This regards the Hover Sprayer-66 Drone. I understand drones go missing, but these appear to be swarming. They’re hunting people now, spraying my workers with blinding toxic mist rather than my crops. They’re very popular with certain mushroom strains. I’m beginning to think they’ve got a mind of their own. Please refund my money, and maybe send some troops to hunt down your defective units before they kill us all? Thanks.” –Derwood Mycon, Farmer “RV-488385C: Complaint Department Memos'",
+            "description": "“亲爱的螺旋无人机农业公司，我不是那种经常投诉的人，但这一次我必须要说，你们的产品似乎存在缺陷。没错，就是盘旋喷雾器-66 型无人机。我知道无人机可能会失踪，但它们似乎成群结队在行动。现在，它们甚至开始捕猎人类，把本该喷向庄稼的农药喷在我工人的脸上。它们在某些蘑菇品种中很受欢迎，我开始觉得它们有自己的想法了。请把钱退给我，然后能不能派一些部队去干掉你们的缺陷产品，免得它们把我们都给杀光了？谢谢。”——德尔伍德·麦康，农夫，“RV-488385C：投诉部门备忘录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -19756,7 +19756,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "mycelian_planter_icon",
-            "name": "Mycelian - Planter",
+            "name": "菌丝体 - 种植机",
             "hp": 45,
             "armor": 2,
             "tier": 2,
@@ -19790,7 +19790,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "'Upon arrival on Parma Rigella IV, our landing crew located a still functioning biofarm from the Star Union Agricultural ministry. The Planter bots combed fields flowing with rich crops of edible herbs and fungus. We entered the personnel center to begin negotiations with the farmers, only to discover a horrible sight. The crew of the station was dead, covered in fungal growths. That’s when we realized the mushroom-encrusted Planter bots were not being directed, but had become sentient, had followed us, and sought to use us as fertilizer.” – Mah Reg’Nib, “RV-:09432567T: When Your Food Wants to Kill You.'",
+            "description": "“我们的登陆人员在抵达帕尔玛里基拉 IV 号星球时，发现了一个仍在运转的星际联盟农业部生态农场。种植机器人正在那里打整田野，肥沃的土地上满是可食用的草药和真菌作物。我们进入人事中心与农民谈判，却发现了可怕的一幕。站点内的工作人员已经全部死亡，身上长满了真菌。就在那时，我们意识到，那些身披蘑菇外壳的种植机器人并不是受到控制，而是自己变得有了知觉，它们在跟踪我们，并试图将我们做成肥料。”——玛·瑞格尼布，“RV-:09432567T：当你的食物想要杀了你时。”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -19827,7 +19827,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "mycelian_fertilizer_icon",
-            "name": "Mycelian - Fertilizer",
+            "name": "菌丝体 - 施肥机",
             "hp": 60,
             "armor": 4,
             "tier": 3,
@@ -19864,7 +19864,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "'My girlfriend calls it Karma. She got me into all that vegan stuff. Unfortunately, it’s a dog-eat-dog world. Or in this case, a people-eat-mushroom, then the mushrooms-eat-people world. Not sure why or how, but mushrooms got into the fertilizer dispenser-bots. Now they’re smart. They have control of the bots, roaming the land, seeking to turn us all into fertilizer so they can grow and spread their mushrooms like wildfire. They eat us, and when we can take one down, we eat them. I never should’ve given up on bacon.” – Diego Tortuga, “RV-554361E: Live Your Best Life'",
+            "description": "“我的女朋友把它称为因果报应。她让我吃了很多素食。不幸的是，这是一个‘人吃人’的世界，或者在这种情况下，应该称为‘人吃蘑菇’的世界，然后又变成了‘蘑菇吃人’的世界。蘑菇不知为何以某种方式进入了施肥机器人，它们很聪明，控制机器人到处游荡，试图把我们都变成肥料，从而让它们自己像野火燎原一样迅速生长和扩散。它们会吃掉我们。而当我们干掉它们时，我们也会吃掉它们。我当初就不应该戒掉吃培根的习惯。”——迭戈·托尔图加，“RV-554361E：享受最好的生活”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -19904,7 +19904,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "voidbringer_strix_icon",
-            "name": "Voidbringer - Strix",
+            "name": "虚空使者 - 厄运鸮",
             "hp": 35,
             "armor": 0,
             "tier": 2,
@@ -19950,7 +19950,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "50<energy></energy>  230<production></production>",
-            "description": "“Many Psynumbrae have long believed that the Void was a prison trapping a darker power in the infinite emptiness. The lost and foolish Psi-Fish were but a forensic foreshadow of the dread that comes. We feel it. A Voidbringer. Sweet oblivion. We crave this malice. Sinister psionic forces streak toward us, assaulting our nightmares. It starts small, in the corner of your eye. Then it appears, an orb of cruel indifference and we are its prey. Burst into our reality with the force of a bomb. Its tentacles lust for our sanity.  Intoxicating Strix.” –Shartok Kreeg, “RV-74593R: Blessed Delusions” ",
+            "description": "“许多赛努布拉信徒一直认为，虚空是一座囚禁着无限虚无中黑暗力量的监牢。迷失而愚蠢的灵能水母不过是即将到来的恐惧前兆。我们感受到了，黑暗的虚空，甜蜜的湮没。我们渴望这种恶意。阴险的灵能部队冲向我们，袭击我们的噩梦。起初它还很小，你都不会在意。随后它现身了，一个残酷冷漠的球体，我们都是它的猎物。以爆炸般的力量闯入我们的现实。它的触角渴望我们的理智。令人陶醉的厄运鸮。”——沙尔托克·克里格，“RV-74593R：神佑妄想”",
             "elite_rewards": []
  },
         {
@@ -19989,7 +19989,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "voidbringer_naga_icon",
-            "name": "Voidbringer - Naga",
+            "name": "虚空使者 - 娜迦",
             "hp": 35,
             "armor": 0,
             "tier": 2,
@@ -20035,7 +20035,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Don dark vestments, cult-brother. Tonight, we wake the serpent bound to the underworld because his tail churned the cosmic sea of sacred milk from which all intelligent life emerged. I feel its spiked fang in my mind. Careful. The lovers of light and vanity worship creator gods jealous of the Naga’s gift to humanity. Its venom enlightened our minds to act free of these vain gods. We must repay the Naga. Reach out. Let its tendrils drain you. The more they feed, the more the darkness spreads. They will grow. Change.” –Asuras Durvasas, Psynumbra Mindshrieker, “RV-75443R: Nihilistic Rebellions”",
+            "description": "“穿上黑色的法衣吧，信徒们。今晚，我们将唤醒束缚在地下世界的巨蛇，它的尾巴搅动着神圣银河的宇宙海洋，所有的智慧生命都从中诞生。我感觉到它的尖牙就在我的脑海里。小心。光明和虚荣的爱好者崇拜造物主众神，嫉妒娜迦赐予人类的礼物。它的毒液启发了我们的思想，使我们摆脱了这些虚无的神灵。我们必须报答娜迦。伸出双手，让它的卷须把你吸干。它们吃得越多，黑暗就蔓延得越远。它们将会成长，改变。”——阿苏拉斯·杜瓦萨斯，赛努布拉心灵尖叫者，“RV-75443R：虚无主义叛乱”",
             "elite_rewards": []
  },
         {
@@ -20074,7 +20074,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "voidbringer_undine_icon",
-            "name": "Voidbringer - Undine",
+            "name": "虚空使者 - 溫蒂妮",
             "hp": 45,
             "armor": 0,
             "tier": 3,
@@ -20123,7 +20123,7 @@ var jsonUnits = {
   ],
             "shield": 3,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "“There is beauty in the Voidbringer sea. Listen. It sings from deep beneath the waves of reality. Only her lithe form undulates across the emptiness the gods forgot. So seductive she renders the mind broken. Let lust cleanse your petty desires for life. Give yourself to the Undine. Between the shores of imagination and reason, she drinks your dreams, replacing them with restless nightmares. Surrender. Let her enthrall you. Let her consume you. Feel her transformations within you and it will carry you in her womb.” –Asuras Durvasas, Psynumbra Mindshredder, “RV-75444R: Nihilistic Rebellions” ",
+            "description": "“虚空使者之海中蕴藏着美丽。听啊，她在现实的波浪深处歌唱。只有她轻盈的形体在众神遗忘的虚无中起伏。如此诱人，令人心碎。让欲望净化你对生命的可怜向往，把你的生命交给溫蒂妮。她将在想象与理性的海岸之间畅饮你的美梦，然后用不安的噩梦取代。投降吧。让她奴役你。让她吞噬你。感受她在你内心深处的转化，最终把你带往她的子宫。”——阿苏拉斯·杜瓦萨斯，赛努布拉心灵尖叫者，“RV-75444R：虚无主义叛乱”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -20172,7 +20172,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "voidbringer_leviathan_icon",
-            "name": "Voidbringer - Leviathan",
+            "name": "虚空使者 - 利维坦",
             "hp": 50,
             "armor": 0,
             "tier": 4,
@@ -20224,7 +20224,7 @@ var jsonUnits = {
   ],
             "shield": 6,
             "cost": "170<energy></energy>  700<production></production>  40<tricorium></tricorium>",
-            "description": "“It slithers in tendrils of darkness. Minds break before the pressure of its passing. Without a question, it purposefully harvests life, consuming thought and draining the courage of even the most powerful champions. The Voidbringer Leviathan will not stop feeding on intelligent life until the minds of all living things cease sparking intelligent thought. Death is no relief. It reanimates the wretched fallen serving its sadistic will. What purpose could it serve than to prove the universe is nothing more than a nihilistic nightmare?” – Psynumbran Philosopher, Thranx Morden, “RV-9966699P: Shades in Lost Cities and Fallen Empires”",
+            "description": "“它在黑暗的卷须中滑行。思想将在它的压力面前灰飞烟灭。毫无疑问，它在有目的地收割生命，吞噬思想，吸食最强大勇士身上的勇气。虚空使者利维坦绝不会停止捕食智慧生命，直到所有生物的头脑都不再拥有思想。死亡不是解脱，它将唤醒可怜的堕落者为其嗜虐的意志效命。除了证明宇宙不过是一个虚无的噩梦之外，它还有什么用呢？”——赛努布拉哲学家，萨兰克斯·莫尔登，“RV-9966699P：失落城市与没落帝国的阴影”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -20255,7 +20255,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "voidbringer_pandora_portal_icon",
-            "name": "Voidbringer - Pandora Portal",
+            "name": "虚空使者 - 潘多拉传送门",
             "hp": 40,
             "armor": 2,
             "tier": 3,
@@ -20292,7 +20292,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "'This is it. The gateway for darkness. At long last this wretched world has unified with the vast, dark sea of our Voidbringer saviours. They will swarm the lovers of light. Remake them. Consume them. Marry them to darkness. Come. Pour forth from your magnificent nothingness, into this world. Let screaming orchestras of agony announce the freeing of the heretics.'–Asuras Durvasas, Psynumbra Mindshredder, “RV-75445R: Nihilistic Rebellions” ",
+            "description": "“就是这里了，走向黑暗的大门。这个可悲的世界终于与虚空使者救世主浩瀚黑暗的海洋合为了一体。它们将涌向光明的恋人，改造他们，吞噬他们，让他们拥入黑暗的怀抱。来吧！从壮丽的虚无中倾泻到这个世界，让痛苦的尖叫齐鸣来宣告异教徒的解放。”——阿苏拉斯·杜瓦萨斯，赛努布拉心灵尖叫者，“RV-75445R：虚无主义叛乱”",
             "elite_rewards": []
  },
         {
@@ -20325,7 +20325,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "spacer_truck_icon",
-            "name": "太空掠夺者 - Truck",
+            "name": "太空掠夺者 - 卡车",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -20353,7 +20353,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "50<energy></energy>  230<production></production>",
-            "description": "“The Spacers were first to emerge from the forced peace created by the Star Union. When food was no longer treated to pacify people’s instincts, Spacer forefathers embraced their basest nature. They care nothing for aesthetics or civilization. Their only desires are the pleasure devices wherein they live out their cruel fantasies in virtual worlds. Without such devices, ironically, they become even more reckless. They’ll deliberately crash their trucks into enemies, laughing all the way. They think they’re in a shooting, driving game with or without their VR gaming gear.”—Anthropologist, Dr. Sarah Harkness, “RV-6012H: A Past of Twisted Purposes”",
+            "description": "“太空掠夺者首次现身于星际联盟创建的力场空间中。那时食物已经无法安抚人类的本能，所以太空掠夺者的祖先们拥抱了最原始的本能，将美学与文明全部抛诸脑后。他们唯一想做的，就是沉浸在娱乐设备创造的虚拟世界中，满足自己的残暴幻想，从而获得愉悦。讽刺的是，就算离开了那些设备，他们的残忍也丝毫没有减少。他们会驾驶卡车，一路狂笑着冲向敌人。可能他们仍认为自己处在一个射击-驾驶游戏中吧。”- 人类学家萨拉·哈克尼斯博士，“RV-6012H：带有扭曲目标的过去”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -20387,7 +20387,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "dragonfly_ace_icon",
-            "name": "Dragonfly Ace",
+            "name": "王牌蜻蜓",
             "hp": 35,
             "armor": 4,
             "tier": 2,
@@ -20415,7 +20415,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“The Technoprophets predicted destruction would hail from the skies. I tried to warn the people but they laughed at me and cast me out of their colony. So the prophet unleashed the Imperial Dragonflies. They poured out a rain of destruction upon the very fools that laughed. From beneath its wings, a spray of angry hornets smote those that raised their weapons. Righteous swarms of fiery darts ripped through their houses, exploding with a concussive roar. Their false temples toppled. Imperial Dragonflies erased their blasphemy. The laughing ceased.”— Fanatic Chul’l Ho, “RV-3390R: Public Notice”",
+            "description": "“科技先知预言毁灭将会从天而降。我曾试图警告其他人，但他们却一边嘲笑我，一边将我赶出了他们的殖民地。因此先知释放了帝国蜻蜓，它们给那些嘲笑我的蠢货带去了毁灭。它们翅膀下方可以喷出愤怒的马蜂，给那些胆敢举起武器的人施以重击。正义的蜂群涌入居民的房屋，在呼啸声中爆炸。他们象征虚假的神庙在爆炸中轰然倒塌。帝国蜻蜓抹除了他们的亵渎行径，笑声停止了。”- 狂热者楚尔霍，“RV-3390R：公告”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_critical"
@@ -20439,7 +20439,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "kirko_ancestral_hidden_icon",
-            "name": "奇尔寇 -Ancestral Hidden",
+            "name": "奇尔寇 - 先祖影踪灵虫",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -20482,7 +20482,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“My worker bugs are defective! Hidden Kir’Ko are skulking about the plantation, their wings like cloaks. Bugbots aren’t intelligent, are they? Max says he saw one in a clearing, then it vanished in a cornfield. Max says they carry weapons. How can that be? All our rifles are accounted for. Max thinks they grow their own. Preposterous! What could they want? We fed the bugbots as prescribed. Yesterday, Max disappeared in a thick fog. Now the bugbots won’t work. I’m filing a grievance. I demand compensation!”— Colony Director Borwin Pomperflounce, “Star Alliance Frontier Anomalies, RV-004D: Terratech Biomechanical Corporate Liabilities”",
+            "description": "“我的工虫有问题！影踪灵虫躲藏在种植园的各处，它们的翅膀如同斗篷一样。虫子没有智力，不是吗？马克思说他曾在空地上看见过一只，但它很快就在麦田里消失了。马克思说它们都带着武器，这怎么可能？我们所有的步枪可都是记录在案的，但马克思认为它们的武器是它们自己长出来的。这可真是荒唐！它们想要什么？我们一直在按照规定喂食这些虫子。昨天，马克思在一片浓雾中消失了。今天，那些虫子也不工作了。我要写投诉信，我要求赔偿！”- 殖民地主管鲍尔文·珀姆佩弗洛恩斯，“星际联盟边界异常，RV-004D：泰拉科技生物机械企业责任”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -20516,7 +20516,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_groxum_icon",
-            "name": "半机械人 - Groxum",
+            "name": "半机械人 - 格罗瑟姆",
             "hp": 50,
             "armor": 2,
             "tier": 2,
@@ -20550,7 +20550,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "90<energy></energy>  270<production></production>",
-            "description": "“Parts are parts. Flesh is flesh.<br></br>Bone be bone and heads are heads!<br></br>Tissue are the issue, muscle, fat, nerves, ligaments.<br></br>Skins—no matter if it’s lost its pigments.<br></br>All the unguents, fluids, and ichor.<br></br>Pumps and gears blend them thicker.<br></br>Parts are parts. Flesh is flesh.<br></br>Bone is bone and heads are heads!<br></br>Let’s make life from the dead.”— Reaverson Rux, “RV-68791E: Song of the Assembly - Reverse Engineer”",
+            "description": "“零件是零件，血肉是血肉。<br></br>骨头是骨头，脑袋就是脑袋！<br></br>组织就是组织，肌肉、脂肪、神经还有韧带都是如此。<br></br>皮肤，是否已失去了色素并不重要。<br></br>所有的油膏、液体和脓水。<br></br>泵机和齿轮能够将它们融合得更厚。<br></br>零件是零件，血肉是血肉。<br></br>骨头是骨头，脑袋就是脑袋！<br></br>我们从死者身上创造生命。”- 里弗森·卢克斯，“RV-68791E：半机械人之歌 - 逆转工程师”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_morale"
@@ -20587,7 +20587,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "ethereal_penguin_icon",
-            "name": "Ethereal Penguin",
+            "name": "虚灵企鹅",
             "hp": 45,
             "armor": 3,
             "tier": 2,
@@ -20627,7 +20627,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“Most historians agree that the Star Union was guilty of many atrocities in the pursuit of greatness. Yet nothing is more egregious than what the Imperial factions did to the Penguins. They are a species prone to environmental adaptations, and the Star Union went too far in creating these genetically-modified flightless horrors that lurk amongst the icebergs. If the Star Union ever showed its unbridled hubris, went too far in playing god, and set itself on the path to destruction, it was in the creation of these waterfowl abominations.”<br></br>—Mah Reg’Nib, “RV-4004: Vacation Hotspots”",
+            "description": "“大多数历史学家都认同，星际联盟在追寻繁荣富强的过程中犯下了许多罪行。但没有什么比帝国对企鹅族所做的更加恶劣了。它们本是适应环境变化而产生的物种，但星际联盟却对这些居住于冰山之间的海陆生物进行了基因改造。如果星际联盟没有狂妄自大到想要扮演其他物种的上帝，它也不会走上自我毁灭的道路，这些可怖的水禽完全是他们一手创造的。”<br></br>- 玛·瑞格尼布，“RV-4004：假期热点”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -20655,7 +20655,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "spark_droid_icon",
-            "name": "Spark Droid",
+            "name": "火花机器人",
             "hp": 35,
             "armor": 2,
             "tier": 1,
@@ -20689,7 +20689,7 @@ var jsonUnits = {
   ],
             "shield": 1,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "A modified Plasmoid frame with a built in Arc Retaliation module and armed with an Arc Taser.",
+            "description": "一种经过改装的等离子粒团，采用电弧复仇模组搭建而成，装备着一把电弧电击枪。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -20717,7 +20717,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "xennodon_icon",
-            "name": "Xennodon",
+            "name": "异星疫病暴龙",
             "hp": 80,
             "armor": 2,
             "tier": 3,
@@ -20757,7 +20757,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "An ancient Tyrannodon carcass infested with the Alpha Strain.",
+            "description": "一具遭到初始毒株感染的古代暴龙尸体。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -20815,7 +20815,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "A modified E-bot. The frame once served one of the maids of the Valentine household. It has been repurposed by the Valentine's A.I.V.A. as a mainframe and support combat unit.",
+            "description": "一个经过改造的电子机器人。机器人的框架曾为瓦伦丁家的一位女仆所用，如今已经被瓦伦丁的 A.I.V.A. 改造成了一个主机和辅助战斗单位。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -20849,7 +20849,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "vanguard_shadow_trooper_icon",
-            "name": "先锋 -Shadow Trooper",
+            "name": "先锋 - 暗影骑兵",
             "hp": 40,
             "armor": 1,
             "tier": 1,
@@ -20898,7 +20898,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "35<energy></energy>  150<production></production>",
-            "description": "“Technology exists to automate the Vanguard Trooper’s job, but how do you inspire a populace with no skin in the game? That philosophy was posited by emperors that needed humankind to sympathize with the price of war. Some suppose that the troopers are a tool of CORE, desperate criminals being forced to join its ranks. It has been my experience, however, that the deadliest trooper fights not to atone for his past, but to build a better future. For that, CORE and the emperors should be wary. They serve but never surrender.”— Quinlinn T. Ortivexis, “RV-4367H: Historical Parallels: Humanity’s Twisted Past”",
+            "description": "“科技能够使先锋骑兵的工作变得自动化，但你要如何激励连皮肤都没有的士兵呢？帝皇们认为需要人类对战争的代价产生共鸣。一些人认为骑兵不过是核心的工具，认为他们不过是一群被迫加入的穷凶极恶之徒。但在我看来，就算是凶狠的骑兵也并非在为赎罪而战，而是为了创造更美好的未来。因此，核心和帝皇们都应该小心。他们虽然在服从，但却从未屈从。”- 奎里恩·T·奥迪威希斯，“RV-4367H：历史的相似之处：人类扭曲的过去”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_improved_overwatch"
@@ -20925,7 +20925,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "dreamer_cultist_icon",
-            "name": "Dreamer Cultist",
+            "name": "梦境教徒",
             "hp": 40,
             "armor": 0,
             "tier": 2,
@@ -20989,7 +20989,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "ebot_valer-e_icon",
-            "name": "E:Bot - Valer-E",
+            "name": "E:Bot - 薇莱尔-E",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -21020,7 +21020,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "'…or else.'",
+            "description": "“…否则。”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_firm"
@@ -21051,7 +21051,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "assembly_will-em_icon",
-            "name": "半机械人 - Will-EM",
+            "name": "半机械人 - 威尔-EM",
             "hp": 45,
             "armor": 1,
             "tier": 2,
@@ -21088,7 +21088,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "'She said yes...'",
+            "description": "“她说好…”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_bypass_cover"
@@ -21128,7 +21128,7 @@ var jsonUnits = {
   ],
             "mp": 40,
             "icon": "heritor_the_hand_that_takes_icon",
-            "name": "继承者 - The Hand that takes",
+            "name": "继承者 - 索取之手",
             "hp": 100,
             "armor": 4,
             "tier": 4,
@@ -21159,7 +21159,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "An ancient Guardian, representing the Hand of Artok that takes.",
+            "description": "一个远古守护者，代表着阿尔托克的索取之手。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_ignore_overwatch"
@@ -21202,7 +21202,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "heritor_the_hand_that_gives_icon",
-            "name": "继承者 - The Hand that gives",
+            "name": "继承者 - 应予之手",
             "hp": 120,
             "armor": 5,
             "tier": 4,
@@ -21248,7 +21248,7 @@ var jsonUnits = {
   ],
             "shield": 2,
             "cost": "50<energy></energy>  230<production></production>",
-            "description": "An ancient Guardian, representing the Hand of Artok that gives.",
+            "description": "一个远古守护者，代表着阿尔托克的应予之手。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_range"
@@ -21282,7 +21282,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "purified_golem_icon",
-            "name": "Purified Golem",
+            "name": "净化魔像",
             "hp": 40,
             "armor": 3,
             "tier": 2,
@@ -21307,7 +21307,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "“We thought it another decorative statue until a crimson jewel on its crest ignited and the lumbering form of an Es’Teq Golem moved to block our progress into the Heritor Vault sleep chambers. Even from a distance, the thing could drain the essence from our expeditionary forces, disregarding their body armor and shields. Slow but powerful, it pushed our advance back, sapping our lives and degrading our armor with its entropic blasts. We might still be fighting it today had we not deployed Reaper tech to counter it.”<br></br>–  Counterstrike Captain, Stella Diamante, “RV-0511M: Records of the Purge”",
+            "description": "“我们以为它只是另一尊装饰用的雕像，直到它头顶上的一颗深红色宝石亮了起来，紧接着一个笨重的埃斯特克魔像身影挡在了我们进入继承者宝库沉睡室的道路。即使站在很远的地方，这东西也能汲取我们远征部队的精华，无论他们是否穿着盔甲或是拿着盾牌。它缓慢而强劲地将我们向后逼退，发射出来的混沌冲击波能够击破我们的护甲，夺走我们的生命。假如我们没有部署死神科技来对付它的话，可能一直到今天我们都还在与它抗争。”<br></br>——反击队长斯特拉·迪亚曼特，“RV-0511M：净化计划记录”",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_shrug_off"
@@ -21334,7 +21334,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "hopperhound_alpha_icon",
-            "name": "Hopperhound Alpha",
+            "name": "跳蝗头目",
             "hp": 40,
             "armor": 2,
             "tier": 2,
@@ -21358,7 +21358,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "70<energy></energy>  250<production></production>",
-            "description": "A monstrous result of Star Union genetic modification experiments between Kir'Ko and Hopperhounds.",
+            "description": "一个星际联盟介于奇尔寇和跳蝗之间的基因改造实验结果。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
@@ -21392,7 +21392,7 @@ var jsonUnits = {
   ],
             "mp": 32,
             "icon": "hopperhound_progenitor_icon",
-            "name": "Hopperhound Progenitor",
+            "name": "跳蝗始祖",
             "hp": 55,
             "armor": 4,
             "tier": 3,
@@ -21423,7 +21423,7 @@ var jsonUnits = {
   ],
             "shield": 0,
             "cost": "105<energy></energy>  400<production></production>  20<tricorium></tricorium>",
-            "description": "A monstrous result of Star Union genetic modification experiments between Kir'Ko and Hopperhounds.",
+            "description": "一个星际联盟介于奇尔寇和跳蝗之间的基因改造实验结果。",
             "elite_rewards": [
                 {
                     "slug": "prime_rank_evasive"
