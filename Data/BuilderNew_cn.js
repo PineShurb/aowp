@@ -504,18 +504,18 @@
              tier.innerHTML = "阶级 " + jsonUnits.units[i].tier + ": " + jsonUnits.units[i].upkeep;
              if (jsonUnits.units[i].tier == "1") {
 
-                 levelup.innerHTML = "<p><x-medal_novice> </x-medal_novice>Novice<li>+4 <hp></hp> HP </li></ul><p><x-medal_veteran> </x-medal_veteran>Veteran<li>+4 <hp></hp> HP <li>+5 <accuracy></accuracy> Accuracy </li></li></ul><p><x-medal_expert> </x-medal_expert>Expert<li>+4 <hp></hp> HP </li></ul> <p><x-medal_prime> </x-medal_prime>Prime<li>+5 <accuracy></accuracy> Accuracy </li><li>+4 <hp></hp> HP </li><li>" + EliteSkill(reward) + "</li></ul>";
+                 levelup.innerHTML = "<p><x-medal_novice> </x-medal_novice>见习兵<li>+4 <hp></hp> HP </li></ul><p><x-medal_veteran> </x-medal_veteran>老兵<li>+4 <hp></hp> HP <li>+5 <accuracy></accuracy>准度</li></li></ul><p><x-medal_expert> </x-medal_expert>专家<li>+4 <hp></hp> HP </li></ul> <p><x-medal_prime> </x-medal_prime>精兵<li>+5 <accuracy></accuracy>准度</li><li>+4 <hp></hp> HP </li><li>" + EliteSkill(reward) + "</li></ul>";
 
              }
              if (jsonUnits.units[i].tier == "2") {
-                 levelup.innerHTML = "<p><x-medal_novice> </x-medal_novice>Novice<li>+6 <hp></hp> HP </li></ul><p><x-medal_veteran> </x-medal_veteran>Veteran<li>+6 <hp></hp> HP </li><li>+5 <accuracy></accuracy> Accuracy </li></ul><p><x-medal_expert> </x-medal_expert>Expert<li>+6 <hp></hp> HP </li></ul> <p><x-medal_prime> </x-medal_prime>Prime<li>+6 <hp></hp> HP </li><li>+5 <accuracy></accuracy> Accuracy </li><li>" + EliteSkill(reward) + "</li></ul>";
+                 levelup.innerHTML = "<p><x-medal_novice> </x-medal_novice>见习兵<li>+6 <hp></hp> HP </li></ul><p><x-medal_veteran> </x-medal_veteran>老兵<li>+6 <hp></hp> HP </li><li>+5 <accuracy></accuracy>准度</li></ul><p><x-medal_expert> </x-medal_expert>专家<li>+6 <hp></hp> HP </li></ul> <p><x-medal_prime> </x-medal_prime>精兵<li>+6 <hp></hp> HP </li><li>+5 <accuracy></accuracy>准度</li><li>" + EliteSkill(reward) + "</li></ul>";
 
              }
              if (jsonUnits.units[i].tier == "3") {
-                 levelup.innerHTML = "<p><x-medal_novice> </x-medal_novice>Novice<li>+8 <hp></hp> HP </li></ul><p><x-medal_veteran> </x-medal_veteran>Veteran<li>+8 <hp></hp> HP </li><li>+5 <accuracy></accuracy> Accuracy </li></ul><p><x-medal_expert> </x-medal_expert>Expert<li>+8 <hp></hp> HP </li></ul> <p><x-medal_prime> </x-medal_prime>Prime<li>+8 <hp></hp> HP </li><li>+5 <accuracy></accuracy> Accuracy </li><li>" + EliteSkill(reward) + "</li></ul>";
+                 levelup.innerHTML = "<p><x-medal_novice> </x-medal_novice>见习兵<li>+8 <hp></hp> HP </li></ul><p><x-medal_veteran> </x-medal_veteran>老兵<li>+8 <hp></hp> HP </li><li>+5 <accuracy></accuracy>准度</li></ul><p><x-medal_expert> </x-medal_expert>专家<li>+8 <hp></hp> HP </li></ul> <p><x-medal_prime> </x-medal_prime>精兵<li>+8 <hp></hp> HP </li><li>+5 <accuracy></accuracy>准度</li><li>" + EliteSkill(reward) + "</li></ul>";
              }
              if (jsonUnits.units[i].tier == "4") {
-                 levelup.innerHTML = "<p><x-medal_novice> </x-medal_novice>Novice<li>+10 <hp></hp> HP </li></ul><p><x-medal_veteran> </x-medal_veteran>Veteran<li>+10 <hp></hp> HP </li><li>+5 <accuracy></accuracy> Accuracy </li></ul><p><x-medal_expert> </x-medal_expert>Expert<li>+10 <hp></hp> HP </li></ul> <p><x-medal_prime> </x-medal_prime>Prime<li>+10 <hp></hp> HP </li><li>+5 <accuracy></accuracy> Accuracy </li><li>" + EliteSkill(reward) + "</li></ul>";
+                 levelup.innerHTML = "<p><x-medal_novice> </x-medal_novice>见习兵<li>+10 <hp></hp> HP </li></ul><p><x-medal_veteran> </x-medal_veteran>老兵<li>+10 <hp></hp> HP </li><li>+5 <accuracy></accuracy>准度</li></ul><p><x-medal_expert> </x-medal_expert>专家<li>+10 <hp></hp> HP </li></ul> <p><x-medal_prime> </x-medal_prime>精兵<li>+10 <hp></hp> HP </li><li>+5 <accuracy></accuracy>准度</li><li>" + EliteSkill(reward) + "</li></ul>";
              }
 
              prodcost = document.getElementById("productioncost");
