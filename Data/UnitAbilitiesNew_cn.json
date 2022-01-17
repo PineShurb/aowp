@@ -4436,29 +4436,29 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "15<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>PsiTec Emitter</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a PsiTec Emitter, dealing damage in a 3 hex line.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>PsiTec Emitter</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能科技发射器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射灵能科技发射器，对一条直线上的 3 个单元格造成伤害。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能科技发射器</titleBrown></popUpHeader2>",
             "slug": "psitec_emitter_syndicate_hoverbike",
             "icon": "psitec_emitter_icon"
  },
         {
             "damage": "6<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Motion Suppressor</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>6<DamagePsyche></DamagePsyche> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target a unit to hamper its movement. This effect jumps to another unit within 2 hexes.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>无法移动</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率施加 <abilityRed>无法移动</abilityRed>，持续 1<turn></turn>。如果被抵抗，则改为施加<abilityred>缓慢</abilityred> instead.</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Motion Suppressor</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>情绪抑制器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>6<DamagePsyche></DamagePsyche> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>瞄准一个单位，阻碍其移动。该效果还会弹跳至 2 个单元格内的另一单位。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>无法移动</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率施加<abilityRed>无法移动</abilityRed>，持续 1<turn></turn>。如果被抵抗，则改为施加<abilityred>缓慢</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>情绪抑制器</titleBrown></popUpHeader2>",
             "slug": "motion_suppressor_syndicate_hoverbike",
             "icon": "motion_suppressor_icon"
  },
         {
             "damage": "9<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Suppressor Tower</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>9<DamagePsyche></DamagePsyche> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Deals Psionic damage to a single target.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>破碎心灵</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率对非无意识单位施加<abilityred>破碎心灵</abilityred>，持续 3<turn></turn></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Suppressor Tower</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>镇压者高塔</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>9<DamagePsyche></DamagePsyche> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>对单个目标造成灵能伤害。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>破碎心灵</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率对非无意识单位施加<abilityred>破碎心灵</abilityred>，持续 3<turn></turn></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>镇压者高塔</titleBrown></popUpHeader2>",
             "slug": "suppressor_tower_syndicate_suppressor_tower",
             "icon": "suppressor_tower_icon"
  },
         {
             "damage": "10<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Claw Slash</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>近战攻击。<br></br><bulletList><bullet><xpCol>同化</xpCol> 攻击非矿物单位或非虚灵单位时将治疗 4<hp></hp> 。</bullet><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 爪击)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Claw Slash</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>利爪挥砍</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>近战攻击。<br></br><bulletList><bullet><xpCol>同化</xpCol> 攻击非矿物单位或非虚灵单位时将治疗 4<hp></hp> 。</bullet><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 爪击)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>利爪挥砍</titleBrown></popUpHeader2>",
             "slug": "claw_slash_assembly_scavenger",
             "icon": "claw_slash_icon"
  },
@@ -4471,29 +4471,29 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "11<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Projector</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A medium-range Arc weapon.<br></br><bulletList><bullet><xpCol>触电</xpCol> 4<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Projector</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧投射器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>一种中距离电弧武器。<br></br><bulletList><bullet><xpCol>触电</xpCol> 4<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧投射器</titleBrown></popUpHeader2>",
             "slug": "arc_projector_assembly_electrocutioner",
             "icon": "arc_projector_icon"
  },
         {
             "damage": "12<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Project Arc Blast</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Shoot a charged shot that strikes the target area, dealing Arc damage.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>触电</xpCol> 8<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Project Arc Blast</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>发射电弧冲击波</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标区域发射一道充能射击，造成电弧伤害。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>触电</xpCol> 8<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>发射电弧冲击波</titleBrown></popUpHeader2>",
             "slug": "project_arc_blast_assembly_electrocutioner",
             "icon": "project_arc_blast_icon"
  },
         {
             "damage": "15<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Hammer Strike</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A powerful melee strike.<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Hammer Strike</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>锤击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>强力的近战攻击。<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>锤击</titleBrown></popUpHeader2>",
             "slug": "hammer_strike_assembly_wrecker",
             "icon": "hammer_strike_icon"
  },
         {
             "damage": "20<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Wild Swing</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>20<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A wild swing of the hammer that can damage all targets in front of the unit.<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Wild Swing</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>野蛮挥击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>20<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>大力挥锤，可对单位前方所有目标造成伤害。<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>野蛮挥击</titleBrown></popUpHeader2>",
             "slug": "wild_swing_assembly_wrecker",
             "icon": "wild_swing_icon"
  },
@@ -4512,88 +4512,88 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "15<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Disassembler Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a Disassembler Shot at the ground with 1 hex radius area of effect.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet><bullet><xpCol>Disassembler Nanites Cloud</xpCol> Deals 15<DamagePhysical></DamagePhysical> to units moving through or ending their turn in this cloud.</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Disassembler Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>拆解炮弹</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向地面发射拆解炮弹，对 1 个单元格范围造成影响。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet><bullet><xpCol>反汇编程序纳米云</xpCol> 穿过或在该单元格结束回合的单位受到 15<DamagePhysical></DamagePhysical> 伤害。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>拆解炮弹</titleBrown></popUpHeader2>",
             "slug": "disassembler_shot_assembly_disassembler",
             "icon": "disassembler_shot_icon"
  },
         {
             "damage": "7<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Rod</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>7<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A medium-range Arc weapon.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Rod</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧棒</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>7<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>一种中距离电弧武器。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧棒</titleBrown></popUpHeader2>",
             "slug": "arc_rod_assembly_inspector",
             "icon": "arc_rod_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Maintenance Repair</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>The Inspector is able to make small maintenance repairs on friendly Cyborg and Mechanical units, healing them for 20<hp></hp>.<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Maintenance Repair</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>维护修复</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>巡查者为友方半机械人单位和机械单位进行小型维护修复，能够为其治疗 20<hp></hp>。<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>维护修复</titleBrown></popUpHeader2>",
             "slug": "maintenance_repair_assembly_inspector",
             "icon": "maintenance_repair_icon"
  },
         {
             "damage": "10<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Thrower</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A medium-range, air-to-air Arc weapon.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Thrower</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧投掷器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>一种中距离空对空电弧武器。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧投掷器</titleBrown></popUpHeader2>",
             "slug": "arc_thrower_assembly_lightning_rider",
             "icon": "arc_thrower_icon"
  },
         {
             "damage": "14<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Strike</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>75%<accuracy></accuracy><tab></tab>14<DamageWave></DamageWave> <tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Call down blasts of electricity to strike nearby units in a 2 hex radius. The unit enters defense mode after using this ability.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Strike</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧打击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>75%<accuracy></accuracy><tab></tab>14<DamageWave></DamageWave> <tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>呼叫电流冲击攻击 2 个单元格范围内的附近单位。单位在使用此技能后将进入防御模式。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧打击</titleBrown></popUpHeader2>",
             "slug": "arc_strike_assembly_lightning_rider",
             "icon": "arc_strike_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Arc Charge</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Charge the craft's internal capacitors, causing its attacks to <abilityred>动摇</abilityred> targets and do 50% extra damage until the end of its next turn.<br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Charge</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧充能</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>充能内置电容，使攻击能够<abilityred>动摇</abilityred>目标并额外造成 50% 伤害，效果持续至下个回合结束。<br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧充能</titleBrown></popUpHeader2>",
             "slug": "arc_charge_assembly_lightning_rider",
             "icon": "arc_charge_icon"
  },
         {
             "damage": "16<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Vorpal Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the Vorpal Sniper rifle at the target.<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>Power Shot</xpCol> +15% critical chance.</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Vorpal Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>夺命射击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用夺命狙击枪攻击目标。<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>强力射击</xpCol> +15% 暴击率。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>夺命射击</titleBrown></popUpHeader2>",
             "slug": "vorpal_shot_assembly_vorpal_sniper",
             "icon": "vorpal_shot_icon"
  },
         {
             "damage": "8<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Concussive Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire an overpowering shot, intending to stun the target.<br></br><bulletList><bullet><xpCol>震荡</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率施加 <abilityred>震荡</abilityred> to non-Ethereal or non-Mechanical for 2<turn></turn>.如果被抵抗，则造成<abilityred>强力冲击</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Concussive Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>震荡射击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射用于眩晕目标的强力射击。<br></br><bulletList><bullet><xpCol>震荡</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵和非机械单位施加<abilityred>震荡</abilityred>，持续 2<turn></turn>。如果被抵抗，则造成<abilityred>强力冲击</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>震荡射击</titleBrown></popUpHeader2>",
             "slug": "concussive_shot_assembly_vorpal_sniper",
             "icon": "concussive_shot_icon"
  },
         {
             "damage": "8<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Blinding Snap Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A quick shot that fires a blinding flash round.<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Blinding Snap Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>炫目速射</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>快速发射能够令人致盲的闪光子弹。<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>炫目速射</titleBrown></popUpHeader2>",
             "slug": "blinding_snap_shot_assembly_vorpal_sniper",
             "icon": "blinding_snap_shot_icon"
  },
         {
             "damage": "16<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Blaster</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a blast of Arc energy at the target.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Blaster</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧爆能枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射一道电弧冲击波。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧爆能枪</titleBrown></popUpHeader2>",
             "slug": "arc_blaster_assembly_reverse_engineer",
             "icon": "arc_blaster_icon"
  },
         {
             "damage": "11<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Saw Blade Slash</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>近战攻击。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Saw Blade Slash</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>锯刃挥砍</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>近战攻击。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>锯刃挥砍</titleBrown></popUpHeader2>",
             "slug": "saw_blade_slash_assembly_reverse_engineer",
             "icon": "saw_blade_slash_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Create Construct</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Create a Construct under the player's control on the target hex. 使用此技能后，单位将进入防御模式。<br></br><br></br>召唤单位将继承所有不会赋予主动技能的兼容模块。<br></br><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Create Construct</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>建造半机械蜘蛛</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>在目标单元格创造一个由玩家控制的半机械蜘蛛。使用此技能后，单位将进入防御模式。<br></br><br></br>召唤单位将继承所有不会赋予主动技能的兼容模块。<br></br><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>建造半机械蜘蛛</titleBrown></popUpHeader2>",
             "slug": "create_construct_assembly_reverse_engineer",
             "icon": "create_construct_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Reassemble</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target a dead, light, ground unit that is Cyborg or Mechanical to bring it back to life with 50% of its max <hp></hp>. Target a living Cyborg or Machanical unit to heal it for 35<hp></hp>. Cannot target self.<br></br>使用此技能后，单位将进入防御模式。<br></br><br></br><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Reassemble</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>重装</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>以阵亡的轻型半机械人或机械陆地单位为目标时，可复活目标单位并恢复其 50% 的最大 <hp></hp>。以存活的半机械人或机械单位为目标时，可治疗其 35<hp></hp>。无法以自身为目标。<br></br>使用此技能后，单位将进入防御模式。<br></br><br></br><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>重装</titleBrown></popUpHeader2>",
             "slug": "reassemble_assembly_reverse_engineer",
             "icon": "reassemble_icon"
  },
@@ -4605,100 +4605,100 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "13<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Storm</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>13<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Call down bolts of Arc energy from above, striking targets and ignoring cover.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Storm</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧风暴</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>13<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>呼叫电弧能量闪电从天而降打击目标，并且无视掩体。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧风暴</titleBrown></popUpHeader2>",
             "slug": "arc_storm_assembly_reaver",
             "icon": "arc_storm_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Swarm Form</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>免费回合<freeAction></freeAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Split the Reaver into a Swarm of devouring robots, restoring 25 <hp></hp>.<br></br><bulletList><bullet>开始时处于冷却状态: 1<turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Swarm Form</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>群体形态</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>免费回合<freeAction></freeAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>将掠夺者分裂成一群毁灭性极强的机器人，同时恢复 25 <hp></hp>。<br></br><bulletList><bullet>开始时处于冷却状态: 1<turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>群体形态</titleBrown></popUpHeader2>",
             "slug": "swarm_form_assembly_reaver",
             "icon": "swarm_form_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Re-energize</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Restore all Action Points <movewalk></movewalk> and dispel all hostile status effects on target friendly unit. This effect can jump up to 2 additional targets within 3 hexes of the original unit. This ability does not work on the Assembly Reaver, regardless of what form they are in.<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Re-energize</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>重注能量</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>恢复目标友方单位全部操作点数 <movewalk></movewalk> 并驱散所有负面状态效果。该效果最多可弹跳至初始单位 3 个单元格内额外 2 个单位。该技能对半机械人掠夺者无效，无论其处于何种形态。<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>重注能量</titleBrown></popUpHeader2>",
             "slug": "re-energize_assembly_reaver",
             "icon": "re-energize_icon"
  },
         {
             "damage": "15<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Devouring Strike</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>The Reaver swarms around the target, attempting to devour it and add the target's parts to its own form. If a unit is killed by this attack, the Reaver gains a buff until end of combat, depending on the type of unit killed.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>Devouring Strike</xpCol> Heal 8<hp></hp> per attack.</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Devouring Strike</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>吞噬打击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>掠夺者围绕目标，试图将目标吞没并将其部件添加到自己的形态中。如果某个单位因此被击杀，掠夺者将根据被击杀单位的种类获得一项增益，持续到战斗结束。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>吞噬打击</xpCol> 每次攻击治疗 8<hp></hp> 。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>吞噬打击</titleBrown></popUpHeader2>",
             "slug": "devouring_strike_assembly_swarm",
             "icon": "devouring_strike_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Aggressive Recombination</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>The swarm descends on the target, pulling it to pieces to make a new form. 8<StrengthPhysical></StrengthPhysical> strength chance to transform the target unit into a Construct under the player's control. If this fails, the target instead takes 20<DamagePhysical></DamagePhysical>.<br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Aggressive Recombination</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>侵略性重组</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>机器人群向目标发动袭击，将其撕成碎片并组成新的形态。有 8<StrengthPhysical></StrengthPhysical> 的力量几率将目标转变成由玩家控制的半机械蜘蛛。如果转变失败，则目标受到 20<DamagePhysical></DamagePhysical>。<br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>侵略性重组</titleBrown></popUpHeader2>",
             "slug": "aggressive_recombination_assembly_swarm",
             "icon": "aggressive_recombination_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Reaver Form</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>免费回合<freeAction></freeAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Reform the swarm into a Reaver.<br></br><bulletList><bullet>开始时处于冷却状态: 1<turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Reaver Form</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>掠夺者形态</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>免费回合<freeAction></freeAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>从群体形态改变成掠夺者形态。<br></br><bulletList><bullet>开始时处于冷却状态: 1<turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>掠夺者形态</titleBrown></popUpHeader2>",
             "slug": "reaver_form_assembly_swarm",
             "icon": "reaver_form_icon"
  },
         {
             "damage": "12<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Tendrils</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Attack the target with Arc-enhanced tendrils.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>Long Reach</xpCol> Can target Flying units</bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(电弧, 近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Tendrils</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧触须</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用经过电弧强化的触须攻击目标。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>鞭长可及</xpCol> 可标记飞行单位</bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(电弧, 近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧触须</titleBrown></popUpHeader2>",
             "slug": "arc_tendrils_assembly_constrictor",
             "icon": "arc_tendrils_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Project Constriction Field</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>The Constrictor locks itself and the target together in a phased field, granting both of them +5<shield></shield> and stagger resistance, disabling their abilities and holding them in place. The effect lasts until the target breaks free, or the Constrictor is killed or staggered.<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Project Constriction Field</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>投放收束力场</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>收束者将自身和目标锁定在一个相位力场中，使技能无效并使两者固定在一个地方且都会获得 +5<shield></shield> 和动摇抵抗。如果目标挣脱或是收束者被击杀或被动摇，效果将会消失。<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>投放收束力场</titleBrown></popUpHeader2>",
             "slug": "project_constriction_field_assembly_constrictor",
             "icon": "project_constriction_field_icon"
  },
         {
             "damage": "11<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Mounted Gun</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire at the target with a mounted gun.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Mounted Gun</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>搭载炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用搭载炮攻击目标。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>搭载炮</titleBrown></popUpHeader2>",
             "slug": "mounted_gun_assembly_chopper",
             "icon": "mounted_gun_icon"
  },
         {
             "damage": "22<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Repulsor Blast</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>22<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A blast of energy targeted at a unit. <abilityred>击退</abilityred> Light units.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Repulsor Blast</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>击退冲击波</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>22<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>一股能量冲击波，可<abilityred>击退</abilityred>轻型单位。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>击退冲击波</titleBrown></popUpHeader2>",
             "slug": "repulsor_blast_assembly_chopper",
             "icon": "repulsor_blast_icon"
  },
         {
             "damage": "12<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Naval Arc Cannon</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a ship-mounted Arc cannon at the target. Ignores accuracy penalties against Flying units.<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Naval Arc Cannon</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>海军电弧加农炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射船载电弧加农炮。如果目标为飞行单位，攻击将无视准度惩罚。<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>海军电弧加农炮</titleBrown></popUpHeader2>",
             "slug": "naval_arc_cannon_assembly_storm_wader",
             "icon": "naval_arc_cannon_icon"
  },
         {
             "damage": "16<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Storm Call</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamageWave></DamageWave> <tab></tab>2-7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Call thunder to strike an area.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>触电</xpCol> 8<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Storm Call</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>呼叫风暴</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamageWave></DamageWave> <tab></tab>2-7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>呼叫闪电攻击某个区域。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>触电</xpCol> 8<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>呼叫风暴</titleBrown></popUpHeader2>",
             "slug": "storm_call_assembly_storm_wader",
             "icon": "storm_call_icon"
  },
         {
             "damage": "14<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Naval Railgun</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>14<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a ship mounted Railgun at the target unit.<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Naval Railgun</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>海军轨道炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>14<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标单位发射舰载轨道炮。<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>海军轨道炮</titleBrown></popUpHeader2>",
             "slug": "naval_railgun_assembly_wrecking_ship",
             "icon": "naval_railgun_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Launch Water Construct</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Build a Water Construct on an adjacent hex<br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Launch Water Construct</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>投放水生半机械蜘蛛</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>在相邻单元格建造一只水生半械蜘蛛<br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>投放水生半机械蜘蛛</titleBrown></popUpHeader2>",
             "slug": "launch_water_construct_assembly_wrecking_ship",
             "icon": "launch_water_construct_icon"
  },
         {
             "damage": "28<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Wrecking Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>28<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a wrecking shot at the target.<br></br><bulletList><bullet><xpCol>瘫痪</xpCol> 12<StrengthPhysical></StrengthPhysical> 力量几率施加<abilityred>瘫痪</abilityred>，持续 1<turn></turn></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Wrecking Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>破坏炮弹</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>28<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射破坏炮弹。<br></br><bulletList><bullet><xpCol>瘫痪</xpCol> 12<StrengthPhysical></StrengthPhysical> 力量几率施加<abilityred>瘫痪</abilityred>，持续 1<turn></turn></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>破坏炮弹</titleBrown></popUpHeader2>",
             "slug": "wrecking_shot_assembly_wrecking_ship",
             "icon": "wrecking_shot_icon"
  },
@@ -4718,22 +4718,22 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "11<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Projector</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A medium-range Arc weapon.<br></br><bulletList><bullet><xpCol>触电</xpCol> 4<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Projector</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧投射器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>一种中距离电弧武器。<br></br><bulletList><bullet><xpCol>触电</xpCol> 4<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧投射器</titleBrown></popUpHeader2>",
             "slug": "arc_projector_assembly_advanced_construct",
             "icon": "arc_projector_icon"
  },
         {
             "damage": "20<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Self-destruct</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>20<DamageWave></DamageWave> <tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>This unit self-destructs, dealing <damagewave></damagewave> damage to all adjacent units.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet><bullet><xpCol>晕眩</xpCol> 6 strength chance to apply <abilityred>晕眩</abilityred> to non-Ethereal for 1<turn></turn>。如果被抵抗，则改为施加<abilityred>静电电荷</abilityred> for {chargeTurns}<turn></turn> instead.</bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Self-destruct</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧自毁</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>20<DamageWave></DamageWave> <tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>该单位进行自我毁灭，对所有相邻单位造成 <damagewave></damagewave> 伤害。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet><bullet><xpCol>晕眩</xpCol> 6 力量几率对非虚灵单位施加<abilityred>晕眩</abilityred>，持续 1<turn></turn>。如果被抵抗，则改为施加<abilityred>静电电荷</abilityred>，持续 {chargeTurns}<turn></turn> 。</bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧自毁</titleBrown></popUpHeader2>",
             "slug": "arc_self-destruct_assembly_advanced_construct",
             "icon": "arc_self-destruct_icon"
  },
         {
             "damage": "7<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Tesla Arc</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>7<DamageWave></DamageWave> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a low damage Arc attack that jumps to nearby enemy units.<br></br><bulletList><bullet><xpCol>静电电荷</xpCol> 施加 1 层<abilityred>静电电荷</abilityred>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Tesla Arc</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>特斯拉电弧</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>7<DamageWave></DamageWave> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射伤害较低但会弹跳至附近敌方单位身上的电弧攻击。<br></br><bulletList><bullet><xpCol>静电电荷</xpCol> 施加 1 层<abilityred>静电电荷</abilityred>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>特斯拉电弧</titleBrown></popUpHeader2>",
             "slug": "tesla_arc_assembly_arc_coil",
             "icon": "tesla_arc_icon"
  },
@@ -4746,15 +4746,15 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "15<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Spike Gun</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a Spike Gun at the target. Damage increases by 20% when unit stands within a Trench.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Spike Gun</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>钉枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用钉枪攻击目标。如果目标位于壕沟，造成的伤害提高 20% 。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>钉枪</titleBrown></popUpHeader2>",
             "slug": "spike_gun_dvar_trencher",
             "icon": "spike_gun_icon"
  },
         {
             "damage": "8<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Shield Bash</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Bash the target with a shield, <abilityred>击退</abilityred> Light units.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Shield Bash</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>护盾猛击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>用护盾猛击目标，<abilityred>击退</abilityred>轻型单位。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>护盾猛击</titleBrown></popUpHeader2>",
             "slug": "shield_bash_dvar_trencher",
             "icon": "shield_bash_icon"
  },
@@ -4766,14 +4766,14 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "14<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Toss Bomb</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>14<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Throw a bomb at a single target, dealing Explosive damage.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Toss Bomb</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>投掷炸弹</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>14<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>对单个目标投掷炸弹，造成爆炸伤害。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>投掷炸弹</titleBrown></popUpHeader2>",
             "slug": "toss_bomb_dvar_prospector",
             "icon": "toss_bomb_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Eat Dust</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>免费回合<freeAction></freeAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Attempt to apply <abilityred>被致盲</abilityred> to all adjacent units. Then regain all <movewalk></movewalk> but the unit can only move or activate a <abilityblue>防御模式</abilityblue>.<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Eat Dust</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>含垢忍辱</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>免费回合<freeAction></freeAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>尝试对所有相邻单位施加<abilityred>被致盲</abilityred>。随后单位恢复全部 <movewalk></movewalk> 但只能进行移动或激活<abilityblue>防御模式</abilityblue>。<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>含垢忍辱</titleBrown></popUpHeader2>",
             "slug": "eat_dust_dvar_prospector",
             "icon": "eat_dust_icon"
  },
@@ -4791,47 +4791,47 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "10<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Hand Mortar</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a Hand Mortar, damaging units in a 1 hex radius.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Hand Mortar</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>手持迫击炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射手持迫击炮，对 1 个单元格范围内的单位造成伤害。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>手持迫击炮</titleBrown></popUpHeader2>",
             "slug": "hand_mortar_dvar_foreman",
             "icon": "hand_mortar_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Healing Kit</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target Biological or Cyborg unit heals 25<hp></hp> and has its non-Psionic negative Status Effects dispelled.<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Healing Kit</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>治疗包</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>治疗目标生物或半机械人单位 25<hp></hp> ，并驱散其非灵能负面状态效果。<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>治疗包</titleBrown></popUpHeader2>",
             "slug": "healing_kit_dvar_foreman",
             "icon": "healing_kit_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Incentivize</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target friendly Dvar unit gains <abilityblue>Motivated</abilityblue>, granting +400<happiness></happiness> until the end of combat.<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Incentivize</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>激励</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>目标友方矮人单位获得<abilityblue>激励</abilityblue>，给予其 +400<happiness></happiness> ，直至战斗结束。<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>激励</titleBrown></popUpHeader2>",
             "slug": "incentivize_dvar_foreman",
             "icon": "incentivize_icon"
  },
         {
             "damage": "10<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Kinetic Punch</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A melee attack with a metal fist.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>震荡</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵和非机械单位施加<abilityred>震荡</abilityred>，持续 1<turn></turn>。如果被抵抗，则造成<abilityred>强力冲击</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Kinetic Punch</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>动力重拳</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用金属拳发起近战攻击。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>震荡</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵和非机械单位施加<abilityred>震荡</abilityred>，持续 1<turn></turn>。如果被抵抗，则造成<abilityred>强力冲击</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>动力重拳</titleBrown></popUpHeader2>",
             "slug": "kinetic_punch_dvar_foreman",
             "icon": "kinetic_punch_icon"
  },
         {
             "damage": "15<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Defense Cannons</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire Defense Cannons at the target.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Defense Cannons</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>防御加农炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>15<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用防御加农炮攻击目标。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>防御加农炮</titleBrown></popUpHeader2>",
             "slug": "defense_cannons_dvar_earth_crusher",
             "icon": "defense_cannons_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Tractor Beam</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Pull the target next to this unit.<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>无法移动</xpCol> 12<StrengthPhysical></StrengthPhysical> 力量几率施加<abilityred>无法移动</abilityred>，持续 1<turn></turn></bullet></bulletList><br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Tractor Beam</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>牵引光束</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>拖动目标至该单位旁。<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>无法移动</xpCol> 12<StrengthPhysical></StrengthPhysical> 力量几率施加<abilityred>无法移动</abilityred>，持续 1<turn></turn></bullet></bulletList><br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>牵引光束</titleBrown></popUpHeader2>",
             "slug": "tractor_beam_dvar_earth_crusher",
             "icon": "tractor_beam_icon"
  },
         {
             "damage": "25<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Crush and Process</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>25<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Crush a target. If the target is a Light unit, there is a 10<strengthphysical></strengthphysical> strength chance that it will instantly die.<br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Crush and Process</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>碾压挺进<titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>25<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>碾碎目标。如果目标为轻型单位，则有 10<strengthphysical></strengthphysical> 力量几率立即死亡。<br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>碾压挺进<titleBrown></popUpHeader2>",
             "slug": "crush_and_process_dvar_earth_crusher",
             "icon": "crush_and_process_icon"
  },
@@ -4849,277 +4849,277 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "11<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Mounted Gun</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire at the target with a mounted gun.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Mounted Gun</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>搭载炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用搭载炮攻击目标。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>搭载炮</titleBrown></popUpHeader2>",
             "slug": "mounted_gun_dvar_rocket_artillery",
             "icon": "mounted_gun_icon"
  },
         {
             "damage": "9<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Missile Barrage</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>20%<accuracy></accuracy><tab></tab>9<DamagePhysical></DamagePhysical> <tab></tab>2-7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a repeating barrage of Explosives at the target.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Missile Barrage</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>导弹弹幕</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>20%<accuracy></accuracy><tab></tab>9<DamagePhysical></DamagePhysical> <tab></tab>2-7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>对目标发射重复的爆炸弹幕。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>导弹弹幕</titleBrown></popUpHeader2>",
             "slug": "missile_barrage_dvar_rocket_artillery",
             "icon": "missile_barrage_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Train Weapons</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Give this unit <abilityblue>Steady Weapon</abilityblue>. The unit gains 40% accuracy and 2 range on Missile Barrage until it moves.<br></br><bulletList></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Train Weapons</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>训练武器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>给予该单位<abilityblue>稳定武器</abilityblue>，使其远程武器攻击的准度增加 40% ，射程增加 2 ，直到该单位移动为止。<br></br><bulletList></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>训练武器</titleBrown></popUpHeader2>",
             "slug": "train_weapons_dvar_rocket_artillery",
             "icon": "train_weapons_icon"
  },
         {
             "damage": "12<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Rotary Cannon</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the Rotary Cannon at the target.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Rotary Cannon</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>旋转加农炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用旋转加农炮攻击目标。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>旋转加农炮</titleBrown></popUpHeader2>",
             "slug": "rotary_cannon_dvar_baron",
             "icon": "rotary_cannon_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Reinforcement Kit</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target Mechanical, Cyborg or Dvar unit heals for 15<hp></hp>. The unit also gains <abilityblue>Extra Armor</abilityblue>, granting it +3<armor></armor> until the end of combat.<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Reinforcement Kit</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>强化包</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br目标机械、半机械人或矮人单位治疗 15<hp></hp>，同时获得<abilityblue>额外护甲</abilityblue>，给予其 +3<armor></armor> ，直到战斗结束。<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>强化包</titleBrown></popUpHeader2>",
             "slug": "reinforcement_kit_dvar_baron",
             "icon": "reinforcement_kit_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Nitro Battery</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Charge up target Mechanical or Cyborg unit, dispelling all negative status effects and giving it <abilityblue>Boosted</abilityblue>, granting it Fast Movement and increasing its damage by 20% for 3<turn></turn><br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Nitro Battery</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>硝基电池</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>为目标机械或半机械人单位充能，驱散所有负面状态效果并使其获得<abilityblue>增强</abilityblue>，给予其“迅捷移动”并使其伤害提升 20% ，持续 3<turn></turn><br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>硝基电池</titleBrown></popUpHeader2>",
             "slug": "nitro_battery_dvar_baron",
             "icon": "nitro_battery_icon"
  },
         {
             "damage": "12<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Disruptor Device</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Launch a disrupting device at the target area, dealing damage in a 1 hex radius.<br></br><bulletList><bullet><xpCol>Disrupt</xpCol> 8<strengthwave></strengthwave> strength chance to remove all Action Points from Mechanical and Cyborg targets.</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Disruptor Device</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>扰乱设备</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标范围发射扰乱设备，对 1 个单元格范围造成伤害。<br></br><bulletList><bullet><xpCol>扰乱</xpCol> 8<strengthwave></strengthwave> 力量几率移除机械和半机械人目标的所有操作点数。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>扰乱设备</titleBrown></popUpHeader2>",
             "slug": "disruptor_device_dvar_baron",
             "icon": "disruptor_device_icon"
  },
         {
             "damage": "20<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Rocket Ram</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>20<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Explosive powered melee collision attack. This will <abilityred>击退</abilityred> Light units.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>Escalating Charge</xpCol> +1 additional damage for each hex moved (maximum 10)</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Rocket Ram</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>火箭撞击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>20<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>爆炸推动式近战碰撞攻击。此攻击将<abilityred>击退</abilityred>轻型单位。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>加速冲锋</xpCol> 每移动一个单元格，便能造成 +1 额外伤害 (最高为 10)</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>火箭撞击</titleBrown></popUpHeader2>",
             "slug": "rocket_ram_dvar_excavator_tank",
             "icon": "rocket_ram_icon"
  },
         {
             "damage": "18<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Demolisher Cannon</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>18<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the Demolisher Cannon, doing Explosive damage to targets in a 1 hex radius.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Demolisher Cannon</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>粉碎者火炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>18<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射粉碎者火炮，对 1 个单元格范围内的目标造成爆炸伤害。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>粉碎者火炮</titleBrown></popUpHeader2>",
             "slug": "demolisher_cannon_dvar_excavator_tank",
             "icon": "demolisher_cannon_icon"
  },
         {
             "damage": "16<DamageThermal></DamageThermal> ",
-            "description": "<popUpHeader3><titleBrown>Defensive Flamers</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>16<DamageThermal></DamageThermal> <tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Deal damage to all adjacent units, then enter Defense Mode.<br></br><bulletList><bullet><xpCol>纵火者</xpCol> 8<StrengthThermal></StrengthThermal> 力量几率对非虚灵和非矿物目标施加<abilityRed>燃烧</abilityRed>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Defensive Flamers</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>防御性火焰喷射器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>16<DamageThermal></DamageThermal> <tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>对所有相邻单位造成伤害。<br></br><bulletList><bullet><xpCol>纵火者</xpCol> 8<StrengthThermal></StrengthThermal> 力量几率对非虚灵和非矿物目标施加<abilityRed>燃烧</abilityRed>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>防御性火焰喷射器</titleBrown></popUpHeader2>",
             "slug": "defensive_flamers_dvar_excavator_tank",
             "icon": "defensive_flamers_icon"
  },
         {
             "damage": "16<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Rocket Ram</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Explosive powered melee collision attack. This will <abilityred>击退</abilityred> Light units.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>Escalating Charge</xpCol> +1 additional damage for each hex moved (maximum 10)</bullet><bullet><xpCol>颠簸</xpCol> 8<strengthphysical></strengthphysical> 力量几率对非虚灵飞行目标施加<abilityred>颠簸</abilityred>，持续 2<turn></turn></bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(近战, 爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Rocket Ram</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>火箭撞击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>爆炸推动式近战碰撞攻击。此攻击将<abilityred>击退</abilityred>轻型单位。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>加速冲锋</xpCol> 每移动一个单元格，便能造成 +1 额外伤害 (最高为 10)</bullet><bullet><xpCol>颠簸</xpCol> 8<strengthphysical></strengthphysical> 力量几率对非虚灵飞行目标施加<abilityred>颠簸</abilityred>，持续 2<turn></turn></bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(近战, 爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>火箭撞击</titleBrown></popUpHeader2>",
             "slug": "rocket_ram_dvar_ramjet",
             "icon": "rocket_ram_icon"
  },
         {
             "damage": "14<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Ramjet Rocket</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>14<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a rocket, dealing Explosive damage in a 1 hex radius.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Ramjet Rocket</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>冲压喷气火箭</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>14<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射一枚火箭，对 1 个单元格范围造成爆炸伤害。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>冲压喷气火箭</titleBrown></popUpHeader2>",
             "slug": "ramjet_rocket_dvar_ramjet",
             "icon": "ramjet_rocket_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Afterburners</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>免费回合<freeAction></freeAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>This unit gains Fast Movement, 20% increased Melee damage and is 20% harder to hit until the next turn.<br></br><bulletList><bullet>仅对空中目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Afterburners</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>加力燃烧室</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>免费回合<freeAction></freeAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>该单位获得“迅捷移动”，近战伤害提升 20% 且被命中的难度增加 20% ，直至下回合开始。<br></br><bulletList><bullet>仅对空中目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>加力燃烧室</titleBrown></popUpHeader2>",
             "slug": "afterburners_dvar_ramjet",
             "icon": "afterburners_icon"
  },
         {
             "damage": "11<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Support Guns</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire Support Guns at the target.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Support Guns</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>支援炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用支援炮攻击目标。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>支援炮</titleBrown></popUpHeader2>",
             "slug": "support_guns_dvar_sapper",
             "icon": "support_guns_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Seismic Charge</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Detonate a seismic charge that deals 30<damagephysical></damagephysical> to all obstacles and <abilityred>Staggers</abilityred> all land units within 2 hexes of this unit.<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Seismic Charge</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>震源炸药</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>引爆一个震源炸药，对所有障碍物造成 30<damagephysical></damagephysical> 并使所有位于该单位 2 个单元格范围内的陆地单位<abilityred>动摇</abilityred>。<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>震源炸药</titleBrown></popUpHeader2>",
             "slug": "seismic_charge_dvar_sapper",
             "icon": "seismic_charge_icon"
  },
         {
             "damage": "8<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Assault Tunnel</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数（继续）<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>This unit burrows underground and bursts out on the target hex, creating a trench at the location. The burst deals damage to all adjacent units.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Assault Tunnel</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>突袭隧道</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数（继续）<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>该单位在地面挖出一条隧道，然后猛然出现在目标单元格中，从而在该地点制造出一条壕沟。该单位在突然出现时会对所有相邻单位造成伤害。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>突袭隧道</titleBrown></popUpHeader2>",
             "slug": "assault_tunnel_dvar_sapper",
             "icon": "assault_tunnel_icon"
  },
         {
             "damage": "12<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Autocannons</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the Autocannons at the target.<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Autocannons</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>自动加农炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用自动加农炮攻击目标。<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>自动加农炮</titleBrown></popUpHeader2>",
             "slug": "autocannons_dvar_bulwark",
             "icon": "autocannons_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Concussive Volley</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a non-damaging supressive round at target Biological or Cyborg unit.<br></br><bulletList><bullet><xpCol>震荡</xpCol> 12<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵和非机械单位施加<abilityred>震荡</abilityred>，持续 1<turn></turn>。如果被抵抗，则造成<abilityred>强力冲击</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Concussive Volley</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>震荡齐射</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标生物或半机械人单位发射一轮非伤害性压制火力。<br></br><bulletList><bullet><xpCol>震荡</xpCol> 12<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵和非机械单位施加<abilityred>震荡</abilityred>，持续 1<turn></turn>。如果被抵抗，则造成<abilityred>强力冲击</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>震荡齐射</titleBrown></popUpHeader2>",
             "slug": "concussive_volley_dvar_bulwark",
             "icon": "concussive_volley_icon"
  },
         {
             "damage": "12<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Naval Rotary Cannon</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the Naval Rotary Cannon at the target.<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Naval Rotary Cannon</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>海军旋转加农炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用海军旋转加农炮攻击目标。<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>海军旋转加农炮</titleBrown></popUpHeader2>",
             "slug": "naval_rotary_cannon_dvar_ironclad",
             "icon": "naval_rotary_cannon_icon"
  },
         {
             "damage": "25<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Naval Ram</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>25<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A powerful melee collision attack.<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Naval Ram</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>海军冲撞</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>25<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>强力的近战碰撞攻击。<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>海军冲撞</titleBrown></popUpHeader2>",
             "slug": "naval_ram_dvar_ironclad",
             "icon": "naval_ram_icon"
  },
         {
             "damage": "22<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Proximity Barrage</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>22<DamagePhysical></DamagePhysical> <tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire Rotary Cannons all around the vessel, hitting every adjacent unit.<br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Proximity Barrage</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>近距弹幕</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>22<DamagePhysical></DamagePhysical> <tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用旋转加农炮向舰船四周开火，攻击所有相邻目标。<br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>近距弹幕</titleBrown></popUpHeader2>",
             "slug": "proximity_barrage_dvar_ironclad",
             "icon": "proximity_barrage_icon"
  },
         {
             "damage": "12<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Heavy Shell Turret</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the Heavy Shell Turret at the target, dealing Explosive damage. Adjacent units receive 50% of that damage.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Heavy Shell Turret</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>重型炮台</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用重型炮台攻击目标，造成爆炸伤害。相邻单位将受到 50% 伤害。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>重型炮台</titleBrown></popUpHeader2>",
             "slug": "heavy_shell_turret_dvar_dreadnought",
             "icon": "heavy_shell_turret_icon"
  },
         {
             "damage": "24<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Broadside Bombardment</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>24<DamagePhysical></DamagePhysical> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Let loose with all available weapons, dealing damage in a 2 hex radius. This builds up smoke and heat which need to be expelled before this attack can be used again.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet><bullet>Unit must reload after using this ability</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Broadside Bombardment</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>排炮轰击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>24<DamagePhysical></DamagePhysical> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>所有武器随意开火，对 2 个单元格范围造成伤害。此攻击会使烟尘和热量不断堆积，需将烟尘与热量排出后才能再次使用。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet><bullet>使用该技能后单位需重新进行装载</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>排炮轰击</titleBrown></popUpHeader2>",
             "slug": "broadside_bombardment_dvar_dreadnought",
             "icon": "broadside_bombardment_icon"
  },
         {
             "damage": "12<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Bombard</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a powerful but inaccurate artillery shell at the target location, dealing damage in a 1 hex radius area.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Bombard</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>轰击炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePhysical></DamagePhysical> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标地点发射一枚威力巨大但准度欠佳的炮弹，对 1 个单元格范围造成伤害。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(爆炸物)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>轰击炮</titleBrown></popUpHeader2>",
             "slug": "bombard_dvar_bombard",
             "icon": "bombard_icon"
  },
         {
             "damage": "10<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Ravage</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Repeatedly strike with powerful claws.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(近战, 爪击)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Ravage</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>毁灭</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>用锋利的利爪发动连续攻击。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(近战, 爪击)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>毁灭</titleBrown></popUpHeader2>",
             "slug": "ravage_kirko_unleashed",
             "icon": "ravage_icon"
  },
         {
             "damage": "6<DamageBio></DamageBio> ",
-            "description": "<popUpHeader3><titleBrown>Gunk Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>6<DamageBio></DamageBio> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Medium-range Biochemical attack<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Gunk Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灰尘射击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>6<DamageBio></DamageBio> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>中距离生化攻击<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灰尘射击</titleBrown></popUpHeader2>",
             "slug": "gunk_shot_kirko_unleashed",
             "icon": "gunk_shot_icon"
  },
         {
             "damage": "10<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Rending Claws</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Strike the target with rending claws.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 爪击)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Rending Claws</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>裂魂爪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>用你的利爪撕碎目标。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 爪击)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>裂魂爪</titleBrown></popUpHeader2>",
             "slug": "rending_claws_kirko_frenzied",
             "icon": "rending_claws_icon"
  },
         {
             "damage": "10<DamageBio></DamageBio> ",
-            "description": "<popUpHeader3><titleBrown>Battle Vomit</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>10<DamageBio></DamageBio> <tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Short-range Biochemical area of effect attack.<br></br><bulletList><bullet><xpCol>窒息</xpCol> 8<strengthbio></strengthbio> 力量几率对生物或半机械人单位施加<abilityred>窒息</abilityred>，持续 1<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Battle Vomit</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>战斗呕吐</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>10<DamageBio></DamageBio> <tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>近距离生化范围攻击。<br></br><bulletList><bullet><xpCol>窒息</xpCol> 8<strengthbio></strengthbio> 力量几率对生物或半机械人单位施加<abilityred>窒息</abilityred>，持续 1<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>战斗呕吐</titleBrown></popUpHeader2>",
             "slug": "battle_vomit_kirko_frenzied",
             "icon": "battle_vomit_icon"
  },
         {
             "damage": "8<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Psi-Strike</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Medium-range Psionic attack.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Psi-Strike</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能打击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>中距离灵能攻击。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能打击</titleBrown></popUpHeader2>",
             "slug": "psi-strike_kirko_transcendent",
             "icon": "psi-strike_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Absorb Pain</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>This unit links itself to the target friendly unit. Any damage dealt to the linked unit is reduced by 35% and is dealt to this unit instead. This effect lasts for 3<turn></turn> or until the caster unit is Staggered.<br></br><br></br>Absorb Pain cannot target Mechanical units, Colony Defenses or other units with Absorb Pain.<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Absorb Pain</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>吸收痛苦</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>该单位将自身与目标友方单位相连，连接单位受到的所有伤害减少 35% 并转由该单位承担，效果持续 3<turn></turn> ，或直到施法者被动摇。<br></br><br></br>吸收痛苦不能以机械单位、殖民地防御或其他拥有吸收痛苦的单位为目标。<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>吸收痛苦</titleBrown></popUpHeader2>",
             "slug": "absorb_pain_kirko_transcendent",
             "icon": "absorb_pain_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Psionic Mending</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Channels Psionic energies to mend target friendly unit, healing them for 25<hp></hp>.<br></br>Doesn't work on Mechanical units.<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Psionic Mending</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能修补</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>引导灵能能量修补目标友方单位并治疗 25<hp></hp>。<br></br>对机械单位无效。<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能修补</titleBrown></popUpHeader2>",
             "slug": "psionic_mending_kirko_transcendent",
             "icon": "psionic_mending_icon"
  },
         {
             "damage": "16<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Psi-Rifle</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePsyche></DamagePsyche> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a long-range Psionic damage shot.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>包抄者</xpCol>单位在包抄时额外造成 25% 伤害。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Psi-Rifle</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能步枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePsyche></DamagePsyche> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射远距离灵能伤害子弹。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>包抄者</xpCol>单位在包抄时额外造成 25% 伤害。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能步枪</titleBrown></popUpHeader2>",
             "slug": "psi-rifle_kirko_hidden",
             "icon": "psi-rifle_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Shrouded Step</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>保留一点操作点数<leaveoneaction></leaveoneaction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>4<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Channeling their Psionic powers, this unit teleports, spreading a cloud of obscuring smoke in a 1 hex radius around the target hex's location. Units inside that area are 40% harder to hit.<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Shrouded Step</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>迷踪步</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>保留一点操作点数<leaveoneaction></leaveoneaction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>4<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>该单位引导灵能之力进行传送，在目标单元格地点周围 1 个单元格范围内散播遮挡视线的烟雾。烟雾中的单位命中难度增加 40% 。<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>迷踪步</titleBrown></popUpHeader2>",
             "slug": "shrouded_step_kirko_hidden",
             "icon": "shrouded_step_icon"
  },
         {
             "damage": "10<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Psi-Rifle Snap Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a quick snap shot, dealing reduced Psionic damage.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>包抄者</xpCol>单位在包抄时额外造成 25% 伤害。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Psi-Rifle Snap Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能步枪速射</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>快速发射子弹，造成较弱的灵能伤害。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>包抄者</xpCol>单位在包抄时额外造成 25% 伤害。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能步枪速射</titleBrown></popUpHeader2>",
             "slug": "psi-rifle_snap_shot_kirko_hidden",
             "icon": "psi-rifle_snap_shot_icon"
  },
         {
             "damage": "16<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Focused Hate</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>This unit channels their intense hatred for the target, dealing Psionic damage.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>破碎心灵</xpCol> 12<StrengthPsyche></StrengthPsyche> 力量几率对非无意识单位施加<abilityred>破碎心灵</abilityred>，持续 3<turn></turn></bullet><bullet><xpCol>颠簸</xpCol> 8<strengthphysical></strengthphysical> 力量几率对非虚灵飞行目标施加<abilityred>颠簸</abilityred>，持续 2<turn></turn></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Focused Hate</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>汇聚仇恨</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>该单位引导对目标的强烈恨意，造成灵能伤害。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>破碎心灵</xpCol> 12<StrengthPsyche></StrengthPsyche> 力量几率对非无意识单位施加<abilityred>破碎心灵</abilityred>，持续 3<turn></turn></bullet><bullet><xpCol>颠簸</xpCol> 8<strengthphysical></strengthphysical> 力量几率对非虚灵飞行目标施加<abilityred>颠簸</abilityred>，持续 2<turn></turn></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>汇聚仇恨</titleBrown></popUpHeader2>",
             "slug": "focused_hate_kirko_tormented",
             "icon": "focused_hate_icon"
  },
         {
             "damage": "22<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Echoes of Torment</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>22<DamagePsyche></DamagePsyche> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A long-range Psionic attack that deals heavy damage in a 1 hex radius.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>破碎心灵</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率对非无意识单位施加<abilityred>破碎心灵</abilityred>，持续 3<turn></turn></bullet><bullet><xpCol>颠簸</xpCol> 8<strengthphysical></strengthphysical> 力量几率对非虚灵飞行目标施加<abilityred>颠簸</abilityred>，持续 2<turn></turn></bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Echoes of Torment</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>>痛苦回响</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>22<DamagePsyche></DamagePsyche> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>远程灵能攻击，能够对 1 个单元格范围造成大量伤害。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>破碎心灵</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率对非无意识单位施加<abilityred>破碎心灵</abilityred>，持续 3<turn></turn></bullet><bullet><xpCol>颠簸</xpCol> 8<strengthphysical></strengthphysical> 力量几率对非虚灵飞行目标施加<abilityred>颠簸</abilityred>，持续 2<turn></turn></bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>>痛苦回响</titleBrown></popUpHeader2>",
             "slug": "echoes_of_torment_kirko_tormented",
             "icon": "echoes_of_torment_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Visions of Madness</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Evoke this unit's haunted past in the mind of target enemy unit. This has a 8<strengthpsyche></strengthpsyche> 力量几率施加 <abilityred>错乱</abilityred> to the unit for 2<turn></turn>.<br></br>If this fails, the unit receives <abilityred>破碎心灵</abilityred>.<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Visions of Madness</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>疯狂幻象</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>在目标敌方单位脑海中唤起挥之不去的心魔，有 8<strengthpsyche></strengthpsyche> 力量几率向目标单位施加 <abilityred>错乱</abilityred>。<br></br>如果失败，目标单位受到<abilityred>破碎心灵</abilityred>。<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>疯狂幻象</titleBrown></popUpHeader2>",
             "slug": "visions_of_madness_kirko_tormented",
             "icon": "visions_of_madness_icon"
  },
         {
             "damage": "20<DamageBio></DamageBio> ",
-            "description": "<popUpHeader3><titleBrown>Biochemical Discharge</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>20<DamageBio></DamageBio> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Discharges a torrent of biochemicals at short range, dealing high damage.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Biochemical Discharge</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>生化释放</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>20<DamageBio></DamageBio> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>近距离释放一道生化洪流，造成高额伤害。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>生化释放</titleBrown></popUpHeader2>",
             "slug": "biochemical_discharge_kirko_barrager",
             "icon": "biochemical_discharge_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Blinding Gas</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a bomb that explodes in a cloud of blinding gas that lingers on the battlefield for 3<turn></turn>.<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Blinding Gas</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>烟雾弹</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射一枚烟雾弹，在战场中制造障眼烟雾，可持续 3<turn></turn>。<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>烟雾弹</titleBrown></popUpHeader2>",
             "slug": "blinding_gas_kirko_barrager",
             "icon": "blinding_gas_icon"
  },
         {
             "damage": "10<DamageBio></DamageBio> ",
-            "description": "<popUpHeader3><titleBrown>Biochemical Barrage</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>40%<accuracy></accuracy><tab></tab>10<DamageBio></DamageBio> <tab></tab>2-7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a repeating barrage of Biochemicals at the target.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Biochemical Barrage</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>生化弹幕</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>40%<accuracy></accuracy><tab></tab>10<DamageBio></DamageBio> <tab></tab>2-7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射重复的生化弹幕攻击。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>生化弹幕</titleBrown></popUpHeader2>",
             "slug": "biochemical_barrage_kirko_barrager",
             "icon": "biochemical_barrage_icon"
  },
         {
             "damage": "11<DamageBio></DamageBio> ",
-            "description": "<popUpHeader3><titleBrown>Gunk Spit</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageBio></DamageBio> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Medium-range Biochemical attack.<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Gunk Spit</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灰尘喷吐</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageBio></DamageBio> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>中距离生化攻击。<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灰尘喷吐</titleBrown></popUpHeader2>",
             "slug": "gunk_spit_kirko_emergent",
             "icon": "gunk_spit_icon"
  },
@@ -5137,28 +5137,28 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "9<DamageBio></DamageBio> ",
-            "description": "<popUpHeader3><titleBrown>Gunk Thrower</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>9<DamageBio></DamageBio> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Shoot a glob of Biochemical matter at medium range.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Gunk Thrower</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灰尘投掷器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>9<DamageBio></DamageBio> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向中距离发射一团生化物质。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灰尘投掷器</titleBrown></popUpHeader2>",
             "slug": "gunk_thrower_kirko_engulfer",
             "icon": "gunk_thrower_icon"
  },
         {
             "damage": "8<DamageBio></DamageBio> ",
-            "description": "<popUpHeader3><titleBrown>Caustic Smoke</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamageBio></DamageBio> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Cover a 1 hex radius area with an acid cloud that melts armor and deals damage.<br></br><bulletList><bullet><xpCol>融化护甲</xpCol> 每次攻击破坏 1<armor></armor> 。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Caustic Smoke</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>腐蚀烟雾</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamageBio></DamageBio> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>将 1 个单元格范围区域笼罩在酸雾之中，能够融化单位的护甲并造成伤害。<br></br><bulletList><bullet><xpCol>融化护甲</xpCol> 每次攻击破坏 1<armor></armor> 。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>腐蚀烟雾</titleBrown></popUpHeader2>",
             "slug": "caustic_smoke_kirko_engulfer",
             "icon": "caustic_smoke_icon"
  },
         {
             "damage": "13<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Psi Torrent</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>13<DamagePsyche></DamagePsyche> <tab></tab>2-7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Strong Psionic attack at range.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>破碎心灵</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率对非无意识单位施加<abilityred>破碎心灵</abilityred>，持续 3<turn></turn></bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Psi Torrent</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能洪流</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>13<DamagePsyche></DamagePsyche> <tab></tab>2-7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>强力的远程灵能攻击。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>破碎心灵</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率对非无意识单位施加<abilityred>破碎心灵</abilityred>，持续 3<turn></turn></bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能洪流</titleBrown></popUpHeader2>",
             "slug": "psi_torrent_kirko_harbinger",
             "icon": "psi_torrent_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Vengeful Presence</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>All friendly units receive 20% additional damage for 2<turn></turn>.<br></br><bulletList><bullet>冷却时间：4 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Vengeful Presence</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>复仇之体</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>所有友方单位额外造成 20% 伤害，持续 2<turn></turn>。<br></br><bulletList><bullet>冷却时间：4 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>复仇之体</titleBrown></popUpHeader2>",
             "slug": "vengeful_presence_kirko_harbinger",
             "icon": "vengeful_presence_icon"
  },
@@ -5246,15 +5246,15 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "10<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Rending Claws</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Strike the target with rending claws.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 爪击)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Rending Claws</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>裂魂爪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>10<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>用你的利爪撕碎目标。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 爪击)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>裂魂爪</titleBrown></popUpHeader2>",
             "slug": "rending_claws_kirko_hive_guard",
             "icon": "rending_claws_icon"
  },
         {
             "damage": "10<DamageBio></DamageBio> ",
-            "description": "<popUpHeader3><titleBrown>Battle Vomit</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>10<DamageBio></DamageBio> <tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Short-range Biochemical area of effect attack.<br></br><bulletList><bullet><xpCol>窒息</xpCol> 8<strengthbio></strengthbio> 力量几率对生物或半机械人单位施加<abilityred>窒息</abilityred>，持续 1<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Battle Vomit</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>战斗呕吐</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>10<DamageBio></DamageBio> <tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>近距离生化范围攻击。<br></br><bulletList><bullet><xpCol>窒息</xpCol> 8<strengthbio></strengthbio> 力量几率对生物或半机械人单位施加<abilityred>窒息</abilityred>，持续 1<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(生化)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>战斗呕吐</titleBrown></popUpHeader2>",
             "slug": "battle_vomit_kirko_hive_guard",
             "icon": "battle_vomit_icon"
  },
@@ -6274,34 +6274,34 @@ var jsonUnitAbilities = {
             "icon": "thrax_rifle_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Shrouded Step</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>保留一点操作点数<leaveoneaction></leaveoneaction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>4<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Channeling their Psionic powers, this unit teleports, spreading a cloud of obscuring smoke in a 1 hex radius around the target hex's location. Units inside that area are 40% harder to hit.<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Shrouded Step</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>迷踪步</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>保留一点操作点数<leaveoneaction></leaveoneaction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>4<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>该单位引导灵能之力进行传送，在目标单元格地点周围 1 个单元格范围内散播遮挡视线的烟雾。烟雾中的单位命中难度增加 40% 。<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>迷踪步</titleBrown></popUpHeader2>",
             "slug": "shrouded_step_kirko_ancestral_hidden",
             "icon": "shrouded_step_icon"
  },
         {
             "damage": "16<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Blaster</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a blast of Arc energy at the target.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Blaster</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧爆能枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射一道电弧冲击波。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧爆能枪</titleBrown></popUpHeader2>",
             "slug": "arc_blaster_assembly_groxum",
             "icon": "arc_blaster_icon"
  },
         {
             "damage": "11<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Saw Blade Slash</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>近战攻击。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Saw Blade Slash</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>锯刃挥砍</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamagePhysical></DamagePhysical> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>近战攻击。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>锯刃挥砍</titleBrown></popUpHeader2>",
             "slug": "saw_blade_slash_assembly_groxum",
             "icon": "saw_blade_slash_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Create Construct</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Create a Construct under the player's control on the target hex. 使用此技能后，单位将进入防御模式。<br></br><br></br>召唤单位将继承所有不会赋予主动技能的兼容模块。<br></br><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Create Construct</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>建造半机械蜘蛛</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>在目标单元格创造一个由玩家控制的半机械蜘蛛。使用此技能后，单位将进入防御模式。<br></br><br></br>召唤单位将继承所有不会赋予主动技能的兼容模块。<br></br><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>建造半机械蜘蛛</titleBrown></popUpHeader2>",
             "slug": "create_construct_assembly_groxum",
             "icon": "create_construct_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Reassemble</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target a dead, light, ground unit that is Cyborg or Mechanical to bring it back to life with 50% of its max <hp></hp>. Target a living Cyborg or Machanical unit to heal it for 35<hp></hp>. Cannot target self.<br></br>使用此技能后，单位将进入防御模式。<br></br><br></br><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Reassemble</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>重装</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>以阵亡的轻型半机械人或机械陆地单位为目标时，可复活目标单位并恢复其 50% 的最大 <hp></hp>。以存活的半机械人或机械单位为目标时，可治疗其 35<hp></hp>。无法以自身为目标。<br></br>使用此技能后，单位将进入防御模式。<br></br><br></br><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>重装</titleBrown></popUpHeader2>",
             "slug": "reassemble_assembly_groxum",
             "icon": "reassemble_icon"
  },
@@ -6313,8 +6313,8 @@ var jsonUnitAbilities = {
             "icon": "beak_peck_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Visions of Madness</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Evoke this unit's haunted past in the mind of target enemy unit. This has a 8<strengthpsyche></strengthpsyche> 力量几率施加 <abilityred>错乱</abilityred> to the unit for 2<turn></turn>.<br></br>If this fails, the unit receives <abilityred>破碎心灵</abilityred>.<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Visions of Madness</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>疯狂幻象</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>在目标敌方单位脑海中唤起挥之不去的心魔，有 8<strengthpsyche></strengthpsyche> 力量几率向目标单位施加 <abilityred>错乱</abilityred>。<br></br>如果失败，目标单位受到<abilityred>破碎心灵</abilityred>。<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>疯狂幻象</titleBrown></popUpHeader2>",
             "slug": "visions_of_madness_ethereal_penguin",
             "icon": "visions_of_madness_icon"
  },
@@ -6327,8 +6327,8 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "12<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Tendrils</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Attack the target with Arc-enhanced tendrils.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>Long Reach</xpCol> Can target Flying units</bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(电弧, 近战)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Tendrils</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧触须</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用经过电弧强化的触须攻击目标。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>鞭长可及</xpCol> 可标记飞行单位</bullet></bulletList><br></br><bulletList></bulletList><br></br><silver>(电弧, 近战)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧触须</titleBrown></popUpHeader2>",
             "slug": "arc_tendrils_spark_droid",
             "icon": "arc_tendrils_icon"
  },
@@ -6439,22 +6439,22 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "16<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Vorpal Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the Vorpal Sniper rifle at the target.<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>Power Shot</xpCol> +15% critical chance.</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Vorpal Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>夺命射击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用夺命狙击枪攻击目标。<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>强力射击</xpCol> +15% 暴击率。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>夺命射击</titleBrown></popUpHeader2>",
             "slug": "vorpal_shot_assembly_will-em",
             "icon": "vorpal_shot_icon"
  },
         {
             "damage": "8<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Concussive Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire an overpowering shot, intending to stun the target.<br></br><bulletList><bullet><xpCol>震荡</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率施加 <abilityred>震荡</abilityred> to non-Ethereal or non-Mechanical for 2<turn></turn>.如果被抵抗，则造成<abilityred>强力冲击</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Concussive Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>震荡射击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射用于眩晕目标的强力射击。<br></br><bulletList><bullet><xpCol>震荡</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵和非机械单位施加<abilityred>震荡</abilityred>，持续 2<turn></turn>。如果被抵抗，则造成<abilityred>强力冲击</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>震荡射击</titleBrown></popUpHeader2>",
             "slug": "concussive_shot_assembly_will-em",
             "icon": "concussive_shot_icon"
  },
         {
             "damage": "8<DamagePhysical></DamagePhysical> ",
-            "description": "<popUpHeader3><titleBrown>Blinding Snap Shot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>A quick shot that fires a blinding flash round.<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Blinding Snap Shot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>炫目速射</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePhysical></DamagePhysical> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>快速发射能够令人致盲的闪光子弹。<br></br><bulletList><bullet><xpCol>致盲</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对非虚灵目标施加<abilityRed>被致盲</abilityRed>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(枪炮)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>炫目速射</titleBrown></popUpHeader2>",
             "slug": "blinding_snap_shot_assembly_will-em",
             "icon": "blinding_snap_shot_icon"
  },
