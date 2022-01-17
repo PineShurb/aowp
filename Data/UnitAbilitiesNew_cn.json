@@ -4211,15 +4211,15 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "12<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>PsiTec Strike</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePsyche></DamagePsyche> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Crush an opponent with Psionic Gauntlets<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>PsiTec Strike</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能科技打击</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePsyche></DamagePsyche> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用灵能臂铠碾碎敌人。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>近战</xpCol> 忽视所有 <shield></shield></bullet><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet></bulletList><br></br><silver>(近战, 灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能科技打击</titleBrown></popUpHeader2>",
             "slug": "psitec_strike_syndicate_enforcer",
             "icon": "psitec_strike_icon"
  },
         {
             "damage": "16<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Bonecrusher</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePsyche></DamagePsyche> <tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Launch a shockwave of Psionic energy that crashes into the target enemy unit.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>残废</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对生物和半机械人单位施加<abilityRed>被残废</abilityRed>，持续 3<turn></turn>。</bullet><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Bonecrusher</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>碎骨者</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamagePsyche></DamagePsyche> <tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射一道灵能能量冲击波撞向目标敌方单位。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>残废</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率对生物和半机械人单位施加<abilityRed>被残废</abilityRed>，持续 3<turn></turn>。</bullet><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>碎骨者</titleBrown></popUpHeader2>",
             "slug": "bonecrusher_syndicate_enforcer",
             "icon": "bonecrusher_icon"
  },
@@ -4231,20 +4231,20 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "8<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>PsiTec Staff</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Point the tip of a staff at the target enemy to fire blasts of Psionic energy.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>PsiTec Staff</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能科技法杖</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>8<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>将法杖顶端指向目标敌人，发射灵能冲击波。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能科技法杖</titleBrown></popUpHeader2>",
             "slug": "psitec_staff_syndicate_overseer",
             "icon": "psitec_staff_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Cerebral Override</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target Indentured unit suffers 5<damagepsyche></damagepsyche>, but regains all of their Action Points<movewalk></movewalk>, gains <abilityblue>Stagger Immunity</abilityblue> and its <hp></hp> cannot be reduced below 1 until the start of their next turn.<br></br>Doesn't work on Indentured that are unable to move and take actions.<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Cerebral Override</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>脑部超载</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>目标契约单位遭受 5<damagepsyche></damagepsyche>，但会恢复所有操作点数<movewalk></movewalk>，获得<abilityblue>动摇免疫</abilityblue>且该单位的 <hp></hp> 无法降低至 1 以下，直至下一个回合开始。<br></br>对无法移动或无法采取行动的契约单位无效。<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>脑部超载</titleBrown></popUpHeader2>",
             "slug": "cerebral_override_syndicate_overseer",
             "icon": "cerebral_override_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>PsiTec Revitalization</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target friendly Biological or Cyborg unit heals for 20 <hp></hp> and is cleared of all negative status effects.<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>PsiTec Revitalization</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能科技恢复</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>目标友方生物或半机械人单位治疗 20 <hp></hp> ，并驱散所有负面状态效果。<br></br><bulletList><bullet>每次战斗只能使用一次</bullet></bulletList><br></br><silver>(灵能增益)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能科技恢复</titleBrown></popUpHeader2>",
             "slug": "psitec_revitalization_syndicate_overseer",
             "icon": "psitec_revitalization_icon"
  },
@@ -4256,34 +4256,34 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "22<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Pulse Sniper</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>22<DamageWave></DamageWave> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a precise bolt of Arc energy at the target.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Pulse Sniper</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>脉冲狙击枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>22<DamageWave></DamageWave> <tab></tab>9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射精准的电弧能量弹。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>脉冲狙击枪</titleBrown></popUpHeader2>",
             "slug": "pulse_sniper_syndicate_guild_assassin",
             "icon": "pulse_sniper_icon"
  },
         {
             "damage": "11<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Pulse Sniper Snapshot</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a snapshot of Arc energy at the target.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Pulse Sniper Snapshot</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>脉冲狙击枪速射</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射一道快速的电弧能量。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>脉冲狙击枪速射</titleBrown></popUpHeader2>",
             "slug": "pulse_sniper_snapshot_syndicate_guild_assassin",
             "icon": "pulse_sniper_snapshot_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Breach Round</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Load a breaching round that allows the next attack to penetrate 5<armor></armor> and 5<shield></shield>, and gain 30% accuracy. Does not affect Pulse Sniper Snapshot.<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Breach Round</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>穿透弹</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>装填一发穿透弹，下次攻击将穿透 5<armor></armor> 和 5<shield></shield>，并获得 30% 准度。对脉冲狙击枪速射无效。<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>穿透弹</titleBrown></popUpHeader2>",
             "slug": "breach_round_syndicate_guild_assassin",
             "icon": "breach_round_icon"
  },
         {
             "damage": "7<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>PsiTec Blasters</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>7<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire PsiTec Blasters at the target.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>PsiTec Blasters</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能科技爆能枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>7<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用灵能科技爆能枪攻击目标。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能科技爆能枪</titleBrown></popUpHeader2>",
             "slug": "psitec_blasters_syndicate_mirage",
             "icon": "psitec_blasters_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Hallucination Projector</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Non-Mindless units in a 1 hex radius have a 8<StrengthPsyche></StrengthPsyche> strength chance to receive<abilityred>幻觉</abilityred> for 2<turn></turn>. Units lose -30% accuracy, and all attacks Flank them. On resist apply<abilityred>破碎心灵</abilityred>.<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Hallucination Projector</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>幻觉发射器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br> 1 个单元格范围内的非无意识单位有 8<StrengthPsyche></StrengthPsyche> 力量几率被施加<abilityred>幻觉</abilityred>，持续 2<turn></turn>。这些单位将失去 -30% 准度且受到的所有攻击都变为包抄攻击。如果抵抗，将改为施加<abilityred>破碎心灵</abilityred>。<br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>幻觉发射器</titleBrown></popUpHeader2>",
             "slug": "hallucination_projector_syndicate_mirage",
             "icon": "hallucination_projector_icon"
  },
@@ -4301,36 +4301,36 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "12<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>PsiTec Cannon</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the PsiTec Cannon at the target.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>PsiTec Cannon</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能科技炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用灵能科技炮攻击目标。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能科技炮</titleBrown></popUpHeader2>",
             "slug": "psitec_cannon_syndicate_wraith",
             "icon": "psitec_cannon_icon"
  },
         {
             "damage": "20<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>PsiTec Blast</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>85%<accuracy></accuracy><tab></tab>20<DamagePsyche></DamagePsyche> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Release a Psionic blast in a cone towards the target direction.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>PsiTec Blast</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能科技冲击波</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>85%<accuracy></accuracy><tab></tab>20<DamagePsyche></DamagePsyche> <tab></tab>1<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标方向扇形区域释放灵能冲击波。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能科技冲击波</titleBrown></popUpHeader2>",
             "slug": "psitec_blast_syndicate_wraith",
             "icon": "psitec_blast_icon"
  },
         {
             "damage": "10<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Activate Wraith Drive</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>10<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Teleport to the target location, dealing Psionic damage to units adjacent to the target hex. The Wraith tank goes into defense mode after use.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Activate Wraith Drive</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>激活幽魂驱动</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>10<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>传送至目标地点，对目标单元格相邻的单位造成灵能伤害。使用后，幽魂坦克将进入防御模式。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>激活幽魂驱动</titleBrown></popUpHeader2>",
             "slug": "activate_wraith_drive_syndicate_wraith",
             "icon": "activate_wraith_drive_icon"
  },
         {
             "damage": "7<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Pulse Pistol</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>7<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire blasts of Arc energy at the target.<br></br><bulletList><bullet><xpCol>包抄者</xpCol>单位在包抄时额外造成 25% 伤害。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Pulse Pistol</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>脉冲手枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>7<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射一道电弧能量冲击波。<br></br><bulletList><bullet><xpCol>包抄者</xpCol>单位在包抄时额外造成 25% 伤害。</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>脉冲手枪</titleBrown></popUpHeader2>",
             "slug": "pulse_pistol_syndicate_runner",
             "icon": "pulse_pistol_icon"
  },
         {
             "damage": "5<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Bolas</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Throw an advanced bolas to capture and immobilize units.<br></br><bulletList><bullet><xpCol>包抄者</xpCol>单位在包抄时额外造成 25% 伤害。</bullet><bullet><xpCol>无法移动</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率施加 <abilityred>无法移动</abilityred> for 2<turn></turn></bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>每次战斗只能使用一次</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Bolas</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧流星锤</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<DamageWave></DamageWave> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>投掷一条高级流星锤捕获目标并使目标无法移动。<br></br><bulletList><bullet><xpCol>包抄者</xpCol>单位在包抄时额外造成 25% 伤害。</bullet><bullet><xpCol>无法移动</xpCol> 8<StrengthPhysical></StrengthPhysical> 力量几率施加 <abilityred>无法移动</abilityred>持续 2<turn></turn></bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>每次战斗只能使用一次</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧流星锤</titleBrown></popUpHeader2>",
             "slug": "arc_bolas_syndicate_runner",
             "icon": "arc_bolas_icon"
  },
@@ -4342,95 +4342,95 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "9<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Pulse Repeater</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>9<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire blasts of Arc energy at the target.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Pulse Repeater</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>脉冲连发枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>9<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射一道电弧能量冲击波。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>脉冲连发枪</titleBrown></popUpHeader2>",
             "slug": "pulse_repeater_syndicate_indentured",
             "icon": "pulse_repeater_icon"
  },
         {
             "damage": "12<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Arc Power Blast</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>120%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a powerful, short-range blast. This unit enters <abilityblue>防御模式</abilityblue>afterwards.<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>击退</xpCol> 12<StrengthPhysical></StrengthPhysical> chance to <abilityred>击退</abilityred> a non-Ethereal, non-Heavy enemy unit 1 hex.</bullet><bullet><xpCol>Wide Spread</xpCol> 30% more accuracy</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Arc Power Blast</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>电弧能量冲击波</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>120%<accuracy></accuracy><tab></tab>12<DamageWave></DamageWave> <tab></tab>3<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射一道威力巨大的近距离冲击波，此后单位将进入 <abilityblue>防御模式</abilityblue>。<br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>击退</xpCol> 有 12<StrengthPhysical></StrengthPhysical> 几率将非虚灵非重型敌方单位<abilityred>击退</abilityred> 1 个单元格。</bullet><bullet><xpCol>大幅扩散</xpCol> 准度增加 30% </bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>电弧能量冲击波</titleBrown></popUpHeader2>",
             "slug": "arc_power_blast_syndicate_indentured",
             "icon": "arc_power_blast_icon"
  },
         {
             "damage": "10<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Pulse Lance</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>10<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a lance of Arc energy at the target.<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Pulse Lance</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>脉冲长矛</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>10<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标发射一支电弧能量长矛。<br></br><bulletList><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>脉冲长矛</titleBrown></popUpHeader2>",
             "slug": "pulse_lance_syndicate_sentinel",
             "icon": "pulse_lance_icon"
  },
         {
             "damage": "22<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Heavy Pulse Cannon</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>22<DamageWave></DamageWave> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the Heavy Pulse Cannon at the target, dealing heavy Arc damage with high impact in a 1 hex radius.<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Heavy Pulse Cannon</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>重型脉冲加农炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>22<DamageWave></DamageWave> <tab></tab>2-9<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>F使用重型脉冲加农炮攻击目标，对 1 个单元格范围内的单位造成大量电弧伤害并附带高度冲击。<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>重型脉冲加农炮</titleBrown></popUpHeader2>",
             "slug": "heavy_pulse_cannon_syndicate_sentinel",
             "icon": "heavy_pulse_cannon_icon"
  },
         {
             "damage": "12<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>PsiTec Heavy Repeaters</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire PsiTec Heavy Repeaters at the target.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>PsiTec Heavy Repeaters</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灵能科技重型连发枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>12<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用灵能科技重型连发枪攻击目标。<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灵能科技重型连发枪</titleBrown></popUpHeader2>",
             "slug": "psitec_heavy_repeaters_syndicate_subjugator",
             "icon": "psitec_heavy_repeaters_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Deploy Cerebral Control Collars</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>8<StrengthPsyche></StrengthPsyche> chance to control target non-Mindless Infantry unit. If successful, they are <abilityred>心灵控制</abilityred>. At the end of combat, the unit turns into an Indentured in your service. If this fails, the target is instead <abilityred>Disabled</abilityred> for 1<turn></turn>.<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Deploy Cerebral Control Collars</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>部署脑部控制颈圈</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>8<StrengthPsyche></StrengthPsyche> 尝试控制目标非无意识步兵单位。如果成功，他们将被<abilityred>心灵控制</abilityred>并在战斗结束后变为你的契约单位。如果失败，目标将陷入<abilityred>瘫痪</abilityred>，持续  1<turn></turn>。<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>部署脑部控制颈圈</titleBrown></popUpHeader2>",
             "slug": "deploy_cerebral_control_collars_syndicate_subjugator",
             "icon": "deploy_cerebral_control_collars_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Activate Reanimation Collars</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Return the target dead Indentured unit back to service at full hit points.<br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Activate Reanimation Collars</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>激活重生颈圈</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使目标阵亡契约单位复活并恢复全部生命值。<br></br><bulletList><bullet>仅对地面目标有效</bullet><bullet>每次战斗只能使用一次</bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>激活重生颈圈</titleBrown></popUpHeader2>",
             "slug": "activate_reanimation_collars_syndicate_subjugator",
             "icon": "activate_reanimation_collars_icon"
  },
         {
             "damage": "14<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Project Agony Field</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>14<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Project a ranged field of Psionic energy that is specially designed to torture and break units. <br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>无法移动</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率施加 <abilityRed>无法移动</abilityRed> to non-Mindless targets for 1<turn></turn>。如果被抵抗，则改为施加<abilityred>缓慢</abilityred> instead.</bullet></bulletList><br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Project Agony Field</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>投放痛苦力场</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>14<DamagePsyche></DamagePsyche> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>发射一道灵能能量的远距离力场，折磨并摧毁单位。 <br></br><bulletList><bullet><xpCol>高度冲击</xpCol> <abilityred>动摇</abilityred>单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>无法移动</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率施加 <abilityRed>无法移动</abilityRed>，持续 1<turn></turn>。如果被抵抗，则改为施加<abilityred>缓慢</abilityred>。</bullet></bulletList><br></br><bulletList><bullet>冷却时间：1 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>投放痛苦力场</titleBrown></popUpHeader2>",
             "slug": "project_agony_field_syndicate_subjugator",
             "icon": "project_agony_field_icon"
  },
         {
             "damage": "16<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Pulse Drivers</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire Pulse Drivers at the target.<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Pulse Drivers</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>脉冲驱动器</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>16<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用脉冲驱动器攻击目标。<br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>脉冲驱动器</titleBrown></popUpHeader2>",
             "slug": "pulse_drivers_syndicate_zenith",
             "icon": "pulse_drivers_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>House Anthem</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Inspire all friendly units on the battlefield, granting them +20% increased damage and +200<happiness></happiness>morale for 3<turn></turn>.<br></br><bulletList><bullet>冷却时间：4 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>House Anthem</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>家族赞歌</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>0<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>激励战场上的所有友方单位，使他们造成的伤害提高 +20% ，并获得 +200<happiness></happiness>，持续 3<turn></turn>。<br></br><bulletList><bullet>冷却时间：4 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>家族赞歌</titleBrown></popUpHeader2>",
             "slug": "house_anthem_syndicate_zenith",
             "icon": "house_anthem_icon"
  },
         {
             "damage": "25<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Cataclysm Cannon</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>25<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire the Cataclysm cannon at the target location, dealing damage in a large area of effect.<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet><bullet><xpCol>触电</xpCol> 12<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：2 <turn></turn></bullet><bullet>开始时处于冷却状态</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Cataclysm Cannon</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>灾难大炮</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>25<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用灾难大炮轰击目标地点，造成大片范围伤害。<br></br><bulletList><bullet><xpCol>强力冲击</xpCol> <abilityred>动摇</abilityred>单位，包括动摇抵抗单位，减少其操作点数并取消其防御模式。</bullet><bullet><xpCol>粉碎者</xpCol> 对障碍物造成 200% 额外伤害，可破坏加固障碍物。</bullet><bullet><xpCol>触电</xpCol> 12<StrengthWave></StrengthWave> 力量几率对非虚灵单位施加 <abilityred>触电</abilityred>，持续 3<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>冷却时间：2 <turn></turn></bullet><bullet>开始时处于冷却状态</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>灾难大炮</titleBrown></popUpHeader2>",
             "slug": "cataclysm_cannon_syndicate_zenith",
             "icon": "cataclysm_cannon_icon"
  },
         {
-            "description": "<popUpHeader3><titleBrown>Reinforcement Zone</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Teleport reinforcements into the target area, restoring all friendly Biological and Cyborg units to full hit points.<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Reinforcement Zone</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>增援区</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>将增援传送至目标区域，所有生物和半机械人单位恢复全部生命值。<br></br><bulletList><bullet>冷却时间：3 <turn></turn></bullet></bulletList></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>增援区</titleBrown></popUpHeader2>",
             "slug": "reinforcement_zone_syndicate_zenith",
             "icon": "reinforcement_zone_icon"
  },
         {
             "damage": "11<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Breach Pulse Repeater</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Fire a breaching pulse repeater at the target.<br></br><bulletList><bullet><xpCol>忽视防御</xpCol> 忽视 1<armor></armor> 及 1<shield></shield></bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Breach Pulse Repeater</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>穿透脉冲连发枪</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>重复<repeatingAction></repeatingAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>90%<accuracy></accuracy><tab></tab>11<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>使用穿透脉冲连发枪攻击目标。<br></br><bulletList><bullet><xpCol>忽视防御</xpCol> 忽视 1<armor></armor> 及 1<shield></shield></bullet><bullet><xpCol>防空</xpCol>针对飞行目标获得 +20% 伤害/+20% 准度</bullet></bulletList><br></br><bulletList><bullet>受视野规则影响</bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>穿透脉冲连发枪</titleBrown></popUpHeader2>",
             "slug": "breach_pulse_repeater_syndicate_guild_cruiser",
             "icon": "breach_pulse_repeater_icon"
  },
         {
             "damage": "18<DamageWave></DamageWave> ",
-            "description": "<popUpHeader3><titleBrown>Deploy Pulse Charge</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>18<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Deploy a Pulse Charge into an area, exploding in an Arc field that damages units, applies <abilityred>静电电荷</abilityred> and leaves a Static Cloud Hazard in the area.<br></br><bulletList><bullet><xpCol>静电电荷</xpCol> 施加 1 层<abilityred>静电电荷</abilityred>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
-            "name": "<popUpHeader2><titleBrown>Deploy Pulse Charge</titleBrown></popUpHeader2>",
+            "description": "<popUpHeader3><titleBrown>部署脉冲电荷</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>全部操作点数<fullAction></fullAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>80%<accuracy></accuracy><tab></tab>18<DamageWave></DamageWave> <tab></tab>7<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>向目标区域部署脉冲电荷，位于电弧力场中将会爆炸并对单位造成伤害，同时施加<abilityred>静电电荷</abilityred>并在范围内留下一片静电云。<br></br><bulletList><bullet><xpCol>静电电荷</xpCol> 施加 1 层<abilityred>静电电荷</abilityred>，持续 2<turn></turn>。</bullet></bulletList><br></br><bulletList><bullet>无视视野惩罚</bullet><bullet>仅对地面目标有效</bullet><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(电弧)</silver></popUpDesc>",
+            "name": "<popUpHeader2><titleBrown>部署脉冲电荷</titleBrown></popUpHeader2>",
             "slug": "deploy_pulse_charge_syndicate_guild_cruiser",
             "icon": "deploy_pulse_charge_icon"
  },
@@ -4443,7 +4443,7 @@ var jsonUnitAbilities = {
  },
         {
             "damage": "6<DamagePsyche></DamagePsyche> ",
-            "description": "<popUpHeader3><titleBrown>Motion Suppressor</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>6<DamagePsyche></DamagePsyche> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target a unit to hamper its movement. This effect jumps to another unit within 2 hexes.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>无法移动</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率施加 <abilityRed>无法移动</abilityRed> to non-Mindless targets for 1<turn></turn>。如果被抵抗，则改为施加<abilityred>缓慢</abilityred> instead.</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
+            "description": "<popUpHeader3><titleBrown>Motion Suppressor</titleBrown></popUpHeader3><br></br><HelpText>主动技能<tab></tab><actionblue>单个操作点数<singleUseAction></singleUseAction></actionblue></HelpText><spacedline></spacedline><popUpHeader3><popUpHeader2>100%<accuracy></accuracy><tab></tab>6<DamagePsyche></DamagePsyche> <tab></tab>5<range></range></popUpHeader2></popUpHeader3><spacedline></spacedline><popUpDesc><br></br>Target a unit to hamper its movement. This effect jumps to another unit within 2 hexes.<br></br><bulletList><bullet><xpCol>灵能</xpCol> 忽视所有 <armor></armor></bullet><bullet><xpCol>无法移动</xpCol> 8<StrengthPsyche></StrengthPsyche> 力量几率施加 <abilityRed>无法移动</abilityRed>，持续 1<turn></turn>。如果被抵抗，则改为施加<abilityred>缓慢</abilityred> instead.</bullet></bulletList><br></br><bulletList><bullet>冷却时间：2 <turn></turn></bullet></bulletList><br></br><silver>(灵能)</silver></popUpDesc>",
             "name": "<popUpHeader2><titleBrown>Motion Suppressor</titleBrown></popUpHeader2>",
             "slug": "motion_suppressor_syndicate_hoverbike",
             "icon": "motion_suppressor_icon"
