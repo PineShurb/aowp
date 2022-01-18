@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<link rel="shortcut icon" type="image/x-icon" href="/aowp/favicon.ico" />
+
+<head>
+    <link rel="stylesheet" type="text/css" href="/aowp/Data/style.css">
+    <meta charset="UTF-8">
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js" integrity="sha256-C6CB9UYIS9UJeqinPHWTHVqh/E1uhG5Twh+Y5qFQmYg=" crossorigin="anonymous"></script>
+    <script type="text/javascript" language="javascript" src="/aowp/CN/Data/UnitAbilitiesNew.json"></script>
+    <script type="text/javascript" language="javascript" src="/aowp/CN/Data/UnitsNew.json"></script>
+    <script type="text/javascript" language="javascript" src="/aowp/CN/Data/BuilderNew.js"></script>
+    <script>
+        $("#body").ready(function() {
+
+            $("#header").load("/aowp/CN/index.html");
+
+            $("#unit").load("/aowp/CN/unitcard.html", function() {
+                showUnit("psionica_leech");
+            });
+            $("#unit2").load("/aowp/CN/unitcard.html", function() {
+                showUnit("psionica_liquid_tick");
+            });
+
+            $("#unit3").load("/aowp/CN/unitcard.html", function() {
+                showUnit("psionica_remora");
+            });
+
+
+
+
+        });
+        $(document).ready(function() {
+            function showStats() {
+                textFit(document.getElementsByClassName('unit_passiveslot'));
+            }
+
+            setTimeout(showStats, 500);
+        });
+    </script>
+
+
+    <title>奇迹时代：星陨 - 灵蛭(星王)</title>
+</head>
+
+<body>
+    <div id="header"></div>
+
+    <h2 style="text-align: center; color: aliceblue">
+        灵蛭(星王)
+    </h2>
+    <div id="unit">
+    </div>
+    <div id="unit2"></div>
+    <div id="unit3"></div>
+
+
+    <!-- <iframe id="testing" width=0px height=0px src="../../../unitcard_cn.html">
+        <p>Your browser does not support iframes.</p>
+    </iframe>-->
+    </div>
+
+
+</body></html>
