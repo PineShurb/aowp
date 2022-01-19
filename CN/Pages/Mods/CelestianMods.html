@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<link rel="shortcut icon" type="image/x-icon" href="/aowp/favicon.ico" />
+
+<head>
+    <link rel="stylesheet" type="text/css" href="/aowp/Data/style.css">
+    <meta charset="UTF-8">
+    <script type="text/javascript" language="javascript" src="/aowp/CN/Data/UnitAbilitiesNew.json"></script>
+    <script type="text/javascript" language="javascript" src="/aowp/CN/Data/UnitsNew.json"></script>
+    <script type="text/javascript" language="javascript" src="/aowp/CN/Data/BuilderNew.js"></script>
+    <script type="text/javascript" language="javascript" src="/aowp/CN/Data/UnitMods.json"></script>
+
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script>
+        $("#body").ready(function() {
+
+            $("#header").load("/aowp/CN/index.html");
+
+            $("#mod1").load("/aowp/CN/unitcard.html", function() {
+                showMod("tenets_of_tranquility");
+            });
+            $("#mod2").load("/aowp/CN/unitcard.html", function() {
+                showMod("shield_of_remorse");
+            });
+            $("#mod3").load("/aowp/CN/unitcard.html", function() {
+                showMod("tenets_of_healing");
+            });
+            $("#mod4").load("/aowp/CN/unitcard.html", function() {
+                showMod("tenets_of_pacifism");
+            });
+            $("#mod5").load("/aowp/CN/unitcard.html", function() {
+                showMod("shield_of_reckoning");
+            });
+
+
+        });
+
+    </script>
+
+
+    <title>Age of Wonders Planetfall - Celestian Mods</title>
+</head>
+
+<body>
+    <div id="header"></div>
+
+    <h2 style="text-align: center; color: aliceblue">
+        Celestian Mods
+    </h2>
+    <div id="mod1">
+    </div>
+    <div id="mod2"></div>
+    <div id="mod3"></div>
+    <div id="mod4"></div>
+    <div id="mod5"></div>
+
+
+
+
+    </div>
+
+
+</body>
+
+</html>
