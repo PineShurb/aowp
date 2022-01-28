@@ -574,7 +574,7 @@
              type.innerHTML = jsonBuildings.buildings[j].type;
 
              cost = document.getElementById("buildingcost");
-             cost.innerHTML = "Cost : " + jsonBuildings.buildings[j].cost;
+             cost.innerHTML = "消耗: " + jsonBuildings.buildings[j].cost;
              if (jsonBuildings.buildings.prereq != "") {
 
                  prereq = document.getElementById("buildingprereq");
@@ -604,7 +604,7 @@
              tier.innerHTML = "<silver>" + "阶级 " + jsonMods.mods[j].tier + ", " + jsonMods.mods[j].type + "</silver>";
              tier.setAttribute("id", "modtier" + a);
              cost = document.getElementById("modcost");
-             cost.innerHTML = "Purchase Cost : " + jsonMods.mods[j].cost;
+             cost.innerHTML = "购买消耗: " + jsonMods.mods[j].cost;
              cost.setAttribute("id", "modcost" + a);
              imagelink = document.getElementById("modicon");
 
