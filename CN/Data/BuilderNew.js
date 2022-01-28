@@ -608,13 +608,13 @@
              cost.setAttribute("id", "modcost" + a);
              imagelink = document.getElementById("modicon");
 
-             if (jsonMods.mods[j].name.includes("Vehicle")) {
+             if (jsonMods.mods[j].name.includes("载具")) {
                  a = a.replace("vehicle:_", "");
              }
-             if (jsonMods.mods[j].type.includes("Weapon")) {
+             if (jsonMods.mods[j].type.includes("武器")) {
                  a = a.replace("equipment:_", "");
              }
-             if (jsonMods.mods[j].type.includes("Hero")) {
+             if (jsonMods.mods[j].type.includes("英雄")) {
                  a = a.replace("equipment:_", "");
              }
 
