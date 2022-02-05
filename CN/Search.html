@@ -31,20 +31,20 @@
             $(this).css("color", "cyan");
         });
     </script>
-    <title>Age of Wonders Planetfall - Search</title>
+    <title>奇迹时代：星陨 - 搜索</title>
 </head>
 
 <body>
     <div id="header"></div>
 
     <div class="buttons">
-        <a href="#" onclick="showhide3('unitS');" style="font-size: 20px; color: aqua" class="togglelink"> Unit Search </a>
-        <a href="#" onclick="showhide3('modS');" style="font-size: 20px" class="togglelink"> Mod Search </a>
+        <a href="#" onclick="showhide3('unitS');" style="font-size: 20px; color: aqua" class="togglelink"> 搜索单位 </a>
+        <a href="#" onclick="showhide3('modS');" style="font-size: 20px" class="togglelink"> 搜索模块 </a>
 
     </div>
     <div id="unitS" style=" width:100%;margin: auto;">
-        <h2 style="color:white;text-align: center">Unit Search</h2>
-        <p style="color:white;text-align: center">use "+" to search for up to 3 keywords <br> E.G: <span style="color:aqua">cyborg+skirmisher+overwatch</span><br>Add tier like "tier3"</p>
+        <h2 style="color:white;text-align: center">搜索单位</h2>
+        <p style="color:white;text-align: center">最多使用3个关键词，关键词之间用 "+" 号连接 <br> 例如: <span style="color:aqua">cyborg+skirmisher+overwatch</span><br>Add tier like "tier3"</p>
         <br>
         <div style="margin-right: auto; margin-left: auto; width: 300px;">
             <input type="text" style="margin-right: auto; margin-left: auto; width: 300px;" id="searchInput">
@@ -52,11 +52,11 @@
             <p id="searchResult" style="color: aqua"></p>
 
         </div>
-        <div id="searchOutput">test</div>
+        <div id="searchOutput">测试</div>
     </div>
     <div id="modS" style=" width:100%;margin: auto; display: none">
-        <h2 style="color:white;text-align: center">Mod Search</h2>
-        <p style="color:white;text-align: center">Search name and description of mods</p>
+        <h2 style="color:white;text-align: center">搜索模块</h2>
+        <p style="color:white;text-align: center">搜索模块的名称及描述</p>
         <br>
         <div style="margin-right: auto; margin-left: auto; width: 300px;">
             <input type="text" style="margin-right: auto; margin-left: auto; width: 300px;" id="searchInputMod">
@@ -64,7 +64,7 @@
             <p id="searchResultMod" style="color: aqua"></p>
 
         </div>
-        <div id="searchOutputMod">test</div>
+        <div id="searchOutputMod">测试</div>
     </div>
 </body>
 <script>
@@ -183,7 +183,7 @@
 
 
         }
-        result.innerHTML = listMod.length.toString() + " results found";
+        result.innerHTML = listMod.length.toString() + " 搜索结果";
         for (j = 0; j < listMod.length; j++) {
 
             addModCard(listMod[j]);
@@ -315,7 +315,7 @@
 
         }
 
-        result.innerHTML = list.length.toString() + " results found";
+        result.innerHTML = list.length.toString() + " 搜索结果";
         for (j = 0; j < list.length; j++) {
 
             addUnitCard(list[j]);
@@ -427,7 +427,7 @@
         // iDiv.setAttribute("id", "unit");
         // alert(unit);
         document.getElementById("searchOutput").appendChild(iDiv);
-        $(iDiv).load("/aowp/unitcard.html", function() {
+        $(iDiv).load("/aowp/CN/unitcard.html", function() {
             showUnit(unit);
         });
 
