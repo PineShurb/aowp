@@ -4,7 +4,7 @@ var jsonTech = {
 
 
             "slug": "amazon_protective_grounding",
-            "name": "Protective Grounding",
+            "name": "防护基地",
 
             "mod_unlock": [
                 {
@@ -29,7 +29,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_arborian_commune",
-            "name": "Arborian Commune",
+            "name": "树人组",
 
             "mod_unlock": [
                 {
@@ -54,7 +54,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_forest_genesis",
-            "name": "Forest Genesis",
+            "name": "森林创世纪",
 
             "mod_unlock": [
                 {
@@ -83,7 +83,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_aquatica_commune",
-            "name": "Aquatica Commune",
+            "name": "水兽组",
 
             "mod_unlock": [
                 {
@@ -108,7 +108,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_primal_control",
-            "name": "Primal Control",
+            "name": "原始控制器",
 
             "mod_unlock": [
                 {
@@ -137,7 +137,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_harrier_commune",
-            "name": "Harrier Commune",
+            "name": "鹞龙组",
 
             "mod_unlock": [
                 {
@@ -162,7 +162,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_bombardon_commune",
-            "name": "Bombardon Commune",
+            "name": "轰龙组",
 
             "mod_unlock": [
                 {
@@ -187,7 +187,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_regenerative_bio_resonance",
-            "name": "Regenerative Bio Resonance",
+            "name": "再生生物共鸣",
 
             "mod_unlock": [
                 {
@@ -212,7 +212,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_amplified_bio_resonance",
-            "name": "Amplified Bio Resonance",
+            "name": "强化生物共鸣",
 
             "mod_unlock": [
                 {
@@ -237,7 +237,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_tyrannodon_commune",
-            "name": "Tyrannodon Commune",
+            "name": "暴龙组",
 
             "mod_unlock": [
                 {
@@ -262,7 +262,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_restorative_cloning",
-            "name": "Restorative Cloning",
+            "name": "恢复性克隆",
 
             "mod_unlock": [
                 {
@@ -291,7 +291,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_organism_stimulus",
-            "name": "Organism Stimulus",
+            "name": "机体刺激",
 
             "mod_unlock": [
                 {
@@ -316,7 +316,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_arborian_queen_commune",
-            "name": "Arborian Queen Commune",
+            "name": "树人女王组",
 
             "mod_unlock": [
                 {
@@ -341,7 +341,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_gaialogical_affinity",
-            "name": "Gaialogical Affinity",
+            "name": "盖亚亲和",
 
             "mod_unlock": [
                 {
@@ -370,7 +370,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_verdant_awakening",
-            "name": "Verdant Awakening",
+            "name": "苍翠觉醒",
 
             "mod_unlock": [
                 {
@@ -399,7 +399,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_gaian_stewardship",
-            "name": "Gaian Stewardship",
+            "name": "盖亚管理",
 
             "mod_unlock": [
                 {
@@ -432,7 +432,7 @@ var jsonTech = {
 
         {
             "slug": "amazon_new_eden",
-            "name": "New Eden",
+            "name": "新伊甸园",
 
             "mod_unlock": [
                 {
@@ -465,7 +465,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_alpha_strain_inception",
-            "name": "Alpha Strain Inception",
+            "name": "初始毒株创造",
 
             "mod_unlock": [
                 {
@@ -490,7 +490,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_militarized_strains",
-            "name": "Militarized Strains",
+            "name": "军事化毒株",
 
             "mod_unlock": [
                 {
@@ -519,7 +519,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_dispersion",
-            "name": "Dispersion",
+            "name": "分散",
 
             "mod_unlock": [
                 {
@@ -548,7 +548,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_destroyer_mutation",
-            "name": "Destroyer Mutation",
+            "name": "毁灭者突变",
 
             "mod_unlock": [
                 {
@@ -573,7 +573,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_omega_strain",
-            "name": "Omega Strain",
+            "name": "终极毒株",
 
             "mod_unlock": [
                 {
@@ -602,7 +602,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_regenerative_stimulation",
-            "name": "Regenerative Stimulation",
+            "name": "再生刺激",
 
             "mod_unlock": [
                 {
@@ -627,7 +627,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_plague_lord_mutation",
-            "name": "Plague Lord Mutation",
+            "name": "疫病领主突变",
 
             "mod_unlock": [
                 {
@@ -652,7 +652,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_expedited_germination",
-            "name": "Expedited Germination",
+            "name": "加速萌发",
 
             "mod_unlock": [
                 {
@@ -681,7 +681,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_proliferated_aggression",
-            "name": "Proliferated Aggression",
+            "name": "增殖侵略",
 
             "mod_unlock": [
                 {
@@ -706,7 +706,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_advanced_militarized_strains",
-            "name": "Advanced Militarized Strains",
+            "name": "高级军事化毒株",
 
             "mod_unlock": [
                 {
@@ -735,7 +735,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_symbiotic_superiority",
-            "name": "Symbiotic Superiority",
+            "name": "共生优越",
 
             "mod_unlock": [
                 {
@@ -764,7 +764,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_omega_transcendance",
-            "name": "Omega Transcendance",
+            "name": "终极超越",
 
             "mod_unlock": [
                 {
@@ -789,7 +789,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_bio-matter_repurposing",
-            "name": "Bio-Matter Repurposing",
+            "name": "生化物质再利用",
 
             "mod_unlock": [
                 {
@@ -822,7 +822,7 @@ var jsonTech = {
 
         {
             "slug": "xenoplague_infection_experiments",
-            "name": "Infection Experiments",
+            "name": "感染实验",
 
             "mod_unlock": [
                 {
@@ -854,7 +854,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_discerning_systems",
-            "name": "Discerning Systems",
+            "name": "辨识系统",
 
             "mod_unlock": [
                 {
@@ -879,7 +879,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_propaganda_propagation",
-            "name": "Propaganda Propagation",
+            "name": "宣传蔓延",
 
             "mod_unlock": [
                 {
@@ -908,7 +908,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_caste_military_applications",
-            "name": "Caste Military Applications",
+            "name": "氏族军事应用",
 
             "mod_unlock": [
                 {
@@ -937,7 +937,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_propagator_deployment",
-            "name": "Propagator Deployment",
+            "name": "宣传者部署",
 
             "mod_unlock": [
                 {
@@ -962,7 +962,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_holotech_applications",
-            "name": "Holotech Applications",
+            "name": "全息科技应用",
 
             "mod_unlock": [
                 {
@@ -991,7 +991,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_firebrand_deployment",
-            "name": "Firebrand Deployment",
+            "name": "煽动者部署",
 
             "mod_unlock": [
                 {
@@ -1016,7 +1016,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_orbit_tactics",
-            "name": "Orbit Tactics",
+            "name": "轨道战术",
 
             "mod_unlock": [
                 {
@@ -1041,7 +1041,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_tactician_deployment",
-            "name": "Tactician Deployment",
+            "name": "战术师部署",
 
             "mod_unlock": [
                 {
@@ -1066,7 +1066,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_cold_war_measures",
-            "name": "Cold War Measures",
+            "name": "冷战措施",
 
             "mod_unlock": [
                 {
@@ -1095,7 +1095,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_refractor_deployment",
-            "name": "Refractor Deployment",
+            "name": "折射器部署",
 
             "mod_unlock": [
                 {
@@ -1120,7 +1120,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_caste_advancements",
-            "name": "Caste Advancements",
+            "name": "氏族进化",
 
             "mod_unlock": [
                 {
@@ -1149,7 +1149,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_perfected_holotech",
-            "name": "Perfected Holotech",
+            "name": "完善全息科技",
 
             "mod_unlock": [
                 {
@@ -1174,7 +1174,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_gama_supremacy",
-            "name": "Gama Supremacy",
+            "name": "伽马霸权",
 
             "mod_unlock": [
                 {
@@ -1199,7 +1199,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_gama_omnitech_research",
-            "name": "Gama Omnitech Research",
+            "name": "伽马全能技术研究",
 
             "mod_unlock": [
                 {
@@ -1228,7 +1228,7 @@ var jsonTech = {
 
         {
             "slug": "laser_heavy_laser_applications",
-            "name": "Heavy Laser Applications",
+            "name": "重型激光武器",
 
             "mod_unlock": [
                 {
@@ -1253,7 +1253,7 @@ var jsonTech = {
 
         {
             "slug": "laser_photon_acceleration",
-            "name": "Photon Acceleration",
+            "name": "光子加速",
 
             "mod_unlock": [
                 {
@@ -1278,7 +1278,7 @@ var jsonTech = {
 
         {
             "slug": "laser_non-refracting_lasers",
-            "name": "Non-Refracting Lasers",
+            "name": "无折射激光",
 
             "mod_unlock": [
                 {
@@ -1303,7 +1303,7 @@ var jsonTech = {
 
         {
             "slug": "laser_crystalline_technology",
-            "name": "Crystalline Technology",
+            "name": "水晶科技",
 
             "mod_unlock": [
                 {
@@ -1332,7 +1332,7 @@ var jsonTech = {
 
         {
             "slug": "laser_plasma_weaponry",
-            "name": "Plasma Weaponry",
+            "name": "等离子武器",
 
             "mod_unlock": [
                 {
@@ -1357,7 +1357,7 @@ var jsonTech = {
 
         {
             "slug": "sonic_deafening_frequencies",
-            "name": "Deafening Frequencies",
+            "name": "震耳频率",
 
             "mod_unlock": [
                 {
@@ -1382,7 +1382,7 @@ var jsonTech = {
 
         {
             "slug": "sonic_sonolysis_application",
-            "name": "Sonolysis Application",
+            "name": "超声波分析应用",
 
             "mod_unlock": [
                 {
@@ -1407,7 +1407,7 @@ var jsonTech = {
 
         {
             "slug": "sonic_sound_augmentation",
-            "name": "Sound Augmentation",
+            "name": "音波强化",
 
             "mod_unlock": [
                 {
@@ -1436,7 +1436,7 @@ var jsonTech = {
 
         {
             "slug": "sonic_accelerated_sound_waves",
-            "name": "Accelerated Sound Waves",
+            "name": "加速音波",
 
             "mod_unlock": [
                 {
@@ -1461,7 +1461,7 @@ var jsonTech = {
 
         {
             "slug": "sonic_perfect_resonance",
-            "name": "Perfect Resonance",
+            "name": "完美共振",
 
             "mod_unlock": [
                 {
@@ -1486,7 +1486,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_synthesis_integration",
-            "name": "Synthesis Integration",
+            "name": "合成整合",
 
             "mod_unlock": [
                 {
@@ -1515,7 +1515,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_daemon_deployment",
-            "name": "Daemon Deployment",
+            "name": "精灵部署",
 
             "mod_unlock": [
                 {
@@ -1548,7 +1548,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_information_control",
-            "name": "Information Control",
+            "name": "信息掌控",
 
             "mod_unlock": [
                 {
@@ -1573,7 +1573,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_combat_subroutines",
-            "name": "Combat Subroutines",
+            "name": "战斗子程序",
 
             "mod_unlock": [
                 {
@@ -1602,7 +1602,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_motion_disruption",
-            "name": "Motion Disruption",
+            "name": "行动干扰",
 
             "mod_unlock": [
                 {
@@ -1631,7 +1631,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_network_connectivity",
-            "name": "Network Connectivity",
+            "name": "网络连通性",
 
             "mod_unlock": [
                 {
@@ -1656,7 +1656,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_basilisk_network",
-            "name": "Basilisk Network",
+            "name": "蜥蜴网络",
 
             "mod_unlock": [
                 {
@@ -1685,7 +1685,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_pacification_cypher",
-            "name": "Pacification Cypher",
+            "name": "安抚密码",
 
             "mod_unlock": [
                 {
@@ -1709,7 +1709,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_systems_regulation",
-            "name": "Systems Regulation",
+            "name": "系统管理",
 
             "mod_unlock": [
                 {
@@ -1738,7 +1738,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_neural_integration",
-            "name": "Neural Integration",
+            "name": "神经整合",
 
             "mod_unlock": [
                 {
@@ -1763,7 +1763,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_autonomous_malware",
-            "name": "Autonomous Malware",
+            "name": "自主恶意软件",
 
             "mod_unlock": [
                 {
@@ -1788,7 +1788,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_basilisk_singularity",
-            "name": "Basilisk Singularity",
+            "name": "蜥蜴独权",
 
             "mod_unlock": [
                 {
@@ -1813,7 +1813,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_planetfall_procedures",
-            "name": "Planetfall Procedures",
+            "name": "星球着陆程序",
 
             "mod_unlock": [
                 {
@@ -1846,7 +1846,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_manipulation_campaigns",
-            "name": "Manipulation Campaigns",
+            "name": "操纵战役",
 
             "mod_unlock": [
                 {
@@ -1875,7 +1875,7 @@ var jsonTech = {
 
         {
             "slug": "shakarn_expert_council",
-            "name": "Expert Council",
+            "name": "专家委员会",
 
             "mod_unlock": [
                 {
@@ -1908,7 +1908,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_cyber_optimization",
-            "name": "Cyber Optimization",
+            "name": "网络优化",
 
             "mod_unlock": [
                 {
@@ -1941,7 +1941,7 @@ var jsonTech = {
 
         {
             "slug": "synthesis_cyber_society",
-            "name": "Cyber Society",
+            "name": "网络社会",
 
             "mod_unlock": [
                 {
@@ -1970,7 +1970,7 @@ var jsonTech = {
 
         {
             "slug": "doctrine_dawn_of_a_new_union",
-            "name": "Dawn of a New Union",
+            "name": "新联盟的曙光",
 
             "mod_unlock": [
                 {
@@ -2005,7 +2005,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_nanite_support",
-            "name": "Nanite Support",
+            "name": "纳米机器人支援",
 
             "mod_unlock": [
                 {
@@ -2034,7 +2034,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_engineering_corps",
-            "name": "Engineering Corps",
+            "name": "工程军团",
 
             "mod_unlock": [
                 {
@@ -2059,7 +2059,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_smart_defense_modules",
-            "name": "Smart Defense Modules",
+            "name": "智能防御模块",
 
             "mod_unlock": [
                 {
@@ -2088,7 +2088,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_air_corps",
-            "name": "Air Corps",
+            "name": "空中军团",
 
             "mod_unlock": [
                 {
@@ -2113,7 +2113,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_drone_deployment",
-            "name": "Drone Deployment",
+            "name": "无人机部署",
 
             "mod_unlock": [
                 {
@@ -2146,7 +2146,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_naval_command",
-            "name": "Naval Command",
+            "name": "海军指挥",
 
             "mod_unlock": [
                 {
@@ -2171,7 +2171,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_rapid_maneuverability",
-            "name": "Rapid Maneuverability",
+            "name": "快速机动",
 
             "mod_unlock": [
                 {
@@ -2196,7 +2196,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_tank_corps",
-            "name": "Tank Corps",
+            "name": "坦克军团",
 
             "mod_unlock": [
                 {
@@ -2221,7 +2221,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_sentry_technology",
-            "name": "Sentry Technology",
+            "name": "哨兵科技",
 
             "mod_unlock": [
                 {
@@ -2246,7 +2246,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_walker_corps",
-            "name": "Walker Corps",
+            "name": "行者军团",
 
             "mod_unlock": [
                 {
@@ -2271,7 +2271,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_orbital_station",
-            "name": "Orbital Station",
+            "name": "轨道站点",
 
             "mod_unlock": [
                 {
@@ -2300,7 +2300,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_predator_conditioning",
-            "name": "Predator Conditioning",
+            "name": "掠食者调控",
 
             "mod_unlock": [
                 {
@@ -2325,7 +2325,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_carrier_command",
-            "name": "Carrier Command",
+            "name": "母舰命令",
 
             "mod_unlock": [
                 {
@@ -2350,7 +2350,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_force_concentration",
-            "name": "Force Concentration",
+            "name": "力量集中",
 
             "mod_unlock": [
                 {
@@ -2379,7 +2379,7 @@ var jsonTech = {
 
         {
             "slug": "firearms_subjugation_ordnance",
-            "name": "Subjugation Ordnance",
+            "name": "征服军械",
 
             "mod_unlock": [
                 {
@@ -2404,7 +2404,7 @@ var jsonTech = {
 
         {
             "slug": "firearms_electromagnetic_utilization",
-            "name": "Electromagnetic Utilization",
+            "name": "电磁利用",
 
             "mod_unlock": [
                 {
@@ -2433,7 +2433,7 @@ var jsonTech = {
 
         {
             "slug": "firearms_kinetic_force_manipulation",
-            "name": "Kinetic Force Manipulation",
+            "name": "动力控制",
 
             "mod_unlock": [
                 {
@@ -2458,7 +2458,7 @@ var jsonTech = {
 
         {
             "slug": "firearms_explosive_payloads",
-            "name": "Explosive Payloads",
+            "name": "爆炸弹头",
 
             "mod_unlock": [
                 {
@@ -2483,7 +2483,7 @@ var jsonTech = {
 
         {
             "slug": "firearms_relativistic_projectiles",
-            "name": "Relativistic Projectiles",
+            "name": "相对论炮弹",
 
             "mod_unlock": [
                 {
@@ -2508,7 +2508,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_tactical_protection",
-            "name": "Tactical Protection",
+            "name": "战术防护",
 
             "mod_unlock": [
                 {
@@ -2537,7 +2537,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_phoenix_op_station",
-            "name": "Phoenix Op Station",
+            "name": "凤凰行动站",
 
             "mod_unlock": [
                 {
@@ -2566,7 +2566,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_purifier_corps",
-            "name": "Purifier Corps",
+            "name": "净化者军团",
 
             "mod_unlock": [
                 {
@@ -2591,7 +2591,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_biosphere_subjugation",
-            "name": "Biosphere Subjugation",
+            "name": "征服生态圈",
 
             "mod_unlock": [
                 {
@@ -2616,7 +2616,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_advanced_aegis_shielding",
-            "name": "Advanced Aegis Shielding",
+            "name": "高级神盾庇护",
 
             "mod_unlock": [
                 {
@@ -2641,7 +2641,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_aegis_tank_corps",
-            "name": "Aegis Tank Corps",
+            "name": "神盾坦克军团",
 
             "mod_unlock": [
                 {
@@ -2666,7 +2666,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_pyrx_inception",
-            "name": "Pyrx Inception",
+            "name": "派尔克斯开端",
 
             "mod_unlock": [
                 {
@@ -2695,7 +2695,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_pyrx_sector_preparations",
-            "name": "PyrX Sector Preparations",
+            "name": "派尔克斯区域准备",
 
             "mod_unlock": [
                 {
@@ -2724,7 +2724,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_thermal_surge_modules",
-            "name": "Thermal Surge Modules",
+            "name": "热能涌动模块",
 
             "mod_unlock": [
                 {
@@ -2753,7 +2753,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_phoenix_walker_corps",
-            "name": "Phoenix Walker Corps",
+            "name": "凤凰行者军团",
 
             "mod_unlock": [
                 {
@@ -2778,7 +2778,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_phoenix_rising",
-            "name": "Phoenix Rising",
+            "name": "凤凰崛起",
 
             "mod_unlock": [
                 {
@@ -2803,7 +2803,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_planetary_purification",
-            "name": "Planetary Purification",
+            "name": "星球净化",
 
             "mod_unlock": [
                 {
@@ -2828,7 +2828,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_frontier_policies",
-            "name": "Frontier Policies",
+            "name": "边境政策",
 
             "mod_unlock": [
                 {
@@ -2861,7 +2861,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_subjugation_protocols",
-            "name": "Subjugation Protocols",
+            "name": "征服协议",
 
             "mod_unlock": [
                 {
@@ -2890,7 +2890,7 @@ var jsonTech = {
 
         {
             "slug": "vanguard_hegemony",
-            "name": "Hegemony",
+            "name": "霸权",
 
             "mod_unlock": [
                 {
@@ -2923,7 +2923,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_phoenix_dawn_protocols",
-            "name": "Phoenix Dawn Protocols",
+            "name": "凤凰黎明协议",
 
             "mod_unlock": [
                 {
@@ -2956,7 +2956,7 @@ var jsonTech = {
 
         {
             "slug": "promethean_phoenix_nighttide_protocols",
-            "name": "Phoenix Nighttide Protocols",
+            "name": "凤凰夜潮协议",
 
             "mod_unlock": [
                 {
@@ -2986,7 +2986,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_unshackling",
-            "name": "Unshackling",
+            "name": "挣脱桎梏",
 
             "mod_unlock": [
                 {
@@ -3015,7 +3015,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_vigorous_emergence",
-            "name": "Vigorous Emergence",
+            "name": "活力焕发",
 
             "mod_unlock": [
                 {
@@ -3044,7 +3044,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_engulfer_caste",
-            "name": "Engulfer Caste",
+            "name": "吞食飞虫族",
 
             "mod_unlock": [
                 {
@@ -3069,7 +3069,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_regeneration",
-            "name": "Regeneration",
+            "name": "恢复力",
 
             "mod_unlock": [
                 {
@@ -3094,7 +3094,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_deep_caste",
-            "name": "Deep Caste",
+            "name": "深渊古兽族",
 
             "mod_unlock": [
                 {
@@ -3119,7 +3119,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_infection",
-            "name": "Infection",
+            "name": "感染",
 
             "mod_unlock": [
                 {
@@ -3148,7 +3148,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_barrager_caste",
-            "name": "Barrager Caste",
+            "name": "弹幕蝎虫族",
 
             "mod_unlock": [
                 {
@@ -3173,7 +3173,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_resilience",
-            "name": "Resilience",
+            "name": "坚韧",
 
             "mod_unlock": [
                 {
@@ -3202,7 +3202,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_ravenous_caste",
-            "name": "Ravenous Caste",
+            "name": "贪婪暴虫族",
 
             "mod_unlock": [
                 {
@@ -3227,7 +3227,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_swarm_expulsions",
-            "name": "Swarm Expulsions",
+            "name": "族群驱逐",
 
             "mod_unlock": [
                 {
@@ -3256,7 +3256,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_tormented_caste",
-            "name": "Tormented Caste",
+            "name": "折磨之主族",
 
             "mod_unlock": [
                 {
@@ -3281,7 +3281,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_neogenesis",
-            "name": "Neogenesis",
+            "name": "新生",
 
             "mod_unlock": [
                 {
@@ -3310,7 +3310,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_return_of_the_harbinger",
-            "name": "Return of the Harbinger",
+            "name": "先兆王虫的归来",
 
             "mod_unlock": [
                 {
@@ -3335,7 +3335,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_metamorphosis",
-            "name": "Metamorphosis",
+            "name": "变形",
 
             "mod_unlock": [
                 {
@@ -3364,7 +3364,7 @@ var jsonTech = {
 
         {
             "slug": "biochemical_biochemical_applications",
-            "name": "Biochemical Applications",
+            "name": "生化应用",
 
             "mod_unlock": [
                 {
@@ -3389,7 +3389,7 @@ var jsonTech = {
 
         {
             "slug": "biochemical_volatile_afflictions",
-            "name": "Volatile Afflictions",
+            "name": "无常痛楚",
 
             "mod_unlock": [
                 {
@@ -3414,7 +3414,7 @@ var jsonTech = {
 
         {
             "slug": "biochemical_specialized_strains",
-            "name": "Specialized Strains",
+            "name": "特殊毒株",
 
             "mod_unlock": [
                 {
@@ -3443,7 +3443,7 @@ var jsonTech = {
 
         {
             "slug": "biochemical_advanced_infections",
-            "name": "Advanced Infections",
+            "name": "末期感染",
 
             "mod_unlock": [
                 {
@@ -3468,7 +3468,7 @@ var jsonTech = {
 
         {
             "slug": "biochemical_blight_plague",
-            "name": "Blight Plague",
+            "name": "瘟疫枯潮",
 
             "mod_unlock": [
                 {
@@ -3493,7 +3493,7 @@ var jsonTech = {
 
         {
             "slug": "psionics_dominion_of_purification",
-            "name": "Dominion of Purification",
+            "name": "净化支配",
 
             "mod_unlock": [
                 {
@@ -3522,7 +3522,7 @@ var jsonTech = {
 
         {
             "slug": "psionics_dominion_of_affliction",
-            "name": "Dominion of Affliction",
+            "name": "痛苦支配",
 
             "mod_unlock": [
                 {
@@ -3547,7 +3547,7 @@ var jsonTech = {
 
         {
             "slug": "psionics_dominion_of_vitality",
-            "name": "Dominion of Vitality",
+            "name": "活力支配",
 
             "mod_unlock": [
                 {
@@ -3572,7 +3572,7 @@ var jsonTech = {
 
         {
             "slug": "psionics_dominion_of_command",
-            "name": "Dominion of Command",
+            "name": "命令支配",
 
             "mod_unlock": [
                 {
@@ -3597,7 +3597,7 @@ var jsonTech = {
 
         {
             "slug": "psionics_dominion_of_aether",
-            "name": "Dominion of Aether",
+            "name": "以太支配",
 
             "mod_unlock": [
                 {
@@ -3622,7 +3622,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_phase_manipulation",
-            "name": "Phase Manipulation",
+            "name": "相位控制",
 
             "mod_unlock": [
                 {
@@ -3647,7 +3647,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_echo_walker_program",
-            "name": "Echo Walker Program",
+            "name": "回声行者程序",
 
             "mod_unlock": [
                 {
@@ -3672,7 +3672,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_void_technology",
-            "name": "Void Technology",
+            "name": "虚空科技",
 
             "mod_unlock": [
                 {
@@ -3701,7 +3701,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_vortex_instability",
-            "name": "Vortex Instability",
+            "name": "漩涡动荡",
 
             "mod_unlock": [
                 {
@@ -3730,7 +3730,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_phase_manipulator_program",
-            "name": "Phase Manipulator Program",
+            "name": "相位控制程序",
 
             "mod_unlock": [
                 {
@@ -3755,7 +3755,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_dimensional_control",
-            "name": "Dimensional Control",
+            "name": "维度控制",
 
             "mod_unlock": [
                 {
@@ -3784,7 +3784,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_phase_echo_generation",
-            "name": "Phase Echo Generation",
+            "name": "相位回声生成",
 
             "mod_unlock": [
                 {
@@ -3809,7 +3809,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_void_tactics",
-            "name": "Void Tactics",
+            "name": "虚空战术",
 
             "mod_unlock": [
                 {
@@ -3838,7 +3838,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_temporal_dislocation",
-            "name": "Temporal Dislocation",
+            "name": "时间错位",
 
             "mod_unlock": [
                 {
@@ -3867,7 +3867,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_rift_generation",
-            "name": "Rift Generation",
+            "name": "裂隙生成",
 
             "mod_unlock": [
                 {
@@ -3892,7 +3892,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_alter_reality",
-            "name": "Alter Reality",
+            "name": "改变现实",
 
             "mod_unlock": [
                 {
@@ -3921,7 +3921,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_dimension_weaponization",
-            "name": "Dimension Weaponization",
+            "name": "维度武器化",
 
             "mod_unlock": [
                 {
@@ -3950,7 +3950,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_dimensional_mastery",
-            "name": "Dimensional Mastery",
+            "name": "维度掌控",
 
             "mod_unlock": [
                 {
@@ -3975,7 +3975,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_nurturing",
-            "name": "Nurturing",
+            "name": "培育",
 
             "mod_unlock": [
                 {
@@ -4008,7 +4008,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_perspective",
-            "name": "Perspective",
+            "name": "远见",
 
             "mod_unlock": [
                 {
@@ -4037,7 +4037,7 @@ var jsonTech = {
 
         {
             "slug": "kirko_the_new_hive",
-            "name": "The New Hive",
+            "name": "新族群",
 
             "mod_unlock": [
                 {
@@ -4070,7 +4070,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_quantum_gain",
-            "name": "Quantum Gain",
+            "name": "量子增益",
 
             "mod_unlock": [
                 {
@@ -4103,7 +4103,7 @@ var jsonTech = {
 
         {
             "slug": "voidtech_quantum_leap",
-            "name": "Quantum Leap",
+            "name": "量子跃迁",
 
             "mod_unlock": [
                 {
@@ -4133,7 +4133,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_perimeter_security",
-            "name": "Perimeter Security",
+            "name": "边缘安全",
 
             "mod_unlock": [
                 {
@@ -4162,7 +4162,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_aerial_division",
-            "name": "Aerial Division",
+            "name": "航空部",
 
             "mod_unlock": [
                 {
@@ -4187,7 +4187,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_drudges",
-            "name": "Drudges",
+            "name": "苦工",
 
             "mod_unlock": [
                 {
@@ -4216,7 +4216,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_dreadnought_division",
-            "name": "Dreadnought Division",
+            "name": "无畏战舰部",
 
             "mod_unlock": [
                 {
@@ -4241,7 +4241,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_d-vr_mark_iv_upgrades",
-            "name": "D-VR Mark IV Upgrades",
+            "name": "D-VR 马克四号型升级",
 
             "mod_unlock": [
                 {
@@ -4270,7 +4270,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_deep_detonation",
-            "name": "Deep Detonation",
+            "name": "深度爆破",
 
             "mod_unlock": [
                 {
@@ -4299,7 +4299,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_noble_division",
-            "name": "Noble Division",
+            "name": "贵族部",
 
             "mod_unlock": [
                 {
@@ -4328,7 +4328,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_risk_management",
-            "name": "Risk Management",
+            "name": "风险管理",
 
             "mod_unlock": [
                 {
@@ -4357,7 +4357,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_excavations_division",
-            "name": "Excavations Division",
+            "name": "挖掘部",
 
             "mod_unlock": [
                 {
@@ -4382,7 +4382,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_artillery_division",
-            "name": "Artillery Division",
+            "name": "火炮部",
 
             "mod_unlock": [
                 {
@@ -4407,7 +4407,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_advanced_dv-r_suits",
-            "name": "Advanced DV-R Suits",
+            "name": "高级 DV-R 套装",
 
             "mod_unlock": [
                 {
@@ -4436,7 +4436,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_cataclysm_generation",
-            "name": "Cataclysm Generation",
+            "name": "大灾变源起",
 
             "mod_unlock": [
                 {
@@ -4461,7 +4461,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_seismic_supremacy",
-            "name": "Seismic Supremacy",
+            "name": "地震霸权",
 
             "mod_unlock": [
                 {
@@ -4486,7 +4486,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_peak_efficiency",
-            "name": "Peak Efficiency",
+            "name": "效率巅峰",
 
             "mod_unlock": [
                 {
@@ -4515,7 +4515,7 @@ var jsonTech = {
 
         {
             "slug": "explosives_enhanced_payloads",
-            "name": "Enhanced Payloads",
+            "name": "强化弹头",
 
             "mod_unlock": [
                 {
@@ -4540,7 +4540,7 @@ var jsonTech = {
 
         {
             "slug": "explosives_thermodynamics",
-            "name": "Thermodynamics",
+            "name": "热力学",
 
             "mod_unlock": [
                 {
@@ -4565,7 +4565,7 @@ var jsonTech = {
 
         {
             "slug": "explosives_advanced_launchers",
-            "name": "Advanced Launchers",
+            "name": "高级发射器",
 
             "mod_unlock": [
                 {
@@ -4590,7 +4590,7 @@ var jsonTech = {
 
         {
             "slug": "explosives_augmented_payloads",
-            "name": "Augmented Payloads",
+            "name": "增强弹头",
 
             "mod_unlock": [
                 {
@@ -4619,7 +4619,7 @@ var jsonTech = {
 
         {
             "slug": "explosives_nuclear_solution",
-            "name": "Nuclear Solution",
+            "name": "核方案",
 
             "mod_unlock": [
                 {
@@ -4644,7 +4644,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_foreboding_darkness",
-            "name": "Foreboding Darkness",
+            "name": "预兆的黑暗",
 
             "mod_unlock": [
                 {
@@ -4669,7 +4669,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_initiation_into_agony",
-            "name": "Initiation into Agony",
+            "name": "进入痛苦",
 
             "mod_unlock": [
                 {
@@ -4694,7 +4694,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_whispers_and_visions",
-            "name": "Whispers and Visions",
+            "name": "低语和幻象",
 
             "mod_unlock": [
                 {
@@ -4723,7 +4723,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_accursed_gifts",
-            "name": "Accursed Gifts",
+            "name": "诅咒的馈赠",
 
             "mod_unlock": [
                 {
@@ -4752,7 +4752,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_dark_lament",
-            "name": "Dark Lament",
+            "name": "黑暗哀歌",
 
             "mod_unlock": [
                 {
@@ -4781,7 +4781,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_exploit_suffering",
-            "name": "Exploit Suffering",
+            "name": "利用苦难",
 
             "mod_unlock": [
                 {
@@ -4806,7 +4806,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_communal_torment",
-            "name": "Communal Torment",
+            "name": "共同磨难",
 
             "mod_unlock": [
                 {
@@ -4835,7 +4835,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_symbol_of_obliteration",
-            "name": "Symbol of Obliteration",
+            "name": "灭绝标志",
 
             "mod_unlock": [
                 {
@@ -4864,7 +4864,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_abyssal_shroud",
-            "name": "Abyssal Shroud",
+            "name": "深渊裹衣",
 
             "mod_unlock": [
                 {
@@ -4893,7 +4893,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_ruthless_dedication",
-            "name": "Ruthless Dedication",
+            "name": "残忍奉献",
 
             "mod_unlock": [
                 {
@@ -4918,7 +4918,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_looming_oblivion",
-            "name": "Looming Oblivion",
+            "name": "隐约的遗忘",
 
             "mod_unlock": [
                 {
@@ -4943,7 +4943,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_oblivion's_refrain",
-            "name": "Oblivion's Refrain",
+            "name": "遗忘咒声",
 
             "mod_unlock": [
                 {
@@ -4968,7 +4968,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_exploitation_campaign",
-            "name": "Exploitation Campaign",
+            "name": "开采之战",
 
             "mod_unlock": [
                 {
@@ -5001,7 +5001,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_superior_engineering",
-            "name": "Superior Engineering",
+            "name": "卓越工程",
 
             "mod_unlock": [
                 {
@@ -5030,7 +5030,7 @@ var jsonTech = {
 
         {
             "slug": "dvar_planetary_oligarchy",
-            "name": "Planetary Oligarchy",
+            "name": "星际寡头",
 
             "mod_unlock": [
                 {
@@ -5063,7 +5063,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_shadows_manifest",
-            "name": "Shadows Manifest",
+            "name": "阴影显现",
 
             "mod_unlock": [
                 {
@@ -5096,7 +5096,7 @@ var jsonTech = {
 
         {
             "slug": "psynumbra_vile_manipulation",
-            "name": "Vile Manipulation",
+            "name": "邪恶操控",
 
             "mod_unlock": [
                 {
@@ -5124,7 +5124,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_exploit_weakness",
-            "name": "Exploit Weakness",
+            "name": "利用弱点",
 
             "mod_unlock": [
                 {
@@ -5149,7 +5149,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_enforce_control",
-            "name": "Enforce Control",
+            "name": "武力控制",
 
             "mod_unlock": [
                 {
@@ -5174,7 +5174,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_employ_deception",
-            "name": "Employ Deception",
+            "name": "善用欺骗",
 
             "mod_unlock": [
                 {
@@ -5203,7 +5203,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_force_projection",
-            "name": "Force Projection",
+            "name": "兵力投送",
 
             "mod_unlock": [
                 {
@@ -5228,7 +5228,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_preventative_control",
-            "name": "Preventative Control",
+            "name": "预防性控制",
 
             "mod_unlock": [
                 {
@@ -5257,7 +5257,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_military_dominance",
-            "name": "Military Dominance",
+            "name": "军事统治",
 
             "mod_unlock": [
                 {
@@ -5282,7 +5282,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_covert_offensive",
-            "name": "Covert Offensive",
+            "name": "隐秘进攻",
 
             "mod_unlock": [
                 {
@@ -5307,7 +5307,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_alternative_measures",
-            "name": "Alternative Measures",
+            "name": "替代手段",
 
             "mod_unlock": [
                 {
@@ -5340,7 +5340,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_augmented_force",
-            "name": "Augmented Force",
+            "name": "增强实力",
 
             "mod_unlock": [
                 {
@@ -5369,7 +5369,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_cerebral_submission",
-            "name": "Cerebral Submission",
+            "name": "征服大脑",
 
             "mod_unlock": [
                 {
@@ -5394,7 +5394,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_advancement_tactics",
-            "name": "Advancement Tactics",
+            "name": "进阶战术",
 
             "mod_unlock": [
                 {
@@ -5419,7 +5419,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_illustrious_conquest",
-            "name": "Illustrious Conquest",
+            "name": "卓越征服",
 
             "mod_unlock": [
                 {
@@ -5444,7 +5444,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_technological_supremacy",
-            "name": "Technological Supremacy",
+            "name": "技术霸权",
 
             "mod_unlock": [
                 {
@@ -5473,7 +5473,7 @@ var jsonTech = {
 
         {
             "slug": "arc_magnetic_energy_storage",
-            "name": "Magnetic Energy Storage",
+            "name": "磁能存储",
 
             "mod_unlock": [
                 {
@@ -5498,7 +5498,7 @@ var jsonTech = {
 
         {
             "slug": "arc_electron_impact",
-            "name": "Electron Impact",
+            "name": "电子冲击",
 
             "mod_unlock": [
                 {
@@ -5523,7 +5523,7 @@ var jsonTech = {
 
         {
             "slug": "arc_ionic_detachment",
-            "name": "Ionic Detachment",
+            "name": "离子分离",
 
             "mod_unlock": [
                 {
@@ -5548,7 +5548,7 @@ var jsonTech = {
 
         {
             "slug": "arc_neuro-electric_disruptors",
-            "name": "Neuro-electric Disruptors",
+            "name": "神经电路干扰器",
 
             "mod_unlock": [
                 {
@@ -5577,7 +5577,7 @@ var jsonTech = {
 
         {
             "slug": "arc_positron_technology",
-            "name": "Positron Technology",
+            "name": "正电科技",
 
             "mod_unlock": [
                 {
@@ -5606,7 +5606,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_light's_embrace",
-            "name": "Light's Embrace",
+            "name": "光之怀抱",
 
             "mod_unlock": [
                 {
@@ -5631,7 +5631,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_penance",
-            "name": "Penance",
+            "name": "忏悔",
 
             "mod_unlock": [
                 {
@@ -5656,7 +5656,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_luminance",
-            "name": "Luminance",
+            "name": "光明",
 
             "mod_unlock": [
                 {
@@ -5681,7 +5681,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_inner_fire",
-            "name": "Inner Fire",
+            "name": "心魄之火",
 
             "mod_unlock": [
                 {
@@ -5714,7 +5714,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_perseverance",
-            "name": "Perseverance",
+            "name": "坚持不懈",
 
             "mod_unlock": [
                 {
@@ -5739,7 +5739,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_star_presence",
-            "name": "Star Presence",
+            "name": "星辰降临",
 
             "mod_unlock": [
                 {
@@ -5764,7 +5764,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_light_of_truth",
-            "name": "Light of Truth",
+            "name": "真理之光",
 
             "mod_unlock": [
                 {
@@ -5793,7 +5793,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_star_ward",
-            "name": "Star Ward",
+            "name": "星辰守卫",
 
             "mod_unlock": [
                 {
@@ -5822,7 +5822,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_way_of_peace",
-            "name": "Way of Peace",
+            "name": "和平之路",
 
             "mod_unlock": [
                 {
@@ -5847,7 +5847,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_colony_sanctuary",
-            "name": "Colony Sanctuary",
+            "name": "殖民地圣所",
 
             "mod_unlock": [
                 {
@@ -5876,7 +5876,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_repercussion",
-            "name": "Repercussion",
+            "name": "恶果",
 
             "mod_unlock": [
                 {
@@ -5901,7 +5901,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_axiom_of_light",
-            "name": "Axiom of Light",
+            "name": "光之公理",
 
             "mod_unlock": [
                 {
@@ -5926,7 +5926,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_ascension",
-            "name": "Ascension",
+            "name": "升华",
 
             "mod_unlock": [
                 {
@@ -5951,7 +5951,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_celestial_reign",
-            "name": "Celestial Reign",
+            "name": "星神统治",
 
             "mod_unlock": [
                 {
@@ -5984,7 +5984,7 @@ var jsonTech = {
 
         {
             "slug": "celestian_neo_evangelicals",
-            "name": "Neo Evangelicals",
+            "name": "新福音派",
 
             "mod_unlock": [
                 {
@@ -6017,7 +6017,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_diplomatic_niceties",
-            "name": "Diplomatic Niceties",
+            "name": "外交细节",
 
             "mod_unlock": [
                 {
@@ -6046,7 +6046,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_clandestine_practices",
-            "name": "Clandestine Practices",
+            "name": "秘密行动",
 
             "mod_unlock": [
                 {
@@ -6079,7 +6079,7 @@ var jsonTech = {
 
         {
             "slug": "syndicate_underhanded_exploitation",
-            "name": "Underhanded Exploitation",
+            "name": "秘密利用",
 
             "mod_unlock": [
                 {
@@ -6112,7 +6112,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_reverse_engineering",
-            "name": "Reverse Engineering",
+            "name": "逆转工程",
 
             "mod_unlock": [
                 {
@@ -6137,7 +6137,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_auxiliary_resource_extraction",
-            "name": "Auxiliary Resource Extraction",
+            "name": "辅助资源提取",
 
             "mod_unlock": [
                 {
@@ -6166,7 +6166,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_harness_the_storm",
-            "name": "Harness the Storm",
+            "name": "驾驭风暴",
 
             "mod_unlock": [
                 {
@@ -6191,7 +6191,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_advanced_bionics",
-            "name": "Advanced Bionics",
+            "name": "高级仿生学",
 
             "mod_unlock": [
                 {
@@ -6220,7 +6220,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_naval_demolitions",
-            "name": "Naval Demolitions",
+            "name": "海上破坏",
 
             "mod_unlock": [
                 {
@@ -6245,7 +6245,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_adaptive_systems",
-            "name": "Adaptive Systems",
+            "name": "适配系统",
 
             "mod_unlock": [
                 {
@@ -6274,7 +6274,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_molecular_computing",
-            "name": "Molecular Computing",
+            "name": "分子计算",
 
             "mod_unlock": [
                 {
@@ -6302,7 +6302,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_toxic_applications",
-            "name": "Toxic Applications",
+            "name": "毒性应用",
 
             "mod_unlock": [
                 {
@@ -6331,7 +6331,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_destructive_means",
-            "name": "Destructive Means",
+            "name": "毁灭性手段",
 
             "mod_unlock": [
                 {
@@ -6356,7 +6356,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_ionic_manipulation",
-            "name": "Ionic Manipulation",
+            "name": "离子操控",
 
             "mod_unlock": [
                 {
@@ -6385,7 +6385,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_disassemblers",
-            "name": "Disassemblers",
+            "name": "拆解者",
 
             "mod_unlock": [
                 {
@@ -6410,7 +6410,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_system_reload",
-            "name": "System Reload",
+            "name": "系统重载",
 
             "mod_unlock": [
                 {
@@ -6439,7 +6439,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_ultimate_form",
-            "name": "Ultimate Form",
+            "name": "终极形态",
 
             "mod_unlock": [
                 {
@@ -6464,7 +6464,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_quantric_technology",
-            "name": "Quantric Technology",
+            "name": "量子技术",
 
             "mod_unlock": [
                 {
@@ -6493,7 +6493,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_efficient_scavenging",
-            "name": "Efficient Scavenging",
+            "name": "高效拾荒",
 
             "mod_unlock": [
                 {
@@ -6522,7 +6522,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_social_reconstruction",
-            "name": "Social Reconstruction",
+            "name": "社会重建",
 
             "mod_unlock": [
                 {
@@ -6551,7 +6551,7 @@ var jsonTech = {
 
         {
             "slug": "assembly_universal_reassembly",
-            "name": "Universal Reassembly",
+            "name": "通用改造",
 
             "mod_unlock": [
                 {
@@ -6584,7 +6584,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_gift_of_the_es'teq",
-            "name": "Gift of the Es'Teq",
+            "name": "埃斯特克的馈赠",
 
             "mod_unlock": [
                 {
@@ -6613,7 +6613,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_holy_presence",
-            "name": "Holy Presence",
+            "name": "神圣气派",
 
             "mod_unlock": [
                 {
@@ -6642,7 +6642,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_siphoner_awakening",
-            "name": "Siphoner Awakening",
+            "name": "生命汲取者觉醒",
 
             "mod_unlock": [
                 {
@@ -6667,7 +6667,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_wrath_of_the_ancients",
-            "name": "Wrath of the Ancients",
+            "name": "远古者之怒",
 
             "mod_unlock": [
                 {
@@ -6696,7 +6696,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_zealous_conviction",
-            "name": "Zealous Conviction",
+            "name": "狂热信念",
 
             "mod_unlock": [
                 {
@@ -6721,7 +6721,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_transmigration_rituals",
-            "name": "Transmigration Rituals",
+            "name": "轮回仪式",
 
             "mod_unlock": [
                 {
@@ -6750,7 +6750,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_quintessence_ark_awakening",
-            "name": "Quintessence Ark Awakening",
+            "name": "精髓方舟觉醒",
 
             "mod_unlock": [
                 {
@@ -6775,7 +6775,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_prelude_to_rapture",
-            "name": "Prelude to Rapture",
+            "name": "狂欢序曲",
 
             "mod_unlock": [
                 {
@@ -6804,7 +6804,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_dissemination_rituals",
-            "name": "Dissemination Rituals",
+            "name": "传播仪式",
 
             "mod_unlock": [
                 {
@@ -6833,7 +6833,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_sacred_providence",
-            "name": "Sacred Providence",
+            "name": "神圣天意",
 
             "mod_unlock": [
                 {
@@ -6858,7 +6858,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_high_lord_awakening",
-            "name": "High Lord Awakening",
+            "name": "至尊领主觉醒",
 
             "mod_unlock": [
                 {
@@ -6883,7 +6883,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_forced_conversion",
-            "name": "Forced Conversion",
+            "name": "强制转换",
 
             "mod_unlock": [
                 {
@@ -6912,7 +6912,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_venerated_incarnation",
-            "name": "Venerated Incarnation",
+            "name": "崇敬化身",
 
             "mod_unlock": [
                 {
@@ -6937,7 +6937,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_final_revelation",
-            "name": "Final Revelation",
+            "name": "终极启示",
 
             "mod_unlock": [
                 {
@@ -6962,7 +6962,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_ancestral_creed",
-            "name": "Ancestral Creed",
+            "name": "先祖信条",
 
             "mod_unlock": [
                 {
@@ -6995,7 +6995,7 @@ var jsonTech = {
 
         {
             "slug": "heritor_sacred_resurgence",
-            "name": "Sacred Resurgence",
+            "name": "神圣复苏",
 
             "mod_unlock": [
                 {
@@ -7026,7 +7026,7 @@ var jsonTech = {
 
         {
             "slug": "society_aquatic_deployment",
-            "name": "Aquatic Deployment",
+            "name": "水上部署",
 
             "mod_unlock": [
                 {
@@ -7059,7 +7059,7 @@ var jsonTech = {
 
         {
             "slug": "society_frontier_facilities",
-            "name": "Frontier Facilities",
+            "name": "边境设施",
 
             "mod_unlock": [
                 {
@@ -7090,7 +7090,7 @@ var jsonTech = {
 
         {
             "slug": "society_production_development_i",
-            "name": "Production Development I",
+            "name": "产力发展 I",
 
             "mod_unlock": [
                 {
@@ -7123,7 +7123,7 @@ var jsonTech = {
 
         {
             "slug": "society_energy_development_i",
-            "name": "Energy Development I",
+            "name": "能量发展 I",
 
             "mod_unlock": [
                 {
@@ -7156,7 +7156,7 @@ var jsonTech = {
 
         {
             "slug": "society_food_development_i",
-            "name": "Food Development I",
+            "name": "食物发展 I",
 
             "mod_unlock": [
                 {
@@ -7189,7 +7189,7 @@ var jsonTech = {
 
         {
             "slug": "society_research_development_i",
-            "name": "Research Development I",
+            "name": "研究发展 I",
 
             "mod_unlock": [
                 {
@@ -7222,7 +7222,7 @@ var jsonTech = {
 
         {
             "slug": "society_aquatic_development",
-            "name": "Aquatic Development",
+            "name": "水域开发",
 
             "mod_unlock": [
                 {
@@ -7255,7 +7255,7 @@ var jsonTech = {
 
         {
             "slug": "society_colony_infrastructure",
-            "name": "Colony Infrastructure",
+            "name": "殖民地基础设施",
 
             "mod_unlock": [
                 {
@@ -7284,7 +7284,7 @@ var jsonTech = {
 
         {
             "slug": "society_environmental_conditioning",
-            "name": "Environmental Conditioning",
+            "name": "环境调节",
 
             "mod_unlock": [
                 {
@@ -7317,7 +7317,7 @@ var jsonTech = {
 
         {
             "slug": "society_anthropologic_research",
-            "name": "Anthropologic Research",
+            "name": "人类学研究",
 
             "mod_unlock": [
                 {
@@ -7346,7 +7346,7 @@ var jsonTech = {
 
         {
             "slug": "society_accelerated_force_deployment",
-            "name": "Accelerated Force Deployment",
+            "name": "加速兵力部署",
 
             "mod_unlock": [
                 {
@@ -7379,7 +7379,7 @@ var jsonTech = {
 
         {
             "slug": "society_orbital_relay_development",
-            "name": "Orbital Relay Development",
+            "name": "轨道中继站开发",
 
             "mod_unlock": [
                 {
@@ -7412,7 +7412,7 @@ var jsonTech = {
 
         {
             "slug": "society_production_development_ii",
-            "name": "Production Development II",
+            "name": "产力发展 II",
 
             "mod_unlock": [
                 {
@@ -7441,7 +7441,7 @@ var jsonTech = {
 
         {
             "slug": "society_energy_development_ii",
-            "name": "Energy Development II",
+            "name": "能量发展 II",
 
             "mod_unlock": [
                 {
@@ -7470,7 +7470,7 @@ var jsonTech = {
 
         {
             "slug": "society_food_development_ii",
-            "name": "Food Development II",
+            "name": "食物发展 II",
 
             "mod_unlock": [
                 {
@@ -7499,7 +7499,7 @@ var jsonTech = {
 
         {
             "slug": "society_research_development_ii",
-            "name": "Research Development II",
+            "name": "研究发展 II",
 
             "mod_unlock": [
                 {
@@ -7528,7 +7528,7 @@ var jsonTech = {
 
         {
             "slug": "society_hydro-expertise",
-            "name": "Hydro-Expertise",
+            "name": "水利知识",
 
             "mod_unlock": [
                 {
@@ -7562,7 +7562,7 @@ var jsonTech = {
 
         {
             "slug": "society_adaptive_exploitation",
-            "name": "Adaptive Exploitation",
+            "name": "适应性开发",
 
             "mod_unlock": [
                 {
@@ -7595,7 +7595,7 @@ var jsonTech = {
 
         {
             "slug": "society_advanced_relay_infrastructure",
-            "name": "Advanced Relay Infrastructure",
+            "name": "高级中继站基础设施",
 
             "mod_unlock": [
                 {
@@ -7628,7 +7628,7 @@ var jsonTech = {
 
         {
             "slug": "society_cosmite_mastery",
-            "name": "Cosmite Mastery",
+            "name": "宇宙合金精通",
 
             "mod_unlock": [
                 {
@@ -7658,7 +7658,7 @@ var jsonTech = {
 
         {
             "slug": "society_area_surveillance",
-            "name": "Area Surveillance",
+            "name": "区域监视",
 
             "mod_unlock": [
                 {
@@ -7691,7 +7691,7 @@ var jsonTech = {
 
         {
             "slug": "society_covert_infiltration",
-            "name": "Covert Infiltration",
+            "name": "秘密渗透",
 
             "mod_unlock": [
                 {
@@ -7724,7 +7724,7 @@ var jsonTech = {
 
         {
             "slug": "society_operation_effectiveness_i",
-            "name": "Operation Effectiveness I",
+            "name": "行动效率 I",
 
             "mod_unlock": [
                 {
@@ -7757,7 +7757,7 @@ var jsonTech = {
 
         {
             "slug": "society_counter_ops",
-            "name": "Counter Ops",
+            "name": "反制行动",
 
             "mod_unlock": [
                 {
@@ -7790,7 +7790,7 @@ var jsonTech = {
 
         {
             "slug": "society_intelligence_gathering",
-            "name": "Intelligence Gathering",
+            "name": "情报收集",
 
             "mod_unlock": [
                 {
@@ -7823,7 +7823,7 @@ var jsonTech = {
 
         {
             "slug": "society_operation_effectiveness_ii",
-            "name": "Operation Effectiveness II",
+            "name": "行动效率 II",
 
             "mod_unlock": [
                 {
@@ -7856,7 +7856,7 @@ var jsonTech = {
 
         {
             "slug": "society_espionage",
-            "name": "Espionage",
+            "name": "间谍行为",
 
             "mod_unlock": [
                 {
@@ -7885,7 +7885,7 @@ var jsonTech = {
 
         {
             "slug": "society_insurrection_program",
-            "name": "Insurrection Program",
+            "name": "叛乱计划",
 
             "mod_unlock": [
                 {
@@ -7918,7 +7918,7 @@ var jsonTech = {
 
         {
             "slug": "society_operation_effectiveness_iii",
-            "name": "Operation Effectiveness III",
+            "name": "行动效率 III",
 
             "mod_unlock": [
                 {
@@ -7951,7 +7951,7 @@ var jsonTech = {
 
         {
             "slug": "society_sensor_technologies",
-            "name": "Sensor Technologies",
+            "name": "探测器科技",
 
             "mod_unlock": [
                 {
@@ -7984,7 +7984,7 @@ var jsonTech = {
 
         {
             "slug": "society_deep_infiltration",
-            "name": "Deep Infiltration",
+            "name": "深度渗透",
 
             "mod_unlock": [
                 {
@@ -8013,7 +8013,7 @@ var jsonTech = {
 
         {
             "slug": "society_operation_effectiveness_iv",
-            "name": "Operation Effectiveness IV",
+            "name": "行动效率 IV",
 
             "mod_unlock": [
                 {
@@ -8046,7 +8046,7 @@ var jsonTech = {
 
         {
             "slug": "society_global_information_control",
-            "name": "Global Information Control",
+            "name": "全球信息控制",
 
             "mod_unlock": [
                 {
@@ -8080,7 +8080,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_induction_rites",
-            "name": "Induction Rites",
+            "name": "入职仪式",
 
             "mod_unlock": [
                 {
@@ -8105,7 +8105,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_warden_ranks",
-            "name": "Warden Ranks",
+            "name": "典狱官阵列",
 
             "mod_unlock": [
                 {
@@ -8130,7 +8130,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_colonial_guard",
-            "name": "Colonial Guard",
+            "name": "殖民地守卫",
 
             "mod_unlock": [
                 {
@@ -8163,7 +8163,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_watcher_ranks",
-            "name": "Watcher Ranks",
+            "name": "守望者阵列",
 
             "mod_unlock": [
                 {
@@ -8188,7 +8188,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_combat_manuscripts",
-            "name": "Combat Manuscripts",
+            "name": "战斗手稿",
 
             "mod_unlock": [
                 {
@@ -8217,7 +8217,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_battlesuit_attunement",
-            "name": "Battlesuit Attunement",
+            "name": "机甲调整",
 
             "mod_unlock": [
                 {
@@ -8242,7 +8242,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_champion_ranks",
-            "name": "Champion Ranks",
+            "name": "捍卫者阵列",
 
             "mod_unlock": [
                 {
@@ -8267,7 +8267,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_misfortune_manipulation",
-            "name": "Misfortune Manipulation",
+            "name": "灾祸操控",
 
             "mod_unlock": [
                 {
@@ -8292,7 +8292,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_diviner_ranks",
-            "name": "Diviner Ranks",
+            "name": "推算者阵列",
 
             "mod_unlock": [
                 {
@@ -8317,7 +8317,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_regulated_chaos_theory",
-            "name": "Regulated Chaos Theory",
+            "name": "校准混沌理论",
 
             "mod_unlock": [
                 {
@@ -8346,7 +8346,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_exemplar's_vestibule",
-            "name": "Exemplar's Vestibule",
+            "name": "楷模门廊",
 
             "mod_unlock": [
                 {
@@ -8371,7 +8371,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_superb_communion",
-            "name": "Superb Communion",
+            "name": "宏伟通灵",
 
             "mod_unlock": [
                 {
@@ -8396,7 +8396,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_flawless_divination",
-            "name": "Flawless Divination",
+            "name": "完美占卜",
 
             "mod_unlock": [
                 {
@@ -8425,7 +8425,7 @@ var jsonTech = {
 
         {
             "slug": "entropy_entropic_foundations",
-            "name": "Entropic Foundations",
+            "name": "混沌根基",
 
             "mod_unlock": [
                 {
@@ -8450,7 +8450,7 @@ var jsonTech = {
 
         {
             "slug": "entropy_entropy_inhibition",
-            "name": "Entropy Inhibition",
+            "name": "混沌抑制",
 
             "mod_unlock": [
                 {
@@ -8475,7 +8475,7 @@ var jsonTech = {
 
         {
             "slug": "entropy_decay_chains",
-            "name": "Decay Chains",
+            "name": "衰败枷锁",
 
             "mod_unlock": [
                 {
@@ -8500,7 +8500,7 @@ var jsonTech = {
 
         {
             "slug": "entropy_probabilistic_nature",
-            "name": "Probabilistic Nature",
+            "name": "概率本质",
 
             "mod_unlock": [
                 {
@@ -8525,7 +8525,7 @@ var jsonTech = {
 
         {
             "slug": "entropy_exponential_decay",
-            "name": "Exponential Decay",
+            "name": "指数衰败",
 
             "mod_unlock": [
                 {
@@ -8554,7 +8554,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_people's_contracts",
-            "name": "People's Contracts",
+            "name": "人民的契约",
 
             "mod_unlock": [
                 {
@@ -8587,7 +8587,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_articles_of_faith",
-            "name": "Articles of Faith",
+            "name": "信仰条款",
 
             "mod_unlock": [
                 {
@@ -8616,7 +8616,7 @@ var jsonTech = {
 
         {
             "slug": "oathbound_unbreakable_vows",
-            "name": "Unbreakable Vows",
+            "name": "牢不可破的誓言",
 
             "mod_unlock": [
                 {
@@ -8648,7 +8648,7 @@ var jsonTech = {
         },
         {
             "slug": "oathbound_orchestrated_manipulation",
-            "name": "Orchestrated Manipulation",
+            "name": "精心控制",
 
             "mod_unlock": [
                 {
@@ -8678,7 +8678,7 @@ var jsonTech = {
 
         {
             "slug": "society_residential_development",
-            "name": "Residential Development",
+            "name": "住宅开发",
 
             "mod_unlock": [
                 {
@@ -8707,7 +8707,7 @@ var jsonTech = {
 
         {
             "slug": "society_virtual_hospitality_systems",
-            "name": "Virtual Hospitality Systems",
+            "name": "虚拟款待系统",
 
             "mod_unlock": [
                 {
@@ -8740,7 +8740,7 @@ var jsonTech = {
 
         {
             "slug": "society_future_society_tech",
-            "name": "Future Society Tech",
+            "name": "未来社会科技",
 
             "mod_unlock": [
                 {
@@ -8765,7 +8765,7 @@ var jsonTech = {
 
         {
             "slug": "military_future_military_tech",
-            "name": "Future Military Tech",
+            "name": "未来军事科技",
 
             "mod_unlock": [
                 {
@@ -8789,7 +8789,7 @@ var jsonTech = {
         },
         {
             "slug": "military_future_military_wildcards",
-            "name": "Wildcards",
+            "name": "杀手锏",
 
             "mod_unlock": [
                 {
@@ -8852,7 +8852,7 @@ var jsonTech = {
         },
         {
             "slug": "military_future_military_unit",
-            "name": "Unit Improvements",
+            "name": "单位改良",
 
             "mod_unlock": [
                 {
@@ -8887,7 +8887,7 @@ var jsonTech = {
         },
         {
             "slug": "military_future_military_resistance",
-            "name": "Resistances",
+            "name": "抵抗",
 
             "mod_unlock": [
                 {
@@ -8926,7 +8926,7 @@ var jsonTech = {
         },
         {
             "slug": "military_future_military_weapons",
-            "name": "Weapons",
+            "name": "武器",
 
             "mod_unlock": [
                 {
@@ -8968,7 +8968,7 @@ var jsonTech = {
         },
         {
             "slug": "society_future_society_colony",
-            "name": "Colony and Empire",
+            "name": "殖民与帝国",
 
             "mod_unlock": [
                 {
@@ -9027,7 +9027,7 @@ var jsonTech = {
              ,
         {
             "slug": "society_future_society_operation",
-            "name": "Operations",
+            "name": "行动",
 
             "mod_unlock": [
                 {
@@ -9061,7 +9061,7 @@ var jsonTech = {
         },
         {
             "slug": "society_future_society_unit",
-            "name": "Unit Production Bonuses",
+            "name": "单位生产加成",
 
             "mod_unlock": [
                 {
