@@ -934,9 +934,9 @@
 
 
              if (jsonUnits.units[j].name.includes("-")) {
-                 unitNameShort = "<titleBrownBig> Unit: " + jsonUnits.units[j].name.split("-")[1] + "</titleBrownBig>";
+                 unitNameShort = "<titleBrownBig> 单位: " + jsonUnits.units[j].name.split("-")[1] + "</titleBrownBig>";
              } else {
-                 unitNameShort = "<titleBrownBig> Unit: " + jsonUnits.units[j].name + "</titleBrownBig>";
+                 unitNameShort = "<titleBrownBig> 单位: " + jsonUnits.units[j].name + "</titleBrownBig>";
              }
 
              unitUnlockName = "<titleBrownBig>" + jsonUnits.units[j].name + "</titleBrownBig>";
@@ -944,7 +944,7 @@
              // unitUnlockAbility = jsonUnits.units[j].description;
 
 
-             var tier = "<silver>Unit Unlock</silver>";
+             var tier = "<silver>单位未解锁</silver>";
 
 
              var btn = document.createElement("DIV");
