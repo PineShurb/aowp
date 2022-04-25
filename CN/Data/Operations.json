@@ -77,7 +77,7 @@ var jsonOperations = {
             "name": "激励广播",
             "tier": "II",
             "type": "战略行动（持续）",
-            "description": "所有拥有 <actionblue>宣传高塔</actionblue>的殖民地获得 +15<production></production>。<br><br>另外，在这些殖民地的领域内战斗时，所有单位获得 +200<happiness></happiness>。<br>当此行动激活时，所有友方宣传者单位在战斗中都能造成此效果。<br><br>此行动激活时，受影响的殖民地 <firecol>生产 -5<energy></energy></firecol> ，宣传者单位的维持消耗 <firecol>增加 +25%</firecol>.",
+            "description": "所有拥有 <actionblue>宣传高塔</actionblue>的殖民地获得 +15<production></production>。<br><br>另外，在这些殖民地的领域内战斗时，所有单位获得 +200<happiness></happiness>。<br>当此行动激活时，所有友方宣传者单位在战斗中都能造成此效果。<br><br>此行动激活时，受影响的殖民地 <firecol>生产 -5<energy></energy></firecol> ，宣传者单位的维持消耗 <firecol>增加 +25%</firecol>。",
             "energy_cost": "60",
             "casting": "6 <stratPoint></stratPoint>",
         },
@@ -1667,7 +1667,7 @@ var jsonOperations = {
             "name": "正电转换器",
             "tier": "VIII",
             "type": "战术行动（瞬时）",
-            "description": "正电转换器投射一道力场，将电子电荷投向友方电弧武器。所有拥有的友方单位的电弧技能将 <abilityRed>Stun</abilityRed>并造成 +60%<DamageWave></DamageWave> 伤害，持续 1<turn></turn>。",
+            "description": "正电转换器投射一道力场，将电子电荷投向友方电弧武器。所有拥有的友方单位的电弧技能将 <abilityRed>眩晕</abilityRed>并造成 +60%<DamageWave></DamageWave> 伤害，持续 1<turn></turn>。",
             "energy_cost": "75",
             "casting": "6 <tacticalPoint></tacticalPoint>",
         },
@@ -1778,20 +1778,20 @@ var jsonOperations = {
 
         {
             "slug": "compelling_cause",
-            "name": "Compelling Cause",
+            "name": "强制效命",
             "tier": "VIII",
             "type": "战略行动（召唤）",
-            "description": "Target an enemy colony and compel them to your cause. Summon two Tier 2 units from the target faction, spawning them adjacent to the enemy colony.",
+            "description": "强制一个敌方殖民地为你效命。召唤两个来自目标阵营的 2 阶单位，生成在与地方殖民地相邻的位置上。",
             "energy_cost": "140",
             "casting": "16 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "sanctuary_of_the_stars",
-            "name": "Sanctuary of the Stars",
+            "name": "星际避难所",
             "tier": "VIII",
             "type": "战略行动（持续）",
-            "description": "Target owned colony cannot be targeted by harmful effects. Friendly armies within this colony's domain cannot be targeted by harmful operations, and enemies cannot use Tactical Operations within the colony's domain.",
+            "description": "以已被拥有的殖民地为目标，使其无法成为有害效果的目标。该殖民地领域内的友方军队无法成为有害行动的目标，且敌人无法在该殖民地领域内使用战术行动。",
             "energy_cost": "160",
             "casting": "20 <stratPoint></stratPoint>",
             "upkeep_cost": "25<energy></energy>/<turn></turn>"
@@ -1799,10 +1799,10 @@ var jsonOperations = {
 
         {
             "slug": "true_ascendancy",
-            "name": "True Ascendancy",
+            "name": "真理升华",
             "tier": "X",
             "type": "战略行动（召唤）",
-            "description": "The will of the Star manifests in ethereal form.<br>Summons an Ascended Teacher under your command.",
+            "description": "星辰的意志以虚灵形态显现。<br>召唤一名升华导师加入你的麾下。",
             "energy_cost": "0",
             "influence_cost": "100",
             "casting": "20 <stratPoint></stratPoint>",
@@ -1810,10 +1810,10 @@ var jsonOperations = {
 
         {
             "slug": "final_revelation",
-            "name": "Final Revelation",
+            "name": "终极启示",
             "tier": "X",
             "type": "末日终结者行动",
-            "description": "Expose the entire planet to the revelations brought on by the Light of Truth, showing them the Celestian way.<br><br>Requires Declaration of Truth level 3.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: Non-Celestian units gain <abilityRed>灵魂燃烧</abilityRed>.</bullet><bullet><actionblue>2级 </actionblue>: 40% to transfer 1<population></population> to your nearest colony each <turn></turn>.</bullet><bullet><actionblue>3级 </actionblue>: Celestian Units heal 10<hp></hp> each <turn></turn> in combat.</bullet></bulletList>",
+            "description": "使整个星球暴露在真理之光的启示下，为所有人展现星神之路。<br><br>需要真理宣言达到等级 3。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 非星神单位获得<abilityRed>灵魂燃烧</abilityRed>。</bullet><bullet><actionblue>2级 </actionblue>: 每 <turn></turn> 有 40% 几率转移 1 <population></population> 至你最近的殖民地。</bullet><bullet><actionblue>3级 </actionblue>: 星神单位在战斗中每 <turn></turn> 治疗 10<hp></hp> 。</bullet></bulletList>",
             "energy_cost": "500",
             "casting": "50 <stratPoint></stratPoint>",
         },
@@ -1821,260 +1821,260 @@ var jsonOperations = {
 
         {
             "slug": "protective_growth",
-            "name": "Protective Growth",
+            "name": "防御灵植",
             "tier": "I",
             "type": "战术行动（瞬时）",
-            "description": "Summon thick roots to protect a friendly ground unit, healing it for 15<hp></hp> and preventing it from moving for 2<turn></turn>。<br>While immobilized in this manner, the unit gains +4<armor></armor> and regenerates 25% of its maximum <hp></hp> per turn.",
+            "description": "召唤出粗壮的根须保护一个己方陆地单位，为其治疗 15<hp></hp> ，且该单位将无法移动持续 2<turn></turn>。<br>由于该单位无法移动，其将获得 +4<armor></armor> 以及每回合恢复最大 <hp></hp> 的 25% 。",
             "energy_cost": "30",
             "casting": "2 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "primal_override",
-            "name": "Primal Override",
+            "name": "原始超控",
             "tier": "III",
             "type": "战术行动（瞬时）",
-            "description": "Attempt to <abilityRed>Mind Control</abilityRed> a non-Mindless or non-Mechanical Tier I or Tier II Animal unit with a 8<StrengthBio></StrengthBio> strength chance.<br>If the target is under the effect of <abilityRed>Entangle</abilityRed> or <abilityRed>Sleep</abilityRed> the strength chance increases to 12<StrengthBio></StrengthBio>。<br>If mind controlled this way, the unit permanently comes under your control and will be implanted after battle to make it stronger. If resisted, apply <abilityRed>Insanity</abilityRed> instead.",
+            "description": "有 8<StrengthBio></StrengthBio> 力量几率尝试<abilityRed>心灵控制</abilityRed>一个 1 阶或 2 阶的非无意识或非机械的动物单位。<br>如果目标正受到<abilityRed>缠绕</abilityRed>或<abilityRed>沉睡</abilityRed>效果影响，则力量几率提升至 12<StrengthBio></StrengthBio>。<br>以此方式被心灵控制的单位将永久受你控制。如果被抵抗，则改为施加<abilityRed>错乱</abilityRed>。",
             "energy_cost": "80",
             "casting": "3 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "nourishing_field_pylon",
-            "name": "Nourishing Field Pylon",
+            "name": "滋养标塔",
             "tier": "V",
             "type": "战术行动（瞬时）",
-            "description": "Deploys a healing pylon to the battlefield. The pylon cannot act or move. All friendly Biological and Cyborg units within 2 hexes will heal for 15<hp></hp> when this ability is used as well as at the start of each turn.",
+            "description": "在战场上部署一个治疗标塔，标塔不能行动和移动。每回合开始以及使用此技能时，标塔 2 个单元格范围内的所有友方生物和半机械人单位将治疗 15<hp></hp> 。",
             "energy_cost": "60",
             "casting": "4 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "amplifying_field_pylon",
-            "name": "Amplifying Field Pylon",
+            "name": "增强标塔",
             "tier": "VI",
             "type": "战术行动（瞬时）",
-            "description": "Deploys an amplifying pylon to the battlefield. The pylon cannot act or move. Friendly Biological and Cyborg units adjacent to this pylon gain +30% added damage while they remain adjacent to it. ",
+            "description": "在战场上部署一个增强标塔，标塔不能行动和移动。与标塔相邻的友方生物和半机械人单位额外获得 +30% 伤害。",
             "energy_cost": "60",
             "casting": "4 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "luring_field_pylon",
-            "name": "Luring Field Pylon",
+            "name": "引诱标塔",
             "tier": "VII",
             "type": "战术行动（瞬时）",
-            "description": "Deploys a wildlife lure pylon to the battlefield. The pylon cannot act or move. It summons a random Tier II wildlife unit at the start of each turn. The pylon lasts for 5<turn></turn> or until destroyed.",
+            "description": "在战场上部署一个引诱野生动物的标塔，标塔不能行动和移动。每回合开始时，它会随机召唤一个 2 阶野生动物单位。在被摧毁前，标塔会持续 5<turn></turn> 。",
             "energy_cost": "75",
             "casting": "6 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "rapid_reforestation",
-            "name": "Rapid Reforestation",
+            "name": "快速造林",
             "tier": "II",
             "type": "战略行动（瞬时）",
-            "description": "Transform the target sector into a Forest (<food></food>/<production></production>) sector.<br><br><abilityRed>Cannot be launched on Mountain or Enemy sectors.</abilityRed>",
+            "description": "将目标区域转化成森林 (<food></food>/<production></production>) 区域。<br><br><abilityRed>在城市、山地和敌方区域无法执行。</abilityRed>",
             "energy_cost": "50",
             "casting": "5 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "entangling_overgrowth",
-            "name": "Entangling Overgrowth",
+            "name": "过度生长",
             "tier": "II",
             "type": "战略行动（定时）",
-            "description": "Lowers <food></food> income of targeted enemy colony by -50%<food></food> for 10<turn></turn>. During this period, enemy units in that colony's domain spend an additional 4<mp></mp> when moving.",
+            "description": "使目标地方殖民地的 <food></food> 收入降低 -50%<food></food> ，持续 10<turn></turn>。在此期间，敌方单位在其殖民地领域内移动时将耗费额外 4<mp></mp> 。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "clone_predator",
-            "name": "Clone Predator",
+            "name": "克隆掠食者",
             "tier": "VII",
             "type": "战略行动（召唤）",
-            "description": "Summons a powerful predator on the target location",
+            "description": "在目标地点召唤一个强大的掠食者",
             "energy_cost": "200",
             "casting": "20 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "arcadian_restoration",
-            "name": "Arcadian Restoration",
+            "name": "田园恢复",
             "tier": "VII",
             "type": "战略行动（瞬时）",
-            "description": "Target sector is terraformed into an Arcadian (<food></food> / <energy></energy>) sector.",
+            "description": "目标区域已经转化成田园(<food></food> / <energy></energy>)区域。",
             "energy_cost": "50",
             "casting": "5 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "parasitic_strike",
-            "name": "Parasitic Strike",
+            "name": "寄生打击",
             "tier": "I",
             "type": "战术行动（瞬时）",
-            "description": "Target Biological or Cyborg unit takes 15<DamageBio></DamageBio> damage and has a strength 8<StrengthBio></StrengthBio> chance to contract a <abilityRed>Parasitic Infection</abilityRed>. The effect jumps up to 2 times to a nearby target within 2 hexes.",
+            "description": "目标生物或半机械人单位受到 15<DamageBio></DamageBio> 伤害并有 8<StrengthBio></StrengthBio> 力量几率感染<abilityRed>寄生感染</abilityRed>。该效果还会弹跳至 2 个单元格内的其他单位，最多跳转 2 次。",
             "energy_cost": "40",
             "casting": "2 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "drop_spore_pod",
-            "name": "Drop Spore Pod",
+            "name": "空降孢子舱",
             "tier": "III",
             "type": "战术行动（召唤）",
-            "description": "Launches a spore pod into tactical combat that bursts on impact with the ground. The pod deals 15<DamageBio></DamageBio> damage in a 1 hex radius area of effect with <abilityRed>高度冲击</abilityRed>. The spore pod leaves behind a Bloated Pustule unit on the impact hex. The unit is destroyed at end of combat.",
+            "description": "在战术战斗中发射能够在接触地面时爆炸的孢子舱。舱体对 1 个单元格范围造成 15<DamageBio></DamageBio>伤害和<abilityRed>高度冲击</abilityRed>。孢子舱会在冲击单元格中留下一个浮肿脓包单位，该单位将在战斗结束后被摧毁。",
             "energy_cost": "30",
             "casting": "2 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "xeno_restoration_beam",
-            "name": "Xeno Restoration Beam",
+            "name": "异星恢复光束",
             "tier": "V",
             "type": "战术行动（瞬时）",
-            "description": "Target Xenoplague unit is healed for 50<hp></hp> and all negative Status Effects are dispelled. The target also gains +2 resistance to all damage channels and increased <actionblue>动摇抵抗</actionblue> for 5<turn></turn>。",
+            "description": "目标异星疫病单位治疗 50<hp></hp> 并驱散身上所有的负面状态效果，此外对所有伤害类型获得 +2 抵抗并获得更高的<actionblue>动摇抵抗</actionblue>，持续 5<turn></turn>。",
             "energy_cost": "60",
             "casting": "4 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "xeno_contaminant_strike",
-            "name": "Xeno Contaminant Strike",
+            "name": "异星感染打击",
             "tier": "VII",
             "type": "战术行动（瞬时）",
-            "description": "Target non-Xenoplague Biological or Cyborg unit and 2 other units within 2 hexes take 20<DamageBio></DamageBio> and have a 12<StrengthBio></StrengthBio> strength chance to gain <abilityRed>Parasitic Infection</abilityRed> and <abilityRed>Unstable Contamination</abilityRed> until the end of combat, causing them to explode upon death.",
+            "description": "目标非异星疫病生物单位或半机械人单位和 2 个单元格内的 2 个其他单位受到 20<DamageBio></DamageBio> 伤害并有 12<StrengthBio></StrengthBio> 力量几率遭到<abilityRed>寄生感染</abilityRed>和<abilityRed>不稳定污染</abilityRed>，持续至战斗结束，使其在死亡后会发生爆炸。",
             "energy_cost": "75",
             "casting": "6 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "hyperstimulation_beam",
-            "name": "Hyperstimulation Beam",
+            "name": "过度刺激光束",
             "tier": "IX",
             "type": "战术行动（瞬时）",
-            "description": "Target non-Mindless Xenoplague unit and up to 2 Xenoplague units within 2 hexes heal for 15<hp></hp> and go <actionblue>Rabid</actionblue> for 3<turn></turn>. Rabid units are no longer under your control, and automatically attack the nearest enemy unit. In addition, the unit deals 25% extra damage, is immune to Status Effects, gains +25 maximum <hp></hp> and <actionblue>Fast Movement.</actionblue>",
+            "description": "2 个单元格内的目标非无意识异星疫病单位以及最多 2 个异星疫病单位恢复 15<hp></hp> 并变得<actionblue>狂暴</actionblue>，持续 3<turn></turn>。狂暴单位不再受你的控制，而是会自动攻击最近的敌方单位。此外，该单位还会额外造成 25% 伤害且免疫状态效果，获得 +25 最大 <hp></hp> 和<actionblue>迅捷移动</actionblue>。",
             "energy_cost": "60",
             "casting": "5 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "sleeper_xenomomes",
-            "name": "Sleeper Xenomomes",
+            "name": "潜伏性异星病毒",
             "tier": "III",
             "type": "战略行动（瞬时）",
-            "description": "Infect the target army with Sleeper Xenomomes. The target army suffers 20% damage, and biological and cyborg units are afflicted with <abilityRed>Parasitic Infection</abilityRed> ，持续 1<turn></turn>。",
+            "description": "使用潜伏性异星病毒感染目标军队。目标军队受到 20% 伤害，此外生物和半机械人单位受到<abilityRed>寄生感染</abilityRed> ，持续 1<turn></turn>。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "regenerative_infections",
-            "name": "Regenerative Infections",
+            "name": "再生感染",
             "tier": "III",
             "type": "战略行动（瞬时）",
-            "description": "Infect target friendly army with a regenerative virus, healing them to full and granting them +4 resistance to status effects for 1<turn></turn>。",
+            "description": "使用再生病毒感染目标友方军队，恢复其全部生命值并给予其 +4 状态效果抵抗，持续 1<turn></turn>。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "omega_infection",
-            "name": "Omega Infection",
+            "name": "终极感染",
             "tier": "V",
             "type": "战略行动（定时）",
-            "description": "Infect a non-Xenoplague enemy colony and the surrounding area with the Omega Strain for 8<turn></turn>, a powerful viral agent that strengthens in effect as you build more Omega Hives.<br><br>On failure, applies <abilityRed>居民不安</abilityRed> to the colony, which causes 12<unhappiness></unhappiness> for 3<turn></turn>。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: Xenoplague units gain <actionblue>再生</actionblue>.</bullet><bullet><actionblue>2级 </actionblue>: -100%<food></food> income.<br>Biological and Cyborg non-Xenoplague units heal 6<hp></hp> less every strategic <turn></turn>.</bullet><bullet><actionblue>3级 </actionblue>: Biological and Cyborg non-Xenoplague units have <abilityRed>Parasitic Infection</abilityRed></bullet></bulletList>",
+            "description": "使用终极毒株感染一个敌方非异星疫病殖民地及其周边地区，持续 8<turn></turn>。终极毒株是一种强大病毒体，你建造的终极蜂巢数量越多，其效果就越强。<br><br>如果失败，则改为对殖民地施加<abilityRed>居民不安</abilityRed>，持续 3<turn></turn> 内降低 12<unhappiness></unhappiness> 。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 异星疫病单位获得<actionblue>再生</actionblue>。</bullet><bullet><actionblue>2级 </actionblue>: -100%<food></food> 收益。<br>非异星疫病生物和半机械人单位每个战略 <turn></turn> 获得的治疗减少 6<hp></hp> 。</bullet><bullet><actionblue>3级 </actionblue>: 非异星疫病的生物和半机械人单位获得<abilityRed>寄生感染</abilityRed></bullet></bulletList>",
             "energy_cost": "120",
             "casting": "12 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "hyper-accelerate_evolution",
-            "name": "Hyper-accelerate Evolution",
+            "name": "超加速进化",
             "tier": "VI",
             "type": "战略行动（瞬时）",
-            "description": "Accelerate the plague process of within the target Pustule, transforming it into a Destroyer.",
+            "description": "加速目标脓包内的疫病进度，将其转化为毁灭者。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "fungal_spore_bomb",
-            "name": "Fungal Spore Bomb",
+            "name": "真菌孢子炸弹",
             "tier": "VI",
             "type": "战略行动（瞬时）",
-            "description": "Launch a bomb loaded with infected fungal spores. Target sector is terraformed to a Fungal sector, and a <abilityRed>Spore Cloud</abilityRed> is spawned. This Hazard reduces economic income and weakens any units in the sector.",
+            "description": "发射一枚装载真菌传染孢子的炸弹。目标区域将转变成真菌区域并生成一片<abilityRed>孢子云</abilityRed>。这种灾害会减少经济收益并削弱位于该区域的单位。",
             "energy_cost": "120",
             "casting": "12 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "xenobonic_plague_bomb",
-            "name": "Xenobonic Plague Bomb",
+            "name": "异星生物疫病炸弹",
             "tier": "VIII",
             "type": "战略行动（瞬时）",
-            "description": "Deploy a Xenobonic Plague Bomb in the target colony. The colony loses -4<population></population> and any non-Xenoplague Biological and Cyborg units in the colony get infected with <abilityRed>Parasitic Infection</abilityRed> ，持续 1<turn></turn>。<br>In addition, 2 Xenoplague Pustules spawn near the colony.",
+            "description": "在目标殖民地部署异星生物疫病炸弹。该殖民地失去 -4<population></population> ，城市中的非异星疫病生物和半机械人单位受到<abilityRed>寄生感染</abilityRed> ，持续 1<turn></turn>。<br>此外，殖民地附近将会生成 2 个异星疫病脓包。",
             "energy_cost": "140",
             "casting": "16 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "call_of_the_plague",
-            "name": "Call of the Plague",
+            "name": "疫病呼唤",
             "tier": "VIII",
             "type": "战略行动（持续）",
-            "description": "The target colony begins transmitting the call of the plague, summoning a Bloated Pustule into combat every turn for 8<turn></turn> during battle in this colony's territory.",
+            "description": "目标殖民地开始传播疫病呼唤，在战斗期间每回合在其领域内召唤一个浮肿脓包，持续 8<turn></turn> 。",
             "energy_cost": "120",
             "casting": "16 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "omega_awakening",
-            "name": "Omega Awakening",
+            "name": "终极觉醒",
             "tier": "X",
             "type": "末日终结者行动",
-            "description": "The final step in the Xenoplague plan unleashes the ultimate form of the Omega Strain upon the whole world.<br><br>Requires Omega Strain Level 3.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: Xenoplague units gain <actionblue>再生</actionblue>.</bullet><bullet><actionblue>2级 </actionblue>: -100%<food></food> income.<br>Biological and Cyborg non-Xenoplague units heal 6<hp></hp> less every strategic <turn></turn>.</bullet><bullet><actionblue>3级 </actionblue>: Biological and Cyborg non-Xenoplague units have <abilityRed>Parasitic Infection</abilityRed></bullet></bulletList>",
+            "description": "异星疫病的最后一步就是向整个世界释放终极毒株的终极形态。<br><br>需要终极毒株达到等级 3。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 异星疫病单位获得<actionblue>再生</actionblue>。</bullet><bullet><actionblue>2级 </actionblue>: -100%<food></food> 收益。<br>非异星疫病生物和半机械人单位每个战略 <turn></turn> 获得的治疗减少 6<hp></hp> 。</bullet><bullet><actionblue>3级 </actionblue>: 非异星疫病的生物和半机械人单位获得<abilityRed>寄生感染</abilityRed></bullet></bulletList>",
             "energy_cost": "500",
             "casting": "50 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "biomatter_preparation_training",
-            "name": "Biomatter Preparation Training",
+            "name": "生化物质准备训练",
             "tier": "III",
             "type": "教义行动",
-            "description": "Train your commanders in how the bodies of defeated enemies can be optimized for use by the Xenoplague virus.<br><br>The chance of Xenoplague units spawning or evolving is increased by 30% for each hero you have in battle.",
+            "description": "训练你的指挥官，使其能够以最优方式将被击败的敌人尸体用于异星疫病病毒。<br><br>你在战斗中每拥有一个英雄，生成或进化异星疫病单位的几率提升 30% 。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "biomatter_scavenging",
-            "name": "Biomatter Scavenging",
+            "name": "生化物质回收",
             "tier": "III",
             "type": "教义行动",
-            "description": "Xenoplague science allows for the scavenging of biomatter for regenerative purposes.<br><br>After every victorious battle, units in Xenoplague armies heal for 5<hp></hp> per killed Biological or Cyborg unit.",
+            "description": "异星疫病科技可以回收生化物质来恢复再生。<br><br>每次战斗胜利后，每击杀一个生物或半机械人单位，异星疫病军队中的单位就能治疗 5<hp></hp> 。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "forced_infection",
-            "name": "Forced Infection",
+            "name": "强制感染",
             "tier": "VII",
             "type": "教义行动",
-            "description": "To further our cause, we will enforce that all of our troops be infected with the Xeno-strain. This is a unique infection of the Xeno-strain and will not weaken our troops as it grows within them.<br><br>Losing units in battle while this Doctrine is active will contribute to spawning Xenoplague Pustules and evolving other Xenoplague units at the end of combat.",
+            "description": "为了壮大我们的事业，我们将强制所有部队感染异星毒株。这是一种特殊的异星毒株传染物，并不会削弱我们的部队实力。<br><br>激活此教义时，阵亡的单位在战斗结束时将有助于生成异星疫病脓包并进化其他异星疫病单位。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "organic_mutation_research",
-            "name": "Organic Mutation Research",
+            "name": "生物突变研究",
             "tier": "VII",
             "type": "教义行动",
-            "description": "By unleashing a hyper-intelligent virus onto our population, we can boost scientific progress. In the long run, this will help us further the development of the Omega strain.<br><br>+20%<research></research> in your colonies.",
+            "description": "向我们的民众释放超智能病毒，提升科学进度。从长远意义上讲，这将进一步帮助我们研究终极毒株。<br><br>你的殖民地获得 +20%<research></research>。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
@@ -2083,210 +2083,210 @@ var jsonOperations = {
 
         {
             "slug": "signal_shredding",
-            "name": "Signal Shredding",
+            "name": "撕裂信号",
             "tier": "I",
             "type": "战术行动（瞬时）",
-            "description": "Send a pulse of disruptive energy through target enemy Mechanical or Cyborg unit. Signal Shredding has a strength 12<StrengthWave></StrengthWave> chance to apply <abilityRed>晕眩</abilityRed> ，持续 1<turn></turn>. If the stun fails, the unit receives <abilityRed>强力冲击</abilityRed> instead, potentially staggering it.",
+            "description": "向目标敌方机械或半机械人单位释放一道干扰脉冲。撕裂信号有 12<StrengthWave></StrengthWave> 力量几率施加<abilityRed>晕眩</abilityRed> ，持续 1<turn></turn>。如果眩晕失败，则单位改为受到<abilityRed>强力冲击</abilityRed>，从而可能会被动摇。",
             "energy_cost": "25",
             "casting": "1 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "remote_system_purge",
-            "name": "Remote System Purge",
+            "name": "远程系统净化",
             "tier": "III",
             "type": "战术行动（瞬时）",
-            "description": "Sometimes it is necessary to hard reset a computer, and Cyborgs are no exception. Removes all negative Status Effects from target friendly Cyborg unit. The effect can then jump to 2 additional friendly targets within 3 hexes.",
+            "description": "有时硬重置电脑非常必要，半机械人也不例外。移除所有友方半机械人单位的负面状态效果。该效果可弹跳至 3 个单元格范围内额外 2 个友方目标。",
             "energy_cost": "30",
             "casting": "2 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "linear_accelerator",
-            "name": "Linear Accelerator",
+            "name": "线性加速器",
             "tier": "IV",
             "type": "战术行动（瞬时）",
-            "description": "Supercharge target Mechanical or Cyborg unit, restoring all of its action points<mp></mp>. Units can only be supercharged once per turn.",
+            "description": "为目标机械或半机械人单位增压，使其恢复所有操作点数<mp></mp>。单位在每回合中只能增压一次。",
             "energy_cost": "45",
             "casting": "3 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "deploy_constrictor",
-            "name": "Deploy Constrictor",
+            "name": "部署收束者",
             "tier": "VI",
             "type": "战术行动（召唤）",
-            "description": "Summon a Constrictor onto target hex during combat. The summoned unit lasts until the end of combat.<br>The Constrictor is a Melee unit with strong incapacitating abilities that can disable other units and then deal tremendous damage.",
+            "description": "在战斗中向目标单元格召唤一个收束者，召唤单位将持续到战斗结束。<br>收束者是拥有强大瘫痪能力的近战单位，能够使其他单位瘫痪并造成大量伤害。",
             "energy_cost": "45",
             "casting": "3 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "adhesive_artillery",
-            "name": "Adhesive Artillery",
+            "name": "粘性火炮",
             "tier": "V",
             "type": "战术行动（瞬时）",
-            "description": "Fire adhesive-containing shells at the targeted area that burst open just before impact and cover a 2 hex radius in an adhesive Biochemical foam, dealing 10<DamageBio></DamageBio> damage, with a 8<StrengthPhysical></StrengthPhysical> strength chance to <abilityRed>减速</abilityRed> to the affected units for 2<turn></turn>。",
+            "description": "向指定区域发射装满黏合剂的炮弹，炮弹会在碰撞前爆炸，使 2 个单元格范围覆盖上粘性生化泡沫，对受到影响的单位造成 10<DamageBio></DamageBio> 伤害并有 8<StrengthPhysical></StrengthPhysical> 力量几率施加<abilityRed>减速</abilityRed>，持续 2<turn></turn>。",
             "energy_cost": "60",
             "casting": "4 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "temporal_disruption",
-            "name": "Temporal Disruption",
+            "name": "暂时失调",
             "tier": "VII",
             "type": "战术行动（瞬时）",
-            "description": "Disables 1 unit mod on all enemy units for 2<turn></turn>。",
+            "description": "使所有敌方单位的 1 个模块失去效果，持续 2<turn></turn>。",
             "energy_cost": "75",
             "casting": "6 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "reprocess_colonist",
-            "name": "Reprocess Colonist",
+            "name": "移住民再加工",
             "tier": "II",
             "type": "战略行动（持续）",
-            "description": "Reprocess one of your colonists to temporarily boost your production facilities. Removes 1<population></population> and provides a 50%<production></production> increase. This effect lasts for 3<turn></turn>。",
+            "description": "对一名移住民进行再加工来短暂强化你的生产设备。移除 1<population></population> 并提供 50%<production></production> ，效果持续 3<turn></turn>。",
             "energy_cost": "40",
             "casting": "4 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "sample_collection",
-            "name": "Sample Collection",
+            "name": "样本收集",
             "tier": "II",
             "type": "战略行动（瞬时）",
-            "description": "Assembly nanites assault the target army, retrieving valuable samples. Damages all units in the target army for 20% of their current <hp></hp>, reduces all their resistances by -1 for this round and provides 3-5<research></research> for every unit damaged this way.",
+            "description": "半机械人纳米机器人突击目标军队并取回有价值的样本。对目标军队所有单位造成其当前 20% 的伤害，并使其在该轮中所有类型的抵抗减少 -1 ，另外每有一个以此方式受到伤害的单位，提供 3-5<research></research> 。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "ion_storm",
-            "name": "Ion Storm",
+            "name": "离子风暴",
             "tier": "VI",
             "type": "战略行动（瞬时）",
-            "description": "By drawing static electricity from the air and channeling it all into a small target area, we can unleash a powerful <abilityRed>Ion Storm</abilityRed>, which reduces economic income and weakens any units in the sector. All Mechanical units in the targeted sector lose all of their <mp></mp>.",
+            "description": "吸引空气中的静电并将其引导至一小块区域，从而释放一场强大的<abilityRed>离子风暴</abilityRed>。离子风暴将减少区域内的经济收益并削弱区域内的所有单位。目标区域内的所有机械单位失去全部<mp></mp>。",
             "energy_cost": "140",
             "casting": "16 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "ionic_overdrive",
-            "name": "Ionic Overdrive",
+            "name": "离子超频",
             "tier": "VI",
             "type": "战略行动（瞬时）",
-            "description": "Channel raw ionic energy into target friendly army. All Cyborg units lose 25%<hp></hp> and gain <actionblue>Ionic Overdrive</actionblue> ，持续 1<turn></turn>. Ionic Overdrive gives units <actionblue>Fast Movement Speed</actionblue>, causes their melee attacks to <abilityRed>Stun</abilityRed> targets, and deal 25% extra damage.",
+            "description": "将原生离子能量引导至目标友方军队。所有半机械人单位失去 25%<hp></hp> 并获得<actionblue>离子超频</actionblue> ，持续 1<turn></turn>。离子超频将赋予单位<actionblue>迅捷移动速度</actionblue>，使其近战攻击能够<abilityRed>眩晕</abilityRed>目标并额外造成 25% 伤害。",
             "energy_cost": "120",
             "casting": "12 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "condemn_to_drained",
-            "name": "Condemn to Drained",
+            "name": "谴责为枯萎者",
             "tier": "I",
             "type": "战术行动（瞬时）",
-            "description": "Condemn an enemy in the name of the Es'Teq, transforming them to a Drained unit. Target enemy non-Mindless Infantry unit has a 12<strengthEntropy></strengthEntropy> strength chance to gain <abilityRed>Condemned</abilityRed> until end of battle. Condemned units have -400<unhappiness></unhappiness> and -2<damageEntropy></damageEntropy>。<br><br>When a unit with <abilityRed>Condemned</abilityRed> dies, instead of leaving behind a corpse, a Drained unit is summoned under the caster's control. This unit is permanent, and will not be removed at the end of battle.<br>Cannot target Heroes or Commanders.",
+            "description": "以埃斯特克之名谴责敌人，将他们转化为枯萎者单位。目标敌方非英雄步兵单位有 12<strengthEntropy></strengthEntropy> 力量几率遭到<abilityRed>谴责</abilityRed>，持续至战斗结束。谴责单位将 -400<unhappiness></unhappiness> 和 -2<damageEntropy></damageEntropy>。<br><br><abilityRed>谴责</abilityRed>单位死亡时，会转化为一个由施法者控制的枯萎者单位。枯萎者单位在战斗结束后仍然存在。<br>无法以英雄或指挥官为目标。",
             "energy_cost": "60",
             "casting": "2 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "rite_of_revitalization",
-            "name": "Rite of Revitalization",
+            "name": "复苏仪式",
             "tier": "III",
             "type": "战术行动（瞬时）",
-            "description": "Target the Essence in a unit to trigger a revitalizing reaction, healing them. Target friendly unit heals for 15<hp></hp>. If the unit has an <actionblue><essenceCharge></essenceCharge>Essence Charge</actionblue>, it is instead healed for 30<hp></hp>, dispelled of all hostile status effects and loses 1 <actionblue><essenceCharge></essenceCharge>Essence Charge</actionblue>.",
+            "description": "触发单位体内精华的复苏反应来治疗单位。目标友方单位治疗 15<hp></hp>。如果友方单位拥有<actionblue><essenceCharge></essenceCharge>精华充能</actionblue>，则能够恢复 30<hp></hp>，驱散所有负面状态效果并失去 1 个 <actionblue><essenceCharge></essenceCharge>精华充能</actionblue>。",
             "energy_cost": "25",
             "casting": "1 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "rite_of_reincarnation",
-            "name": "Rite of Reincarnation",
+            "name": "再生仪式",
             "tier": "IV",
             "type": "战术行动（瞬时）",
-            "description": "By implanting an ancient Es'Teq mind, a consciousness, into a freshly-deceased body, they can be brought back to life.<br>Target friendly non-Mechanical, non-Hero, tier I, II or III corpse is revived with 50%<hp></hp>. In addition, it gains +200<happiness></happiness> until end of combat.",
+            "description": "将一个古老的埃斯特克灵魂和意识植入刚刚死亡的尸体，使阵亡的单位复活。<br>目标友方非机械、非英雄、1 阶、2 阶或 3 阶单位的尸体复活，拥有 50%<hp></hp>并获得 +200<happiness></happiness> ，效果持续至战斗结束。",
             "energy_cost": "60",
             "casting": "4 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "rite_of_dissemination",
-            "name": "Rite of Dissemination",
+            "name": "传播仪式",
             "tier": "VI",
             "type": "战术行动（瞬时）",
-            "description": "Spread Essence throughout units, granting them <actionblue><essenceCharge></essenceCharge>Essence Charges</actionblue> and increasing their morale. All friendly units in combat gain 1 <actionblue><essenceCharge></essenceCharge>Essence Charge</actionblue> and +200<happiness></happiness> until end of combat.",
+            "description": "在单位间传播精华，赋予这些单位<actionblue><essenceCharge></essenceCharge>精华充能</actionblue>并提高他们的士气。所有战斗中的友方单位获得 1 个 <actionblue><essenceCharge></essenceCharge>精华充能</actionblue>和 +200<happiness></happiness>，效果持续至战斗结束。",
             "energy_cost": "60",
             "casting": "5 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "bestow_essence",
-            "name": "Bestow Essence",
+            "name": "赋予精华",
             "tier": "VI",
             "type": "战术行动（瞬时）",
-            "description": "Bestow Es'Teq Essence on a unit. Target friendly unit gains their maximum number of <actionblue><essenceCharge></essenceCharge>Essence Charges</actionblue>. ",
+            "description": "赋予单位埃斯特克精华，目标友方单位将获得其最大数量的<actionblue><essenceCharge></essenceCharge>精华充能</actionblue>。",
             "energy_cost": "45",
             "casting": "3 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "convert_heretic",
-            "name": "Convert Heretic",
+            "name": "转化异教徒",
             "tier": "VII",
             "type": "战术行动（瞬时）",
-            "description": "Unleash an Es'Teq mind in an attempt to take possession of an enemy unit. Target non-Mindless, non-Mechanical enemy unit has a 8<strengthEntropy></strengthEntropy> strength chance to switch allegiance and gain <actionblue>Es'Teq Possession</actionblue> until end of battle. On failure, the unit is <abilityRed>晕眩</abilityRed> instead.<br><br>Should a unit with <actionblue>Es'Teq Possession</actionblue> die, the Es'Teq Mind escapes and has a 4<strengthEntropy></strengthEntropy> strength chance spread to another viable enemy unit within 2 hexes. ",
+            "description": "释放埃斯特克的灵魂占据一个敌方单位。目标敌方非无意识和非机械单位有 8<strengthEntropy></strengthEntropy> 力量几率叛变并获得<actionblue>埃斯特克控制</actionblue>，效果持续至战斗结束。如果失败，该单位会被<abilityRed>晕眩</abilityRed>。<br><br>如果拥有<actionblue>埃斯特克控制</actionblue>的单位死亡，埃斯特克的灵魂将会逃走并有 4<strengthEntropy></strengthEntropy> 力量几率传播至 2 个单元格范围内的另一个可视敌方单位体内。",
             "energy_cost": "75",
             "casting": "6 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "ancestral_smite",
-            "name": "Ancestral Smite",
+            "name": "先祖惩戒",
             "tier": "IX",
             "type": "战术行动（瞬时）",
-            "description": "Bring forth a violent barrage of pure Essence, tearing through enemies. All enemy units within a 2 hex radius area of effect take 25<damageEntropy></damageEntropy>, lose -200<happiness></happiness> and have a 12<strengthEntropy></strengthEntropy> strength chance to gain <abilityRed>Entropic Decay</abilityRed>.",
+            "description": "制造一阵猛烈的纯净精华弹幕撕裂敌人。 2 个受影响单元格范围内所有敌方单位受到 25<damageEntropy></damageEntropy>伤害，失去 -200<happiness></happiness> 并有 12<strengthEntropy></strengthEntropy> 力量几率获得<abilityRed>混沌衰败</abilityRed>。",
             "energy_cost": "100",
             "casting": "8 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "blessing_of_the_es'teq",
-            "name": "Blessing of the Es'Teq",
+            "name": "埃斯特克祝福",
             "tier": "II",
             "type": "战略行动（瞬时）",
-            "description": "Target friendly army is healed for 50%<hp></hp> and all units gain 1 stack of <actionblue><essenceCharge></essenceCharge>Essence Charge</actionblue> in combat. This lasts for 1<turn></turn> strategic map turn.",
+            "description": "目标友方军队治疗 50%<hp></hp> 且所有单位获得 1 层<actionblue><essenceCharge></essenceCharge>精华充能</actionblue>，持续 1<turn></turn> 个策略地图回合。",
             "energy_cost": "40",
             "casting": "4 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "uncover_ancient_secrets",
-            "name": "Uncover Ancient Secrets",
+            "name": "揭露远古秘密",
             "tier": "II",
             "type": "战略行动（瞬时）",
-            "description": "Reveals the location of the nearest Anomalous Site to the target colony.",
+            "description": "显示离目标殖民地距离最近的异常地点。.",
             "energy_cost": "50",
             "casting": "5 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "haunt_colony",
-            "name": "Haunt Colony",
+            "name": "纠缠殖民地",
             "tier": "III",
             "type": "战略行动（持续）",
-            "description": "All <population></population> in target enemy colony now produce 2 income in the resource slot they occupy and the colony suffers from -15<unhappiness></unhappiness> for 10<turn></turn>。",
+            "description": "目标敌方殖民内的所有 <population></population> 在其占领的资源槽位中产出 2 ，并且殖民地遭受 -15<unhappiness></unhappiness> ，持续 10<turn></turn>。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "curse_of_the_es'teq",
-            "name": "Curse of the Es'Teq",
+            "name": "埃斯特克诅咒",
             "tier": "III",
             "type": "战略行动（瞬时）",
-            "description": "Target enemy army takes 20% of their current <hp></hp> in damage and all units have -3<damageEntropy></damageEntropy> ，持续 1<turn></turn> on the world map.",
+            "description": "在世界地图上，目标敌方军队受到其当前 <hp></hp> 20% 的伤害且所有单位获得 -3<damageEntropy></damageEntropy> ，持续 1<turn></turn> 。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
@@ -2294,140 +2294,140 @@ var jsonOperations = {
 
         {
             "slug": "mind_rebirth",
-            "name": "Mind Rebirth",
+            "name": "灵魂重生",
             "tier": "V",
             "type": "战略行动（定时）",
-            "description": "Unleash recently freed Es'Teq minds on a non-Heritor enemy colony, infiltrating the minds of their colonists and attempting to take over their physical form through Es'Teq reincarnation for 10<turn></turn>. This ability becomes stronger the more Essence Spires you build.<br><br>On failure, applies <abilityRed>居民不安</abilityRed> to the colony, which causes 12<unhappiness></unhappiness> for 3<turn></turn>。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 20% chance to transform 1<population></population> into a Drained each <turn></turn>.</bullet><bullet><actionblue>2级 </actionblue>: In combat, a random non-Heritor unit has a 8<strengthEntropy></strengthEntropy> strength chance to be <abilityRed>晕眩</abilityRed> each <turn></turn>. On failure, they gain <abilityRed>Entropic Decay</abilityRed> instead.</bullet><bullet><actionblue>3级 </actionblue>: Friendly Units gain full <essenceCharge></essenceCharge><actionblue>Essence Charges<actionblue> at the start of combat.</bullet></bulletList>",
+            "description": "向一个非继承者敌人殖民地释放刚刚获得自由的埃斯特克灵魂，渗透敌方移住民的思想，并通过埃斯特克再生尝试控制移住民的肉体，持续 10<turn></turn>。建造的精华尖塔数量越多，此技能就越强大。<br><br>如果失败，则改为对殖民地施加<abilityRed>居民不安</abilityRed>，持续 3<turn></turn> 内降低 12<unhappiness></unhappiness> 。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 每 <turn></turn> 有 20% 几率将 1<population></population> 转化为枯萎者。</bullet><bullet><actionblue>2级 </actionblue>: 在战斗中，每 <turn></turn> 就会有一个随机非继承者玩家单位有 8<strengthEntropy></strengthEntropy> 力量几率陷入<abilityRed>晕眩</abilityRed>。如果失败，该单位获得<abilityRed>混沌衰败</abilityRed>。</bullet><bullet><actionblue>3级 </actionblue>: 在战斗开始时，友方单位获得最大数量的<essenceCharge></essenceCharge><actionblue>精华充能<actionblue>。</bullet></bulletList>",
             "energy_cost": "120",
             "casting": "12 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "conversion_cult_infiltration",
-            "name": "Conversion Cult Infiltration",
+            "name": "转化教派渗透",
             "tier": "VIII",
             "type": "战略行动（持续）",
-            "description": "Send in Siphon Priests to attempt to persuade enemy colonists to switch allegiance, before converting them into energy. <br><br>Target enemy colony has a 30% chance to lose a colonist every <turn></turn>, for 5<turn></turn>. For each colonist lost this way, the caster gains 25<energy></energy>.",
+            "description": "派遣虹吸牧师试图说服敌方移住民叛变，然后将他们转化成能量。<br><br>目标敌方殖民地每 <turn></turn> 有 30% 几率失去一个移住民，持续 5<turn></turn>。每失去一个移住民，施法者获得 25<energy></energy>。",
             "energy_cost": "140",
             "casting": "16 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "ancestral_wrath",
-            "name": "Ancestral Wrath",
+            "name": "先祖愤怒",
             "tier": "VIII",
             "type": "战略行动（瞬时）",
-            "description": "Target enemy colony loses 2<population></population>, and 2 Drained units are summoned under your control adjacent to the Colony Center. Additionally, an <abilityRed>Essence Gash</abilityRed> hazard is created in the sector.",
+            "description": "目标敌方殖民地失去 2<population></population>，并召唤 2 个由你控制的枯萎者单位至殖民地中心附近。此外，在区域中制造一个<abilityRed>精华裂缝</abilityRed>灾害。",
             "energy_cost": "140",
             "casting": "16 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "final_rapture",
-            "name": "Final Rapture",
+            "name": "终极狂欢",
             "tier": "X",
             "type": "末日终结者行动",
-            "description": "The final step in the Heritor plan starts the Mind Transference across the whole planet, starting the Final Rapture.<br><br>Requires Mind Rebirth Level 3.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 20% chance to transform 1<population></population> into a Drained each <turn></turn>.</bullet><bullet><actionblue>2级 </actionblue>: In combat, a random non-Heritor unit has a 8<strengthEntropy></strengthEntropy> strength chance to be <abilityRed>晕眩</abilityRed> each <turn></turn>. On failure, they gain <abilityRed>Entropic Decay</abilityRed> instead.</bullet><bullet><actionblue>3级 </actionblue>: Friendly Units gain full <essenceCharge></essenceCharge><actionblue>Essence Charges<actionblue> at the start of combat.</bullet></bulletList>",
+            "description": "继承者计划的最后一步就是在整个星球上开始灵魂转移，开启“终极狂欢”。<br><br>需要“灵魂重生”达到等级 3。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 每 <turn></turn> 有 20% 几率将 1<population></population> 转化为枯萎者。</bullet><bullet><actionblue>2级 </actionblue>: 在战斗中，每 <turn></turn> 就会有一个随机非继承者玩家单位有 8<strengthEntropy></strengthEntropy> 力量几率陷入<abilityRed>晕眩</abilityRed>。如果失败，该单位获得<abilityRed>混沌衰败</abilityRed>。</bullet><bullet><actionblue>3级 </actionblue>: 在战斗开始时，友方单位获得最大数量的<essenceCharge></essenceCharge><actionblue>精华充能<actionblue>。</bullet></bulletList>",
             "energy_cost": "500",
             "casting": "50 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "inner_communion",
-            "name": "Inner Communion",
+            "name": "内心通灵",
             "tier": "III",
             "type": "教义行动",
-            "description": "By giving your people space to focus and commune with the Essence within them, they become more susceptible to receiving the bounty that Essence has to offer.<br><br>All units can carry 1 additional <actionblue><essenceCharge></essenceCharge>Essence Charge</actionblue>.",
+            "description": "给予你的人民足够的空间集中精力与他们内心的精华通灵，使他们变得更容易接受精华提供的恩惠。<br><br>所有单位可额外携带 1 个 <actionblue><essenceCharge></essenceCharge>精华充能</actionblue>。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "technoclast_crusade",
-            "name": "Technoclast Crusade",
+            "name": "科技碎屑圣战",
             "tier": "III",
             "type": "教义行动",
-            "description": "Rally your forces in a crusade against the wickedness of machine intelligence.<br><br>Against Mechanical and Integrated units, all friendly units gain +10% damage and have a 8<strengthEntropy></strengthEntropy> strength chance (4<strengthEntropy></strengthEntropy> for repeating attacks) to inflict <abilityRed>Entropic Decay</abilityRed>.",
+            "description": "集结一支远征军部队，向邪恶的智能机器宣战。<br><br>对抗机械和融合单位时，所有友方单位获得 +10% 伤害，并有 8<strengthEntropy></strengthEntropy> 力量几率（多次攻击有4<strengthEntropy></strengthEntropy> 几率）施加<abilityRed>混沌衰败</abilityRed>。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "divine_legion",
-            "name": "Divine Legion",
+            "name": "神圣军团",
             "tier": "VII",
             "type": "教义行动",
-            "description": "Infuse your Drained with Essence, forming a divine legion that cannot be stopped.<br><br>All Drained units gain <actionblue>Essence Infusion</actionblue>, granting them  +2<shield></shield>, <actionblue>复苏</actionblue> and allowing them to carry 1 additional <actionblue><essenceCharge></essenceCharge>Essence Charge</actionblue>.",
+            "description": "将精华注入枯萎者，构建一支不可阻挡的神圣军团。<br><br>所有枯萎者单位获得<actionblue>精华灌注</actionblue>，获得  +2<shield></shield> 和<actionblue>复苏</actionblue>，并且还可额外携带 1 个<actionblue><essenceCharge></essenceCharge>精华充能</actionblue>。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "city_of_the_awakened",
-            "name": "City of the Awakened",
+            "name": "苏醒者之城",
             "tier": "VII",
             "type": "教义行动",
-            "description": "Release select Es'Teq minds from their millennia-long slumber and reincarnate them into your colonies, to the enjoyment of your people.<br><br>All colonies gain +20<happiness></happiness> and the colonist acquisition threshold is reduced by 20%.",
+            "description": "将选中的沉睡了千年的埃斯特克灵魂释放出来，使他们在你的殖民地中再生，让人民沉浸在享受之中。<br><br>所有殖民地获得 +20<happiness></happiness> ，移住民获取阈值减少 20%。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "battlefield_autopsies",
-            "name": "Battlefield Autopsies",
+            "name": "战场剖尸",
             "tier": "I",
             "type": "教义行动",
-            "description": "The Assembly pick through the bodies of the dead, examining every nut, bolt and organ for their sinister research.<br><br>After winning Tactical Combat, gain 3<research></research> for each enemy unit killed, multiplied by their tier.<br><br>15<research></research> is gained from each enemy commander and hero defeated.",
+            "description": "半机械人挑拣死者尸体，检查每一个螺母、螺栓和器官用以进行他们邪恶的研究。<br><br>战术战斗获胜后，每击杀一个敌方单位，获得 3<research></research> 。击杀的敌军单位阶级越高，获得的越多。<br><br>每击败一名敌方指挥官和英雄，获得 15<research></research>。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "scavengers",
-            "name": "Scavengers",
+            "name": "清道夫",
             "tier": "I",
             "type": "教义行动",
-            "description": "The assembly can see uses for things others would discard.<br><br>Rewards from clearing Structures on the World Map are increased by 50%.",
+            "description": "半机械人能够发现废弃物的价值。<br><br>清理世界地图上的建筑所获得的奖励提升 50%。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "connected_society",
-            "name": "Connected Society",
+            "name": "连接型社会",
             "tier": "V",
             "type": "教义行动",
-            "description": "Jack into the brains of your colonists to borrow spare processing power. They're probably not using it anyway...<br><br>All Colonists provide +1<research></research>, but our Colonies suffer 4<unhappiness></unhappiness>.",
+            "description": "接入你的移住民大脑来获取闲置的处理能量，反正对他们来说也派不上用场。<br><br>所有移住民提供 +1<research></research>，但同时我们的殖民地会遭受 4<unhappiness></unhappiness>。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "neural-interfacing_datacore",
-            "name": "Neural-Interfacing Datacore",
+            "name": "神经连接数据核心",
             "tier": "V",
             "type": "帝国升级",
-            "description": "Neural Interfacing colonists to imperial datacores found in ruins can provide a boost to research.<br><br>Colony gains +10<research></research> knowledge income for each Ruins sector within its domain.",
+            "description": "连接至帝国数据核心的神经连接移住民可提供研究增益。<br><br>殖民地领域内每有一个废墟区域，便获得 +10<research></research> 知识收益。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "the_great_harvest",
-            "name": "The Great Harvest",
+            "name": "大丰收",
             "tier": "IX",
             "type": "教义行动",
-            "description": "Our mastery of reassembly approaches completion. Nothing is wasted; everything has a purpose.<br><br>After winning Tactical Combat, gain 5<food></food> and 10<production></production> for each enemy unit killed, multiplied by their tier.<br><br>20<food></food> and 40<production></production> is gained from each enemy commander and hero defeated.",
+            "description": "我们对改造的掌握几近完美，每一处修改都有其目的，绝无浪费。<br><br>战术战斗获胜后，每击杀一个敌方单位，获得 5<food></food> 和 10<production></production> 。击杀的敌方单位阶级越高，获得的越多。<br><br>每击败一名敌方指挥官和英雄，获得 20<food></food> 和 40<production></production>。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "re-cycle_of_life",
-            "name": "Re-cycle of Life",
+            "name": "生命循环",
             "tier": "IX",
             "type": "教义行动",
-            "description": "Knowing that our troops can be assembled again and again upon their destruction increases their willingness to keep on fighting as their end eludes them.<br><br>Your Cyborg units gain +400<happiness></happiness>。<br>After winning Tactical Combat, gain 25<energy></energy> for each friendly Cyborg unit killed, multiplied by their tier.",
+            "description": "我们的部队知道即使他们被摧毁，也能够一次又一次地被重新组装起来。他们持续战斗的意愿得到了提升，因为他们的存在没有终结。<br><br>你的半机械人单位获得 +400<happiness></happiness>。<br>战术战斗获胜后，每击杀一个敌方单位，获得 25<energy></energy> 。击杀的敌方单位阶级越高，获得的越多。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
@@ -2437,120 +2437,120 @@ var jsonOperations = {
 
         {
             "slug": "water_base",
-            "name": "Water Base",
+            "name": "水上基地",
             "tier": "I",
             "type": "帝国升级",
-            "description": "Unlocks the ability to build bases on water and coastal sectors.",
+            "description": "解锁建造水上基地和海滨区域的能力。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "sea_transport",
-            "name": "Sea Transport",
+            "name": "海洋运输",
             "tier": "I",
             "type": "帝国升级",
-            "description": "Allows units to embark into a transport to travel across the water.",
+            "description": "可使单位搭载运输工具在水上穿行。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "hazard_removal",
-            "name": "Hazard Removal",
+            "name": "灾害消除",
             "tier": "III",
             "type": "帝国升级",
-            "description": "Unlocks the ability to remove Hazards from the world map using special operations.",
+            "description": "解锁利用特殊行动消除世界地图灾害的能力。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "river_exploitation",
-            "name": "River Exploitation",
+            "name": "河流开发点",
             "tier": "III",
             "type": "帝国升级",
-            "description": "Colonies with a River going through their domain generate +10<food></food> food income.",
+            "description": "领域内有河流经过的殖民地生成 +10<food></food> 食物收益。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "transit_infrastructure",
-            "name": "Transit Infrastructure",
+            "name": "运输基础设施",
             "tier": "V",
             "type": "帝国升级",
-            "description": "Upgrading the transit infrastructure will reduce travel time within the empire's domain.<br><br>Reduces the movement cost of all hexes for friendly units within the colony's domain by 2.",
+            "description": "升级运输基础设施将缩短帝国领域内的行程时间。<br><br>殖民地领域内友方单位通过道路单元格时所需的移动消耗减少 2。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "ruins_navigation",
-            "name": "Ruins Navigation",
+            "name": "废墟行走",
             "tier": "V",
             "type": "帝国升级",
-            "description": "All units with Amphibious or Land Movement gain Expedited Movement in Ruins, reducing the cost of moving through this terrain.",
+            "description": "所有拥有“水陆两栖”或“陆地移动”的单位在废墟区域中获得“加速移动”，减少穿越废墟区域时所需的消耗。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "mountain_navigation",
-            "name": "Mountain Navigation",
+            "name": "山地行走",
             "tier": "V",
             "type": "帝国升级",
-            "description": "All units with Amphibious or Land Movement gain Expedited Movement in Mountains, reducing the cost of moving through this terrain.",
+            "description": "所有拥有“水陆两栖”或“陆地移动”的单位在山地区域中获得“加速移动”，减少穿越山地区域时所需的消耗。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "lava_exploitation",
-            "name": "Lava Exploitation",
+            "name": "岩浆开发点",
             "tier": "VII",
             "type": "帝国升级",
-            "description": "Colonies generate +10<energy></energy> for each sector with a lava within its domain.",
+            "description": "领域内有岩浆流经过的殖民地生成 +10<energy></energy> 能量收益。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "volcanic_adaptation",
-            "name": "Volcanic Adaptation",
+            "name": "火山适应",
             "tier": "VII",
             "type": "帝国升级",
-            "description": "Colonies ignore all economic penalties from Volcanic terrain.",
+            "description": "殖民地无视火山地形造成的所有经济惩罚。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "forward_relays",
-            "name": "Forward Relays",
+            "name": "前线中继站",
             "tier": "VIII",
             "type": "帝国升级",
-            "description": "Unlocks the ability to upgrade Forward Bases into Forward Relays, this lets them be used like an <actionblue>Orbital Relay</actionblue> sector and grants them a <actionblue>Tier 3 Garrison</actionblue>.",
+            "description": "解锁将前线基地升级为前线中继站的能力，升级之后的前线中继站将拥有与<actionblue>轨道中继站</actionblue>区域相同的功能且配备有<actionblue>3 阶驻防</actionblue>。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "cosmite_catalyst",
-            "name": "Cosmite Catalyst",
+            "name": "宇宙合金催化剂",
             "tier": "X",
             "type": "帝国升级",
-            "description": "Applying a Cosmite catalyst to all Cosmite-generating structures can boost yields.<br><br>Global Income of Cosmite increased by +10%.",
+            "description": "为所有宇宙合金生成的建筑应用宇宙合金催化剂，可提高收益。<br><br>宇宙合金的全局性收益增加 +10%。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "recreational_dome",
-            "name": "Recreational Dome",
+            "name": "休闲穹顶",
             "tier": "I",
             "type": "殖民地升级",
-            "description": "The colony gains 2<population></population> happiness slots and +6<happiness></happiness> happiness income.",
+            "description": "殖民地获得 2<population></population> 幸福值槽位和 +6<happiness></happiness> 幸福值收益。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -2559,10 +2559,10 @@ var jsonOperations = {
 
         {
             "slug": "standard_military_infrastructure",
-            "name": "Standard Military Infrastructure",
+            "name": "标准军事基础设施",
             "tier": "I",
             "type": "殖民地升级",
-            "description": "Upgrades the colony militia army to include more powerful units.",
+            "description": "升级殖民地卫队驻防部队，使其包含更强的单位。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -2571,10 +2571,10 @@ var jsonOperations = {
 
         {
             "slug": "production_sectors_upgrade",
-            "name": "Production Sectors Upgrade",
+            "name": "产力区域升级",
             "tier": "II",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all production sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector specializations in that sector.",
+            "description": "所有产力区域的等级 +1。提升区域等级可提升该区域开发点和区域专精获得的收益。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -2583,10 +2583,10 @@ var jsonOperations = {
 
         {
             "slug": "military_engineering_guild",
-            "name": "Military Engineering Guild",
+            "name": "军事工程协会",
             "tier": "II",
             "type": "区域升级",
-            "description": "Focusing your industry on military engineering allows for quicker build times for military assets. At higher levels, units are built so well that their defenses are improved.<br><br><abilityRed>This can only be built in an industrial exploitation sector.</abilityRed><br><br><abilityRed>Unit costs can never be lowered more than 75%.</abilityRed><br><br><bullet> Level 1<br>-10% <production></production> cost for non-Elite units.</bullet><bullet> Level 2<br>-15% <production></production> cost for non-Elite units.</bullet><bullet> Level 3<br>-20% <production></production> cost for non-Elite units.<br>Non-Elite units are produced with +1<armor></armor>.</bullet><bullet> Level 4<br>-25% <production></production> cost for non-Elite units.<br>Non-Elite units are produced with +1<armor></armor>.</bullet><bullet> Level 5<br>-30% <production></production> cost for non-Elite units.<br>Non-Elite units are produced with +2<armor></armor>.</bullet>",
+            "description": "发展军事工程产业可以缩短军事资产的建造时间。提升至更高等级后，能够打造出防御更高的精良单位。<br><br><abilityRed>仅可在工业开发点区域建造。</abilityRed><br><br><abilityRed>单位消耗减少不能超过 75%。</abilityRed><br><br><bullet> 等级 1<br>非精英单位的 <production></production> 消耗减少 -10% 。</bullet><bullet> 等级 2<br>非精英单位的 <production></production> 消耗减少 -15% 。</bullet><bullet> 等级 3<br>非精英单位的 <production></production> 消耗减少 -20% 。<br>非精英单位在生产时拥有 +1<armor></armor>。</bullet><bullet> 等级 4<br>非精英单位的 <production></production> 消耗减少  -25% 。<br>非精英单位在生产时拥有 +1<armor></armor>.</bullet><bullet> 等级 5<br>非精英单位的 <production></production> 消耗减少 -30%。<br>非精英单位在生产时拥有 +2<armor></armor>。</bullet>",
             "production_cost": "250 <production></production> Production",
         },
 
@@ -2595,7 +2595,7 @@ var jsonOperations = {
             "name": "Civil Engineering Guild",
             "tier": "II",
             "type": "区域升级",
-            "description": "Dedicating industrial capacity to civil engineering projects allows for quicker build times. At higher levels, kinetic generators can be built into existing constructions, generating a small passive production bonus.<br><br><abilityRed>This can only be built in an industrial exploitation sector.</abilityRed><br><br><bullet> Level 1<br>-10% <production></production> cost for colony structures.</bullet><bullet> Level 2<br>-15% <production></production> cost for colony structures.</bullet><bullet> Level 3<br>-20% <production></production> cost for colony structures.<br>+2<production></production> for each colony structure built.</bullet><bullet> Level 4<br>-25% <production></production> cost for colony structures.<br>+4<production></production> for each colony structure built.</bullet><bullet> Level 5<br>-30% <production></production> cost for colony structures.<br>+6<production></production> for each colony structure built.</bullet>",
+            "description": "Dedicating industrial capacity to civil engineering projects allows for quicker build times. At higher levels, kinetic generators can be built into existing constructions, generating a small passive production bonus.<br><br><abilityRed>This can only be built in an industrial exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>-10% <production></production> cost for colony structures.</bullet><bullet> 等级 2<br>-15% <production></production> cost for colony structures.</bullet><bullet> 等级 3<br>-20% <production></production> cost for colony structures.<br>+2<production></production> for each colony structure built.</bullet><bullet> 等级 4<br>-25% <production></production> cost for colony structures.<br>+4<production></production> for each colony structure built.</bullet><bullet> 等级 5<br>-30% <production></production> cost for colony structures.<br>+6<production></production> for each colony structure built.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2619,7 +2619,7 @@ var jsonOperations = {
             "name": "Energy Efficient Assembly Line",
             "tier": "II",
             "type": "区域升级",
-            "description": "By focusing on energy efficiency, the production of units can be made significantly cheaper. At higher levels, this can reduce the upkeep costs of any unit produced in this colony.<br><br><abilityRed>This can only be built in an energy exploitation sector.</abilityRed><br><br><abilityRed>Unit costs can never be lowered more than 75%.</abilityRed><br><abilityRed>Unit upkeep can never be lowered more than 50%.</abilityRed><br><br><bullet> Level 1<br>-10% <energy></energy> cost for units.</bullet><bullet> Level 2<br>-15% <energy></energy> cost for units.</bullet><bullet> Level 3<br>-20% <energy></energy> cost for units.<br>Units are produced with -10% <energy></energy> upkeep.</bullet><bullet> Level 4<br>-25% <energy></energy> cost for units.<br>Units are produced with -20% <energy></energy> upkeep.</bullet><bullet> Level 5<br>-30% <energy></energy> cost for units.<br>Units are produced with -30% <energy></energy> upkeep.</bullet>",
+            "description": "By focusing on energy efficiency, the production of units can be made significantly cheaper. At higher levels, this can reduce the upkeep costs of any unit produced in this colony.<br><br><abilityRed>This can only be built in an energy exploitation sector.</abilityRed><br><br><abilityRed>Unit costs can never be lowered more than 75%.</abilityRed><br><abilityRed>Unit upkeep can never be lowered more than 50%.</abilityRed><br><br><bullet> 等级 1<br>-10% <energy></energy> cost for units.</bullet><bullet> 等级 2<br>-15% <energy></energy> cost for units.</bullet><bullet> 等级 3<br>-20% <energy></energy> cost for units.<br>Units are produced with -10% <energy></energy> upkeep.</bullet><bullet> 等级 4<br>-25% <energy></energy> cost for units.<br>Units are produced with -20% <energy></energy> upkeep.</bullet><bullet> 等级 5<br>-30% <energy></energy> cost for units.<br>Units are produced with -30% <energy></energy> upkeep.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2631,7 +2631,7 @@ var jsonOperations = {
             "name": "Optimization Control Agency",
             "tier": "II",
             "type": "区域升级",
-            "description": "By controlling colonists and optimizing work processes, efficient gains can be reached during times of focused effort. At higher levels, increased energy gains can be gained from all energy workers.<br><br><abilityRed>This can only be built in an energy exploitation sector.</abilityRed><br><br><bullet> Level 1<br>	\"Buy Now\" costs -10% less <energy></energy>.</bullet><bullet> Level 2<br>\"Buy Now\" costs -15% less <energy></energy>.</bullet><bullet> Level 3<br>\"Buy Now\" costs -20% less <energy></energy>。<br>+1<energy></energy> per colonist in <energyslot></energyslot>.</bullet><bullet> Level 4<br>\"Buy Now\" costs -25% less <energy></energy>。<br>+2<energy></energy> per colonist in <energyslot></energyslot>.</bullet><bullet> Level 5<br>\"Buy Now\" costs -30% less <energy></energy>。<br>+3<energy></energy> per colonist in <energyslot></energyslot>.</bullet>",
+            "description": "By controlling colonists and optimizing work processes, efficient gains can be reached during times of focused effort. At higher levels, increased energy gains can be gained from all energy workers.<br><br><abilityRed>This can only be built in an energy exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>	\"Buy Now\" costs -10% less <energy></energy>.</bullet><bullet> 等级 2<br>\"Buy Now\" costs -15% less <energy></energy>.</bullet><bullet> 等级 3<br>\"Buy Now\" costs -20% less <energy></energy>。<br>+1<energy></energy> per colonist in <energyslot></energyslot>.</bullet><bullet> 等级 4<br>\"Buy Now\" costs -25% less <energy></energy>。<br>+2<energy></energy> per colonist in <energyslot></energyslot>.</bullet><bullet> 等级 5<br>\"Buy Now\" costs -30% less <energy></energy>。<br>+3<energy></energy> per colonist in <energyslot></energyslot>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2667,7 +2667,7 @@ var jsonOperations = {
             "name": "Bioengineered Food Plantation",
             "tier": "II",
             "type": "区域升级",
-            "description": "Advanced bioengineering can create super foods that have a beneficial effect on colonist biology and the growth rate of the colony. At higher levels, your colonists will need less food as upkeep.<br><br><abilityRed>This can only be built in an agriculture exploitation sector.</abilityRed><br><br><bullet> Level 1<br>-10% <food></food> for <population></population> growth. </bullet><bullet> Level 2<br>-15% <food></food> for <population></population> growth. </bullet><bullet> Level 3<br>-20% <food></food> for <population></population> growth.<br>-1<food></food> upkeep per <population></population>.</bullet><bullet> Level 4<br>-25% <food></food> for <population></population> growth.<br>-1<food></food> upkeep per <population></population>.</bullet><bullet> Level 5<br>-30% <food></food> for <population></population> growth.<br>-2<food></food> upkeep per <population></population>.</bullet>",
+            "description": "Advanced bioengineering can create super foods that have a beneficial effect on colonist biology and the growth rate of the colony. At higher levels, your colonists will need less food as upkeep.<br><br><abilityRed>This can only be built in an agriculture exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>-10% <food></food> for <population></population> growth. </bullet><bullet> 等级 2<br>-15% <food></food> for <population></population> growth. </bullet><bullet> 等级 3<br>-20% <food></food> for <population></population> growth.<br>-1<food></food> upkeep per <population></population>.</bullet><bullet> 等级 4<br>-25% <food></food> for <population></population> growth.<br>-1<food></food> upkeep per <population></population>.</bullet><bullet> 等级 5<br>-30% <food></food> for <population></population> growth.<br>-2<food></food> upkeep per <population></population>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2679,7 +2679,7 @@ var jsonOperations = {
             "name": "Agricultural Export Center",
             "tier": "II",
             "type": "区域升级",
-            "description": "A dedicated agricultural export center is vital for the efficient distribution of food to other colonies. At higher levels, increased food yields can be achieved by organized effort towards food production.<br><br><abilityRed>This can only be built in an agriculture exploitation sector.</abilityRed><br><br><bullet> Level 1<br><food></food> sharing tax reduced to 30%.</bullet><bullet> Level 2<br><food></food> sharing tax reduced to 25%.</bullet><bullet> Level 3<br><food></food> sharing tax reduced to 20%.<br>+1<food></food> per colonist in <foodslot></foodslot>.</bullet><bullet> Level 4<br><food></food> sharing tax reduced to 15%.<br>+2<food></food> per colonist in <foodslot></foodslot>.</bullet><bullet> Level 5<br><food></food> sharing tax reduced to 10%.<br>+3<food></food> per colonist in <foodslot></foodslot>.</bullet>",
+            "description": "A dedicated agricultural export center is vital for the efficient distribution of food to other colonies. At higher levels, increased food yields can be achieved by organized effort towards food production.<br><br><abilityRed>This can only be built in an agriculture exploitation sector.</abilityRed><br><br><bullet> 等级 1<br><food></food> sharing tax reduced to 30%.</bullet><bullet> 等级 2<br><food></food> sharing tax reduced to 25%.</bullet><bullet> 等级 3<br><food></food> sharing tax reduced to 20%.<br>+1<food></food> per colonist in <foodslot></foodslot>.</bullet><bullet> 等级 4<br><food></food> sharing tax reduced to 15%.<br>+2<food></food> per colonist in <foodslot></foodslot>.</bullet><bullet> 等级 5<br><food></food> sharing tax reduced to 10%.<br>+3<food></food> per colonist in <foodslot></foodslot>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2691,7 +2691,7 @@ var jsonOperations = {
             "name": "Society Investment Center",
             "tier": "II",
             "type": "区域升级",
-            "description": "Investing research into society progression will allow quicker access to exploitations of the land, leading to long term economic advantages over other factions, as well as faster access to advanced governmental doctrines and espionage opportunities. At higher levels, we can increase the general output of all our science workers.<br><br><abilityRed>This can only be built in an research exploitation sector.</abilityRed><br><br><bullet> Level 1<br>+10% <research></research> for Society research.</bullet><bullet> Level 2<br>+15% <research></research> for Society research.</bullet><bullet> Level 3<br>+20% <research></research> for Society research.<br>+1<research></research> per colonist in <researchslot></researchslot>.</bullet><bullet> Level 4<br>+25% <research></research> for Society research.<br>+2<research></research> per colonist in <researchslot></researchslot>.</bullet><bullet> Level 5<br>+30% <research></research> for Society research.<br>+3<research></research> per colonist in <researchslot></researchslot>.</bullet>",
+            "description": "Investing research into society progression will allow quicker access to exploitations of the land, leading to long term economic advantages over other factions, as well as faster access to advanced governmental doctrines and espionage opportunities. At higher levels, we can increase the general output of all our science workers.<br><br><abilityRed>This can only be built in an research exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>+10% <research></research> for Society research.</bullet><bullet> 等级 2<br>+15% <research></research> for Society research.</bullet><bullet> 等级 3<br>+20% <research></research> for Society research.<br>+1<research></research> per colonist in <researchslot></researchslot>.</bullet><bullet> 等级 4<br>+25% <research></research> for Society research.<br>+2<research></research> per colonist in <researchslot></researchslot>.</bullet><bullet> 等级 5<br>+30% <research></research> for Society research.<br>+3<research></research> per colonist in <researchslot></researchslot>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2703,7 +2703,7 @@ var jsonOperations = {
             "name": "Military Innovation Center",
             "tier": "II",
             "type": "区域升级",
-            "description": "Dedicating research to military innovation allows the unlocking of units, unit modifications and operations to increase the defensive capabilities of your forces. At higher levels, we can insert scientists into training teams, increasing the quality of produced troops.<br><br><abilityRed>This can only be built in an research exploitation sector.</abilityRed><br><br><bullet> Level 1<br>10% <research></research> for Military research.</bullet><bullet> Level 2<br>10% <research></research> for Military research.</bullet><bullet> Level 3<br>+20% <research></research> for Military research.<br>Units produced gain +1 <x-medal_novice></x-medal_novice>.</bullet><bullet> Level 4<br>+25% <research></research> for Military research.<br>Units produced gain +2 <x-medal_novice></x-medal_novice>.</bullet><bullet> Level 5<br>+30% <research></research> for Military research.<br>Units produced gain +3 <x-medal_novice></x-medal_novice>.</bullet>",
+            "description": "Dedicating research to military innovation allows the unlocking of units, unit modifications and operations to increase the defensive capabilities of your forces. At higher levels, we can insert scientists into training teams, increasing the quality of produced troops.<br><br><abilityRed>This can only be built in an research exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>10% <research></research> for Military research.</bullet><bullet> 等级 2<br>10% <research></research> for Military research.</bullet><bullet> 等级 3<br>+20% <research></research> for Military research.<br>Units produced gain +1 <x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 4<br>+25% <research></research> for Military research.<br>Units produced gain +2 <x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 5<br>+30% <research></research> for Military research.<br>Units produced gain +3 <x-medal_novice></x-medal_novice>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2727,7 +2727,7 @@ var jsonOperations = {
             "name": "Algae Farms",
             "tier": "III",
             "type": "区域升级",
-            "description": "By utilizing the biodiverse climate of the ocean for algae farms, more food can be rapidly grown along coast lines. The addition of algae in regular food growth processes can lead to increased yields. At higher levels, food can be exponentially grown with enough dedication.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.</abilityRed><br><br><bullet> Level 1<br> +5<food></food> for each <food></food> and <watersector></watersector> exploitation.</bullet><bullet> Level 2<br> +10<food></food> for each <food></food> and <watersector></watersector> exploitation.</bullet><bullet> Level 3<br> ++15<food></food> for each <food></food> and <watersector></watersector> exploitation.<br>+10%<food></food> income.</bullet>",
+            "description": "By utilizing the biodiverse climate of the ocean for algae farms, more food can be rapidly grown along coast lines. The addition of algae in regular food growth processes can lead to increased yields. At higher levels, food can be exponentially grown with enough dedication.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.</abilityRed><br><br><bullet> 等级 1<br> +5<food></food> for each <food></food> and <watersector></watersector> exploitation.</bullet><bullet> 等级 2<br> +10<food></food> for each <food></food> and <watersector></watersector> exploitation.</bullet><bullet> 等级 3<br> ++15<food></food> for each <food></food> and <watersector></watersector> exploitation.<br>+10%<food></food> income.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2739,7 +2739,7 @@ var jsonOperations = {
             "name": "Maritime Research Facility",
             "tier": "III",
             "type": "区域升级",
-            "description": "The biodiverse climate of the ocean is provides plenty of research opportunities. Combining the knowledge gained from oceanic research with more conventional research centers boosts gains. At higher levels, knowledge gains increase exponentially with the amount of research that is conducted.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.</abilityRed><br><br><bullet> Level 1<br> +5<research></research> for each <research></research> and <watersector></watersector> exploitation.</bullet><bullet> Level 2<br> ++10<research></research> for each <research></research> and <watersector></watersector> exploitation.</bullet><bullet> Level 3<br> ++10<research></research> for each <research></research> and <watersector></watersector> exploitation.<br>+10%<research></research> income.</bullet>",
+            "description": "The biodiverse climate of the ocean is provides plenty of research opportunities. Combining the knowledge gained from oceanic research with more conventional research centers boosts gains. At higher levels, knowledge gains increase exponentially with the amount of research that is conducted.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.</abilityRed><br><br><bullet> 等级 1<br> +5<research></research> for each <research></research> and <watersector></watersector> exploitation.</bullet><bullet> 等级 2<br> ++10<research></research> for each <research></research> and <watersector></watersector> exploitation.</bullet><bullet> 等级 3<br> ++10<research></research> for each <research></research> and <watersector></watersector> exploitation.<br>+10%<research></research> income.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2871,7 +2871,7 @@ var jsonOperations = {
             "name": "Military Assembly Base",
             "tier": "V",
             "type": "殖民地升级",
-            "description": "Converting this relay into a military assembly base will allow it to rapidly resupply arriving troops and add military grade turrets and walls to its defenses.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Orbital Logistics Base.</abilityRed><br><br><bullet> Level 1<br>Friendly armies arriving at this relay are fully <actionblue>healed</actionblue> and gain <actionblue>Resupplied</actionblue><br>This relay now has walls and turrets in tactical combat.</bullet>",
+            "description": "Converting this relay into a military assembly base will allow it to rapidly resupply arriving troops and add military grade turrets and walls to its defenses.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Orbital Logistics Base.</abilityRed><br><br><bullet> 等级 1<br>Friendly armies arriving at this relay are fully <actionblue>healed</actionblue> and gain <actionblue>Resupplied</actionblue><br>This relay now has walls and turrets in tactical combat.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2883,7 +2883,7 @@ var jsonOperations = {
             "name": "Orbital Reinforcement Platform",
             "tier": "VIII",
             "type": "殖民地升级",
-            "description": "Establishes a launch platform for quick response units. Any combat in the domain of the attached colony gains the <actionblue>Rapid Reinforcement</actionblue> combat effect.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Strategic Operations Platform.</abilityRed><br><br><bullet> Level 1<br>Grants <actionblue>Orbital Garrison</actionblue> combat effect in tactical combat while within the colony's domain. Every 2 turns, a drop pod crashes into an enemy unit, displacing them and spawning a friendly Tier 1 or 2 Ground unit (excluding scouts).</bullet>",
+            "description": "Establishes a launch platform for quick response units. Any combat in the domain of the attached colony gains the <actionblue>Rapid Reinforcement</actionblue> combat effect.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Strategic Operations Platform.</abilityRed><br><br><bullet> 等级 1<br>Grants <actionblue>Orbital Garrison</actionblue> combat effect in tactical combat while within the colony's domain. Every 2 turns, a drop pod crashes into an enemy unit, displacing them and spawning a friendly Tier 1 or 2 Ground unit (excluding scouts).</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2895,7 +2895,7 @@ var jsonOperations = {
             "name": "Strategic Operations Platform",
             "tier": "VII",
             "type": "殖民地升级",
-            "description": "Utilizing the relay's impressive sensor array, a strategic operations platform can be established.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Orbital Reinforcement Platform.</abilityRed><br><br><bullet> Level 1<br>+1<stratPoint></stratPoint>. +6<operationDefense></operationDefense> within the domain of the attached colony.</bullet>",
+            "description": "Utilizing the relay's impressive sensor array, a strategic operations platform can be established.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Orbital Reinforcement Platform.</abilityRed><br><br><bullet> 等级 1<br>+1<stratPoint></stratPoint>. +6<operationDefense></operationDefense> within the domain of the attached colony.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2979,7 +2979,7 @@ var jsonOperations = {
             "name": "Advanced Military Engineering Guild",
             "tier": "VI",
             "type": "区域升级",
-            "description": "Further development in military engineering allows for quicker build times for complex military assets. At higher levels, units are built so well that their defenses are improved.<br><br><abilityRed>This can only be built in an industrial exploitation sector.</abilityRed><br><br><bullet> Level 1<br>-10% <production></production> cost for Elite units.</bullet><bullet> Level 2<br>-15% <production></production> cost for Elite units.</bullet><bullet> Level 3<br>-20% <production></production> cost for Elite units.<br>Elite units are produced with +1<armor></armor>.</bullet><bullet> Level 4<br>-25% <production></production> cost for Elite units.<br>Elite units are produced with +1<armor></armor>.</bullet><bullet> Level 5<br>-30% <production></production> cost for Elite units.<br>Elite units are produced with +2<armor></armor>.</bullet>",
+            "description": "Further development in military engineering allows for quicker build times for complex military assets. At higher levels, units are built so well that their defenses are improved.<br><br><abilityRed>This can only be built in an industrial exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>-10% <production></production> cost for Elite units.</bullet><bullet> 等级 2<br>-15% <production></production> cost for Elite units.</bullet><bullet> 等级 3<br>-20% <production></production> cost for Elite units.<br>Elite units are produced with +1<armor></armor>.</bullet><bullet> 等级 4<br>-25% <production></production> cost for Elite units.<br>Elite units are produced with +1<armor></armor>.</bullet><bullet> 等级 5<br>-30% <production></production> cost for Elite units.<br>Elite units are produced with +2<armor></armor>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2991,7 +2991,7 @@ var jsonOperations = {
             "name": "High Energy Scanning Station",
             "tier": "VI",
             "type": "区域升级",
-            "description": "Deploying an Arc defense grid provides vision and scanner coverage to your colony borders. At higher levels, the defense grid becomes so strong that it increases the colony domain's operational defense.<br><br><abilityRed>This can only be built in an energy exploitation sector.</abilityRed><br><br><bullet> Level 1<br>+1 to colony Vision and Sensor range.</bullet><bullet> Level 2<br>+2 to colony Vision and Sensor range. Colony gains True Sight.</bullet><bullet> Level 3<br>+3 to colony Vision and Sensor range.<br>Colony gains True Sight and +4 <operationDefense></operationDefense>.</bullet><bullet> Level 4<br>+4 to colony Vision and Sensor range.<br>Colony gains True Sight and +8 <operationDefense></operationDefense>.</bullet><bullet> Level 5<br>+5 to colony Vision and Sensor range.<br>Colony gains True Sight and +12 <operationDefense></operationDefense>.</bullet>",
+            "description": "Deploying an Arc defense grid provides vision and scanner coverage to your colony borders. At higher levels, the defense grid becomes so strong that it increases the colony domain's operational defense.<br><br><abilityRed>This can only be built in an energy exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>+1 to colony Vision and Sensor range.</bullet><bullet> 等级 2<br>+2 to colony Vision and Sensor range. Colony gains True Sight.</bullet><bullet> 等级 3<br>+3 to colony Vision and Sensor range.<br>Colony gains True Sight and +4 <operationDefense></operationDefense>.</bullet><bullet> 等级 4<br>+4 to colony Vision and Sensor range.<br>Colony gains True Sight and +8 <operationDefense></operationDefense>.</bullet><bullet> 等级 5<br>+5 to colony Vision and Sensor range.<br>Colony gains True Sight and +12 <operationDefense></operationDefense>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3003,7 +3003,7 @@ var jsonOperations = {
             "name": "Community Wellness Center",
             "tier": "VI",
             "type": "区域升级",
-            "description": "By focusing on the wellness of your colonists, their overall health and happiness can be improved and they are quicker to generate happiness events. At higher levels, the rewards from happiness events can be increased.<br><br><abilityRed>This can only be built in an agriculture exploitation sector.</abilityRed><br><br><bullet> Level 1<br><happiness></happiness> events require 10% less <happiness></happiness>.</bullet><bullet> Level 2<br><happiness></happiness> events require 20% less <happiness></happiness>.</bullet><bullet> Level 3<br><happiness></happiness> events require 30% less <happiness></happiness>。<br><happiness></happiness> events generate +50%.</bullet><bullet> Level 4<br><happiness></happiness> events require 40% less <happiness></happiness>。<br><happiness></happiness> events generate +100%.</bullet><bullet> Level 5<br><happiness></happiness> events require 50% less <happiness></happiness>。<br><happiness></happiness> events generate +150%.</bullet>",
+            "description": "By focusing on the wellness of your colonists, their overall health and happiness can be improved and they are quicker to generate happiness events. At higher levels, the rewards from happiness events can be increased.<br><br><abilityRed>This can only be built in an agriculture exploitation sector.</abilityRed><br><br><bullet> 等级 1<br><happiness></happiness> events require 10% less <happiness></happiness>.</bullet><bullet> 等级 2<br><happiness></happiness> events require 20% less <happiness></happiness>.</bullet><bullet> 等级 3<br><happiness></happiness> events require 30% less <happiness></happiness>。<br><happiness></happiness> events generate +50%.</bullet><bullet> 等级 4<br><happiness></happiness> events require 40% less <happiness></happiness>。<br><happiness></happiness> events generate +100%.</bullet><bullet> 等级 5<br><happiness></happiness> events require 50% less <happiness></happiness>。<br><happiness></happiness> events generate +150%.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3015,7 +3015,7 @@ var jsonOperations = {
             "name": "Cosmite Amplification Lab",
             "tier": "VI",
             "type": "区域升级",
-            "description": "High powered quantum accelerators can amplify the energetic properties of Comsite, meaning less is required for military applications. At higher levels, we can merge traces of stabilized cosmites into our armor, boosting our troops resistance to enemy attacks.<br><br><abilityRed>This can only be built in an research exploitation sector.</abilityRed><br><br><bullet> Level 1<br>-10% <tricorium></tricorium> cost for units.</bullet><bullet> Level 2<br>-15% <tricorium></tricorium> cost for units.</bullet><bullet> Level 3<br>-20% <tricorium></tricorium> cost for units.<br>Units are produced with +1 resistance to status effects.</bullet><bullet> Level 4<br>-25% <tricorium></tricorium> cost for units.<br>Units are produced with +2 resistance to status effects.</bullet><bullet> Level 5<br>-30% <tricorium></tricorium> cost for units.<br>Units are produced with +3 resistance to status effects.</bullet>",
+            "description": "High powered quantum accelerators can amplify the energetic properties of Comsite, meaning less is required for military applications. At higher levels, we can merge traces of stabilized cosmites into our armor, boosting our troops resistance to enemy attacks.<br><br><abilityRed>This can only be built in an research exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>-10% <tricorium></tricorium> cost for units.</bullet><bullet> 等级 2<br>-15% <tricorium></tricorium> cost for units.</bullet><bullet> 等级 3<br>-20% <tricorium></tricorium> cost for units.<br>Units are produced with +1 resistance to status effects.</bullet><bullet> 等级 4<br>-25% <tricorium></tricorium> cost for units.<br>Units are produced with +2 resistance to status effects.</bullet><bullet> 等级 5<br>-30% <tricorium></tricorium> cost for units.<br>Units are produced with +3 resistance to status effects.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3049,7 +3049,7 @@ var jsonOperations = {
             "name": "Capability Ranking",
             "tier": "I",
             "type": "帝国升级",
-            "description": "Unlocks capability rankings, shown in the Empire Tasks interface, allowing you to see how your Empire compares to that of other players.<br><br>Capability is visible for your Empire and its allies. To see the ranks of other players you must use <actionblue>Infiltrate Operation Center</actionblue>.",
+            "description": "Unlocks capability rankings, shown in the Empire Tasks interface, allowing you to see how your Empire compares to that of other players.<br><br>Capability is visible for your Empire and its allies. To see the ranks of other players you must use <actionblue>Infiltrate Operation Center</actionblue>。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
@@ -3427,7 +3427,7 @@ var jsonOperations = {
             "name": "One-Way Trust",
             "tier": "V",
             "type": "教义行动",
-            "description": "Mutual trust is important amongst allies, but complete trust is a fallacy, so we must keep them on a leash and feed them false information in return for their data.<br><br>You do not suffer from the negative effects of having an intelligence sharing pact with other players. In addition, you get +4<operationDefense></operationDefense>.",
+            "description": "Mutual trust is important amongst allies, but complete trust is a fallacy, so we must keep them on a leash and feed them false information in return for their data.<br><br>You do not suffer from the negative effects of having an intelligence sharing pact with other players. In addition, you get +4<operationDefense></operationDefense>。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
@@ -3447,7 +3447,7 @@ var jsonOperations = {
             "name": "Indentured Servitude",
             "tier": "IX",
             "type": "教义行动",
-            "description": "In these desperate times, everyone must make sacrifices, but the lower class should sacrifice the most.<br><br>All Colonies gain +40%<production></production>, but suffer -8<happiness></happiness>.",
+            "description": "In these desperate times, everyone must make sacrifices, but the lower class should sacrifice the most.<br><br>All Colonies gain +40%<production></production>, but suffer -8<happiness></happiness>。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
@@ -3487,7 +3487,7 @@ var jsonOperations = {
             "name": "Harmonious Existence",
             "tier": "VII",
             "type": "教义行动",
-            "description": "By teaching your population to live in harmony with the world and each other, they will live a happier life.<br><br>Each Colony you own that is not of your starting race provides an additional +100 to relations with that race.<br>All your Colonies have +6<happiness></happiness>.",
+            "description": "By teaching your population to live in harmony with the world and each other, they will live a happier life.<br><br>Each Colony you own that is not of your starting race provides an additional +100 to relations with that race.<br>All your Colonies have +6<happiness></happiness>。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
@@ -3640,7 +3640,7 @@ var jsonOperations = {
             "name": "Area of Reprieve",
             "tier": "IX",
             "type": "战术行动（战场）",
-            "description": "Block all Tactical Operations and unit damaging abilities for 1<turn></turn> combat turn. Enlightened units heal for 10<hp></hp>.",
+            "description": "Block all Tactical Operations and unit damaging abilities for 1<turn></turn> combat turn. Enlightened units heal for 10<hp></hp>。",
             "energy_cost": "100",
             "casting": "9 <tacticalPoint></tacticalPoint>",
         },
@@ -3719,7 +3719,7 @@ var jsonOperations = {
             "name": "Naval Training Facility",
             "tier": "VII",
             "type": "区域升级",
-            "description": "Specialized naval training facilities can decrease production times for naval units. At higher levels, naval units produced gain experience levels.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.<br><br>Unit costs can never be lowered more than 75%</abilityRed><br><br><bullet> Level 1<br>-15%<production></production> cost for naval units.<br>Naval units produced have +1<x-medal_novice></x-medal_novice>.</bullet><bullet> Level 2<br>-30%<production></production> cost for naval units. Naval units produced have +2<x-medal_novice></x-medal_novice>.</bullet><bullet> Level 3<br>-45%<production></production> cost for naval units.<br>Naval units produced have +3<x-medal_novice></x-medal_novice>.</bullet>",
+            "description": "Specialized naval training facilities can decrease production times for naval units. At higher levels, naval units produced gain experience levels.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.<br><br>Unit costs can never be lowered more than 75%</abilityRed><br><br><bullet> 等级 1<br>-15%<production></production> cost for naval units.<br>Naval units produced have +1<x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 2<br>-30%<production></production> cost for naval units. Naval units produced have +2<x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 3<br>-45%<production></production> cost for naval units.<br>Naval units produced have +3<x-medal_novice></x-medal_novice>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3731,7 +3731,7 @@ var jsonOperations = {
             "name": "Hydro Battery",
             "tier": "VII",
             "type": "区域升级",
-            "description": "The currents and electrostatic charge of the ocean can be harnessed into energy by building special hydro batteries along the coast. By storing energy during down periods and injecting it into regular energy processes during peak periods, energy gains can be boosted for all exploitations. At higher levels, dedicating the colony to energy production can boost yields even further.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.</abilityRed><br><br><bullet> Level 1<br> +5<energy></energy> for each <energy></energy> and <watersector></watersector> exploitation.</bullet><bullet> Level 2<br> +10<energy></energy> for each <energy></energy> and <watersector></watersector> exploitation.</bullet><bullet> Level 3<br> +10<energy></energy> for each <energy></energy> and <watersector></watersector> exploitation.<br>+10%<energy></energy> income.</bullet>",
+            "description": "The currents and electrostatic charge of the ocean can be harnessed into energy by building special hydro batteries along the coast. By storing energy during down periods and injecting it into regular energy processes during peak periods, energy gains can be boosted for all exploitations. At higher levels, dedicating the colony to energy production can boost yields even further.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.</abilityRed><br><br><bullet> 等级 1<br> +5<energy></energy> for each <energy></energy> and <watersector></watersector> exploitation.</bullet><bullet> 等级 2<br> +10<energy></energy> for each <energy></energy> and <watersector></watersector> exploitation.</bullet><bullet> 等级 3<br> +10<energy></energy> for each <energy></energy> and <watersector></watersector> exploitation.<br>+10%<energy></energy> income.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3803,7 +3803,7 @@ var jsonOperations = {
             "name": "Beacon of Truth",
             "tier": "V",
             "type": "帝国升级",
-            "description": "The Beacon of Truth unlocks the Declaration of Truth Doomsday Weapon. Each additional Beacon of Truth that you build increases the level of the weapon, making it stronger.<br><br>Only one Beacon of Truth may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: Non-Celestian units gain <abilityRed>灵魂燃烧</abilityRed>.</bullet><bullet><actionblue>2级 </actionblue>: 40% to transfer 1<population></population> to your nearest colony each <turn></turn>.</bullet><bullet><actionblue>3级 </actionblue>: Celestian Units heal 10<hp></hp> each <turn></turn> in combat.</bullet></bulletList>",
+            "description": "The Beacon of Truth unlocks the Declaration of Truth Doomsday Weapon. Each additional Beacon of Truth that you build increases the level of the weapon, making it stronger.<br><br>Only one Beacon of Truth may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 非星神单位获得<abilityRed>灵魂燃烧</abilityRed>。</bullet><bullet><actionblue>2级 </actionblue>: 每 <turn></turn> 有 40% 几率转移 1 <population></population> 至你最近的殖民地。</bullet><bullet><actionblue>3级 </actionblue>: 星神单位在战斗中每 <turn></turn> 治疗 10<hp></hp> 。</bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite"
@@ -3813,7 +3813,7 @@ var jsonOperations = {
             "name": "Omega Hive",
             "tier": "V",
             "type": "区域升级",
-            "description": "The Omega Hive unlocks the Omega Strain Doomsday Weapon. Each additional Omega Hive that you build increases the level of the weapon, making it stronger.<br><br>Only one Omega Hive may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: Xenoplague units gain <actionblue>再生</actionblue>.</bullet><bullet><actionblue>2级 </actionblue>: -100%<food></food> income.<br>Biological and Cyborg non-Xenoplague units heal 6<hp></hp> less every strategic <turn></turn>.</bullet><bullet><actionblue>3级 </actionblue>: Biological and Cyborg non-Xenoplague units have <abilityRed>Parasitic Infection</abilityRed></bullet></bulletList>",
+            "description": "The Omega Hive unlocks the Omega Strain Doomsday Weapon. Each additional Omega Hive that you build increases the level of the weapon, making it stronger.<br><br>Only one Omega Hive may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 异星疫病单位获得<actionblue>再生</actionblue>。</bullet><bullet><actionblue>2级 </actionblue>: -100%<food></food> 收益。<br>非异星疫病生物和半机械人单位每个战略 <turn></turn> 获得的治疗减少 6<hp></hp> 。</bullet><bullet><actionblue>3级 </actionblue>: 非异星疫病的生物和半机械人单位获得<abilityRed>寄生感染</abilityRed></bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite",
@@ -3825,7 +3825,7 @@ var jsonOperations = {
             "name": "Essence Spire",
             "tier": "V",
             "type": "区域升级",
-            "description": "The Essence Spire unlocks the Mind Rebirth Doomsday Weapon. Each additional Essence Spire that you build increases the level of the weapon, making it stronger.<br><br>Only one Essence Spire may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 20% chance to transform 1<population></population> into a Drained each <turn></turn>.</bullet><bullet><actionblue>2级 </actionblue>: In combat, a random non-Heritor unit has a 8<strengthEntropy></strengthEntropy> strength chance to be <abilityRed>晕眩</abilityRed> each <turn></turn>. On failure, they gain <abilityRed>Entropic Decay</abilityRed> instead.</bullet><bullet><actionblue>3级 </actionblue>: Friendly Units gain full <essenceCharge></essenceCharge><actionblue>Essence Charges<actionblue> at the start of combat.</bullet></bulletList>",
+            "description": "The Essence Spire unlocks the Mind Rebirth Doomsday Weapon. Each additional Essence Spire that you build increases the level of the weapon, making it stronger.<br><br>Only one Essence Spire may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 每 <turn></turn> 有 20% 几率将 1<population></population> 转化为枯萎者。</bullet><bullet><actionblue>2级 </actionblue>: 在战斗中，每 <turn></turn> 就会有一个随机非继承者玩家单位有 8<strengthEntropy></strengthEntropy> 力量几率陷入<abilityRed>晕眩</abilityRed>。如果失败，该单位获得<abilityRed>混沌衰败</abilityRed>。</bullet><bullet><actionblue>3级 </actionblue>: 在战斗开始时，友方单位获得最大数量的<essenceCharge></essenceCharge><actionblue>精华充能<actionblue>。</bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite",
@@ -3868,7 +3868,7 @@ var jsonOperations = {
             "name": "Direct Tribulation",
             "tier": "VI",
             "type": "战略行动（瞬时）",
-            "description": "All units in enemy army get <abilityRed>Adversity</abilityRed> for 3<turn></turn> at the start of next combat. Units in this army take 20%<hp></hp> of their current <hp></hp>。<br>On failure, only deals 20%<hp></hp> of their current <hp></hp>.",
+            "description": "All units in enemy army get <abilityRed>Adversity</abilityRed> for 3<turn></turn> at the start of next combat. Units in this army take 20%<hp></hp> of their current <hp></hp>。<br>On failure, only deals 20%<hp></hp> of their current <hp></hp>。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
@@ -3888,7 +3888,7 @@ var jsonOperations = {
             "name": "Oracle's Guidance",
             "tier": "IX",
             "type": "战略行动（持续）",
-            "description": "Target friendly colony has +20% <production></production> and <research></research> income. Units produced in this colony start with +2 <x-medal_veteran></x-medal_veteran>.",
+            "description": "Target friendly colony has +20% <production></production> and <research></research> income. Units produced in this colony start with +2 <x-medal_veteran></x-medal_veteran>。",
             "energy_cost": "160",
             "casting": "20 <stratPoint></stratPoint>",
         },
@@ -3968,7 +3968,7 @@ var jsonOperations = {
             "name": "Pre-Battle Predictions",
             "tier": "I",
             "type": "教义行动",
-            "description": "All units start battle with 1 stack of <actionblue>Precognition</actionblue>.",
+            "description": "All units start battle with 1 stack of <actionblue>Precognition</actionblue>。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
@@ -4008,7 +4008,7 @@ var jsonOperations = {
             "name": "Seer's Crusade",
             "tier": "IX",
             "type": "教义行动",
-            "description": "All Seer's attacks now do +30% extra damage and have 12<strengthEntropy></strengthEntropy> strength chance (8<strengthEntropy></strengthEntropy> strength chance for repeating attacks) to apply <abilityRed>Entropic Decay</abilityRed>.",
+            "description": "All Seer's attacks now do +30% extra damage and have 12<strengthEntropy></strengthEntropy> strength chance (8<strengthEntropy></strengthEntropy> strength chance for repeating attacks) to apply <abilityRed>混沌衰败</abilityRed>。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
@@ -4018,7 +4018,7 @@ var jsonOperations = {
             "name": "Localized Decay",
             "tier": "I",
             "type": "战术行动（瞬时）",
-            "description": "Enemy units in a 1 hex radius gain 10<damageEntropy></damageEntropy> damage and 1 stack of <abilityRed>Entropic Decay</abilityRed> for 3<turn></turn>",
+            "description": "Enemy units in a 1 hex radius gain 10<damageEntropy></damageEntropy> damage and 1 stack of <abilityRed>混沌衰败</abilityRed> for 3<turn></turn>",
             "energy_cost": "25",
             "casting": "1 <tacticalPoint></tacticalPoint>",
         },
@@ -4038,7 +4038,7 @@ var jsonOperations = {
             "name": "Atrophy Spread",
             "tier": "IV",
             "type": "战术行动（瞬时）",
-            "description": "Target enemy unit gets <abilityRed>Atrophy Spread</abilityRed> for 3<turn></turn>: at the start of its turn, this unit and its allied units in a 1 hex radius around it have a 8<strengthEntropy></strengthEntropy> strength chance to gain a stack of <abilityRed>Atrophy</abilityRed>.",
+            "description": "Target enemy unit gets <abilityRed>Atrophy Spread</abilityRed> for 3<turn></turn>: at the start of its turn, this unit and its allied units in a 1 hex radius around it have a 8<strengthEntropy></strengthEntropy> strength chance to gain a stack of <abilityRed>Atrophy</abilityRed>。",
             "energy_cost": "45",
             "casting": "3 <tacticalPoint></tacticalPoint>",
         },
@@ -4048,7 +4048,7 @@ var jsonOperations = {
             "name": "Atomic Collapse",
             "tier": "VI",
             "type": "战术行动（瞬时）",
-            "description": "8<strengthEntropy></strengthEntropy> strength chance of instantly killing target unit, leaving no corpse. Applies one stack of <abilityRed>Entropic Decay</abilityRed> and <abilityRed>Atrophy</abilityRed> for 3<turn></turn> on failure.<br><br>Cannot affect enemy commanders.",
+            "description": "8<strengthEntropy></strengthEntropy> strength chance of instantly killing target unit, leaving no corpse. Applies one stack of <abilityRed>混沌衰败</abilityRed> and <abilityRed>Atrophy</abilityRed> for 3<turn></turn> on failure.<br><br>Cannot affect enemy commanders.",
             "energy_cost": "75",
             "casting": "7 <tacticalPoint></tacticalPoint>",
         },
@@ -4058,7 +4058,7 @@ var jsonOperations = {
             "name": "Divide Half-Life",
             "tier": "VIII",
             "type": "战术行动（瞬时）",
-            "description": "Enemy units in target 3 hex radius take 20<damageEntropy></damageEntropy> damage. Targets with <abilityRed>Entropic Decay</abilityRed> or <abilityRed>Atrophy</abilityRed> take an additional 10<damageEntropy></damageEntropy>, or 20<damageEntropy></damageEntropy> for both.",
+            "description": "Enemy units in target 3 hex radius take 20<damageEntropy></damageEntropy> damage. Targets with <abilityRed>混沌衰败</abilityRed> or <abilityRed>Atrophy</abilityRed> take an additional 10<damageEntropy></damageEntropy>, or 20<damageEntropy></damageEntropy> for both.",
             "energy_cost": "100",
             "casting": "8 <tacticalPoint></tacticalPoint>",
         },
