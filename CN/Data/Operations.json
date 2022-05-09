@@ -2586,16 +2586,16 @@ var jsonOperations = {
             "name": "军事工程协会",
             "tier": "II",
             "type": "区域升级",
-            "description": "发展军事工程产业可以缩短军事资产的建造时间。提升至更高等级后，能够打造出防御更高的精良单位。<br><br><abilityRed>仅可在工业开发点区域建造。</abilityRed><br><br><abilityRed>单位消耗减少不能超过 75%。</abilityRed><br><br><bullet> 等级 1<br>非精英单位的 <production></production> 消耗减少 -10% 。</bullet><bullet> 等级 2<br>非精英单位的 <production></production> 消耗减少 -15% 。</bullet><bullet> 等级 3<br>非精英单位的 <production></production> 消耗减少 -20% 。<br>非精英单位在生产时拥有 +1<armor></armor>。</bullet><bullet> 等级 4<br>非精英单位的 <production></production> 消耗减少  -25% 。<br>非精英单位在生产时拥有 +1<armor></armor>.</bullet><bullet> 等级 5<br>非精英单位的 <production></production> 消耗减少 -30%。<br>非精英单位在生产时拥有 +2<armor></armor>。</bullet>",
+            "description": "发展军事工程产业可以缩短军事资产的建造时间。提升至更高等级后，能够打造出防御更高的精良单位。<br><br><abilityRed>仅可在工业开发点区域建造。</abilityRed><br><br><abilityRed>单位消耗减少不能超过 75%。</abilityRed><br><br><bullet> 等级 1<br>非精英单位的 <production></production> 消耗减少 -10% 。</bullet><bullet> 等级 2<br>非精英单位的 <production></production> 消耗减少 -15% 。</bullet><bullet> 等级 3<br>非精英单位的 <production></production> 消耗减少 -20% 。<br>非精英单位在生产时拥有 +1<armor></armor>。</bullet><bullet> 等级 4<br>非精英单位的 <production></production> 消耗减少  -25% 。<br>非精英单位在生产时拥有 +1<armor></armor>。</bullet><bullet> 等级 5<br>非精英单位的 <production></production> 消耗减少 -30%。<br>非精英单位在生产时拥有 +2<armor></armor>。</bullet>",
             "production_cost": "250 <production></production> Production",
         },
 
         {
             "slug": "civil_engineering_guild",
-            "name": "Civil Engineering Guild",
+            "name": "土木工程协会",
             "tier": "II",
             "type": "区域升级",
-            "description": "Dedicating industrial capacity to civil engineering projects allows for quicker build times. At higher levels, kinetic generators can be built into existing constructions, generating a small passive production bonus.<br><br><abilityRed>This can only be built in an industrial exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>-10% <production></production> cost for colony structures.</bullet><bullet> 等级 2<br>-15% <production></production> cost for colony structures.</bullet><bullet> 等级 3<br>-20% <production></production> cost for colony structures.<br>+2<production></production> for each colony structure built.</bullet><bullet> 等级 4<br>-25% <production></production> cost for colony structures.<br>+4<production></production> for each colony structure built.</bullet><bullet> 等级 5<br>-30% <production></production> cost for colony structures.<br>+6<production></production> for each colony structure built.</bullet>",
+            "description": "将工业生产重心集中于土木工程项目来缩短建造时间。提升至更高等级后，可以在现有建筑内建造动力生成器，从而获得少许被动产力加成。<br><br><abilityRed>仅可在工业开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br>殖民地建筑的 <production></production> 消耗减少 -10% 。</bullet><bullet> 等级 2<br>殖民地建筑的 <production></production> 消耗减少 -15% 。</bullet><bullet> 等级 3<br>殖民地建筑的 <production></production> 消耗减少 -20% 。<br>每建有一个殖民地建筑，获得 +2<production></production> 。</bullet><bullet> 等级 4<br>殖民地建筑的 <production></production> 消耗减少 -25% 。<br>每建有一个殖民地建筑，获得 +4<production></production> 。</bullet><bullet> 等级 5<br>殖民地建筑的 <production></production> 消耗减少 -30% 。<br>每建有一个殖民地建筑，获得 +6<production></production> 。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2604,10 +2604,10 @@ var jsonOperations = {
 
         {
             "slug": "energy_sectors_upgrade",
-            "name": "Energy Sectors Upgrade",
+            "name": "能源区域升级",
             "tier": "II",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all energy sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector specializations in that sector.",
+            "description": "所有能源区域的等级 +1。提升区域等级可提升该区域开发点和区域专精获得的收益。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -2616,10 +2616,10 @@ var jsonOperations = {
 
         {
             "slug": "energy_efficient_assembly_line",
-            "name": "Energy Efficient Assembly Line",
+            "name": "节能装配线",
             "tier": "II",
             "type": "区域升级",
-            "description": "By focusing on energy efficiency, the production of units can be made significantly cheaper. At higher levels, this can reduce the upkeep costs of any unit produced in this colony.<br><br><abilityRed>This can only be built in an energy exploitation sector.</abilityRed><br><br><abilityRed>Unit costs can never be lowered more than 75%.</abilityRed><br><abilityRed>Unit upkeep can never be lowered more than 50%.</abilityRed><br><br><bullet> 等级 1<br>-10% <energy></energy> cost for units.</bullet><bullet> 等级 2<br>-15% <energy></energy> cost for units.</bullet><bullet> 等级 3<br>-20% <energy></energy> cost for units.<br>Units are produced with -10% <energy></energy> upkeep.</bullet><bullet> 等级 4<br>-25% <energy></energy> cost for units.<br>Units are produced with -20% <energy></energy> upkeep.</bullet><bullet> 等级 5<br>-30% <energy></energy> cost for units.<br>Units are produced with -30% <energy></energy> upkeep.</bullet>",
+            "description": "注重节能可以使单位的产力成本显著降低。提升至更高等级后，可以降低该殖民地生产的所有单位的维持消耗。<br><br><abilityRed>仅可在能源开发点区域建造。</abilityRed><br><br><abilityRed>单位消耗减少不能超过 75%。</abilityRed><br><abilityRed>单位的维持消耗减少不能超过 50%。</abilityRed><br><br><bullet> 等级 1<br>单位消耗 -10% <energy></energy> 。</bullet><bullet> 等级 2<br>单位消耗 -15% <energy></energy> 。</bullet><bullet> 等级 3<br>单位消耗 -20% <energy></energy> 。<br>单位在生产时拥有 -10% <energy></energy> 的维持消耗。</bullet><bullet> 等级 4<br>单位消耗 -25% <energy></energy> 。<br>单位在生产时拥有 -20% <energy></energy> 的维持消耗。</bullet><bullet> 等级 5<br>单位消耗 -30% <energy></energy> 。<br>单位在生产时拥有 -30% <energy></energy> 的维持消耗。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2628,10 +2628,10 @@ var jsonOperations = {
 
         {
             "slug": "optimization_control_agency",
-            "name": "Optimization Control Agency",
+            "name": "优化管理局",
             "tier": "II",
             "type": "区域升级",
-            "description": "By controlling colonists and optimizing work processes, efficient gains can be reached during times of focused effort. At higher levels, increased energy gains can be gained from all energy workers.<br><br><abilityRed>This can only be built in an energy exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>	\"Buy Now\" costs -10% less <energy></energy>.</bullet><bullet> 等级 2<br>\"Buy Now\" costs -15% less <energy></energy>.</bullet><bullet> 等级 3<br>\"Buy Now\" costs -20% less <energy></energy>。<br>+1<energy></energy> per colonist in <energyslot></energyslot>.</bullet><bullet> 等级 4<br>\"Buy Now\" costs -25% less <energy></energy>。<br>+2<energy></energy> per colonist in <energyslot></energyslot>.</bullet><bullet> 等级 5<br>\"Buy Now\" costs -30% less <energy></energy>。<br>+3<energy></energy> per colonist in <energyslot></energyslot>.</bullet>",
+            "description": "管理殖民地并优化工作流程，集中精力，重点突破，从而实现更高的效益。提升至更高等级后，提高所有能量工人可以获得的能量。<br><br><abilityRed>仅可在能量开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br>	\"即刻购买\"的 <energy></energy> 消耗减少 -10% 。</bullet><bullet> 等级 2<br>\"即刻购买\"的 <energy></energy> 消耗减少 -15% 。</bullet><bullet> 等级 3<br>\"即刻购买\"的 <energy></energy> 消耗减少 -20% 。<br> <energyslot></energyslot> 中每个移住民 +1<energy></energy>  。</bullet><bullet> 等级 4<br>\"即刻购买\"的 <energy></energy> 消耗减少 -25% 。<br> <energyslot></energyslot> 中每个移住民 +2<energy></energy>  。</bullet><bullet> 等级 5<br>\"即刻购买\"的 <energy></energy> 消耗减少 -30% 。<br> <energyslot></energyslot> 中每个移住民 +3<energy></energy>  。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2640,10 +2640,10 @@ var jsonOperations = {
 
         {
             "slug": "food_sectors_upgrade",
-            "name": "Food Sectors Upgrade",
+            "name": "食物区域升级",
             "tier": "II",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all food sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector specializations in that sector.",
+            "description": "所有食物区域的等级 +1。提升区域等级可提升该区域开发点和区域专精获得的收益。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -2652,10 +2652,10 @@ var jsonOperations = {
 
         {
             "slug": "research_sectors_upgrade",
-            "name": "Research Sectors Upgrade",
+            "name": "研究区域升级",
             "tier": "II",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all research sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector epecializations in that sector.",
+            "description": "所有研究区域的等级 +1。提升区域等级可提升该区域开发点和区域专精获得的收益。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -2664,10 +2664,10 @@ var jsonOperations = {
 
         {
             "slug": "bioengineered_food_plantation",
-            "name": "Bioengineered Food Plantation",
+            "name": "生物工程食物种植园",
             "tier": "II",
             "type": "区域升级",
-            "description": "Advanced bioengineering can create super foods that have a beneficial effect on colonist biology and the growth rate of the colony. At higher levels, your colonists will need less food as upkeep.<br><br><abilityRed>This can only be built in an agriculture exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>-10% <food></food> for <population></population> growth. </bullet><bullet> 等级 2<br>-15% <food></food> for <population></population> growth. </bullet><bullet> 等级 3<br>-20% <food></food> for <population></population> growth.<br>-1<food></food> upkeep per <population></population>.</bullet><bullet> 等级 4<br>-25% <food></food> for <population></population> growth.<br>-1<food></food> upkeep per <population></population>.</bullet><bullet> 等级 5<br>-30% <food></food> for <population></population> growth.<br>-2<food></food> upkeep per <population></population>.</bullet>",
+            "description": "高级生物工程技术可以创造出超级食物，对移住民生理机能和殖民地生长率十分有益。。提升至更高等级后，移住民维持生活所需的食物消耗将会减少。<br><br><abilityRed>仅可在农业开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br><population></population> 增长需 -10% <food></food> 。 </bullet><bullet> 等级 2<br><population></population> 增长需 -15% <food></food> 。 </bullet><bullet> 等级 3<br><population></population> 增长需 -20% <food></food> 。<br>每 <population></population> 维持消耗 -1<food></food> 。</bullet><bullet> 等级 4<br><population></population> 增长需 -25% <food></food> 。<br>每 <population></population> 维持消耗 -1<food></food> 。</bullet><bullet> 等级 5<br><population></population> 增长需 -30% <food></food> 。<br>每 <population></population> 维持消耗 -2<food></food> 。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2676,10 +2676,10 @@ var jsonOperations = {
 
         {
             "slug": "agricultural_export_center",
-            "name": "Agricultural Export Center",
+            "name": "农业出口中心",
             "tier": "II",
             "type": "区域升级",
-            "description": "A dedicated agricultural export center is vital for the efficient distribution of food to other colonies. At higher levels, increased food yields can be achieved by organized effort towards food production.<br><br><abilityRed>This can only be built in an agriculture exploitation sector.</abilityRed><br><br><bullet> 等级 1<br><food></food> sharing tax reduced to 30%.</bullet><bullet> 等级 2<br><food></food> sharing tax reduced to 25%.</bullet><bullet> 等级 3<br><food></food> sharing tax reduced to 20%.<br>+1<food></food> per colonist in <foodslot></foodslot>.</bullet><bullet> 等级 4<br><food></food> sharing tax reduced to 15%.<br>+2<food></food> per colonist in <foodslot></foodslot>.</bullet><bullet> 等级 5<br><food></food> sharing tax reduced to 10%.<br>+3<food></food> per colonist in <foodslot></foodslot>.</bullet>",
+            "description": "专业的农业出口中心，对向其他移住民高效输送食物而言至关重要。提升至更高等级后，食物生产会变得有条不紊，从而提升食物产量。<br><br><abilityRed>仅可在农业开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br><food></food> 共享税减少至 30%。</bullet><bullet> 等级 2<br><food></food> 共享税减少至 25%。</bullet><bullet> 等级 3<br><food></food> 共享税减少至 20%。<br><foodslot></foodslot> 中每个移住民 +1<food></food> 。</bullet><bullet> 等级 4<br><food></food> 共享税减少至 15%。<br><foodslot></foodslot> 中每个移住民 +2<food></food> 。</bullet><bullet> 等级 5<br><food></food> 共享税减少至 10%。<br><foodslot></foodslot> 中每个移住民 +3<food></food> 。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2688,10 +2688,10 @@ var jsonOperations = {
 
         {
             "slug": "society_investment_center",
-            "name": "Society Investment Center",
+            "name": "社会投资中心",
             "tier": "II",
             "type": "区域升级",
-            "description": "Investing research into society progression will allow quicker access to exploitations of the land, leading to long term economic advantages over other factions, as well as faster access to advanced governmental doctrines and espionage opportunities. At higher levels, we can increase the general output of all our science workers.<br><br><abilityRed>This can only be built in an research exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>+10% <research></research> for Society research.</bullet><bullet> 等级 2<br>+15% <research></research> for Society research.</bullet><bullet> 等级 3<br>+20% <research></research> for Society research.<br>+1<research></research> per colonist in <researchslot></researchslot>.</bullet><bullet> 等级 4<br>+25% <research></research> for Society research.<br>+2<research></research> per colonist in <researchslot></researchslot>.</bullet><bullet> 等级 5<br>+30% <research></research> for Society research.<br>+3<research></research> per colonist in <researchslot></researchslot>.</bullet>",
+            "description": "投资社会发展研究可加快土地开发流程，从而比其他阵营获得更长远的经济优势，同时能够更快地接触到高级政府学说和从事间谍活动的机会。提升至更高等级后，我们可以提升所有科学工人的整体产出。<br><br><abilityRed>仅可在研究开发点区域中建造。</abilityRed><br><br><bullet> 等级 1<br>社会研究消耗 +10% <research></research> 。</bullet><bullet> 等级 2<br>社会研究消耗 +15% <research></research> 。</bullet><bullet> 等级 3<br>社会研究消耗 +20% <research></research> 。<br><researchslot></researchslot> 中每个移住民 +1<research></research> 。</bullet><bullet> 等级 4<br>社会研究消耗 +25% <research></research> 。<br><researchslot></researchslot> 中每个移住民 +2<research></research> 。</bullet><bullet> 等级 5<br>社会研究消耗 +30% <research></research> 。<br><researchslot></researchslot> 中每个移住民 +3<research></research> 。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2700,10 +2700,10 @@ var jsonOperations = {
 
         {
             "slug": "military_innovation_center",
-            "name": "Military Innovation Center",
+            "name": "军事创新中心",
             "tier": "II",
             "type": "区域升级",
-            "description": "Dedicating research to military innovation allows the unlocking of units, unit modifications and operations to increase the defensive capabilities of your forces. At higher levels, we can insert scientists into training teams, increasing the quality of produced troops.<br><br><abilityRed>This can only be built in an research exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>10% <research></research> for Military research.</bullet><bullet> 等级 2<br>10% <research></research> for Military research.</bullet><bullet> 等级 3<br>+20% <research></research> for Military research.<br>Units produced gain +1 <x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 4<br>+25% <research></research> for Military research.<br>Units produced gain +2 <x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 5<br>+30% <research></research> for Military research.<br>Units produced gain +3 <x-medal_novice></x-medal_novice>.</bullet>",
+            "description": "专注于研究军事创新能够解锁单位、单位模块和行动，从而提升部队的防御能力。提升至更高等级后，我们可以指派科学家加入训练队伍，从而优化生产部队的质量。<br><br><abilityRed>仅可在研究开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br>军事研究消耗 10% <research></research> 。</bullet><bullet> 等级 2<br>军事研究消耗 10% <research></research> 。</bullet><bullet> 等级 3<br>军事研究消耗 +20% <research></research> 。<br>生产的单位获得 +1 <x-medal_novice></x-medal_novice>。</bullet><bullet> 等级 4<br>军事研究消耗 +25% <research></research> 。<br>生产的单位获得 +2 <x-medal_novice></x-medal_novice>。</bullet><bullet> 等级 5<br>军事研究消耗 +30% <research></research> 。<br>生产的单位获得 +3 <x-medal_novice></x-medal_novice>。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2712,10 +2712,10 @@ var jsonOperations = {
 
         {
             "slug": "water_sectors_upgrade",
-            "name": "Water Sectors Upgrade",
+            "name": "水域区域升级",
             "tier": "III",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all water sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector specializations in that sector.",
+            "description": "所有水域区域的等级 +1。提升区域等级将提升该区域开发点和区域专精中获得的收益。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -2724,10 +2724,10 @@ var jsonOperations = {
 
         {
             "slug": "algae_farms",
-            "name": "Algae Farms",
+            "name": "海藻农场",
             "tier": "III",
             "type": "区域升级",
-            "description": "By utilizing the biodiverse climate of the ocean for algae farms, more food can be rapidly grown along coast lines. The addition of algae in regular food growth processes can lead to increased yields. At higher levels, food can be exponentially grown with enough dedication.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.</abilityRed><br><br><bullet> 等级 1<br> +5<food></food> for each <food></food> and <watersector></watersector> exploitation.</bullet><bullet> 等级 2<br> +10<food></food> for each <food></food> and <watersector></watersector> exploitation.</bullet><bullet> 等级 3<br> ++15<food></food> for each <food></food> and <watersector></watersector> exploitation.<br>+10%<food></food> income.</bullet>",
+            "description": "海藻农场能够利用海洋的生物多样性气候使沿海地区快速生产更多食物。提升常规食物种植流程中海藻的数量从而提升食物产量。提升至更高等级后，只要在食物生产方面有足够的投入，食物便能实现指数式增长。<br><br><abilityRed>仅可在水利开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br>每个 <food></food> 和 <watersector></watersector> 开发点 +5<food></food> 。</bullet><bullet> 等级 2<br>每个 <food></food> 和 <watersector></watersector> 开发点 +10<food></food> 。</bullet><bullet> 等级 3<br>每个 <food></food> 和 <watersector></watersector> 开发点 ++15<food></food> 。<br>+10%<food></food> 收益。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2736,10 +2736,10 @@ var jsonOperations = {
 
         {
             "slug": "maritime_research_facility",
-            "name": "Maritime Research Facility",
+            "name": "海事研究设施",
             "tier": "III",
             "type": "区域升级",
-            "description": "The biodiverse climate of the ocean is provides plenty of research opportunities. Combining the knowledge gained from oceanic research with more conventional research centers boosts gains. At higher levels, knowledge gains increase exponentially with the amount of research that is conducted.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.</abilityRed><br><br><bullet> 等级 1<br> +5<research></research> for each <research></research> and <watersector></watersector> exploitation.</bullet><bullet> 等级 2<br> ++10<research></research> for each <research></research> and <watersector></watersector> exploitation.</bullet><bullet> 等级 3<br> ++10<research></research> for each <research></research> and <watersector></watersector> exploitation.<br>+10%<research></research> income.</bullet>",
+            "description": "海洋的生物多样性气候给研究提供了许多机遇。把从海洋研究中获得的知识与传统研究中心成果相结合能够提升收益。提升至更高等级后，知识收益将随进行研究的数量呈现指数式增长。<br><br><abilityRed>仅可在水利开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br>每个 <research></research> 和 <watersector></watersector> 开发点 +5<research></research> 。</bullet><bullet> 等级 2<br>每个 <research></research> 和 <watersector></watersector> 开发点 +10<research></research> 。</bullet><bullet> 等级 3<br>每个 <research></research> 和 <watersector></watersector> 开发点 +10<research></research> 。<br>+10%<research></research> 收益。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2748,10 +2748,10 @@ var jsonOperations = {
 
         {
             "slug": "cosmite_research_center",
-            "name": "Cosmite Research Center",
+            "name": "宇宙合金研究中心",
             "tier": "III",
             "type": "殖民地升级",
-            "description": "A reseach center where the origins and properties of Cosmite are being researched.<br><br>Provides +5<tricorium></tricorium> Cosmite income when built in your HQ.<br><br>This is an upgrade to your HQ and can only be built in your HQ colony. When your HQ is moved to another colony, this building is moved as well.",
+            "description": "研究宇宙合金起源与特性的研究中心。<br><br>建于总部时可提供 +5<tricorium></tricorium> 宇宙合金收益。<br><br>这是总部的一个升级建筑，只能在总部殖民地建造。当总部移至另一个殖民地时，该建筑也会随之移动。",
             "production_cost": "300 <production></production> Production",
 
 
@@ -2760,10 +2760,10 @@ var jsonOperations = {
 
         {
             "slug": "diplomatic_analysis_wing",
-            "name": "Diplomatic Analysis Wing",
+            "name": "外交分析部",
             "tier": "III",
             "type": "殖民地升级",
-            "description": "A wing in your headquarters dedicated to research into diplomatic interactions with other factions.<br><br>+2<influence></influence>  Influence income in your HQ colony.<br><br>This is an upgrade to your HQ and can only be built in your HQ colony. When your HQ is moved to another colony, this building is moved as well.",
+            "description": "位于总部的外交分析部专门，负责研究与其他阵营的外交活动。<br><br>总部殖民地获得 +2<influence></influence> 影响力收益。<br><br>这是总部的一个升级建筑，只能在总部殖民地建造。当总部移至另一个殖民地时，该建筑也会随之移动。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -2772,10 +2772,10 @@ var jsonOperations = {
 
         {
             "slug": "botanical_gardens",
-            "name": "Botanical Gardens",
+            "name": "植物公园",
             "tier": "III",
             "type": "殖民地升级",
-            "description": "The colony gains 2<population></population> happiness slots and +6<happiness></happiness> happiness income.",
+            "description": "殖民地获得 2<population></population> 幸福值槽位和 +6<happiness></happiness> 幸福值收益。",
             "production_cost": "300 <production></production> Production",
 
 
@@ -2784,10 +2784,10 @@ var jsonOperations = {
 
         {
             "slug": "xeno-relations_division",
-            "name": "Xeno-Relations Division",
+            "name": "异星关系部",
             "tier": "V",
             "type": "殖民地升级",
-            "description": "A division in your headquarters developing and monitoring relations with all sentient beings.<br><br>+3<influence></influence>  Influence income in your HQ colony.<br><br>Requires Diplomatic Analysis Wing.<br><br>This is an upgrade to your HQ and can only be built in your HQ colony. When your HQ is moved to another colony, this building is moved as well.",
+            "description": "总部中的一个分支部门，负责发展并监控与所有智慧生物之间的关系。<br><br>总部殖民地获得 +3<influence></influence> 影响力收益。<br><br>需要外交分析部。<br><br>这是总部的一个升级建筑，只能在总部殖民地建造。当总部移至另一个殖民地时，该建筑也会随之移动。",
             "production_cost": "300 <production></production> Production",
 
 
@@ -2796,10 +2796,10 @@ var jsonOperations = {
 
         {
             "slug": "cosmite_growth_chambers",
-            "name": "Cosmite Growth Chambers",
+            "name": "宇宙合金生长室",
             "tier": "V",
             "type": "殖民地升级",
-            "description": "Using advanced research, Cosmite can be grown using specialized growth chambers.<br><br>Provides +5<tricorium></tricorium> Cosmite income when built in your HQ.<br><br>This is an upgrade to your HQ and can only be built in your HQ colony. When your HQ is moved to another colony, this building is moved as well.",
+            "description": "利用高级研究，可在专用生长室中培养宇宙合金。<br><br>建于总部时可提供 +5<tricorium></tricorium> 宇宙合金收益。<br><br>这是总部的一个升级建筑，只能在总部殖民地建造。当总部移至另一个殖民地时，该建筑也会随之移动。",
             "production_cost": "300 <production></production> Production",
 
 
@@ -2808,10 +2808,10 @@ var jsonOperations = {
 
         {
             "slug": "cosmite_harvesting_center",
-            "name": "Cosmite Harvesting Center",
+            "name": "宇宙合金收获中心",
             "tier": "VII",
             "type": "殖民地升级",
-            "description": "Harvesting centers allow for increased yields from Cosmite growth chambers.<br><br>Provides +5<tricorium></tricorium> cosmite income when built in your HQ.<br><br>This is an upgrade to your HQ and can only be built in your HQ colony. When your HQ is moved to another colony, this building is moved as well.",
+            "description": "收获中心可提高宇宙合金生长室的产量。<br><br>建于总部时可提供 +5<tricorium></tricorium> 宇宙合金收益。<br><br>这是总部的一个升级建筑，只能在总部殖民地建造。当总部移至另一个殖民地时，该建筑也会随之移动。",
             "production_cost": "450 <production></production> Production",
 
 
@@ -2820,10 +2820,10 @@ var jsonOperations = {
 
         {
             "slug": "cosmite_generation_reactor",
-            "name": "Cosmite Generation Reactor",
+            "name": "宇宙合金生成反应器",
             "tier": "X",
             "type": "殖民地升级",
-            "description": "A specialized reactor that can create Cosmite at an expedited rate, converting energy into Cosmite.<br><br>Provides +5<tricorium></tricorium> Cosmite income, when built in your HQ. Additionally, your HQ generates +10<tricorium></tricorium> income while generating energy or research.<br><br>This is an upgrade to your HQ and can only be built in your HQ colony. When your HQ is moved to another colony, this building is moved as well.",
+            "description": "可以将能量转化成宇宙合金的专用反应器，加快宇宙合金的生成速度。<br><br>建于总部时可提供 +5<tricorium></tricorium> 宇宙合金收益。此外，你的总部在生成能源或研究时可生成 +10<tricorium></tricorium> 收益。<br><br>这是总部的一个升级建筑，只能在总部殖民地建造。当总部移至另一个殖民地时，该建筑也会随之移动。",
             "production_cost": "450 <production></production> Production",
 
 
@@ -2832,10 +2832,10 @@ var jsonOperations = {
 
         {
             "slug": "orbital_logistics_base",
-            "name": "Orbital Logistics Base",
+            "name": "轨道后勤基地",
             "tier": "V",
             "type": "殖民地升级",
-            "description": "Converting this relay into a logistics base will increase the efficiency of all other exploited sectors. <br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have a Military Assembly Base.</abilityRed><br><br><bullet>1级 <br>Each exploited sector generates an additional +10 income of its exploitation type.</bullet>",
+            "description": "将此中继站改造为后勤基地，提高其他所有开发区域的效率。<br><br><abilityRed>仅可建造在没有军事装备基地的轨道中继站开发点区域里。</abilityRed><br><br><bullet>1级 <br>每个开发区域会生成与自身开发点类型对应的额外 +10 收益。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2844,10 +2844,10 @@ var jsonOperations = {
 
         {
             "slug": "orbital_relay_exploitation",
-            "name": "Orbital Relay Exploitation",
+            "name": "轨道中继站开发点",
             "tier": "V",
             "type": "区域升级",
-            "description": "This is an orbital relay exploitation. It allows your units to travel through it to another connected orbital relay. Traveling through a relay will deplete all movepoints. The relay network can also be expanded through diplomacy, by signing <actionblue>Open Relay Agreements</actionblue> with your allies.<br><br><bullet>1级 <br>+1<productionSlot></productionSlot>, +1<energySlot></energySlot>, +1<foodSlot></foodSlot>, +1<researchSlot></researchSlot>, +1<happinessSlot></happinessSlot></bullet>",
+            "description": "这是一个轨道中继站开发点，你的单位可以通过它到达另一个相连的轨道中继站，通过中继站移动会耗尽所有移动点数。中继站网络也可以通过与盟友签订<actionblue>开放中继站协议</actionblue>的外交手段来扩张。<br><br><bullet>1级 <br>+1<productionSlot></productionSlot>, +1<energySlot></energySlot>, +1<foodSlot></foodSlot>, +1<researchSlot></researchSlot>, +1<happinessSlot></happinessSlot></bullet>",
             "production_cost": "150 <production></production> Production",
 
 
@@ -2856,10 +2856,10 @@ var jsonOperations = {
 
         {
             "slug": "_military_assembly_base",
-            "name": " Military Assembly Base",
+            "name": "军事装备基地",
             "tier": "V",
             "type": "殖民地升级",
-            "description": "Converting this relay into a military assembly base will allow it to rapidly resupply arriving troops and add military grade turrets and walls to its defenses.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Orbital Logistics Base.</abilityRed>",
+            "description": "将此中继站改造为军事装备基地，快速向抵达的部队进行再补给，并增加军事炮塔和城墙来强化防御。<br><br><abilityRed>仅可建造在没有轨道后勤基地的轨道中继站开发点区域里。</abilityRed>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2868,10 +2868,10 @@ var jsonOperations = {
 
         {
             "slug": "military_assembly_base",
-            "name": "Military Assembly Base",
+            "name": "军事装备基地",
             "tier": "V",
             "type": "殖民地升级",
-            "description": "Converting this relay into a military assembly base will allow it to rapidly resupply arriving troops and add military grade turrets and walls to its defenses.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Orbital Logistics Base.</abilityRed><br><br><bullet> 等级 1<br>Friendly armies arriving at this relay are fully <actionblue>healed</actionblue> and gain <actionblue>Resupplied</actionblue><br>This relay now has walls and turrets in tactical combat.</bullet>",
+            "description": "将此中继站改造为军事装备基地，快速向抵达的部队进行再补给，并增加军事炮塔和城墙来强化防御。<br><br><abilityRed>仅可建造在没有轨道后勤基地的轨道中继站开发点区域里。</abilityRed><br><br><bullet> 等级 1<br>抵达此中继站的友方军队将<actionblue>恢复全部生命值</actionblue>，并获得<actionblue>重新补给</actionblue><br>现在，此中继站在战术战斗中将拥有城墙和炮塔。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2880,10 +2880,10 @@ var jsonOperations = {
 
         {
             "slug": "orbital_reinforcement_platform",
-            "name": "Orbital Reinforcement Platform",
+            "name": "轨道强化平台",
             "tier": "VIII",
             "type": "殖民地升级",
-            "description": "Establishes a launch platform for quick response units. Any combat in the domain of the attached colony gains the <actionblue>Rapid Reinforcement</actionblue> combat effect.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Strategic Operations Platform.</abilityRed><br><br><bullet> 等级 1<br>Grants <actionblue>Orbital Garrison</actionblue> combat effect in tactical combat while within the colony's domain. Every 2 turns, a drop pod crashes into an enemy unit, displacing them and spawning a friendly Tier 1 or 2 Ground unit (excluding scouts).</bullet>",
+            "description": "搭建发射平台，获得快速响应单位。所有在附属殖民地领域内进行的战斗获得<actionblue>快速增援</actionblue>战斗效果。<br><br><abilityRed>仅可建造在没有战略行动平台的轨道中继站开发点区域里。</abilityRed><br><br><bullet> 等级 1<br>在殖民地领域内进行的战术战斗获得<actionblue>轨道驻军</actionblue>战斗效果。每 2 个回合，一个空投舱将撞向敌方单位，可将其替换成一个友方 1 阶或 2 阶地面单位（侦察兵除外）。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2892,10 +2892,10 @@ var jsonOperations = {
 
         {
             "slug": "strategic_operations_platform",
-            "name": "Strategic Operations Platform",
+            "name": "战略行动平台",
             "tier": "VII",
             "type": "殖民地升级",
-            "description": "Utilizing the relay's impressive sensor array, a strategic operations platform can be established.<br><br><abilityRed>This can only be built in an Orbital Relay exploitation sector that does not have an Orbital Reinforcement Platform.</abilityRed><br><br><bullet> 等级 1<br>+1<stratPoint></stratPoint>. +6<operationDefense></operationDefense> within the domain of the attached colony.</bullet>",
+            "description": "利用中继站的高级传感器阵列建造一个战略行动平台。<br><br><abilityRed>仅可建造在没有轨道强化平台的轨道中继站开发点区域之中。</abilityRed><br><br><bullet> 等级 1<br>+1<stratPoint></stratPoint>。附属殖民地领域内 +6<operationDefense></operationDefense> 。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2904,10 +2904,10 @@ var jsonOperations = {
 
         {
             "slug": "holistic_military_care_center",
-            "name": "Holistic Military Care Center",
+            "name": "整合军事保健中心",
             "tier": "VII",
             "type": "殖民地升级",
-            "description": "The Holistic Military Care Center provides comprehensive care and recouperation to friendly armies within the colony's domain.<br><br>Friendly units within this colony's domain have 300<happiness></happiness> and regenerate an extra 18<hp></hp> each turn.",
+            "description": "整合军事保健中心能够为殖民地领域内的友军提供全面的护理和保健。<br><br>该殖民地领域内的友方单位获得 300<happiness></happiness> 且每回合额外恢复 18<hp></hp> 。",
             "production_cost": "300 <production></production> Production",
 
 
@@ -2916,10 +2916,10 @@ var jsonOperations = {
 
         {
             "slug": "virtual_entertainment_plaza",
-            "name": "Virtual Entertainment Plaza",
+            "name": "虚拟娱乐广场",
             "tier": "VII",
             "type": "殖民地升级",
-            "description": "The colony gains 5<population></population> happiness slots and +2<happiness></happiness> happiness income per colonist in a happiness slot.",
+            "description": "殖民地获得 5<population></population> 幸福值槽位，此外位于幸福值槽位中的每名移住民获得 +2<happiness></happiness> 幸福收益。",
             "production_cost": "600 <production></production> Production",
 
 
@@ -2928,10 +2928,10 @@ var jsonOperations = {
 
         {
             "slug": "production_sectors_advanced_upgrade",
-            "name": "Production Sectors Advanced Upgrade",
+            "name": "产力区域高级升级",
             "tier": "VI",
             "type": "区域升级",
-            "description": "Gives +1 level to all production sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector specializations in that sector.",
+            "description": "所有产力区域的等级 +1。提升区域等级可提升该区域开发点和区域专精获得的收益。",
             "production_cost": "450 <production></production> Production",
 
 
@@ -2940,10 +2940,10 @@ var jsonOperations = {
 
         {
             "slug": "energy_sectors_advanced_upgrade",
-            "name": "Energy Sectors Advanced Upgrade",
+            "name": "能源区域高级升级",
             "tier": "VI",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all energy sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector specializations in that sector.",
+            "description": "所有能源区域的等级 +1。提升区域等级可提升该区域开发点和区域专精获得的收益。",
             "production_cost": "450 <production></production> Production",
 
 
@@ -2952,10 +2952,10 @@ var jsonOperations = {
 
         {
             "slug": "food_sectors_advanced_upgrade",
-            "name": "Food Sectors Advanced Upgrade",
+            "name": "食物区域高级升级",
             "tier": "VI",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all food sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector specializations in that sector.",
+            "description": "所有食物区域的等级 +1。提升区域等级可提升该区域开发点和区域专精获得的收益。",
             "production_cost": "450 <production></production> Production",
 
 
@@ -2964,10 +2964,10 @@ var jsonOperations = {
 
         {
             "slug": "research_sectors_advanced_upgrade",
-            "name": "Research Sectors Advanced Upgrade",
+            "name": "研究区域高级升级",
             "tier": "VI",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all research sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector epecializations in that sector.",
+            "description": "所有研究区域的等级 +1。提升区域等级可提升该区域开发点和区域专精获得的收益。",
             "production_cost": "450 <production></production> Production",
 
 
@@ -2976,10 +2976,10 @@ var jsonOperations = {
 
         {
             "slug": "advanced_military_engineering_guild",
-            "name": "Advanced Military Engineering Guild",
+            "name": "高级军事工程协会",
             "tier": "VI",
             "type": "区域升级",
-            "description": "Further development in military engineering allows for quicker build times for complex military assets. At higher levels, units are built so well that their defenses are improved.<br><br><abilityRed>This can only be built in an industrial exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>-10% <production></production> cost for Elite units.</bullet><bullet> 等级 2<br>-15% <production></production> cost for Elite units.</bullet><bullet> 等级 3<br>-20% <production></production> cost for Elite units.<br>Elite units are produced with +1<armor></armor>.</bullet><bullet> 等级 4<br>-25% <production></production> cost for Elite units.<br>Elite units are produced with +1<armor></armor>.</bullet><bullet> 等级 5<br>-30% <production></production> cost for Elite units.<br>Elite units are produced with +2<armor></armor>.</bullet>",
+            "description": "进一步发展军事工程可以缩短复杂军事资产的建造时间。提升至更高等级后，能够打造出防御更高的精良单位。<br><br><abilityRed>仅可在工业开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br>精英单位的 <production></production> 消耗减少 -10% 。</bullet><bullet> 等级 2<br>精英单位的 <production></production> 消耗减少 -15% 。</bullet><bullet> 等级 3<br>精英单位的 <production></production> 消耗减少 -20% 。<br>精英单位在生产时拥有 +1<armor></armor>。</bullet><bullet> 等级 4<br>精英单位的 <production></production> 消耗减少 -25% 。<br>精英单位在生产时拥有 +1<armor></armor>。</bullet><bullet> 等级 5<br>精英单位的 <production></production> 消耗减少 -30% 。<br>精英单位在生产时拥有 +2<armor></armor>。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -2988,10 +2988,10 @@ var jsonOperations = {
 
         {
             "slug": "high_energy_scanning_station",
-            "name": "High Energy Scanning Station",
+            "name": "高能扫描站",
             "tier": "VI",
             "type": "区域升级",
-            "description": "Deploying an Arc defense grid provides vision and scanner coverage to your colony borders. At higher levels, the defense grid becomes so strong that it increases the colony domain's operational defense.<br><br><abilityRed>This can only be built in an energy exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>+1 to colony Vision and Sensor range.</bullet><bullet> 等级 2<br>+2 to colony Vision and Sensor range. Colony gains True Sight.</bullet><bullet> 等级 3<br>+3 to colony Vision and Sensor range.<br>Colony gains True Sight and +4 <operationDefense></operationDefense>.</bullet><bullet> 等级 4<br>+4 to colony Vision and Sensor range.<br>Colony gains True Sight and +8 <operationDefense></operationDefense>.</bullet><bullet> 等级 5<br>+5 to colony Vision and Sensor range.<br>Colony gains True Sight and +12 <operationDefense></operationDefense>.</bullet>",
+            "description": "部署一道电弧防御网，能够提供殖民地边境的视野和扫面覆盖范围。提升至更高等级后，防御网将变得更加强大，使其能够提升殖民地领域的行动防御。<br><br><abilityRed>仅可在能量开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br>殖民地视野和传感器范围增加 +1 。</bullet><bullet> 等级 2<br>殖民地视野和传感器范围增加 +2 。殖民地获得真实视野。</bullet><bullet> 等级 3<br>殖民地视野和传感器范围增加 +3 。<br>殖民地获得真实视野和 +4 <operationDefense></operationDefense>.</bullet><bullet> 等级 4<br>殖民地视野和传感器范围增加 +4 。<br>殖民地获得真实视野和 +8 <operationDefense></operationDefense>.</bullet><bullet> 等级 5<br>殖民地视野和传感器范围增加 +5 。<br>殖民地获得真实视野和 +12 <operationDefense></operationDefense>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3000,10 +3000,10 @@ var jsonOperations = {
 
         {
             "slug": "community_wellness_center",
-            "name": "Community Wellness Center",
+            "name": "社区福利中心",
             "tier": "VI",
             "type": "区域升级",
-            "description": "By focusing on the wellness of your colonists, their overall health and happiness can be improved and they are quicker to generate happiness events. At higher levels, the rewards from happiness events can be increased.<br><br><abilityRed>This can only be built in an agriculture exploitation sector.</abilityRed><br><br><bullet> 等级 1<br><happiness></happiness> events require 10% less <happiness></happiness>.</bullet><bullet> 等级 2<br><happiness></happiness> events require 20% less <happiness></happiness>.</bullet><bullet> 等级 3<br><happiness></happiness> events require 30% less <happiness></happiness>。<br><happiness></happiness> events generate +50%.</bullet><bullet> 等级 4<br><happiness></happiness> events require 40% less <happiness></happiness>。<br><happiness></happiness> events generate +100%.</bullet><bullet> 等级 5<br><happiness></happiness> events require 50% less <happiness></happiness>。<br><happiness></happiness> events generate +150%.</bullet>",
+            "description": "关注移住民的身心健康，改善他们的总体健康状况并提升其幸福值，加快幸福事件的生成速度。提升至更高等级后，幸福事件的奖励将增加。<br><br><abilityRed>仅可在农业开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br><happiness></happiness> 事件所需 <happiness></happiness> 减少 10% 。</bullet><bullet> 等级 2<br><happiness></happiness> 事件所需 <happiness></happiness> 减少 20% 。</bullet><bullet> 等级 3<br><happiness></happiness> 事件所需 <happiness></happiness> 减少 30% 。<br><happiness></happiness> 事件生成 +50%.</bullet><bullet> 等级 4<br><happiness></happiness> 事件所需 <happiness></happiness> 减少 40% 。<br><happiness></happiness> 事件生成 +100%.</bullet><bullet> 等级 5<br><happiness></happiness> 事件所需 <happiness></happiness> 减少 50% 。<br><happiness></happiness> 事件生成 +150%.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3012,10 +3012,10 @@ var jsonOperations = {
 
         {
             "slug": "cosmite_amplification_lab",
-            "name": "Cosmite Amplification Lab",
+            "name": "宇宙合金强化实验室",
             "tier": "VI",
             "type": "区域升级",
-            "description": "High powered quantum accelerators can amplify the energetic properties of Comsite, meaning less is required for military applications. At higher levels, we can merge traces of stabilized cosmites into our armor, boosting our troops resistance to enemy attacks.<br><br><abilityRed>This can only be built in an research exploitation sector.</abilityRed><br><br><bullet> 等级 1<br>-10% <tricorium></tricorium> cost for units.</bullet><bullet> 等级 2<br>-15% <tricorium></tricorium> cost for units.</bullet><bullet> 等级 3<br>-20% <tricorium></tricorium> cost for units.<br>Units are produced with +1 resistance to status effects.</bullet><bullet> 等级 4<br>-25% <tricorium></tricorium> cost for units.<br>Units are produced with +2 resistance to status effects.</bullet><bullet> 等级 5<br>-30% <tricorium></tricorium> cost for units.<br>Units are produced with +3 resistance to status effects.</bullet>",
+            "description": "高能量子加速器可以增强宇宙合金的能量属性，从而使军事应用中需要的能量更少。提升至更高等级后，我们可以将稳定的宇宙合金融入护甲之中，从而提高我们部队的攻击抗性。<br><br><abilityRed>仅可在研究开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br>单位消耗 -10% <tricorium></tricorium> 。</bullet><bullet> 等级 2<br>单位消耗 -15% <tricorium></tricorium> 。</bullet><bullet> 等级 3<br>单位消耗 -20% <tricorium></tricorium> 。<br>单位在生产时拥有 +1 状态效果抵抗。</bullet><bullet> 等级 4<br>单位消耗 -25% <tricorium></tricorium> 。<br>单位在生产时拥有 +2 状态效果抵抗。</bullet><bullet> 等级 5<br>单位消耗 -30% <tricorium></tricorium> 。<br>单位在生产时拥有 +3 状态效果抵抗。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3025,10 +3025,10 @@ var jsonOperations = {
 
         {
             "slug": "deploy_monitor",
-            "name": "Deploy Monitor",
+            "name": "部署监控站",
             "tier": "I",
             "type": "战略行动（持续）",
-            "description": "A monitoring station appears on the targeted hex. The station provides the deploying player with vision for 6 hexes and sensor coverage for 12 hexes.<br>The station is concealed, and can only be detected by other players with Detection, or if they move adjacent to it. Monitoring stations are not marked as belonging to a particular player, and can be destroyed by other players without triggering war.",
+            "description": "目标单元格上出现一个监控站。部署监控站的玩家将获得 6 个单元格的视野以及覆盖 12 个单元格范围的传感器。<br>监控站是隐蔽的，只能被拥有“侦察”或在移动到其相邻单元格时的玩家发现。监控站不会标记为属于某位特定玩家，被其他玩家摧毁也不会触发战争。",
             "energy_cost": "40",
             "casting": "4 <stratPoint></stratPoint>",
             "upkeep_cost": "5 <energy></energy> / <turn></turn>"
@@ -3036,30 +3036,30 @@ var jsonOperations = {
 
         {
             "slug": "native_threat_locator",
-            "name": "Native Threat Locator",
+            "name": "本地威胁定位器",
             "tier": "I",
             "type": "战略行动（瞬时）",
-            "description": "Reveals the location of the nearest, unexplored hostile Spawner to the target colony.",
+            "description": "显示离目标殖民地距离最近且尚未探索的敌对出生点。",
             "energy_cost": "40",
             "casting": "4 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "capability_ranking",
-            "name": "Capability Ranking",
+            "name": "能力排名",
             "tier": "I",
             "type": "帝国升级",
-            "description": "Unlocks capability rankings, shown in the Empire Tasks interface, allowing you to see how your Empire compares to that of other players.<br><br>Capability is visible for your Empire and its allies. To see the ranks of other players you must use <actionblue>Infiltrate Operation Center</actionblue>。",
+            "description": "解锁帝国任务界面显示的能力排名，使你可以查看并比较你的帝国和其他玩家的帝国。<br><br>你可以看见你的帝国和盟友的能力排名。如果想查看其他玩家的排名，必须使用<actionblue>渗透行动中心</actionblue>。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "fabricate_casus_belli",
-            "name": "Fabricate Casus Belli",
+            "name": "伪造宣战理由",
             "tier": "II",
             "type": "隐秘行动",
-            "description": "Use stolen data and forgery to fabricate a Casus Belli justifying a war against this player. Only one fabricated Casus Belli may be active on a player at once.<br>On failure, a minor Casus Belli will still be applied.",
+            "description": "利用窃取的数据和赝品来伪造对该玩家发动战争的理由，一次只能激活一个伪造的宣战理由。<br>即使失败，也仍然会应用一个轻微宣战理由。",
             "energy_cost": "0",
             "casting": "6 <stratPoint></stratPoint>",
             "influence_cost": "20"
@@ -3068,80 +3068,80 @@ var jsonOperations = {
 
         {
             "slug": "steal_maps",
-            "name": "Steal Maps",
+            "name": "窃取地图",
             "tier": "II",
             "type": "隐秘行动",
-            "description": "Steal map data from the target player, revealing all areas of the world map that they have explored.",
+            "description": "从目标玩家处窃取地图，揭示其探索过的所有地区。",
             "energy_cost": "60",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "counter_operation",
-            "name": "Counter Operation",
+            "name": "反击行动",
             "tier": "III",
             "type": "战略行动（瞬时）",
-            "description": "Attempt to disrupt and shut down an enemy operation. Success is determined by Operation Strength vs the enemy's Operation Defense.",
+            "description": "试图扰乱并阻止敌方行动，成功与否取决于行动力量与敌人行动防御的对比。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "internal_purge",
-            "name": "Internal Purge",
+            "name": "内部净化",
             "tier": "III",
             "type": "隐秘行动",
-            "description": "Attempt to identify and remove any Covert Operations that are currently affecting you. This will also raise your <actionblue>Alert Level</actionblue> by 2, increasing your Operation Defense.",
+            "description": "尝试识别并移除当前正对你造成影响的所有隐秘行动，这还会使你的<actionblue>警报等级</actionblue>提高 2，增加你的行动防御。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "secret_state",
-            "name": "Secret State",
+            "name": "秘密部门",
             "tier": "III",
             "type": "教义行动",
-            "description": "A secret department is instituted with the task of preventing any possible threat to your populace and territories.<br><br>You gain +5 <operationDefense></operationDefense> Operational Defence.",
+            "description": "一个专门防止你的人口和领地遭受威胁的秘密部门。<br><br>你获得 +5 <operationDefense></operationDefense> 行动防御。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "infiltrate_operations_center",
-            "name": "Infiltrate Operations Center",
+            "name": "渗透行动中心",
             "tier": "IV",
             "type": "隐秘行动",
-            "description": "Reduce the target player's Operation Defense by 4<operationDefense></operationDefense> against our operations, and allow us to view their personality traits, as well as  a list of that player's active special, non-covert operations.<br><br>Players whose Operation Center you have infilitrated will also be shown in the Capability rankings.",
+            "description": "使目标玩家针对我方行动的行动防御减少 4<operationDefense></operationDefense> ，并且允许我们查看该玩家激活的一系列特殊的非隐秘行动。<br><br>你已渗入的行动中心所属的玩家将按照能力排名来显示。",
             "energy_cost": "45",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "scanner_upgrade_range",
-            "name": "Scanner Upgrade: Range",
+            "name": "扫描器升级：范围",
             "tier": "IV",
             "type": "帝国升级",
-            "description": "Upgrades the scanners in your colonies. All colonies now have +3 vision and scanner range.",
+            "description": "升级殖民地的扫描器。所有殖民地现在拥有 +3 视野和扫描范围。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "research_taps",
-            "name": "Research Taps",
+            "name": "研究窃听器",
             "tier": "V",
             "type": "隐秘行动",
-            "description": "Collect research data from the target player over a number of turns. The data is transmitted to us and the target's research efforts are sabotaged once the operation has run for 5<turn></turn>。",
+            "description": "在一定回合内从目标玩家处收集研究数据。行动持续 5<turn></turn> 后，研究数据将回传且目标研究成果将被破坏。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "energy_siphon",
-            "name": "Energy Siphon",
+            "name": "能量虹吸器",
             "tier": "V",
             "type": "隐秘行动",
-            "description": "Collect 25% of the targeted player's total energy income over a fixed number of turns. The energy will transfer to us once the operation has run for 5<turn></turn>。",
+            "description": "在一定回合内收集目标玩家总能量收益 25% 的能量。能量将在行动持续 5<turn></turn> 后向回输送。",
             "energy_cost": "0",
             "casting": "8 <stratPoint></stratPoint>",
             "influence_cost": "30",
@@ -3149,10 +3149,10 @@ var jsonOperations = {
 
         {
             "slug": "guerrilla_strike",
-            "name": "Guerrilla Strike",
+            "name": "游击战",
             "tier": "VI",
             "type": "隐秘行动",
-            "description": "Spawn an army of the selected non-hostile faction to attack the target player. Not usable if no non-hostile factions are known.",
+            "description": "生成一支所选非敌对阵营军队攻击目标玩家。如果没有已知的非敌对阵营，则不可用。",
             "energy_cost": "0",
             "casting": "8 <stratPoint></stratPoint>",
             "influence_cost": "30",
@@ -3160,20 +3160,20 @@ var jsonOperations = {
 
         {
             "slug": "relay_disruption",
-            "name": "Relay Disruption",
+            "name": "中继站干扰",
             "tier": "VI",
             "type": "隐秘行动",
-            "description": "Disrupt the Orbital Relay network of the target player, blocking their use of Orbital Relays for 10<turn></turn>",
+            "description": "干扰目标玩家的轨道中继站网络，阻止其使用轨道中继站，持续 10<turn></turn>",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "trigger_war_with_faction",
-            "name": "Trigger War With Faction",
+            "name": "挑起阵营战争",
             "tier": "VI",
             "type": "隐秘行动",
-            "description": "Sabotage target enemy player's relationship with a faction, degrading their relation over time until they eventually reach a state in which they will go to war with the player.",
+            "description": "破坏目标敌方玩家与一个阵营的关系，使他们之间的关系逐渐恶化，直到该阵营与玩家开战。",
             "energy_cost": "0",
             "casting": "16 <stratPoint></stratPoint>",
             "influence_cost": "80",
@@ -3181,40 +3181,40 @@ var jsonOperations = {
 
         {
             "slug": "sensor_jammers",
-            "name": "Sensor Jammers",
+            "name": "传感干扰器",
             "tier": "VII",
             "type": "隐秘行动",
-            "description": "Disable the target player's Detection for 10<turn></turn>, meaning they will only detect concealed units that are adjacent to their own stacks and structures. In addition, this ensures that our armies will not appear on the target player's sensors.",
+            "description": "禁用目标玩家的侦察能力，持续 10<turn></turn>，使其仅能够侦察到与其所在的组和建筑相邻的隐藏单位。此外，这将确保我方军队不会出现在目标玩家的传感器当中。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "scanner_upgrade_faction_information",
-            "name": "Scanner Upgrade: Faction Information",
+            "name": "扫描器升级：阵营信息",
             "tier": "VII",
             "type": "帝国升级",
-            "description": "Upgrades the scanners in your colonies. All colonies now show faction information of all targets within scanner range.",
+            "description": "升级殖民地的扫描器。所有殖民地现在会显示扫描器范围内所有目标的阵营信息。",
             "energy_cost": "0",
 
         },
 
         {
             "slug": "locate_armies",
-            "name": "Locate Armies",
+            "name": "定位军队",
             "tier": "VIII",
             "type": "隐秘行动",
-            "description": "For the next 10<turn></turn> turns, all of the target player�s armies are visible to the casting player. Each army is marked using a sensor particle effect of the target player�s primary color. Armies that consist solely of camouflaged units are not displayed.",
+            "description": "在接下来的 10<turn></turn> 个回合，所有目标玩家的军队都对施放玩家可见。每支军队都由目标玩家主要颜色的传感器粒子效果标记。完全由伪装单位构成的军队不会显示。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "falsify_atrocities",
-            "name": "Falsify Atrocities",
+            "name": "伪造暴行",
             "tier": "VIII",
             "type": "隐秘行动",
-            "description": "Expertly falsify claims of grievous war crimes against target enemy player. The enemy player loses reputation, and all other players gain a maximum level Casus Belli against that player.",
+            "description": "以专业手法虚假宣称目标敌方玩家犯下了骇人的战争罪行。该敌方玩家损失声望，其他所有玩家对该玩家的宣战理由达到最大等级。",
             "energy_cost": "0",
             "casting": "16 <stratPoint></stratPoint>",
             "influence_cost": "80",
@@ -3223,180 +3223,180 @@ var jsonOperations = {
 
         {
             "slug": "universal_data_siphon",
-            "name": "Universal Data Siphon",
+            "name": "通用数据虹吸器",
             "tier": "IX",
             "type": "隐秘行动",
-            "description": "Gain access to the target player's vision for 20<turn></turn>",
+            "description": "获得目标玩家视野，持续 20<turn></turn>",
             "energy_cost": "120",
             "casting": "12 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "cosmite_translocators",
-            "name": "Cosmite Translocators",
+            "name": "宇宙合金转运器",
             "tier": "IX",
             "type": "隐秘行动",
-            "description": "Collect 50% of the targeted player's total cosmite income over a fixed number of turns. The cosmite will transfer to us once the operation has run for 5<turn></turn>。",
+            "description": "在一定回合内收集目标玩家总宇宙合金收益 50% 的宇宙合金。这些宇宙合金将在行动发动 5<turn></turn> 后传输给我们。",
             "energy_cost": "140",
             "casting": "16 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_support_i",
-            "name": "Operational Support I",
+            "name": "行动支援 I",
             "tier": "II",
             "type": "帝国升级",
-            "description": "Gain +3 Strategic Operation points and +3 Tactical Operation points.<br><br>This allows you to use more operations each turn, both in and out of combat.",
+            "description": "获得 +3 战略行动点数和 +3 战术行动点数。<br><br>这可以使你每回合使用更多的行动，无论战斗中还是战斗外。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_support_ii",
-            "name": "Operational Support II",
+            "name": "行动支援 II",
             "tier": "IV",
             "type": "帝国升级",
-            "description": "Gain +3 Strategic Operation points and +3 Tactical Operation points.<br><br>This allows you to use more operations each turn, both in and out of combat.",
+            "description": "获得 +3 战略行动点数和 +3 战术行动点数。<br><br>这可以使你每回合使用更多的行动，无论战斗中还是战斗外。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_support_iii",
-            "name": "Operational Support III",
+            "name": "行动支援 III",
             "tier": "VI",
             "type": "帝国升级",
-            "description": "Gain +3 Strategic Operation points and +3 Tactical Operation points.<br><br>This allows you to use more operations each turn, both in and out of combat.",
+            "description": "获得 +3 战略行动点数和 +3 战术行动点数。<br><br>这可以使你每回合使用更多的行动，无论战斗中还是战斗外。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_support_iv",
-            "name": "Operational Support IV",
+            "name": "行动支援 IV",
             "tier": "VIII",
             "type": "帝国升级",
-            "description": "Gain +3 Strategic Operation points and +3 Tactical Operation points.<br><br>This allows you to use more operations each turn, both in and out of combat.",
+            "description": "获得 +3 战略行动点数和 +3 战术行动点数。<br><br>这可以使你每回合使用更多的行动，无论战斗中还是战斗外。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "doctrine_development_i",
-            "name": "Doctrine Development I",
+            "name": "教义进步 I",
             "tier": "II",
             "type": "帝国升级",
-            "description": "Gain +1 doctrine slot, increasing the number of Doctrines that can be active at the same time.",
+            "description": "获得 +1 个教义槽位，增加可同时激活的教义数量。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "doctrine_development_ii",
-            "name": "Doctrine Development II",
+            "name": "教义进步 II",
             "tier": "IV",
             "type": "帝国升级",
-            "description": "Gain +1 doctrine slot, increasing the number of Doctrines that can be active at the same time.",
+            "description": "获得 +1 个教义槽位，增加可同时激活的教义数量。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "doctrine_development_iii",
-            "name": "Doctrine Development III",
+            "name": "教义进步 III",
             "tier": "VI",
             "type": "帝国升级",
-            "description": "Gain +1 doctrine slot, increasing the number of Doctrines that can be active at the same time.",
+            "description": "获得 +1 个教义槽位，增加可同时激活的教义数量。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "doctrine_development_iv",
-            "name": "Doctrine Development IV",
+            "name": "教义进步 IV",
             "tier": "VIII",
             "type": "帝国升级",
-            "description": "Gain +1 doctrine slot, increasing the number of Doctrines that can be active at the same time.",
+            "description": "获得 +1 个教义槽位，增加可同时激活的教义数量。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "doctrine_development_v",
-            "name": "Doctrine Development V",
+            "name": "教义进步 V",
             "tier": "III",
             "type": "帝国升级",
-            "description": "Gain +1 doctrine slot, increasing the number of Doctrines that can be active at the same time.",
+            "description": "获得 +1 个教义槽位，增加可同时激活的教义数量。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "doctrine_development_vi",
-            "name": "Doctrine Development VI",
+            "name": "教义进步 VI",
             "tier": "VII",
             "type": "帝国升级",
-            "description": "Gain +1 doctrine slot, increasing the number of Doctrines that can be active at the same time.",
+            "description": "获得 +1 个教义槽位，增加可同时激活的教义数量。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_prowess_i",
-            "name": "Operational Prowess I",
+            "name": "行动专长 I",
             "tier": "II",
             "type": "帝国升级",
-            "description": "Gain +3 Operational Strength and +3 Operational Defence.<br><br>This makes your operations more likely to succeed on your enemies, and your enemies' operations less like to succeed against you.",
+            "description": "获得 +3 行动力量和 +3 行动防御。<br><br>这可以使你向敌人发动的行动成功几率更高，使敌人对你发动的行动成功几率更低。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_prowess_ii",
-            "name": "Operational Prowess II",
+            "name": "行动专长 II",
             "tier": "IV",
             "type": "帝国升级",
-            "description": "Gain +3 Operational Strength and +3 Operational Defence.<br><br>This makes your operations more likely to succeed on your enemies, and your enemies' operations less like to succeed against you.",
+            "description": "获得 +3 行动力量和 +3 行动防御。<br><br>这可以使你向敌人发动的行动成功几率更高，使敌人对你发动的行动成功几率更低。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_prowess_iii",
-            "name": "Operational Prowess III",
+            "name": "行动专长 III",
             "tier": "VI",
             "type": "帝国升级",
-            "description": "Gain +3 Operational Strength and +3 Operational Defence.<br><br>This makes your operations more likely to succeed on your enemies, and your enemies' operations less like to succeed against you.",
+            "description": "获得 +3 行动力量和 +3 行动防御。<br><br>这可以使你向敌人发动的行动成功几率更高，使敌人对你发动的行动成功几率更低。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_prowess_iv",
-            "name": "Operational Prowess IV",
+            "name": "行动专长 IV",
             "tier": "VIII",
             "type": "帝国升级",
-            "description": "Gain +3 Operational Strength and +3 Operational Defence.<br><br>This makes your operations more likely to succeed on your enemies, and your enemies' operations less like to succeed against you.",
+            "description": "获得 +3 行动力量和 +3 行动防御。<br><br>这可以使你向敌人发动的行动成功几率更高，使敌人对你发动的行动成功几率更低。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_prowess_v",
-            "name": "Operational Prowess V",
+            "name": "行动专长 V",
             "tier": "II",
             "type": "帝国升级",
-            "description": "Gain +3 Operational Strength and +3 Operational Defence.<br><br>This makes your operations more likely to succeed on your enemies, and your enemies' operations less like to succeed against you.",
+            "description": "获得 +3 行动力量和 +3 行动防御。<br><br>这可以使你向敌人发动的行动成功几率更高，使敌人对你发动的行动成功几率更低。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "operational_prowess_vi",
-            "name": "Operational Prowess VI",
+            "name": "行动专长 VI",
             "tier": "IV",
             "type": "帝国升级",
-            "description": "Gain +3 Operational Strength and +3 Operational Defence.<br><br>This makes your operations more likely to succeed on your enemies, and your enemies' operations less like to succeed against you.",
+            "description": "获得 +3 行动力量和 +3 行动防御。<br><br>这可以使你向敌人发动的行动成功几率更高，使敌人对你发动的行动成功几率更低。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
@@ -3404,160 +3404,160 @@ var jsonOperations = {
 
         {
             "slug": "noble_diplomats",
-            "name": "Noble Diplomats",
+            "name": "贵族外交官",
             "tier": "I",
             "type": "教义行动",
-            "description": "Our noble houses produce many scions whose life at court has prepared them well for diplomacy and intrigue. Let us put them to use among the aliens of this world.<br><br>Receive +1<influence></influence> and +15<energy></energy> per <turn></turn> for every Faction you are at Peace with. This amount increases as your relationship improves. ",
+            "description": "我们高贵的家族培养了许多通晓权谋与外交的后代，让他们在这个充满异类的世界中发挥作用。<br><br>每有一个阵营与你处于和平状态，每 <turn></turn> 获得 +1<influence></influence> 和 +15<energy></energy> ，此数值会随着关系的进步而提高。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "indentured_contracts",
-            "name": "Indentured Contracts",
+            "name": "契约合同",
             "tier": "I",
             "type": "教义行动",
-            "description": "The Indentured are seeking rights. We can take advantage of this by making them sign a maintenance and ration reduction contract, and in trade they get citizenship and freedom at the end of this venture... should they survive.<br><br>Innate Indentured units have their <energy></energy> cost reduced by 33% in colonies.<br>All Indentured units, including those who became so due to mods, have their upkeep reduced by 50%.<br><br><abilityRed>Unit upkeep can never be reduced by more than 50%.</abilityRed>",
+            "description": "契约者想要获得权利，我们可以借此令他们签订一份维护和口粮减少合同，使他们能在合同结束后获得公民身份和自由…前提是他们能够存活下来。<br><br>殖民地内原有的契约单位 <energy></energy> 消耗降低 33% 。<br>所有契约单位，包括因模块而成为的契约单位，其维持消耗降低 50%。<br><br><abilityRed>单位的维持消耗减少不能低于 50%。</abilityRed>",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "one-way_trust",
-            "name": "One-Way Trust",
+            "name": "单方面信任",
             "tier": "V",
             "type": "教义行动",
-            "description": "Mutual trust is important amongst allies, but complete trust is a fallacy, so we must keep them on a leash and feed them false information in return for their data.<br><br>You do not suffer from the negative effects of having an intelligence sharing pact with other players. In addition, you get +4<operationDefense></operationDefense>。",
+            "description": "盟友之间相互信任非常重要，但绝不能完全信任，所以我们必须妥善地处理盟友关系，用虚假的情报换取他们的数据。<br><br>与其他玩家签订情报共享协议时不会遭受负面效果。另外，你获得 +4<operationDefense></operationDefense>。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "cloak_and_dagger",
-            "name": "Cloak and Dagger",
+            "name": "秘密行动",
             "tier": "V",
             "type": "教义行动",
-            "description": "We can easily trigger wars far away from our borders to distract our enemies and leave us free reign. All we have to do is point them in the right direction.<br><br>You get +3<operationstrength></operationstrength>. In addition, covert operations are now 20% cheaper.",
+            "description": "我们可以在远离我们边境的地方挑起战火来分散敌人的注意力，从而保护自身周全。我们只需要把他们引向正确的位置。<br><br>你获得 +3<operationstrength></operationstrength>。另外，隐秘行动消耗降低 20% 。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "indentured_servitude",
-            "name": "Indentured Servitude",
+            "name": "签约奴役",
             "tier": "IX",
             "type": "教义行动",
-            "description": "In these desperate times, everyone must make sacrifices, but the lower class should sacrifice the most.<br><br>All Colonies gain +40%<production></production>, but suffer -8<happiness></happiness>。",
+            "description": "在这个充斥着绝望的年代，所有人都必须做出牺牲。阶级越低，付出的牺牲就应该越大。<br><br>所有殖民地获得 +40%<production></production> ，但需承受 -8<happiness></happiness>。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "deep_infiltration",
-            "name": "Deep Infiltration",
+            "name": "深度渗透",
             "tier": "IX",
             "type": "教义行动",
-            "description": "Our spies are provided with extra training in stealing military intelligence, granting us a huge advantage on the battlefield.<br><br>Infiltrating a Player will give all units a +20% damage bonus against their units.",
+            "description": "我们的间谍受过特训，擅长偷取军事机密，为我们的战斗提供优势。<br><br>渗透玩家将会使所有单位攻击该玩家单位时获得 +20% 伤害加成。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "karmic_amplification",
-            "name": "Karmic Amplification",
+            "name": "业力强化",
             "tier": "III",
             "type": "教义行动",
-            "description": "We accept everyone who we can possibly sway to follow the Celestian way. By aiding others, we reveal to them the one and only truth.<br><br>The cooldown for requesting a new quest from a faction is reduced by 1<turn></turn>。<br>While active, factions will make demands at a slower rate.",
+            "description": "我们接纳所有可能会改变信仰并追随星神之人。通过帮助他人，我们会向他们揭露这世间唯一的真相。<br><br>向阵营请求新任务的冷却时间减少 1<turn></turn>。<br>激活时，阵营提出要求的频率将减缓。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "celestial_judgment",
-            "name": "Celestial Judgment",
+            "name": "星神审判",
             "tier": "III",
             "type": "教义行动",
-            "description": "Not everyone can be shown the light through talking and scriptures - some will have to be forced to bend the knee to our teachings.<br><br>Your Enlightened units deal 10% added damage to non-Enlightened units.",
+            "description": "并非所有人都能通过传道和圣典得到开化，有些人必须被施以蛮力才会臣服于我们的教诲。<br><br>你的启迪单位对非启迪单位额外造成 10% 伤害。",
             "energy_cost": "40",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "harmonious_existence",
-            "name": "Harmonious Existence",
+            "name": "和谐并存",
             "tier": "VII",
             "type": "教义行动",
-            "description": "By teaching your population to live in harmony with the world and each other, they will live a happier life.<br><br>Each Colony you own that is not of your starting race provides an additional +100 to relations with that race.<br>All your Colonies have +6<happiness></happiness>。",
+            "description": "教导你的居民与万物和谐生息，他们将过上更幸福的生活。<br><br>你所拥有的每一个殖民地（初始种族殖民地除外）将额外提供 +100 种族关系。<br>你的所有殖民地获得 +6<happiness></happiness>。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "disincentive_prayers",
-            "name": "Disincentive Prayers",
+            "name": "遏制祷告",
             "tier": "VII",
             "type": "教义行动",
-            "description": "By chanting our beliefs every day, we can disincentivize most unwanted visitors from coming near us again.<br><br>Marauders no longer attack your Colonies and sector bases, nor do they trespass in your domain.",
+            "description": "每日吟诵我们的信仰，把那些我们不愿再见之人统统挡于门外。<br><br>劫掠者不再会攻击你的殖民地和区域基地，也无法侵入你的领域。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "missionary_negotiators",
-            "name": "Missionary Negotiators",
+            "name": "传教磋商者",
             "tier": "VII",
             "type": "教义行动",
-            "description": "Convincing others of the justness of your cause makes them more inclined to sell their treasures for less.<br><br>Cost of bribing NPC Faction stacks is reduced by 20%.<br>The <influence></influence> cost of items you can buy from Dwelling Shops is reduced by 20%.<br><br><abilityRed>Dwelling Shop discounts can never exceed 50%</abilityRed>",
+            "description": "说服他人相信你所从之事中的正义，能够让他们以更低的价格出售他们的宝物。<br><br>贿赂 NPC 阵营的消耗减少 20%。<br>从居住地商店购买物品所需的 <influence></influence> 消耗减少 20%。<br><br><abilityRed>居住地商店折扣不会超过</abilityRed>",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "ecological_construction",
-            "name": "Ecological Construction",
+            "name": "生态建设",
             "tier": "I",
             "type": "教义行动",
-            "description": "Intelligent use of wood and local materials allows for green, cost-effective infrastructure development without having to harm or exploit nature.<br><br>Your colonies each gain +10<production></production> for every forest sector within its domain.",
+            "description": "善用树木和当地物资可以实现颇具成本效益的绿色基础设施建设，且不会伤害或过度剥削大自然。<br><br>殖民地领域内每有一个森林区域，你的所有殖民地都会获得",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "ecological_warfare",
-            "name": "Ecological Warfare",
+            "name": "生态战争",
             "tier": "I",
             "type": "教义行动",
-            "description": "Train your soldiers in techniques to extract chemicals from local plants and animals for combat purposes.<br><br>Your units' Melee and Biological attacks have a strength 8<StrengthBio></StrengthBio> chance to apply <abilityRed>Poison</abilityRed> to Biological and Cyborg targets, reducing their morale and doing damage over time.<br><br>In addition your non-mechanical units heal an additional 6<hp></hp> per turn on the world map.",
+            "description": "训练你的士兵，让他们学会从当地植物和动物体内提取化学物质并用于战斗。<br><br>你单位的近战和生物攻击有 8<StrengthBio></StrengthBio> 力量几率向生物和半机械人目标施加 <abilityRed>中毒</abilityRed> ，降低其士气并造成持续伤害。<br><br>此外，你的非机械单位在世界地图上每回合额外治疗",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "progressive_cultivation",
-            "name": "Progressive Cultivation",
+            "name": "逐步培养",
             "tier": "V",
             "type": "教义行动",
-            "description": "We can invest in genetically-modified crops that exploit fertile land to the fullest, making our harvests more bountiful.<br><br>Your colonies gain +8<food></food>, and an additional +8<food></food> for every Arcadian sector connected to them.",
+            "description": "我们可以使用经过基因修改的庄稼将肥沃土壤利用效率最大化，从而获得更好的收成。<br><br>你的殖民地获得 +8<food></food>，另外每有一个相连的田园区域，可额外获得 +8<food></food> 。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "advanced_wildlife_militarization",
-            "name": "Advanced Wildlife Militarization",
+            "name": "高级野生动物军事化",
             "tier": "V",
             "type": "教义行动",
-            "description": "By dedicating extra resources to animal welfare and implantation, we can further integrate non-sapient beings into our military forces, boosting their general wellbeing as well as their effectiveness in combat.<br><br>All Animal and Mounted units gain 200<happiness></happiness>, 10<hp></hp>, and gain <xp></xp> 50% faster.",
+            "description": "通过向动物福利和植物培植投入更多资源，我们可以进一步将没有智慧的生物融入到我们的军事力量之中，提升他们的整体福祉和作战效率。<br><br>所有动物与骑乘单位获得 200<happiness></happiness> 和 10<hp></hp> ，经验 <xp></xp> 获取速度提高 50% 。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "arborean_monitoring_station",
-            "name": "Arborean Monitoring Station",
+            "name": "植物监控站",
             "tier": "V",
             "type": "殖民地升级",
-            "description": "Much knowledge can be gained through the analysis and monitoring of nearby Forest and the creatures within them.<br><br>Colony gains 6<research></research> for each Forest sector within its domain. In addition, colony vision range is increased by 2 hexes.",
+            "description": "分析和监测附近的森林和生物可以获得很多知识。<br><br>殖民地领域内每有一片森林区域，殖民地获得 6<research></research> 研究。此外，殖民地视野范围扩大 2 个单元格。",
             "energy_cost": "0",
 
             "production_cost": "300 <Production></Production>"
@@ -3565,20 +3565,20 @@ var jsonOperations = {
 
         {
             "slug": "bio_crusade",
-            "name": "Bio Crusade",
+            "name": "生物圣战",
             "tier": "IX",
             "type": "教义行动",
-            "description": "We must focus our efforts in cleansing this planet of all machines and non-organics. They are unnatural beings that need to be destroyed in order to let nature prosper.<br><br>Your units deal +20% added damage when fighting Mechanical and Cyborg units.<br>Your Mounted or Animal units with Melee attacks gain <actionblue>Frenzy</actionblue>",
+            "description": "我们必须集中力量将这个星球上的所有机器和非有机物全部清除。它们是非自然的产物，只有毁掉它们，自然才能繁荣生长。<br><br>在与机械和半机械人战斗时，你的单位造成伤害增加 +20% 点。<br>你使用近战攻击的骑乘或动物单位获得 <actionblue>狂暴</actionblue>",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "arboreal_eden",
-            "name": "Arboreal Eden",
+            "name": "林木伊甸园",
             "tier": "IX",
             "type": "教义行动",
-            "description": "Through the holistic integration of the forest and its organisms into every aspect of Amazon society, perfect symbiosis can be achieved.<br><br>Forest sectors grant 6 <happiness></happiness> when linked to colonies.<br>The movement cost of forests is further reduced, and your units gain an additional 200<happiness></happiness> morale when fighting within them.",
+            "description": "亚马逊人将社会的各个方面与森林和生物体融合，实现了完美的共生。<br><br>森林区域连接至殖民地时给予 6 <happiness></happiness> 。<br>森林区域移动消耗进一步减少，你的单位在森林区域中战斗时额外获得 200<happiness></happiness> 士气。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
@@ -3586,10 +3586,10 @@ var jsonOperations = {
 
         {
             "slug": "planetary_unification_protocol",
-            "name": "Planetary Unification Protocol",
+            "name": "星球统一协议",
             "tier": "IV",
             "type": "战略行动（瞬时）",
-            "description": "Awaken the Planet-CORE node and petition for the status of Planetary Unifier. This will start a timer that can end the game.<br><br>Requirements:<br><bullet>Friendly dwellings under alliance control: 2</bullet><bullet>Required reputation level: Virtuous</bullet><br>Projected Countdown: 25<turn></turn>",
+            "description": "唤醒星球核心节点并请求成为星球统一者。这将会启动一个计时器，计时器结束后游戏将会结束。<br><br>要求：:<br><bullet>同盟控制下的友好居住地： 2</bullet><bullet>所需声望等级： 高尚</bullet><br>预计倒计时： 25<turn></turn>",
             "energy_cost": "",
             "casting": "20 <stratPoint></stratPoint>",
             "influence_cost": "100",
@@ -3597,70 +3597,70 @@ var jsonOperations = {
 
         {
             "slug": "unification_efforts",
-            "name": "Unification Efforts",
+            "name": "统一努力",
             "tier": "IV",
             "type": "教义行动",
-            "description": "Instead of using force to conquer this planet, we will use our influence and alliances to come out on top.<br><br>Relation gains for completing quests is increased by +50% and you get a +100<reputation6></reputation6> increase to your reputation.",
+            "description": "我们不会以武力征服这个星球，我们将用影响力和与同盟的关系走向最高点。<br><br>完成任务获得的关系提高 +50% ，你的声望提高 +100<reputation6></reputation6> 。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "hero_resurrection_protocol",
-            "name": "Hero Resurrection Protocol",
+            "name": "英雄复生协议",
             "tier": "IV",
             "type": "战略行动（瞬时）",
-            "description": "Resurrect a fallen Hero by a process of genetic manipulation and regenerative medicine.",
+            "description": "通过一系列基因控制和再生药物复活一位阵亡的英雄。",
             "energy_cost": "80",
             "casting": "16 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "orbital_laser_cannon",
-            "name": "Orbital Laser Cannon",
+            "name": "轨道激光炮",
             "tier": "VII",
             "type": "战略行动（瞬时）",
-            "description": "Deals damage equal to 40% of the targeted army's <hp></hp>. If a colony center is targeted, it will kill 2-3<population></population> colonists and reduce colony happiness by -12<unhappiness></unhappiness> for 3<turn></turn>. On failure, targeted army suffers 20% damage.",
+            "description": "造成等同于目标军队 40% <hp></hp> 的伤害。如果以殖民地中心为目标，将会击杀 2-3<population></population> 个移住民并减少该殖民地 -12<unhappiness></unhappiness> 幸福值，持续 3<turn></turn>如果失败，则目标军队会受到 20% 伤害。",
             "energy_cost": "120",
             "casting": "12 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "mass_insanity",
-            "name": "Mass Insanity",
+            "name": "大规模精神错乱",
             "tier": "VIII",
             "type": "战术行动（战场）",
-            "description": "This operation has a strength 6<strengthpsyche></strengthpsyche> chance to turn all non-Mindless enemy units <abilityRed>Insane</abilityRed> ，持续 1<turn></turn>. If resisted, applies <abilityRed>破碎心灵</abilityRed> instead.",
+            "description": "该行动有 6<strengthpsyche></strengthpsyche> 力量几率使敌方非无意识单位<abilityRed>错乱</abilityRed> ，持续 1<turn></turn>。如果被抵抗，则施加<abilityRed>破碎心灵</abilityRed>。",
             "energy_cost": "100",
             "casting": "9 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "area_of_reprieve",
-            "name": "Area of Reprieve",
+            "name": "延缓区域",
             "tier": "IX",
             "type": "战术行动（战场）",
-            "description": "Block all Tactical Operations and unit damaging abilities for 1<turn></turn> combat turn. Enlightened units heal for 10<hp></hp>。",
+            "description": "阻拦所有战术行动和单位伤害技能，持续 1<turn></turn> 战斗回合。启迪单位治疗 10<hp></hp>。",
             "energy_cost": "100",
             "casting": "9 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "river_crossing_expertise",
-            "name": "River Crossing Expertise",
+            "name": "过河技艺",
             "tier": "I",
             "type": "帝国升级",
-            "description": "All of your units gain <actionblue>River Crossing Expertise</actionblue>, allowing them to cross rivers for fewer move points.",
+            "description": "你的所有单位获得<actionblue>过河技艺</actionblue>，穿越河流时移动点数消耗更少。",
             "energy_cost": "",
             "casting": " <stratPoint></stratPoint>",
         },
 
         {
             "slug": "emergency_redeploy",
-            "name": "Emergency Redeploy",
+            "name": "紧急再部署",
             "tier": "VI",
             "type": "战略行动（瞬时）",
-            "description": "Teleport the target owned army to the capital colony and give all units in the army <actionblue>迅捷移动</actionblue> for 3<turn></turn>。",
+            "description": "将已拥有的目标军队传送至首都殖民地，并给予该军队中的所有单位<actionblue>迅捷移动</actionblue>，持续 3<turn></turn>。",
             "energy_cost": "120",
             "casting": "12 <stratPoint></stratPoint>",
         },
@@ -3668,10 +3668,10 @@ var jsonOperations = {
 
         {
             "slug": "dv-r_terrain_security_bulwark",
-            "name": "DV-R Terrain Security Bulwark",
+            "name": "DV-R 地形安全堡垒",
             "tier": "I",
             "type": "殖民地升级",
-            "description": "This institute of protection against hostile operations instills confidence in all under its protection.<br><br>Allied units in this colony's domain gain 200<happiness></happiness>. This colony dosn't suffer from penalties from Volcanic terrain in any of the sectors in its domain.",
+            "description": "这座抵御敌方行动的防御建筑能够使人信心倍增。<br><br>该殖民地领域内的盟友单位获得 200<happiness></happiness>。该殖民地不会遭受其领域内任何区域中火山地形的惩罚。",
             "production_cost": "300 <production></production> Production",
 
 
@@ -3680,10 +3680,10 @@ var jsonOperations = {
 
         {
             "slug": "combat_simulation_center",
-            "name": "Combat Simulation Center",
+            "name": "战斗模拟中心",
             "tier": "I",
             "type": "殖民地升级",
-            "description": "VR combat sims are a vital tool in preparing forces for battles.<br><br>Grants 3 experience per turn to all units in any stack currently on or adjacent to the colony center hex.",
+            "description": "VR 战斗模拟是训练部队战斗的重要工具。<br><br>位于殖民地中心单元格内或与其相邻的任意组内的所有单位每回合获得 3 经验。",
             "production_cost": "300 <production></production> Production",
 
 
@@ -3692,10 +3692,10 @@ var jsonOperations = {
 
         {
             "slug": "intelligence_gathering_bureau",
-            "name": "Intelligence Gathering Bureau",
+            "name": "情报局",
             "tier": "V",
             "type": "殖民地升级",
-            "description": "The IGB is a critical component to the Syndicate society. How else could you successfully engage in politics?<br><br>Colony gains True Sight and +2<operationDefense></operationDefense> Operational Defense.",
+            "description": "情报局 (IGB) 是辛迪加社会的关键组成部分，否则还有什么能够让你的从政之路一帆风顺的呢？<br><br>殖民地获得真实视野和 +2<operationDefense></operationDefense>行动防御。",
             "production_cost": "300 <production></production> Production",
 
 
@@ -3704,10 +3704,10 @@ var jsonOperations = {
 
         {
             "slug": "water_sectors_advanced_upgrade",
-            "name": "Water Sectors Advanced Upgrade",
+            "name": "水域区域高级升级",
             "tier": "VII",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all water sectors. Raising the sector level of a sector will increase the benefits from sector exploitations and sector specializations in that sector.",
+            "description": "所有水域区域的等级 +1。提升区域等级将提升该区域开发点和区域专精中获得的收益。",
             "production_cost": "450 <production></production> Production",
 
 
@@ -3716,10 +3716,10 @@ var jsonOperations = {
 
         {
             "slug": "naval_training_facility",
-            "name": "Naval Training Facility",
+            "name": "海军训练设施",
             "tier": "VII",
             "type": "区域升级",
-            "description": "Specialized naval training facilities can decrease production times for naval units. At higher levels, naval units produced gain experience levels.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.<br><br>Unit costs can never be lowered more than 75%</abilityRed><br><br><bullet> 等级 1<br>-15%<production></production> cost for naval units.<br>Naval units produced have +1<x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 2<br>-30%<production></production> cost for naval units. Naval units produced have +2<x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 3<br>-45%<production></production> cost for naval units.<br>Naval units produced have +3<x-medal_novice></x-medal_novice>.</bullet>",
+            "description": "专用海军训练设施可以缩短海军单位的生产时间。提升至更高等级后，生产的海军单位将获得经验等级。<br><br><abilityRed>仅可在水利开发点区域建造。<br><br>单位消耗减少不能超过 75%</abilityRed><br><br><bullet> 等级 1<br>海军单位的 <production></production> 消耗减少 -15%。<br>生产的海军单位获得 +1<x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 2<br>海军单位的 <production></production> 消耗减少 -30%。 生产的海军单位获得 +2<x-medal_novice></x-medal_novice>.</bullet><bullet> 等级 3<br>海军单位的 <production></production> 消耗减少 -45%。<br>生产的海军单位获得 +3<x-medal_novice></x-medal_novice>.</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3728,10 +3728,10 @@ var jsonOperations = {
 
         {
             "slug": "hydro_battery",
-            "name": "Hydro Battery",
+            "name": "水利电池",
             "tier": "VII",
             "type": "区域升级",
-            "description": "The currents and electrostatic charge of the ocean can be harnessed into energy by building special hydro batteries along the coast. By storing energy during down periods and injecting it into regular energy processes during peak periods, energy gains can be boosted for all exploitations. At higher levels, dedicating the colony to energy production can boost yields even further.<br><br><abilityRed>This can only be built in an hydro-exploitation sector.</abilityRed><br><br><bullet> 等级 1<br> +5<energy></energy> for each <energy></energy> and <watersector></watersector> exploitation.</bullet><bullet> 等级 2<br> +10<energy></energy> for each <energy></energy> and <watersector></watersector> exploitation.</bullet><bullet> 等级 3<br> +10<energy></energy> for each <energy></energy> and <watersector></watersector> exploitation.<br>+10%<energy></energy> income.</bullet>",
+            "description": "沿海岸建造特殊的水利电池，利用海水中的洋流和静电电荷生产能量。在低峰期储存能量，并在高峰期将储存的能量输入常规能源生产过程，从而提升所有开发点的能源收益。提升至更高等级后，让殖民地专注于能源生产可进一步提升产能。<br><br><abilityRed>仅可在水利开发点区域建造。</abilityRed><br><br><bullet> 等级 1<br>每个 <energy></energy> 和 <watersector></watersector> 开发点 +5<energy></energy> 。</bullet><bullet> 等级 2<br>每个 <energy></energy> 和 <watersector></watersector> 开发点 +10<energy></energy> 。</bullet><bullet> 等级 3<br>每个 <energy></energy> 和 <watersector></watersector> 开发点 +10<energy></energy> 。<br>+10%<energy></energy> 收益。</bullet>",
             "production_cost": "250 <production></production> Production",
 
 
@@ -3740,10 +3740,10 @@ var jsonOperations = {
 
         {
             "slug": "brood_cluster",
-            "name": "Brood Cluster",
+            "name": "胚胎集中室",
             "tier": "I",
             "type": "殖民地升级",
-            "description": "Gathering all broods together allows for more efficient reproduction turnover.<br><br>Colony gains+50% of their food<food></food> income (after upkeep) as a production<production></production> discount when producing units. Food income from Food sharing is excluded. Food converted this way can never exceed 50% of current production income.",
+            "description": "把所有的胚胎聚集在一起来提高繁殖效率。<br><br>殖民地生产单位时的产力 <production></production> 消耗减少，数值为殖民地食物 <food></food> 收益（扣除维持消耗之后）的 +50% 。通过食物共享获得的食物收益不计算在内，以此方式被转化的食物不可超过当前产力收益的",
             "production_cost": "300 <production></production> Production",
 
 
@@ -3752,10 +3752,10 @@ var jsonOperations = {
 
         {
             "slug": "spire_of_suffering",
-            "name": "Spire of Suffering",
+            "name": "苦难尖塔",
             "tier": "V",
             "type": "区域升级",
-            "description": "The Spire of Suffering unlocks The Dirge Doomsday weapon. Each additional Spire of Suffering that you build increases the level fo the weapon, making it stronger.<br><br>Only one Spire of Suffering may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: Non-Psynumbra units have a 8<strengthPsyche></strengthPsyche> strength chance to get <abilityRed>破碎心灵</abilityRed> every 2 <turn></turn> in combat.</bullet><bullet><actionblue>2级 </actionblue>: -30<unhappiness></unhappiness><br>Martial Law always kills Rioters.</bullet><bullet><actionblue>3级 </actionblue>: Psynumbra units have <actionblue>黑暗欢愉</actionblue> in combat.</bullet></bulletList>",
+            "description": "苦难尖塔可以解锁“挽歌”末日武器。每额外建造一座苦难尖塔，该武器便会升级并变得更加强大。<br><br>每个殖民地只能建造一座苦难尖塔。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 非赛努布拉单位在战斗中每 2 <turn></turn> 有 8<strengthPsyche></strengthPsyche> 力量几率遭受<abilityRed>破碎心灵</abilityRed>。</bullet><bullet><actionblue>2级 </actionblue>: -30<unhappiness></unhappiness> 幸福值。<br>戒严令始终会杀死暴乱者。</bullet><bullet><actionblue>3级 </actionblue>: 赛努布拉单位在战斗时获得<actionblue>黑暗欢愉</actionblue>。</bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite",
@@ -3764,10 +3764,10 @@ var jsonOperations = {
 
         {
             "slug": "pyrx_refinery",
-            "name": "PyrX Refinery",
+            "name": "派尔克斯精炼厂",
             "tier": "V",
             "type": "区域升级",
-            "description": "The PyrX Refinery unlocks the PyrX Fumigation Protocols Doomsday Weapon. Each additional PyrX Refinery you build increases the level of the weapon, making it stronger.<br><br>Only one PyrX Refinery may be built per Colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 非圣火玩家单位减少 5<strengthThermal></strengthThermal> 抵抗。</bullet><bullet><actionblue>2级 </actionblue>: 所有收益减少 30% 。</bullet><bullet><actionblue>3级 </actionblue>: 非圣火玩家的单位在战斗中陷入<abilityRed>窒息</abilityRed>。</bullet></bulletList>",
+            "description": "派尔克斯精炼厂可以解锁末日武器“净化蒸熏协议”。每建造一个额外的派尔克斯精炼厂，该武器便会升级并变得更加强大。<br><br>每个殖民地只能建造一个派尔克斯精炼厂。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 非圣火玩家单位减少 5<strengthThermal></strengthThermal> 抵抗。</bullet><bullet><actionblue>2级 </actionblue>: 所有收益减少 30% 。</bullet><bullet><actionblue>3级 </actionblue>: 非圣火玩家的单位在战斗中陷入<abilityRed>窒息</abilityRed>。</bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite",
@@ -3776,10 +3776,10 @@ var jsonOperations = {
 
         {
             "slug": "basilisk_node",
-            "name": "Basilisk Node",
+            "name": "蜥蜴节点",
             "tier": "V",
             "type": "区域升级",
-            "description": "The Basilisk Node unlocks the Cyber Attack Doomsday Weapon. Each additional Basilisk Node that you build increases the level of the weapon, making it stronger.<br><br>Only one Basilisk Node may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 合成单位获得 +20%<accuracy></accuracy> 准度和 +20% 暴击率。</bullet><bullet><actionblue>2级 </actionblue>: 窃取 50%<research></research>.</bullet><bullet><actionblue>3级 </actionblue>: 被<abilityRed>扰乱</abilityRed>的非合成单位每 <turn></turn> 有 8<strengthWave></strengthWave> 力量几率被<abilityRed>致残</abilityRed>精灵或<abilityRed>混乱</abilityRed>精灵感染</bullet></bulletList>",
+            "description": "蜥蜴节点可以解锁末日武器网络进攻。每额外建造一个的蜥蜴节点，该武器就会升级并变得更加强大。<br><br>每个殖民地只能建立一个蜥蜴节点。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 合成单位获得 +20%<accuracy></accuracy> 准度和 +20% 暴击率。</bullet><bullet><actionblue>2级 </actionblue>: 窃取 50%<research></research>.</bullet><bullet><actionblue>3级 </actionblue>: 被<abilityRed>扰乱</abilityRed>的非合成单位每 <turn></turn> 有 8<strengthWave></strengthWave> 力量几率被<abilityRed>致残</abilityRed>精灵或<abilityRed>混乱</abilityRed>精灵感染</bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite",
@@ -3788,10 +3788,10 @@ var jsonOperations = {
 
         {
             "slug": "dimensional_amplifier_tower",
-            "name": "Dimensional Amplifier Tower",
+            "name": "维度放大塔",
             "tier": "V",
             "type": "区域升级",
-            "description": "The Dimensional Amplifier Tower unlocks the Dimensional Rift Doomsday Weapon. Each additional Dimensional Amplifier Tower you build increases the level of the weapon, making it stronger.<br><br>Only one Dimensional Amplifier Tower may be build per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>:Voidtech units gain <actionblue>相位力场</actionblue>.</bullet><bullet><actionblue>2级 </actionblue>: Steal 30%<energy></energy> income.</bullet><bullet><actionblue>3级 </actionblue>: Non-Voidtech units have 8<strengthKinetic></strengthKinetic> strength chance to be randomly teleported up to 2 hexes away each <turn></turn>in combat.</bullet></bulletList>",
+            "description": "维度放大塔可以解锁“维度裂隙”末日武器。每额外建造一座维度放大塔，该武器便会升级并变得更加强大。<br><br>每个殖民地只能建造一座维度放大塔。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>:虚空科技单位获得<actionblue>相位力场</actionblue>。</bullet><bullet><actionblue>2级 </actionblue>: 窃取 30%<energy></energy> 收益。</bullet><bullet><actionblue>3级 </actionblue>: 非虚空科技单位在战斗中每 <turn></turn> 有 8<strengthKinetic></strengthKinetic> 力量几率被随机传送至最多 2 个单元格之外的位置。</bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite",
@@ -3800,20 +3800,20 @@ var jsonOperations = {
 
         {
             "slug": "beacon_of_truth",
-            "name": "Beacon of Truth",
+            "name": "真理信标",
             "tier": "V",
             "type": "帝国升级",
-            "description": "The Beacon of Truth unlocks the Declaration of Truth Doomsday Weapon. Each additional Beacon of Truth that you build increases the level of the weapon, making it stronger.<br><br>Only one Beacon of Truth may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 非星神单位获得<abilityRed>灵魂燃烧</abilityRed>。</bullet><bullet><actionblue>2级 </actionblue>: 每 <turn></turn> 有 40% 几率转移 1 <population></population> 至你最近的殖民地。</bullet><bullet><actionblue>3级 </actionblue>: 星神单位在战斗中每 <turn></turn> 治疗 10<hp></hp> 。</bullet></bulletList>",
+            "description": "真理信标可以解锁“真理宣言”末日武器。每额外建造一座真理信标，该武器便会升级并变得更加强大。<br><br>每个殖民地只能建造一座真理信标。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 非星神单位获得<abilityRed>灵魂燃烧</abilityRed>。</bullet><bullet><actionblue>2级 </actionblue>: 每 <turn></turn> 有 40% 几率转移 1 <population></population> 至你最近的殖民地。</bullet><bullet><actionblue>3级 </actionblue>: 星神单位在战斗中每 <turn></turn> 治疗 10<hp></hp> 。</bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite"
         },
         {
             "slug": "omega_hive",
-            "name": "Omega Hive",
+            "name": "终极蜂巢",
             "tier": "V",
             "type": "区域升级",
-            "description": "The Omega Hive unlocks the Omega Strain Doomsday Weapon. Each additional Omega Hive that you build increases the level of the weapon, making it stronger.<br><br>Only one Omega Hive may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 异星疫病单位获得<actionblue>再生</actionblue>。</bullet><bullet><actionblue>2级 </actionblue>: -100%<food></food> 收益。<br>非异星疫病生物和半机械人单位每个战略 <turn></turn> 获得的治疗减少 6<hp></hp> 。</bullet><bullet><actionblue>3级 </actionblue>: 非异星疫病的生物和半机械人单位获得<abilityRed>寄生感染</abilityRed></bullet></bulletList>",
+            "description": "终极蜂巢可以解锁末日武器“终极毒株”。每额外建造一个终极蜂巢，该武器就会升级并变得更加强大。<br><br>每个殖民地只能建造一个终极蜂巢。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 异星疫病单位获得<actionblue>再生</actionblue>。</bullet><bullet><actionblue>2级 </actionblue>: -100%<food></food> 收益。<br>非异星疫病生物和半机械人单位每个战略 <turn></turn> 获得的治疗减少 6<hp></hp> 。</bullet><bullet><actionblue>3级 </actionblue>: 非异星疫病的生物和半机械人单位获得<abilityRed>寄生感染</abilityRed></bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite",
@@ -3822,10 +3822,10 @@ var jsonOperations = {
 
         {
             "slug": "essence_spire",
-            "name": "Essence Spire",
+            "name": "精华尖塔",
             "tier": "V",
             "type": "区域升级",
-            "description": "The Essence Spire unlocks the Mind Rebirth Doomsday Weapon. Each additional Essence Spire that you build increases the level of the weapon, making it stronger.<br><br>Only one Essence Spire may be built per colony.<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 每 <turn></turn> 有 20% 几率将 1<population></population> 转化为枯萎者。</bullet><bullet><actionblue>2级 </actionblue>: 在战斗中，每 <turn></turn> 就会有一个随机非继承者玩家单位有 8<strengthEntropy></strengthEntropy> 力量几率陷入<abilityRed>晕眩</abilityRed>。如果失败，该单位获得<abilityRed>混沌衰败</abilityRed>。</bullet><bullet><actionblue>3级 </actionblue>: 在战斗开始时，友方单位获得最大数量的<essenceCharge></essenceCharge><actionblue>精华充能<actionblue>。</bullet></bulletList>",
+            "description": "精华尖塔可以解锁末日武器“灵魂重生”。每额外建造一个精华尖塔，该武器就会升级并变得更加强大。<br><br>每个殖民地只能建造一个精华尖塔。<br><br><actionblue>每级都包含之前所有等级的效果</actionblue><br><bulletList><bullet><actionblue>1级 </actionblue>: 每 <turn></turn> 有 20% 几率将 1<population></population> 转化为枯萎者。</bullet><bullet><actionblue>2级 </actionblue>: 在战斗中，每 <turn></turn> 就会有一个随机非继承者玩家单位有 8<strengthEntropy></strengthEntropy> 力量几率陷入<abilityRed>晕眩</abilityRed>。如果失败，该单位获得<abilityRed>混沌衰败</abilityRed>。</bullet><bullet><actionblue>3级 </actionblue>: 在战斗开始时，友方单位获得最大数量的<essenceCharge></essenceCharge><actionblue>精华充能<actionblue>。</bullet></bulletList>",
             "production_cost": "800 <production></production> Production",
             "energy_cost": "200 <energy></energy> Energy",
             "cosmite_cost": "50 <tricorium></tricorium> Cosmite",
@@ -3835,230 +3835,230 @@ var jsonOperations = {
 
         {
             "slug": "protector_program",
-            "name": "Protector Program",
+            "name": "保卫者程序",
             "tier": "II",
             "type": "战略行动（持续）",
-            "description": "A Paladin Protector will patrol target friendly colony. When friendly armies fight in target friendly colony, a Paladin Protector will aid them in combat. The Protector disappears at the end of combat.",
+            "description": "一位帕拉丁保卫者将在目标友方殖民地巡逻。当友方军队在目标友方殖民地内战斗时，帕拉丁保卫者将协助其战斗。保卫者将在战斗结束时消失。",
             "energy_cost": "30",
             "casting": "4 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "elevate_to_warden",
-            "name": "Elevate to Warden",
+            "name": "典狱官晋升",
             "tier": "II",
             "type": "战略行动（瞬时）",
-            "description": "Target friendly army evolves a Prime Rank <x-medal_prime></x-medal_prime> Paladin Aspirant into Paladin Warden. It permanently gains +1 status effect resistance.",
+            "description": "目标友方军队将一名精兵军阶 <x-medal_prime></x-medal_prime> 帕拉丁候补者晋升至帕拉丁典狱官，这将使其永久获得 +1 状态效果抵抗。",
             "energy_cost": "40",
             "casting": "4 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "elevate_to_protector",
-            "name": "Elevate to Protector",
+            "name": "保卫者晋升",
             "tier": "II",
             "type": "战略行动（瞬时）",
-            "description": "Target friendly army evolves a Prime Rank <x-medal_prime></x-medal_prime> Paladin Aspirant into Paladin Protector. It permanently gains +1 status effect resistance.",
+            "description": "目标友方军队将一名精兵军阶 <x-medal_prime></x-medal_prime> 的帕拉丁候补者晋升至帕拉丁保卫者，这将使其永久获得 +1 状态效果抵抗。",
             "energy_cost": "40",
             "casting": "4 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "direct_tribulation",
-            "name": "Direct Tribulation",
+            "name": "引导磨难",
             "tier": "VI",
             "type": "战略行动（瞬时）",
-            "description": "All units in enemy army get <abilityRed>Adversity</abilityRed> for 3<turn></turn> at the start of next combat. Units in this army take 20%<hp></hp> of their current <hp></hp>。<br>On failure, only deals 20%<hp></hp> of their current <hp></hp>。",
+            "description": "敌方军队中的所有单位在下次战斗开始时获得<abilityRed>厄运</abilityRed>，持续 3<turn></turn>。此军队中的单位受到当前 <hp></hp> 的 20% 伤害。<br>如果失败，则改为仅受到当前 <hp></hp> 的 20% 伤害。",
             "energy_cost": "80",
             "casting": "8 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "intervention",
-            "name": "Intervention",
+            "name": "干预",
             "tier": "VI",
             "type": "战略行动（瞬时）",
-            "description": "All units in the stack gain <actionblue>复苏</actionblue> and <actionblue>double XP</actionblue> for 1 strategic <turn></turn>。",
+            "description": "小组中的所有单位获得<actionblue>复苏</actionblue>和<actionblue>双倍经验值</actionblue>，持续 1 战略 <turn></turn>。",
             "energy_cost": "140",
             "casting": "16 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "oracle's_guidance",
-            "name": "Oracle's Guidance",
+            "name": "神谕指引",
             "tier": "IX",
             "type": "战略行动（持续）",
-            "description": "Target friendly colony has +20% <production></production> and <research></research> income. Units produced in this colony start with +2 <x-medal_veteran></x-medal_veteran>。",
+            "description": "目标友方殖民地获得 +20% <production></production> 和 <research></research> 收益。此殖民地生产的单位初始便拥有 +2 <x-medal_veteran></x-medal_veteran>。",
             "energy_cost": "160",
             "casting": "20 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "momentary_insight",
-            "name": "Momentary Insight",
+            "name": "短暂洞察",
             "tier": "I",
             "type": "战术行动（瞬时）",
-            "description": "Target friendly unit gains <actionblue>Providence</actionblue> ，持续 1<turn></turn>, making all of its attacks critically hit.",
+            "description": "目标友方单位获得<actionblue>天佑</actionblue> ，持续 1<turn></turn>，获得 +100% 暴击率。单位的暴击率不可超过其攻击的命中率。",
             "energy_cost": "25",
             "casting": "1 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "launch_healing_banner",
-            "name": "Launch Healing Banner",
+            "name": "发射治愈旗帜",
             "tier": "III",
             "type": "战术行动（瞬时）",
-            "description": "Launch a flying Banner of Healing, healing friendly units in a 1 hex radius for 15<hp></hp> on launch. The Banner randomly picks an allied unit within 9 hexes and heals it for 15<hp></hp> every <turn></turn>. The Banner of Healing lasts for 3<turn></turn>。",
+            "description": "发射一面飞行的治愈旗帜，使 1 个单元格范围内的友方单位治疗 15<hp></hp> 。每 <turn></turn> ，旗帜会随机挑选 9 个单元格内的一个友方单位并治疗其 15<hp></hp> 。治愈旗帜持续 3 <turn></turn>。",
             "energy_cost": "40",
             "casting": "2 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "battlesuit_defensive_protocol",
-            "name": "Battlesuit Defensive Protocol",
+            "name": "机甲防御协议",
             "tier": "IV",
             "type": "战术行动（瞬时）",
-            "description": "Friendly Battlesuit units in target 2 hex radius are healed for 20<hp></hp> and get 2 for 2<turn></turn>。",
+            "description": "目标 2 个单元格范围内的友方机甲单位治疗 20<hp></hp> ，并获得 2 ，持续 2<turn></turn>。",
             "energy_cost": "75",
             "casting": "6 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "erratic_misfortune",
-            "name": "Erratic Misfortune",
+            "name": "不稳定灾祸",
             "tier": "V",
             "type": "战术行动（瞬时）",
-            "description": "Enemy units in a 2 hex radius get 15<damageEntropy></damageEntropy> damage and a 8<strengthEntropy></strengthEntropy> strength chance to get either <abilityRed>Fatalism</abilityRed> or <abilityRed>Adversity</abilityRed> ，持续 1<turn></turn>。",
+            "description": "2 个单元格范围内的敌方单位受到 15<damageEntropy></damageEntropy> 伤害，并有 8<strengthEntropy></strengthEntropy> 力量几率获得<abilityRed>宿命</abilityRed>或<abilityRed>厄运</abilityRed> ，持续 1<turn></turn>。",
             "energy_cost": "45",
             "casting": "3 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "butterfly_effect",
-            "name": "Butterfly Effect",
+            "name": "蝴蝶效应",
             "tier": "VII",
             "type": "战术行动（瞬时）",
-            "description": "Target enemy unit gets <abilityRed>Fatalism</abilityRed> and <abilityRed>Butterfly Effect</abilityRed> for 3<turn></turn>: when this unit dies, units allied to it in a 3 hex radius get a 12<strengthEntropy></strengthEntropy> strength chance to gain <abilityRed>Fatalism</abilityRed> and <abilityRed>Butterfly Effect</abilityRed> for 3<turn></turn>。",
+            "description": "目标敌方单位获得<abilityRed>宿命</abilityRed>和<abilityRed>蝴蝶效应</abilityRed>，持续 3<turn></turn>：该单位死亡时， 3 个单元格范围内的友方单位有 12<strengthEntropy></strengthEntropy> 力量几率获得<abilityRed>宿命</abilityRed>和<abilityRed>蝴蝶效应</abilityRed>，持续 3<turn></turn>。",
             "energy_cost": "45",
             "casting": "3 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "expedite_doom",
-            "name": "Expedite Doom",
+            "name": "加速末日",
             "tier": "IX",
             "type": "战术行动（瞬时）",
-            "description": "Enemy units in a 2 hex radius get 25<damageEntropy></damageEntropy>. Tier I, II, and III units with <abilityRed>Doomed, Fatalism</abilityRed> or <abilityRed>Adversity</abilityRed> have a 8<strengthEntropy></strengthEntropy> strength chance to instantly be killed.",
+            "description": "2 个单元格范围内的敌方单位受到 25<damageEntropy></damageEntropy>。已拥有<abilityRed>宿命</abilityRed>或<abilityRed>厄运</abilityRed>的 1 阶、2 阶和 3 阶单位有 8<strengthEntropy></strengthEntropy> 力量几率立即死亡。",
             "energy_cost": "100",
             "casting": "8 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "duty_of_care",
-            "name": "Duty of Care",
+            "name": "谨慎义务	",
             "tier": "I",
             "type": "教义行动",
-            "description": "Gain +20%<diplolinks></diplolinks> and +20%<influence></influence> from quests, plus an additional +20% for each level of <reputation6></reputation6> above Neutral.",
+            "description": "通过任务获得的关系和影响力增加 +20%<diplolinks></diplolinks> 和 +20%<influence></influence> ，每达到一个“中立”之上的 <reputation6></reputation6> 等级，额外增加 +20% 。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "pre-battle_predictions",
-            "name": "Pre-Battle Predictions",
+            "name": "战前预言",
             "tier": "I",
             "type": "教义行动",
-            "description": "All units start battle with 1 stack of <actionblue>Precognition</actionblue>。",
+            "description": "所有单位在战斗开始时便拥有 1 层<actionblue>预知</actionblue>。",
             "energy_cost": "50",
             "casting": "6 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "loyalty_to_the_flag",
-            "name": "Loyalty to the Flag",
+            "name": "忠于旗帜",
             "tier": "V",
             "type": "教义行动",
-            "description": "Start all combat with 1 Warden's Banner that lasts until the end of combat. Gain the ability to control the targets of all Oathbound Banners.",
+            "description": "在所有战斗开始时便拥有 1 面典狱官旗帜，持续至战斗结束。获得能够控制所有誓约者旗帜目标的技能。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "honor_and_unity",
-            "name": "Honor and Unity",
+            "name": "荣誉和团结",
             "tier": "V",
             "type": "教义行动",
-            "description": "Colonists in <food></food> and <happiness></happiness> slots produce +1 of their respective resource per level of <reputation6></reputation6> above Neutral.",
+            "description": "每达到一级“中立”之上的 等级，处于 <food></food> 和 <happiness></happiness> 槽位中的移住民生成的资源增加 +1 。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "guarded_utopia",
-            "name": "Guarded Utopia",
+            "name": "戒严的乌托邦",
             "tier": "IX",
             "type": "教义行动",
-            "description": "Colonies gain 8<happiness></happiness>. Battlesuit units in friendly domain +10<hp></hp> and +3<shield></shield>. ",
+            "description": "殖民地获得 8<happiness></happiness> 。友方领域内的机甲单位获得 +10<hp></hp> 和 +3<shield></shield>。",
             "energy_cost": "100",
             "casting": "10 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "seer's_crusade",
-            "name": "Seer's Crusade",
+            "name": "预言者远征",
             "tier": "IX",
             "type": "教义行动",
-            "description": "All Seer's attacks now do +30% extra damage and have 12<strengthEntropy></strengthEntropy> strength chance (8<strengthEntropy></strengthEntropy> strength chance for repeating attacks) to apply <abilityRed>混沌衰败</abilityRed>。",
+            "description": "所有预言者的攻击额外造成 +30% 伤害，并有 12<strengthEntropy></strengthEntropy> 力量几率（多次攻击有 8<strengthEntropy></strengthEntropy> 力量几率）施加<abilityRed>混沌衰败</abilityRed>。",
             "energy_cost": "200",
             "casting": "15 <stratPoint></stratPoint>",
         },
 
         {
             "slug": "localized_decay",
-            "name": "Localized Decay",
+            "name": "局部衰败",
             "tier": "I",
             "type": "战术行动（瞬时）",
-            "description": "Enemy units in a 1 hex radius gain 10<damageEntropy></damageEntropy> damage and 1 stack of <abilityRed>混沌衰败</abilityRed> for 3<turn></turn>",
+            "description": "位于 1 个单元格范围内的敌人单位受到 10<damageEntropy></damageEntropy> 伤害和 1 层<abilityRed>混沌衰败</abilityRed>，持续 3<turn></turn>",
             "energy_cost": "25",
             "casting": "1 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "isomer_stabilization",
-            "name": "Isomer Stabilization",
+            "name": "异构体稳定",
             "tier": "II",
             "type": "战术行动（瞬时）",
-            "description": "All friendly units gain +6 Status Effect Resistance for 2<turn></turn>。",
+            "description": "所有友方单位获得 +6 状态效果抵抗，持续 2<turn></turn>。",
             "energy_cost": "30",
             "casting": "3 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "atrophy_spread",
-            "name": "Atrophy Spread",
+            "name": "萎缩扩散",
             "tier": "IV",
             "type": "战术行动（瞬时）",
-            "description": "Target enemy unit gets <abilityRed>Atrophy Spread</abilityRed> for 3<turn></turn>: at the start of its turn, this unit and its allied units in a 1 hex radius around it have a 8<strengthEntropy></strengthEntropy> strength chance to gain a stack of <abilityRed>Atrophy</abilityRed>。",
+            "description": "目标敌方单位受到<abilityRed>萎缩扩散</abilityRed>，持续 3<turn></turn>：在该单位的回合开始时，该单位本身与其 1 个单元格范围内的友方单位有 8<strengthEntropy></strengthEntropy> 力量几率获得一层<abilityRed>萎缩</abilityRed>。",
             "energy_cost": "45",
             "casting": "3 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "atomic_collapse",
-            "name": "Atomic Collapse",
+            "name": "原子崩塌",
             "tier": "VI",
             "type": "战术行动（瞬时）",
-            "description": "8<strengthEntropy></strengthEntropy> strength chance of instantly killing target unit, leaving no corpse. Applies one stack of <abilityRed>混沌衰败</abilityRed> and <abilityRed>Atrophy</abilityRed> for 3<turn></turn> on failure.<br><br>Cannot affect enemy commanders.",
+            "description": "有 8<strengthEntropy></strengthEntropy> 力量几率立即击杀死目标单位，且不会留下尸体。如果失败，则改为施加一层<abilityRed>混沌衰败</abilityRed>和<abilityRed>萎缩</abilityRed>，持续 3<turn></turn>。<br><br>无法影响敌方指挥官。",
             "energy_cost": "75",
             "casting": "7 <tacticalPoint></tacticalPoint>",
         },
 
         {
             "slug": "divide_half-life",
-            "name": "Divide Half-Life",
+            "name": "分离半衰期",
             "tier": "VIII",
             "type": "战术行动（瞬时）",
-            "description": "Enemy units in target 3 hex radius take 20<damageEntropy></damageEntropy> damage. Targets with <abilityRed>混沌衰败</abilityRed> or <abilityRed>Atrophy</abilityRed> take an additional 10<damageEntropy></damageEntropy>, or 20<damageEntropy></damageEntropy> for both.",
+            "description": "3 个单元格范围内的敌方单位受到 20<damageEntropy></damageEntropy> 伤害。拥有<abilityRed>混沌衰败</abilityRed>或<abilityRed>萎缩</abilityRed>的目标将额外受到 10<damageEntropy></damageEntropy>，如果两者皆有，则会受到 20<damageEntropy></damageEntropy> 。",
             "energy_cost": "100",
             "casting": "8 <tacticalPoint></tacticalPoint>",
         },
@@ -4067,10 +4067,10 @@ var jsonOperations = {
 
         {
             "slug": "ambassadors'_quarters",
-            "name": "Ambassadors' Quarters",
+            "name": "大使驻地",
             "tier": "IV",
             "type": "殖民地升级",
-            "description": "A Syndicate specialist center, where colonists can be trained to work as Ambassadors. The structure can later be upgraded after annexing Residential Exploitation sectors to the colony.<br><br><bullet>Basic:<br>+2 Ambassador Slots.<br><population></population> in Ambassador Slots generate +1 <influence></influence>, -10 <energy></energy>.</bullet><bullet>Fine:<br>+4 Ambassador Slots.<br><population></population> in Ambassador Slots generate +2 <influence></influence>, -10 <energy></energy>.</bullet><bullet>Immaculate:<br>+6 Ambassador Slots.<br><population></population> in Ambassador Slots generate +2 <influence></influence>, -10 <energy></energy>。<br>This colony gains +20 <happiness></happiness>whenever <influence></influence> is spent in an interaction with other commanders.</bullet>",
+            "description": "辛迪加的专业中心，殖民者可以在此接受训练并担任大使。之后该建筑可通过将住宅开发点吞并至殖民地的方式进行升级。<br><br><bullet>基础：<br>+2 个大使槽位。<br>大使槽位中的 <population></population> 生成 +1 <influence></influence>, -10 <energy></energy>.</bullet><bullet>精良：<br>+4 个大使槽位。<br>大使槽位中的 <population></population> 生成 +2 <influence></influence>, -10 <energy></energy>.</bullet><bullet>无暇：<br>+6 个大使槽位。<br>大使槽位中的 <population></population> 生成 +2 <influence></influence>, -10 <energy></energy>。<br>每当此殖民地花费 <influence></influence> 与其他指挥官互动时，便会获得 +20 <happiness></happiness> 。</bullet>",
             "production_cost": "450 <production></production> Production",
 
 
@@ -4079,10 +4079,10 @@ var jsonOperations = {
 
         {
             "slug": "breeding_grounds",
-            "name": "Breeding Grounds",
+            "name": "繁育之地",
             "tier": "IV",
             "type": "殖民地升级",
-            "description": "A Kir'Ko specialist center, where colonists can be trained to work as Brood Mothers. The structure can later be upgraded after annexing Residential Exploitation sectors to the colony.<br><br><bullet>Basic:<br>+2 Brood Mother Slots.<br><population></population> in Brood Mother Slots generate +6 <food></food>, +3 <happiness></happiness>.</bullet><bullet>Fine:<br>+4 Brood Mother Slots.<br><population></population> in Brood Mother Slots generate +8 <food></food>, +4 <happiness></happiness>.</bullet><bullet>Immaculate:<br>+6 Brood Mother Slots.<br><population></population> in Brood Mother Slots generate +10 <food></food>, +5 <happiness></happiness>。<br>This colony produces an Emergent unit whenever it has a <happiness></happiness> event or grows a <population></population>.</bullet>",
+            "description": "奇尔寇的专业中心，殖民者可以在此接受训练并担任育母。之后该建筑可通过将住宅开发点吞并至殖民地的方式进行升级。<br><br><bullet>基础：<br>+2 个育母槽位。<br>育母槽位中的 <population></population> 生成 +6 <food></food>, +3 <happiness></happiness>.</bullet><bullet>精良：<br>+4 个育母槽位。<br>育母槽位中的 <population></population> 生成 +8 <food></food>, +4 <happiness></happiness>.</bullet><bullet>无暇：<br>+6 个育母槽位。<br>育母槽位中的 <population></population> 生成 +10 <food></food>, +5 <happiness></happiness>。<br>每当此殖民地发生 <happiness></happiness> 事件或 <population></population> 增长时，殖民地便会生产一个新生幼虫单位。</bullet>",
             "production_cost": "450 <production></production> Production",
 
 
@@ -4091,10 +4091,10 @@ var jsonOperations = {
 
         {
             "slug": "cryopod_bunkers",
-            "name": "Cryopod Bunkers",
+            "name": "冷冻舱地堡",
             "tier": "IV",
             "type": "殖民地升级",
-            "description": "A Vanguard specialist center, where colonists can be trained to work as Cryo-Experts. The structure can later be upgraded after annexing Residential Exploitation sectors to the colony.<br><br><bullet>Basic:<br>+2 Cryo-Expert Slots.<br><population></population> in Cryo-Expert Slots generate +6 <food></food>, +6 <production></production>.</bullet><bullet>Fine:<br>+4 Cryo-Expert Slots.<br><population></population> in Cryo-Expert Slots generate +8 <food></food>, +8 <production></production>.</bullet><bullet>Immaculate:<br>+6 Cryo-Expert Slots.<br><population></population> in Cryo-Expert Slots generate +10 <food></food>, +10 <production></production>。<br>This colony gains <research></research> whenever it completes a unit production.</bullet>",
+            "description": "先锋的专业中心，殖民者可以在此接受训练并担任冷冻精英。之后该建筑可通过将住宅开发点吞并至殖民地的方式进行升级。<br><br><bullet>基础：<br>+2 个冷冻精英槽位。<br>冷冻精英槽位中的 <population></population> 生成 +6 <food></food>, +6 <production></production>.</bullet><bullet>精良：<br>+4 个冷冻精英槽位。<br>冷冻精英槽位中的 <population></population> 生成 +8 <food></food>, +8 <production></production>.</bullet><bullet>无暇：<br>+6 个冷冻精英槽位。<br>冷冻精英槽位中的 <population></population> 生成 +10 <food></food>, +10 <production></production>。<br>每当此殖民地完成单位生产时，便会获得 <research></research> 。</bullet>",
             "production_cost": "450 <production></production> Production",
 
 
@@ -4103,10 +4103,10 @@ var jsonOperations = {
 
         {
             "slug": "overdrive_reactor",
-            "name": "Overdrive Reactor",
+            "name": "过载反应堆",
             "tier": "IV",
             "type": "殖民地升级",
-            "description": "An Assembly specialist center, where colonists can be trained to work as Reactor Workers. The structure can later be upgraded after annexing Residential Exploitation sectors to the colony.<br><br><bullet>Basic:<br>+2 Reactor Worker Slots.<br><population></population> in Reactor Worker Slots generate +1 <tricorium></tricorium>, -3 <happiness></happiness>.</bullet><bullet>Fine:<br>+4 Reactor Worker Slots.<br><population></population> in Reactor Worker Slots generate +2 <tricorium></tricorium>, -3 <happiness></happiness>.</bullet><bullet>Immaculate:<br>+6 Reactor Worker Slots.<br><population></population> in Reactor Worker Slots generate +2 <tricorium></tricorium>, -3 <happiness></happiness>。<br>This colony produces a random hero mod or weapon whenever a military research is completed.</bullet>",
+            "description": "半机械人的专业中心，殖民者可以在此接受训练并担任反应堆工人。之后该建筑可通过将住宅开发点吞并至殖民地的方式进行升级。<br><br><bullet>基础：<br>+2 个反应堆工人槽位。<br>反应堆工人槽位中的 <population></population> 生成 +1 <tricorium></tricorium>, -3 <happiness></happiness>.</bullet><bullet>精良：<br>+4 个反应堆工人槽位。<br>反应堆工人槽位中的 <population></population> 生成 +2 <tricorium></tricorium>, -3 <happiness></happiness>.</bullet><bullet>无暇：<br>+6 个反应堆工人槽位。<br>反应堆工人槽位中的 <population></population> 生成 +2 <tricorium></tricorium>, -3 <happiness></happiness>。<br>每当完成军事研究时，此殖民地便会生产一个随机英雄模块或武器。</bullet>",
             "production_cost": "450 <production></production> Production",
 
 
@@ -4115,10 +4115,10 @@ var jsonOperations = {
 
         {
             "slug": "urban_mining_shafts",
-            "name": "Urban Mining Shafts",
+            "name": "城市采矿竖井",
             "tier": "IV",
             "type": "殖民地升级",
-            "description": "A Dvar specialist center, where colonists can be trained to work as Prospectors. The structure can later be upgraded after annexing Residential Exploitation sectors to the colony.<br><br><bullet>Basic:<br>+2 Prospector Slots.<br><population></population> in Prospector Slots generate +6 <energy></energy>, +6 <production></production>.</bullet><bullet>Fine:<br>+4 Prospector Slots.<br><population></population> in Prospector Slots generate +8 <energy></energy>, +8 <production></production>.</bullet><bullet>Immaculate:<br>+6 Prospector Slots.<br><population></population> in Prospector Slots generate +10 <energy></energy>, +10 <production></production>。<br>Whenever this colony produces a colony upgrade, it gains a ' sector prospected 'event. </bullet>",
+            "description": "矮人的专业中心，殖民者可以在此接受训练并担任勘探者。之后该建筑可通过将住宅开发点吞并至殖民地的方式进行升级。<br><br><bullet>基础：<br>+2 个勘探者槽位。<br>勘探者槽位中的 <population></population> 生成 +6 <energy></energy>, +6 <production></production>.</bullet><bullet>精良：<br>+4 个勘探者槽位。<br>勘探者槽位中的 <population></population> 生成 +8 <energy></energy>, +8 <production></production>.</bullet><bullet>无暇：<br>+6 个勘探者槽位。<br>勘探者槽位中的 <population></population> 生成 +10 <energy></energy>, +10 <production></production>。<br>每当此殖民地生产殖民地升级时，便会获得一个“已勘探区域”事件。</bullet>",
             "production_cost": "450 <production></production> Production",
 
 
@@ -4127,10 +4127,10 @@ var jsonOperations = {
 
         {
             "slug": "wildlife_reserve",
-            "name": "Wildlife Reserve",
+            "name": "野生动物保护区",
             "tier": "IV",
             "type": "殖民地升级",
-            "description": "An Amazon specialist center, where colonists can be trained to work as Rangers. The structure can later be upgraded after annexing Residential Exploitation sectors to the colony.<br><br><bullet>Basic:<br>+2 Ranger Slots.<br><population></population> in Ranger Slots generate +6 <food></food>, +6 <research></research>.</bullet><bullet>Fine:<br>+4 Ranger Slots.<br><population></population> in Ranger Slots generate +8 <food></food>, +8 <research></research>.</bullet><bullet>Immaculate:<br>+6 Ranger Slots.<br><population></population> in Ranger Slots generate +10 <food></food>, +10 <research></research>。<br>This colony produces a random animal unit (low chance for tier III) whenever a society research is completed.</bullet>",
+            "description": "亚马逊人的专业中心，殖民者可以在此接受训练并担任护林人。之后该建筑可通过将住宅开发点吞并至殖民地的方式进行升级。<br><br><bullet>基础：<br>+2 个护林人槽位。<br>护林人槽位中的 <population></population> 生成 +6 <food></food>, +6 <research></research>.</bullet><bullet>精良：<br>+4 个护林人槽位。<br>护林人槽位中的 <population></population> 生成 +8 <food></food>, +8 <research></research>.</bullet><bullet>无暇：<br>+6 个护林人槽位。<br>护林人槽位中的 <population></population> 生成 +10 <food></food>, +10 <research></research>。<br>每当完成社会研究时，此殖民地便会生产一个随机动物单位（有低概率生产 3 阶单位）。</bullet>",
             "production_cost": "450 <production></production> Production",
 
 
@@ -4139,10 +4139,10 @@ var jsonOperations = {
 
         {
             "slug": "holo-simulation_camp",
-            "name": "Holo-Simulation Camp",
+            "name": "全息模拟营地",
             "tier": "IV",
             "type": "殖民地升级",
-            "description": "A Shakarn specialist center, where colonists can be trained and work as Infiltrators. The structure can later be upgraded after annexing Residential Exploitation sectors to the colony.<br><br><bullet>Basic:<br>+2 Infiltrator Slots.<br><population></population> in Infiltrator Slots generate +6 <research></research> and +1 covert <operationstrength></operationstrength>.</bullet><bullet>Fine:<br>+4 Infiltrator Slots.<br><population></population> in Infiltrator Slots generate +8 <research></research> and +2 covert <operationstrength></operationstrength>.</bullet><bullet>Immaculate:<br>+6 Infiltrator Slots.<br><population></population> in Infiltrator Slots generate +10 <research></research> and +3 covert <operationstrength></operationstrength>。<br>This colony gains +60 <happiness></happiness> whenever you successfully use a covert operation on a player.</bullet>",
+            "description": "蜥蜴人的专业中心，移住民可以在此接受训练并担任渗透者。之后该建筑可通过将住宅开发点吞并至殖民地的方式进行升级。<br><br><bullet>基础：<br>+2 个渗透者槽位。<br>渗透者槽位中的 <population></population> 生成 +6 <research></research> 与 +1 隐秘 <operationstrength></operationstrength>.</bullet><bullet>精良：<br>+4 个渗透者槽位。<br>渗透者槽位中的 <population></population> 生成 +8 <research></research> 与 +2 隐秘 <operationstrength></operationstrength>.</bullet><bullet>无暇：<br>+6 个渗透者槽位。<br>渗透者槽位中的 <population></population> 生成 +10 <research></research> 与 +3 隐秘 <operationstrength></operationstrength>。<br>每当你成功对某玩家实施秘密行动时，殖民地便会获得 +60 <happiness></happiness> 。</bullet>",
             "production_cost": "450 <production></production> Production",
 
 
@@ -4151,10 +4151,10 @@ var jsonOperations = {
 
         {
             "slug": "archive_of_deeds",
-            "name": "Archive of Deeds",
+            "name": "功绩档案馆",
             "tier": "IV",
             "type": "殖民地升级",
-            "description": "An Oathbound specialist center, where colonists can be trained and work as Chroniclers. The structure can later be upgraded after annexing Residential Exploitation sectors to the colony.<br><br><bullet>Basic:<br>+2 Chronicler Slots.<br><population></population> in Chronicler Slots generate +6 <research></research>, +3 <happiness></happiness>.</bullet><bullet>Fine:<br>+4 Chronicler Slots.<br><population></population> in Chronicler Slots generate +8 <research></research>, +4 <happiness></happiness>.</bullet><bullet>Immaculate:<br>+6 Chronicler Slots.<br><population></population> in Chronicler Slots generate +10 <research></research>, +5 <happiness></happiness>。<br>Whenever the Lord of the colony <abilityRed>(3 <turn></turn> adjustment)</abilityRed> wins a battle, this colony generates +5 <influence></influence>, +20 <energy></energy>.</bullet>",
+            "description": "誓约者的专业中心，殖民者可以在此接受训练并担任记录者。之后该建筑可通过将住宅开发点吞并至殖民地的方式进行升级。<br><br><bullet>基础：<br>+2 个记录者槽位。<br><population></population> 生成 +6 <research></research>, +3 <happiness></happiness>.</bullet><bullet>精良：<br>+4 个记录者槽位。<br><population></population> 生成 +8 <research></research>, +4 <happiness></happiness>.</bullet><bullet>无暇：<br>+6 个记录者槽位。<br><population></population> 生成 +10 <research></research>, +5 <happiness></happiness>。<br>每当殖民地领主<abilityRed>(3 <turn></turn> 调整)</abilityRed>赢得战斗时，殖民地便会生成 +5 <influence></influence>, +20 <energy></energy>.</bullet>",
             "production_cost": "450 <production></production> Production",
 
 
@@ -4163,10 +4163,10 @@ var jsonOperations = {
 
         {
             "slug": "the_throne",
-            "name": "The Throne",
+            "name": "王座",
             "tier": "I",
             "type": "殖民地升级",
-            "description": "When a hero with a Colony Lord Bonus hero skill is linked to this colony, then the colony will still receive 50% of the Hero In Domain bonus, even when the hero is outside of the colony's domain.",
+            "description": "当拥有“殖民地领主加成”英雄技能的英雄与该殖民地相连时，即使英雄离开殖民地领域，该殖民地仍将获得 50% 的“领域内英雄”加成。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -4175,10 +4175,10 @@ var jsonOperations = {
 
         {
             "slug": "residential_sectors_upgrade",
-            "name": "Residential Sectors Upgrade",
+            "name": "住宅区升级",
             "tier": "IV",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all residential sectors. Raising the sector level of a sector will increase the benefits from sector exploitations in that sector.",
+            "description": "所有住宅区域获得 +1 等级。提升区域等级将增加该区域从区域开发点获得的收益。",
             "production_cost": "150 <production></production> Production",
 
 
@@ -4187,10 +4187,10 @@ var jsonOperations = {
 
         {
             "slug": "residential_sectors_advanced_upgrade",
-            "name": "Residential Sectors Advanced Upgrade",
+            "name": "住宅区进阶升级",
             "tier": "VII",
             "type": "殖民地升级",
-            "description": "Gives +1 level to all residential sectors. Raising the sector level of a sector will increase the benefits from sector exploitations in that sector.",
+            "description": "所有住宅区域获得 +1 等级。提升区域等级将增加该区域从区域开发点获得的收益。",
             "production_cost": "450 <production></production> Production",
 
 
@@ -4198,433 +4198,433 @@ var jsonOperations = {
         },
         {
             "slug": "mushroom_farms",
-            "name": "Mushroom Farms",
+            "name": "蘑菇农场",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Mycelian Farms</titlebrown><br>Allows the production of Mycelian Units in our colonies.<br><titlebrown>Fungal Immunities</titlebrown><br>All Animal, Ethereal, Mineral and Plant units you control gain +2 Status Effect Resistance.<br>",
+            "description": "<titlebrown>菌丝体农场</titlebrown><br>可在殖民地生产“菌丝体”单位。<br><titlebrown>真菌免疫力</titlebrown><br>你控制的所有动物、虚灵、矿物和植物单位获得 +2 状态效果抵抗。<br>",
         },
         {
             "slug": "sonic_weaponry_breakthrough",
-            "name": "Sonic Weaponry Breakthrough",
+            "name": "声波武器突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Sonic Weapon Damage</titlebrown><br>A major breakthrough from our weapons division has led to a boost to all of our armies' Sonic weaponry! <br><br>10% extra damage to all Sonic weapon attacks.<br>",
+            "description": "<titlebrown>声波武器伤害</titlebrown><br>我们的武器部门完成了一项重大突破，军队的所有声波武器都得到了提升！<br><br>所有声波武器的攻击额外造成 10% 伤害。<br>",
         },
 
         {
             "slug": "xeno_panacea",
-            "name": "Xeno Panacea",
+            "name": "异星万能药",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Shakarn Cure</titlebrown><br>Units you control with Xeno Debilitation gain +3 resistance to status effects and +10<hp></hp>。<br>",
+            "description": "<titlebrown>蜥蜴人解药</titlebrown><br>你所控制的具有“异星衰弱”的单位对状态效果获得 +3 抵抗，并获得 +10<hp></hp>。<br>",
         },
 
         {
             "slug": "captive_thunder",
-            "name": "Captive Thunder",
+            "name": "掌控雷电",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Thundermaw Park</titlebrown><br>Allows the production of Thundermaws in our colonies.<br><titlebrown>Better Zoological Containers</titlebrown><br>All Animal, Ethereal, Mineral and Plant units you produce in your colonies gain +1<x-medal_veteran></x-medal_veteran><br>",
+            "description": "<titlebrown>雷嘴兽公园</titlebrown><br>可在殖民地生产“雷嘴兽”。<br><titlebrown>精良生物容器</titlebrown><br>你的殖民地中生产的所有动物、虚灵、矿物和植物单位获得 +1<x-medal_veteran></x-medal_veteran><br>",
         },
 
         {
             "slug": "advanced_essence_catalysts",
-            "name": "Advanced Essence Catalysts",
+            "name": "先进精华催化剂",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Essence Sequencer</titlebrown><br>Accidental Breakthrough!<br><br> By making a mobile sequencer that forms essence at a local level, all our units gain an Essence Charge at the start of battle!<br>",
+            "description": "<titlebrown>精华定序器</titlebrown><br>意外突破！通过制造移动式定序器并在当地生成精华，我们所有的单位在战斗开始时就能获得精华充能！<br>",
         },
 
         {
             "slug": "feline_chorus",
-            "name": "Feline Chorus",
+            "name": "狡黠合唱",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Feline Psytherapy</titlebrown><br>Allows the production of Misfortune units in our colonies.<br><titlebrown>Cruel Attunement</titlebrown><br>All Animal, Ethereal, Mineral and Plant units you control gain <actionblue>虐待狂</actionblue>, increasing damage against units with low morale.<br>",
+            "description": "<titlebrown>狡黠灵能</titlebrown><br>可在殖民地生产“厄运”单位。<br><titlebrown>残酷调和</titlebrown><br>你控制的所有动物、虚灵、矿物和植物单位获得<actionblue>虐待狂</actionblue>，提高对低士气单位造成的伤害。<br>",
         },
 
         {
             "slug": "arc_weaponry_breakthrough",
-            "name": "Arc Weaponry Breakthrough",
+            "name": "电弧武器突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Arc Weapon Damage</titlebrown><br>A major breakthrough from our weapons division has led to a boost to all of our armies' Arc weaponry! <br><br>10% extra damage to all Arc weapon attacks.<br>",
+            "description": "<titlebrown>电弧武器伤害</titlebrown><br>我们的武器部门完成了一项重大突破，军队的所有电弧武器都得到了提升！<br><br>所有电弧武器的攻击额外造成 10% 伤害。<br>",
         },
 
         {
             "slug": "firearms_weaponry_breakthrough",
-            "name": "Firearms Weaponry Breakthrough",
+            "name": "枪炮武器突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Firearms Weapon Damage</titlebrown><br>A major breakthrough from our weapons division has led to a boost to all of our armies' Firearms weaponry! <br><br>10% extra damage to all Firearms weapon attacks.<br>",
+            "description": "<titlebrown>枪炮武器伤害</titlebrown><br>我们的武器部门完成了一项重大突破，军队的所有枪炮武器都得到了提升！<br><br>所有枪炮武器的攻击额外造成 10% 伤害。<br>",
         },
 
         {
             "slug": "explosive_weaponry_breakthrough",
-            "name": "Explosive Weaponry Breakthrough",
+            "name": "爆炸武器突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Explosive Weapon Damage</titlebrown><br>A major breakthrough from our weapons division has led to a boost to all of our armies' Explosive weaponry!<br><br> 10% extra damage to all Explosive weapon attacks.<br>",
+            "description": "<titlebrown>爆炸武器伤害</titlebrown><br>我们的武器部门完成了一项重大突破，军队的所有爆炸武器都得到了提升！<br><br>所有爆炸武器的攻击额外造成 10% 伤害。<br>",
         },
 
         {
             "slug": "psionic_weaponry_breakthrough",
-            "name": "Psionic Weaponry Breakthrough",
+            "name": "灵能武器突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Psionic Weapon Damage</titlebrown><br>A major breakthrough from our weapons division has led to a boost to all of our armies' Psionic weaponry!<br><br> 10% extra damage to all Psionic weapon attacks.<br>",
+            "description": "<titlebrown>灵能武器伤害</titlebrown><br>我们的武器部门完成了一项重大突破，军队的所有灵能武器都得到了提升！<br><br>所有灵能武器的攻击额外造成 10% 伤害。<br>",
         },
 
         {
             "slug": "biochemical_weaponry_breakthrough",
-            "name": "Biochemical Weaponry Breakthrough",
+            "name": "生化武器突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Biochemical Weapon Damage</titlebrown><br>A major breakthrough from our weapons division has led to a boost to all of our armies' Biochemical weaponry!<br><br> 10% extra damage to all Biochemical weapon attacks.<br>",
+            "description": "<titlebrown>生化武器伤害</titlebrown><br>我们的武器部门完成了一项重大突破，军队的所有生化武器都得到了提升！<br><br>所有生化武器的攻击额外造成 10% 伤害。<br>",
         },
 
         {
             "slug": "entropy_weaponry_breakthrough",
-            "name": "Entropy Weaponry Breakthrough",
+            "name": "混沌武器突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Entropy Weapon Damage</titlebrown><br>A major breakthrough from our weapons division has led to a boost to all of our armies' Entropy weaponry! <br><br>10% extra damage to all Entropy weapon attacks.<br>",
+            "description": "<titlebrown>混沌武器伤害</titlebrown><br>我们的武器部门完成了一项重大突破，军队的所有混沌武器都得到了提升！<br><br>所有混沌武器的攻击额外造成 10% 伤害。<br>",
         },
 
         {
             "slug": "laser_weaponry_breakthrough",
-            "name": "Laser Weaponry Breakthrough",
+            "name": "激光武器突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Laser Weapon Damage</titlebrown><br>A major breakthrough from our weapons division has led to a boost to all of our armies' Laser weaponry!<br><br> 10% extra damage to all Laser weapon attacks.<br>",
+            "description": "<titlebrown>激光武器伤害</titlebrown><br>我们的武器部门完成了一项重大突破，军队的所有激光武器都得到了提升！<br><br>所有激光武器的攻击额外造成 10% 伤害。<br>",
         },
 
         {
             "slug": "bio-resistant_materials_breakthrough",
-            "name": "Bio-Resistant Materials Breakthrough",
+            "name": "生化抵抗材料突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Biochemical Resistance</titlebrown><br>Our scientists have made major strides in treating materials to resist Biochemical attacks.<br><br> All units you control gain +2<DamageBio></DamageBio> resistance.<br>",
+            "description": "<titlebrown>生化抵抗</titlebrown><br>我们的科学家在研究抵抗生化攻击的材料方面取得了重大进展。<br><br> 你控制的所有单位获得 +2<DamageBio></DamageBio> 抵抗。<br>",
         },
 
         {
             "slug": "arc-resistant_materials_breakthrough",
-            "name": "Arc-Resistant Materials Breakthrough",
+            "name": "电弧抵抗材料突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Arc Resistance</titlebrown><br>Our scientists have made major strides in treating materials to resist Arc attacks. <br><br>All units you control gain +2<damageWave></damageWave> resistance.<br>",
+            "description": "<titlebrown>电弧抵抗</titlebrown><br>我们的科学家在研究抵抗电弧攻击的材料方面取得了重大进展。<br><br>你控制的所有单位获得 +2<damageWave></damageWave> 抵抗。<br>",
         },
 
         {
             "slug": "entropy-resistant_materials_breakthrough",
-            "name": "Entropy-Resistant Materials Breakthrough",
+            "name": "混沌抵抗材料突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Entropy Resistance</titlebrown><br>Our scientists have made major strides in treating materials to resist Entropy attacks. <br><br>All units you control gain +2<damageEntropy></damageEntropy> resistance.<br>",
+            "description": "<titlebrown>混沌抵抗</titlebrown><br>我们的科学家在研究抵抗混沌攻击的材料方面取得了重大进展。<br><br>你控制的所有单位获得 +2<damageEntropy></damageEntropy> 抵抗。<br>",
         },
 
         {
             "slug": "thermal-resistant_materials_breakthrough",
-            "name": "Thermal-Resistant Materials Breakthrough",
+            "name": "热能抵抗材料突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Thermal Resistance</titlebrown><br>Our scientists have made major strides in treating materials to resist Thermal attacks. <br><br>All units you control gain +2<DamageThermal></DamageThermal> resistance.<br>",
+            "description": "<titlebrown>热能抵抗</titlebrown><br>我们的科学家在研究抵抗热能攻击的材料方面取得了重大进展。<br><br>你控制的所有单位获得 +2<DamageThermal></DamageThermal> 抵抗。<br>",
         },
 
         {
             "slug": "kinetic-resistant_materials_breakthrough",
-            "name": "Kinetic-Resistant Materials Breakthrough",
+            "name": "动能抵抗材料突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Kinetic Resistance</titlebrown><br>Our scientists have made major strides in treating materials to resist Kinetic attacks.<br><br> All units you control gain +2<DamagePhysical></DamagePhysical> resistance.<br>",
+            "description": "<titlebrown>动能抵抗</titlebrown><br>我们的科学家在研究抵抗动能攻击的材料方面取得了重大进展。<br><br> 你控制的所有单位获得 +2<DamagePhysical></DamagePhysical> 抵抗。<br>",
         },
 
         {
             "slug": "psionic-resistant_materials_breakthrough",
-            "name": "Psionic-Resistant Materials Breakthrough",
+            "name": "灵能抵抗材料突破",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Psionic Resistance</titlebrown><br>Our scientists have made major strides in treating materials to resist Psionic attacks. <br><br>All units you control gain +2<DamagePsyche></DamagePsyche> resistance.<br>",
+            "description": "<titlebrown>灵能抵抗</titlebrown><br>我们的科学家在研究抵抗灵能攻击的材料方面取得了重大进展。<br><br>你控制的所有单位获得 +2<DamagePsyche></DamagePsyche> 抵抗。<br>",
         },
 
         {
             "slug": "armor:_mechanical",
-            "name": "Armor: Mechanical",
+            "name": "护甲：机械",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Advanced Armors</titlebrown><br>A breakthrough has occurred in the field of Armor for Mechanical Units! <br><br>All Mechanical units you control gain +1<armor></armor>。<br>",
+            "description": "<titlebrown>先进护甲</titlebrown><br>我们在机械单位的护甲领域取得了重大突破！<br><br>你控制的所有机械单位获得 +1<armor></armor>。<br>",
         },
 
         {
             "slug": "shields:_cyborg_and_mechanical",
-            "name": "Shields: Cyborg and Mechanical",
+            "name": "护盾：半机器人与机械",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Shielding Metals</titlebrown><br>A breakthrough has occurred in the field of Shields for Cyborg and Mechanical units! <br><br>All Cyborg and Mechanical units you control gain +1<shield></shield>。<br>",
+            "description": "<titlebrown>护盾合金</titlebrown><br>我们在半机械人与机械单位的护盾领域取得了重大突破！<br><br>你控制的所有半机器人和机械单位获得 +1<shield></shield>。<br>",
         },
 
         {
             "slug": "armor:_biological_and_cyborg",
-            "name": "Armor: Biological and Cyborg",
+            "name": "护甲：生物和半机械人",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Second Skin</titlebrown><br>A breakthrough has occurred in the field of Armor for Biological and Cyborg units!<br><br> All Biological and Cyborg units you control gain +1<armor></armor>。<br>",
+            "description": "<titlebrown>第二层皮肤</titlebrown><br>我们在生物和半机械人单位的护甲领域取得了重大突破！<br><br>你控制的所有生物和半机械人单位获得 +1<armor></armor>。<br>",
         },
 
         {
             "slug": "shields:_biological",
-            "name": "Shields: Biological",
+            "name": "护盾：生物",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Shield Infusion</titlebrown><br>A breakthrough has occurred in the field of Shields for Biological units! <br><br>All Biological units you control gain +1<shield></shield>。<br>",
+            "description": "<titlebrown>护盾灌注</titlebrown><br>我们在生物单位的护盾领域取得了突破！<br><br>你控制的所有生物单位获得 +1<shield></shield>。<br>",
         },
 
         {
             "slug": "crystalloid_grafts",
-            "name": "Crystalloid Grafts",
+            "name": "结晶移植",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Quartzite Magma Worm Corrals</titlebrown><br>Allows the production of Quartzite Magma Worms in our colonies.<br><titlebrown>Crystal Grafts</titlebrown><br>All Animal, Ethereal, Mineral and Plant units you control gain +1<armor></armor>。<br>",
+            "description": "<titlebrown>石英熔岩虫畜栏</titlebrown><br>可在殖民地生产石英熔岩虫。<br><titlebrown>晶体移植</titlebrown><br>你控制的所有动物、虚灵、矿物和植物单位获得 +1<armor></armor>。<br>",
         },
 
         {
             "slug": "crystalloid_wave-emitters",
-            "name": "Crystalloid Wave-Emitters",
+            "name": "结晶波形发射器",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Quartzite Crystal Worm Corrals</titlebrown><br>Allows the production of Quartzite Crystal Worms in our colonies.<br><titlebrown>Wave-Emitters</titlebrown><br>All Animal, Ethereal, Mineral and Plant units you control gain +1<shield></shield>。<br>",
+            "description": "<titlebrown>石英水晶虫畜栏</titlebrown><br>可在殖民地生产石英水晶虫。<br><titlebrown>波形发射器</titlebrown><br>你控制的所有动物、虚灵、矿物和植物单位获得 +1<shield></shield>。<br>",
         },
 
         {
             "slug": "extradimensional_penguin_comms",
-            "name": "Extradimensional Penguin Comms",
+            "name": "异次元企鹅通讯",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Penguin Void Portals</titlebrown><br>Allows the production of Penguins in our colonies.<br><titlebrown>Penguin Refinement</titlebrown><br>All Penguin units you control deal +20% damage, gain +1<armor></armor>, +1<shield></shield> and +5<hp></hp>。<br>",
+            "description": "<titlebrown>企鹅虚空传送门</titlebrown><br>可在殖民地生产企鹅。<br><titlebrown>企鹅改良</titlebrown><br>你控制的所有企鹅单位造成 +20% 伤害，并获得 +1<armor></armor>, +1<shield></shield> 和 +5<hp></hp>。<br>",
         },
 
         {
             "slug": "accidental_enlightenment",
-            "name": "Accidental Enlightenment",
+            "name": "偶然启迪",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Enlightened Minds</titlebrown><br>Accidental Breakthrough! We saw into the stars and became enlightened! We can now easily teach our units the way of all things.<br><br> All units you control gain <actionblue>启迪</actionblue>。<br>",
+            "description": "<titlebrown>启迪思维</titlebrown><br>意外突破！我们眺望星辰，突然变得豁然开朗！现在我们可以轻松教导我们的单位如何行事。<br><br> 你控制的所有单位获得 <actionblue>启迪</actionblue>。<br>",
         },
 
         {
             "slug": "arc_waves",
-            "name": "Arc Waves",
+            "name": "电弧波",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Wave Integration</titlebrown><br>Accidental Breakthrough! We discovered a electron wave integration method that can combine with any form of attack, granting it Arc damage!<br><br> All units you control gain 4<DamageWave></DamageWave> on their attacks.<br>",
+            "description": "<titlebrown>波形整合</titlebrown><br>意外突破！我们发现了一种电子波整合方法，可以结合任何形式的攻击，并使其附带电弧伤害！<br><br> 你控制的所有单位在攻击时额外造成 4<DamageWave></DamageWave> 。<br>",
         },
 
         {
             "slug": "xna_agitators",
-            "name": "XNA Agitators",
+            "name": "XNA 搅拌器",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Xenoplague Hasteners</titlebrown><br>Accidental Breakthrough! By further agitating the XNA of the xenoplague lifeforms, we can make them transform into their next phase faster!<br><br> Xenoplague Units transform 20% faster.<br>",
+            "description": "<titlebrown>异星疫病加速器</titlebrown><br>意外突破！通过进一步搅动异星疫病生命形式的 XNA，我们可以让它们更快地转变至下一个阶段！<br><br> 异星疫病单位转变速度加快 20% 。<br>",
         },
 
         {
             "slug": "mechanical_augments",
-            "name": "Mechanical Augments",
+            "name": "机械强化装置",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Performance Booster Metals</titlebrown><br>Accidental Breakthrough! We discovered new compounds that are less Arc conductive while increasing the performance of our machines!<br><br> All Mechanical units you control gain +10% damage and +4<DamageWave></DamageWave>。<br>",
+            "description": "<titlebrown>性能增强合金</titlebrown><br>意外突破！我们发现了新的化合物，它的电弧导电性更低，并且能提高我们的机械性能！<br><br> 你控制的所有机械单位获得 +10% 伤害和 +4<DamageWave></DamageWave>。<br>",
         },
 
         {
             "slug": "cybernetic_resilience",
-            "name": "Cybernetic Resilience",
+            "name": "神经机械韧性",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Cyborg Last Stand</titlebrown><br>Accidental Breakthrough! We discovered a way to quickly stabilize Cyborg units, granting them Steadfast! Cyborg units you control gain <actionblue>Steadfast</actionblue>, making them remain at 1<hp></hp> and invulnerable for a turn when they drop below 1<hp></hp>, once per combat.<br>",
+            "description": "<titlebrown>半机械人坚韧</titlebrown><br>意外突破！我们发现了一种快速稳定半机械人单位的方法，从而让他们保持坚定！<br><br> 你控制的半机械人单位获得<actionblue>坚定不移</actionblue>，使其在生命值跌至 1<hp></hp> 以下时将保持在 1<hp></hp> 且不会受到任何伤害，每场战斗仅生效一次。<br>",
         },
 
         {
             "slug": "biological_toughening",
-            "name": "Biological Toughening",
+            "name": "生物韧化",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Genome Editing</titlebrown><br>Accidental Breakthrough! We discovered how to make Biological units tougher by altering their DNA! <br><br>All Biological units you control gain 2<armor></armor> and 10<hp></hp>。<br>",
+            "description": "<titlebrown>基因组编辑</titlebrown><br>意外突破！我们发现了改变生物单位 DNA 的方法，可以让他们变得更加坚韧！<br><br>你控制的所有生物单位获得 2<armor></armor> 和 10<hp></hp>。<br>",
         },
 
         {
             "slug": "occlusion_filters",
-            "name": "Occlusion Filters",
+            "name": "闭合过滤器",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Obfuscation Materials</titlebrown><br>Accidental Breakthrough! We made new progress on obfuscation materials and control. We can make a permanent mist around our units, obfuscating them from enemy line of sight! <br><br>All units you control gain <actionblue>Lightly Obscured</actionblue>, making them 20% harder to hit.<br>",
+            "description": "<titlebrown>迷惑材料</titlebrown><br>意外突破！我们在迷惑材料和控制方面取得了新的进展，可在我们的单位周围制造永久性迷雾，使他们在敌人的视线中模糊不清！<br><br>你控制的所有单位获得 <actionblue>轻度模糊</actionblue>，使其命中难度增加 20% 。<br>",
         },
 
         {
             "slug": "colonist_efficiency:_production",
-            "name": "Colonist Efficiency: Production",
+            "name": "移住民效率：产力",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Colonist Production Increase</titlebrown><br>Our scientists made great strides towards Colonist efficiency in the field of Production gain. <br><br> Gain 5<production></production> per <productionSlot></productionSlot>。<br>",
+            "description": "<titlebrown>移住民产力提升</titlebrown><br>我们的科学家在产力收益领域的移住民效率方面取得了重大进展。<br><br>每 <productionSlot></productionSlot> 获得 5<production></production> 。<br>",
         },
 
         {
             "slug": "colonist_efficiency:_supply",
-            "name": "Colonist Efficiency: Supply",
+            "name": "移住民效率：补给",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Colonist Supply Increase</titlebrown><br>Our scientists made great strides towards Colonist efficiency in the field of Supply gain.<br><br> Gain 5<food></food> per <foodslot></foodslot>。<br>",
+            "description": "<titlebrown>移住民补给提升</titlebrown><br>我们的科学家在补给收益领域的移住民效率方面取得了重大进展。<br><br>每 <foodslot></foodslot> 获得 5<food></food> 。<br>",
         },
 
         {
             "slug": "colonist_efficiency:_energy",
-            "name": "Colonist Efficiency: Energy",
+            "name": "移住民效率：能量",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Colonist Energy Increase</titlebrown><br>Our scientists made great strides towards Colonist efficiency in the field of Energy gain.<br><br> Gain 5<energy></energy> per <energyslot></energyslot>。<br>",
+            "description": "<titlebrown>移住民能量提升</titlebrown><br>我们的科学家在能量收益领域的移住民效率方面取得了重大进展。<br><br>每 <energyslot></energyslot> 获得 5<energy></energy> 。<br>",
         },
 
         {
             "slug": "colonist_efficiency:_knowledge",
-            "name": "Colonist Efficiency: Knowledge",
+            "name": "移住民效率：知识",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Colonist Knowledge Increase</titlebrown><br>Our scientists made great strides towards Colonist efficiency in the field of Knowledge gain.<br><br> Gain 5<research></research> per <researchslot></researchslot>。<br>",
+            "description": "<titlebrown>移住民知识提升</titlebrown><br>我们的科学家在知识收益领域的移住民效率方面取得了重大进展。<br><br>每 <researchslot></researchslot> 获得 5<research></research> 。<br>",
         },
 
         {
             "slug": "colony_breakthrough:_unit_ranks",
-            "name": "Colony Breakthrough: Unit Ranks",
+            "name": "殖民地突破：单位军阶",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Complex Training</titlebrown><br>By using Automatic Training Inceptors, units produced in your colonies are produced with higher training. <br><br>Colonies Produce units with a +1<x-medal_veteran></x-medal_veteran><br>",
+            "description": "<titlebrown>组合训练</titlebrown><br>通过使用自动训练感应器，殖民地生产的单位将接受更高级的训练。<br><br>殖民地生产的单位拥有 +1<x-medal_veteran></x-medal_veteran><br>",
         },
 
         {
             "slug": "colony_breakthrough:_unit_armor",
-            "name": "Colony Breakthrough: Unit Armor",
+            "name": "殖民地突破：单位护甲",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Future Armors</titlebrown><br>We made great strides in the field of armoring our units!<br><br> Colonies produce units with +1<armor></armor>。<br>",
+            "description": "<titlebrown>未来护甲</titlebrown><br>我们在单位防护领域取得了巨大进步！<br><br>殖民地生产的单位拥有 +1<armor></armor>。<br>",
         },
 
         {
             "slug": "colony_breakthrough:_unit_shields",
-            "name": "Colony Breakthrough: Unit Shields",
+            "name": "殖民地突破：单位护盾",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Compact Shields</titlebrown><br>We made great strides in the way we shield our units!<br><br> Colonies produce units with +1<shield></shield>。<br>",
+            "description": "<titlebrown>坚实护盾</titlebrown><br>我们在单位护盾方面取得了巨大进步！<br><br>殖民地生产的单位拥有 +1<shield></shield>。<br>",
         },
 
         {
             "slug": "colony_breakthrough:_unit_health",
-            "name": "Colony Breakthrough: Unit Health",
+            "name": "殖民地突破：单位生命值",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Altered Structure</titlebrown><br>We made great strides in the way we build our units!<br><br>Colonies produce units with +5<hp></hp>。<br><br>",
+            "description": "<titlebrown>变动结构</titlebrown><br>我们在单位建造方面取得了巨大进步！<br><br>殖民地生产的单位拥有 +5<hp></hp>。<br><br>",
         },
 
         {
             "slug": "colony_breakthrough:_energy",
-            "name": "Colony Breakthrough: Energy",
+            "name": "殖民地突破：能量",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Energy Gains</titlebrown><br>Our scientists figured a more efficient way to gain Energy!<br><br> Colonies produce +10%<energy></energy>。<br>",
+            "description": "<titlebrown>能量采集</titlebrown><br>我们的科学家研究出了一种更加有效的能量采集方法！<br><br>殖民地生产 +10%<energy></energy>。<br>",
         },
 
         {
             "slug": "colony_breakthrough:_supply",
-            "name": "Colony Breakthrough: Supply",
+            "name": "殖民地突破：补给",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Supply Gains</titlebrown><br>Our scientists figured a more efficient way to gain Supply!<br><br> Colonies produce +10%<food></food>。<br>",
+            "description": "<titlebrown>补给获取</titlebrown><br>我们的科学家研究出了一种更加有效的补给获取方法！<br><br>殖民地生产 +10%<food></food>。<br>",
         },
 
         {
             "slug": "colony_breakthrough:_production",
-            "name": "Colony Breakthrough: Production",
+            "name": "殖民地突破：产力",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Production Gains</titlebrown><br>Our scientists figured a more efficient way to gain Production! <br><br>Colonies produce +10%<production></production>。<br>",
+            "description": "<titlebrown>产力获取</titlebrown><br>我们的科学家研究出了一种更加有效的产力获取方法！<br><br>殖民地生产 +10%<production></production>。<br>",
         },
 
         {
             "slug": "colony_breakthrough:_knowledge",
-            "name": "Colony Breakthrough: Knowledge",
+            "name": "殖民地突破：知识",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Knowledge Gains</titlebrown><br>Our scientists figured a more efficient way to gain Knowledge! <br><br>Colonies produce +10%<research></research>。<br>",
+            "description": "<titlebrown>知识获取</titlebrown><br>我们的科学家研究出了一种更加有效的知识获取方法！<br><br>殖民地生产 +10%<research></research>。<br>",
         },
 
         {
             "slug": "empire_breakthrough:_doctrine_slot",
-            "name": "Empire Breakthrough: Doctrine Slot",
+            "name": "帝国突破：教义槽位",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Grand Bureaucracy</titlebrown><br>Our social scientists made strides in the field of Organizational Bureaucracy, making space for further policies. <br><br> Empire gains +1<doctrine></doctrine><br>",
+            "description": "<titlebrown>大官僚主义</titlebrown><br>我们的社会科学家在组织官僚主义领域取得了重大进展，为我们未来的政策创造了空间。<br><br>帝国获得 +1<doctrine></doctrine><br>",
         },
 
         {
             "slug": "empire_breakthrough:_cosmite",
-            "name": "Empire Breakthrough: Cosmite",
+            "name": "帝国突破：宇宙合金",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Void Cosmite</titlebrown><br>We created a way of extracting Cosmite from the Void!<br><br> Empire gains +10<tricorium></tricorium><br>",
+            "description": "<titlebrown>虚空宇宙合金</titlebrown><br>我们开创了一种从虚空中提取宇宙合金的方法！<br><br>帝国获得 +10<tricorium></tricorium><br>",
         },
 
         {
             "slug": "empire_breakthrough:_influence",
-            "name": "Empire Breakthrough: Influence",
+            "name": "帝国突破：影响力",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Enhanced Diplomats</titlebrown><br>Our scientists managed to make our Diplomats and Envoys more efficient through advanced linguistic training and manipulation skills.<br><br> Empire gains +5<influence></influence><br>",
+            "description": "<titlebrown>老练外交官</titlebrown><br>我们的科学家通过先进的语言培训和操纵技巧使我们的外交官和使者更具效率。<br><br>帝国获得 +5<influence></influence><br>",
         },
 
         {
             "slug": "empire_breakthrough:_rivers",
-            "name": "Empire Breakthrough: Rivers",
+            "name": "帝国突破：河流",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Waste Not</titlebrown><br>Our scientists figured a way of recycling waste commonly found in rivers into food for our colonies!<br><br> Empire gains +10<food></food> from Rivers in a colony's Domain.<br>",
+            "description": "<titlebrown>物尽其用</titlebrown><br>我们的科学家找到了一种方法回收河流中常见的垃圾，从而为我们的殖民地提供食物！<br><br>帝国从殖民地领域中的河流获得 +10<food></food> 。<br>",
         },
 
         {
             "slug": "empire_breakthrough:_lava_stream",
-            "name": "Empire Breakthrough: Lava Stream",
+            "name": "帝国突破：岩浆流",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Future Geothermal Generators</titlebrown><br>Our scientists figured out how to make geothermal generators that quickly gather energy using entropy technology. <br><br>Empire gains +10<energy></energy> from Lava Streams in a colony's Domain.<br>",
+            "description": "<titlebrown>未来地热发电机</titlebrown><br>我们的科学家研究出了能够利用混沌技术快速收集能量的地热发电机。<br><br>帝国从殖民地领域中的岩浆流获得 +10<energy></energy> 。<br>",
         },
 
         {
             "slug": "operation_breakthrough:_op_defense",
-            "name": "Operation Breakthrough: Op Defense",
+            "name": "行动突破：行动防御",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Future Counterintelligence Measures</titlebrown><br>Our scientists figured out a new encryption method that will prevent our data from being stolen. <br><br>Your empire gains +2<operationDefense></operationDefense>。<br>",
+            "description": "<titlebrown>超前反间谍措施</titlebrown><br>我们的科学家研究出了一种新的加密方法来防止我们的数据被盗。<br><br>你的帝国获得 +2<operationDefense></operationDefense>。<br>",
         },
 
         {
             "slug": "operation_breakthrough:_op_strength",
-            "name": "Operation Breakthrough: Op Strength",
+            "name": "行动突破：行动力量",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Future Intel Extraction</titlebrown><br>Our scientists figured out a faster way to break through enemy encryption.<br><br> Your empire gains +2<operationstrength></operationstrength>。<br>",
+            "description": "<titlebrown>超前情报获取</titlebrown><br>我们的科学家研究出了一种方法，可以更快地破解敌人的加密技术。<br><br> 你的帝国获得 +2<operationstrength></operationstrength>。<br>",
         },
 
         {
             "slug": "operation_breakthrough:_tactical_points",
-            "name": "Operation Breakthrough: Tactical Points",
+            "name": "行动突破：战术点数",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Future Tactical Operation Support</titlebrown><br>A new discovery in logistics allows us to deploy more Tactical Operations! <br><br>Your empire gains +3<tacticalPoint></tacticalPoint>。<br>",
+            "description": "<titlebrown>超前战术行动支援</titlebrown><br>我们在后勤方面有了新的发现，我们将能部署更多的战术行动！<br><br>你的帝国获得 +3<tacticalPoint></tacticalPoint>。<br>",
         },
 
         {
             "slug": "operation_breakthrough:_strategic_points",
-            "name": "Operation Breakthrough: Strategic Points",
+            "name": "行动突破：战略点数",
             "tier": "XI",
             "type": "帝国升级",
-            "description": "<titlebrown>Future Strategic Operation Support</titlebrown><br>A new discovery in logistics allows us to deploy more Strategic Operations! <br><br>Your empire gains 3<stratPoint></stratPoint>。<br>",
+            "description": "<titlebrown>超前战略行动支援</titlebrown><br>我们在后勤方面有了新的发现，我们将能部署更多的战略行动！<br><br>你的帝国获得 3<stratPoint></stratPoint>。<br>",
         }
 
 
